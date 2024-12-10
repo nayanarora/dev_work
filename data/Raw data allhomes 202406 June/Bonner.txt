@@ -1,0 +1,11 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+2/15 Bill Ferguson Circuit, Bonner ACT 2914 ~$578000~3~2~Apartment~5.5~N/A~N/A~$2,650,000~
+21/10 Charles Perkins Circuit, Bonner ACT 2914 ~$655,000~3~2~Townhouse~6.0~199~N/A~N/A~
+36 Syddall Street, Bonner ACT 2914 ~$1,000,000~4~2~House~3.0~547~N/A~$540,000~
+41 Roy Marika Street, Bonner ACT 2914 ~$1,049,000~4~2~House~6.0~435~215~$475,000~
+7 Bieundurry Street, Bonner ACT 2914 ~$1,050,000~4~2~House~6.0~540~233~$540,000~
+10 Mabo Boulevard, Bonner ACT 2914 ~$1,060,000~4~2~House~4.0~583~194~$562,000~
+6 Neidjie Close, Bonner ACT 2914 ~$1,065,000~4~2~House~5.0~535~280~$540,000~
+162 Ida West Street, Bonner ACT 2914 ~$1,090,000~4~2~House~5.0~540~N/A~$540,000~
+188 Mabo Boulevard, Bonner ACT 2914 ~$1,090,000~4~2~House~4.5~522~212~$533,000~
+119 Ida West Street, Bonner ACT 2914 ~$1,280,000~5~3~House~6.0~452~313~$475,000~

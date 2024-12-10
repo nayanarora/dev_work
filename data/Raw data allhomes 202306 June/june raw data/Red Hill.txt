@@ -1,0 +1,16 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+7/180 Monaro Crescent, Red Hill ACT 2603 ~$499,950~1~1~Unit / Apartment~6.0~N/A~N/A~N/A~
+The Parks - 1 Bedroom Apartment, Red Hill ACT 2603 ~$699,900~1~1~Apartment~N/A~14700.0~76~$3,727,000~
+The Parks - 1 Bedroom Apartment, Red Hill ACT 2603 ~$870,900~1~1~Apartment~6.0~14700.0~111~$3,727,000~
+20/6 Lady Nelson Place, Red Hill ACT 2603 ~$1,350,000~3~2~Apartment~8.4~N/A~N/A~N/A~
+3/2 Lady Nelson Place, Red Hill ACT 2603 ~$1,399,000~3~2~Apartment~8.4~N/A~N/A~N/A~
+The Parks - 13/6 'The Parks' Lady Nelson Place, Red Hill ACT 2603 ~$1,450,000~3~1~Apartment~7.0~14700.0~N/A~$3,727,000~
+6 Cimba Lane, Red Hill ACT 2603 ~$1,550,000~3~2~House~7.4~150~200~$540,000~
+4 Cimba Lane, Red Hill ACT 2603 ~$1,600,000~3~2~House~7.4~150~N/A~$540,000~
+72 Hicks Street, Red Hill ACT 2603 ~$1,749,000~4~2~House~N/A~845~N/A~$1,550,000~
+201 La Perouse Street, Red Hill ACT 2603 ~$1,750,000~3~3~House~7.0~N/A~212~N/A~
+19 Investigator Street, Red Hill ACT 2603 ~$1,950,000~5~2~House~N/A~905~N/A~$1,390,000~
+24 Astrolabe Street, Red Hill ACT 2603 ~$2,099,000~4~2~House~0.5~714~146~$1,270,000~
+46 Beagle Street, Red Hill ACT 2603 ~$2,150,000~3~2~House~1.5~994~N/A~$1,520,000~
+200 Monaro Crescent, Red Hill ACT 2603 ~$2,650,000~6~3~House~2.5~835~N/A~$1,380,000~
+45 Quiros Street, Red Hill ACT 2603 ~$2,990,000~5~3~House~2.5~1179~N/A~$1,870,000~

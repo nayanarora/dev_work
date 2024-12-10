@@ -1,0 +1,3 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+4 Pinkstone Place, McKellar ACT 2617 ~  $995,000~N/A~N/A~N/A~N/A~829~N/A~$597,000~
+12 Heney Close, McKellar ACT 2617 ~$1,280,000~N/A~N/A~N/A~N/A~809~N/A~$576,000~

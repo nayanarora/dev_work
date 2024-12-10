@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+22 Fullwood Street, Weston ACT 2611 ~$949,000~4~2~House~0.5~1243~159~$822,000~
+1 Folingsby Street, Weston ACT 2611 ~$1,000,000~4~1~House~0.5~761~N/A~$670,000~
+18 Isherwood Street, Weston ACT 2611 ~Offers over $1,039,000~4~2~Townhouse~5.0~247~245~$550,000~
+5 Lycett Street, Weston ACT 2611 ~$2,090,000~4~3~House~6.0~767~231~$730,000~

@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+22 Pindari Crescent, O'Malley ACT 2606 ~$2,600,000~5~3~House~3.0~2912~341~$1,399,000~
+Culgoa Circuit, O'Malley ACT 2606 ~$3,200,000~5~3~House~N/A~N/A~N/A~N/A~
+11 Gerogery Place, O'Malley ACT 2606 ~$3,425,000~7~4~House~1.5~1576~748~$1,658,000~
+12 Bulwarra Close, O'Malley ACT 2606 ~$3,800,000~7~8~House~2.0~1922~683~$1,691,000~

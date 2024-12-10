@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+1 Bussell Crescent, Cook ACT 2614 ~$1,385,000~4~1~Dual Occupancy~6.4~790~N/A~N/A~

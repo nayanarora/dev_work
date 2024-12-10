@@ -1,0 +1,3 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+72 Gouldsmith Street, Dunlop ACT 2615 ~$929,000~3~2~House~5.0~607~144~$433,000~
+8 Ikara Close, Dunlop ACT 2615 ~$1,169,000~4~2~House~4.5~571~313~$456,000~

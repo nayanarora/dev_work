@@ -1,0 +1,9 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+1772 Old Cooma Road, Royalla NSW 2620 ~$1,395,000~3~3~House~N/A~24000.0~N/A~N/A~
+19 Valley Drive, Royalla NSW 2620 ~$1,550,000~N/A~N/A~Rural~N/A~131100.0~N/A~N/A~
+Royalla Reserve - 156 Holland Drive, Royalla NSW 2620 ~$1,595,600~4~2~House and Land Package~N/A~N/A~N/A~N/A~
+Royalla Reserve - 80 Holland Drive, Royalla NSW 2620 ~$1,794,400~5~2~House and Land Package~N/A~N/A~N/A~N/A~
+62 Saddle Place, Royalla NSW 2620 ~$1,795,000~4~2~Rural~N/A~40000.0~N/A~N/A~
+114 Royalla Drive, Royalla NSW 2620 ~$2100000~4~2~Rural~N/A~112000.0~N/A~N/A~
+501 Royalla Drive, Royalla NSW 2620 ~$2,175,000 ONO~4~1~House~N/A~176200.0~N/A~N/A~
+8 Mackenzie Road, Royalla NSW 2620 ~$2,375,000 to $2,475,000~5~4~House~N/A~28100.0~N/A~N/A~

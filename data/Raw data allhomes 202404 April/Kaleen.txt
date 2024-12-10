@@ -1,0 +1,12 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+48/112 Baldwin Drive, Kaleen ACT 2617 ~$550,000~3~2~Apartment~4.5~10500.0~N/A~$7,130,000~
+16/112 Baldwin Drive, Kaleen ACT 2617 ~$555,000~3~2~Unit / Apartment~6.0~10500.0~N/A~$7,130,000~
+1/13 Balonne Street, Kaleen ACT 2617 ~$765,000~4~1~House~1.5~394~N/A~N/A~
+2/13 Balonne Street, Kaleen ACT 2617 ~$865,000~4~2~House~5.0~394~N/A~N/A~
+65 Onkaparinga Crescent, Kaleen ACT 2617 ~$909,000~3~2~House~3.5~679~N/A~$619,000~
+62 Bingham Circuit, Kaleen ACT 2617 ~$975,000~3~2~House~1.0~728~112~$631,000~
+9 Kiewa Street, Kaleen ACT 2617 ~$1,050,000~4~3~House~1.0~734~218~$695,000~
+31 Onkaparinga Crescent, Kaleen ACT 2617 ~$1100000~4~2~House~0.5~679~203~$672,000~
+44 Liffey Circuit, Kaleen ACT 2617 ~$1,165,000~4~2~House~1.5~1073~180~$661,000~
+162 Maribyrnong Avenue, Kaleen ACT 2617 ~$1,199,000~3~1~House~0.5~1091~N/A~$674,000~
+38 Burnett Street, Kaleen ACT 2617 ~$1,300,000~6~3~House~1.0~762~N/A~$619,000~

@@ -1,0 +1,26 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+41/25 Pinkerton Circuit, Kambah ACT 2902 ~$530,000~2~1~Townhouse~4.0~196~N/A~N/A~
+Unit 18/25 Pinkerton Circuit, Kambah ACT 2902 ~$559,800~2~1~Townhouse~4.0~163~N/A~N/A~
+8/1 Pinkerton Circuit, Kambah ACT 2902 ~$600,000~2~1~Townhouse~4.5~358~N/A~N/A~
+60 Boddington Crescent, Kambah ACT 2902 ~$650,000~3~1~House~1.0~388~107~N/A~
+21 Snodgrass Crescent, Kambah ACT 2902 ~$650,000~2~1~Retirement Village~N/A~36800.0~N/A~$6,300,000~
+3 Kidman Close, Kambah ACT 2902 ~$710,000~3~1~House~1.0~530~103~$448,000~
+48 Harrington Circuit, Kambah ACT 2902 ~Offers Over $750,000~3~1~House~1.0~434~105~$393,000~
+4 Brimage Place, Kambah ACT 2902 ~Offers Over $750,000~4~2~House~N/A~900~N/A~$510,000~
+12 Simon Place, Kambah ACT 2902 ~$759,000~3~2~House~0.0~766~155~$487,000~
+8 Morrison Street, Kambah ACT 2902 ~$770,000~3~1~House~1.5~433~109~$355,000~
+65 O'Halloran Circuit, Kambah ACT 2902 ~Offers Over $789,000~3~2~House~0.5~722~116~$483,000~
+29 Lyall Crescent, Kambah ACT 2902 ~Offers over $795,000~3~2~House~0.5~978~168~$587,000~
+12 Yaldwyn Place, Kambah ACT 2902 ~Offers above $819,000~3~2~House~5.5~772~106~$498,000~
+18 Armytage Circuit, Kambah ACT 2902 ~$830,000~3~1~House~1.5~821~N/A~$568,000~
+21 Snodgrass Crescent, Kambah ACT 2902 ~$845,000~3~1~Retirement Village~N/A~36800.0~N/A~$6,300,000~
+1 McLeod Place, Kambah ACT 2902 ~$849,000~4~2~House~2.0~788~130~$453,000~
+8 Bosworth Circuit, Kambah ACT 2902 ~$849,000~4~3~House~1.5~870~145~$506,000~
+67 O'Halloran Circuit, Kambah ACT 2902 ~$860,000~4~2~House~1.5~822~153~$485,000~
+47 Symers Street, Kambah ACT 2902 ~$885,000~3~2~House~1.5~744~N/A~$487,000~
+2 Lovegrove Place, Kambah ACT 2902 ~$890,000~4~1~House~2.0~839~N/A~$537,000~
+1 Hagen Place, Kambah ACT 2902 ~$895,000~3~3~House~2.0~942~162~$527,000~
+29 Faithfull Circuit, Kambah ACT 2902 ~$912500~3~1~House~1.0~683~N/A~$472,000~
+60 Vanzetti Crescent, Kambah ACT 2902 ~$920,000~4~2~House~2.0~631~145~$428,000~
+32 Morant Circuit, Kambah ACT 2902 ~$950,000~4~2~House~2.5~954~152~$546,000~
+19 Mackay Crescent, Kambah ACT 2902 ~$1,049,000~4~2~House~1.0~1096~194~$584,000~

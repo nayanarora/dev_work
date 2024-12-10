@@ -1,0 +1,7 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+The Parks - 1 Bedroom Apartment, Red Hill ACT 2603 ~$699,900~1~1~Apartment~N/A~14700.0~76~$3,727,000~
+The Parks - 1 Bedroom Apartment, Red Hill ACT 2603 ~$870,900~1~1~Apartment~N/A~14700.0~111~$3,727,000~
+The Parks - 2 Bedroom Apartment, Red Hill ACT 2603 ~$1,129,900~2~2~Apartment~6.4~14700.0~N/A~$3,727,000~
+2/9 Borrowdale Street, Red Hill ACT 2603 ~$1,375,000~4~2~Townhouse~5.0~207~137~N/A~
+4 Cimba Lane, Red Hill ACT 2603 ~$1,600,000~3~2~House~7.4~150~N/A~$540,000~
+block 2 /49 Thermopylae Lane, Red Hill ACT 2603 ~Offer Above $1,990,000~3~2~Townhouse~7.5~196~297~N/A~

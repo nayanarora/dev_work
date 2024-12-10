@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+32 Waramanga Place, Waramanga ACT 2611 ~$699,000~3~1~House~0.5~178~135~$378,000~

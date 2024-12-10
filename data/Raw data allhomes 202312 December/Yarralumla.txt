@@ -1,0 +1,13 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+3/51 Hampton Circuit, Yarralumla ACT 2600 ~$379,000~1~1~Apartment~6.0~1748~N/A~$2,900,000~
+11/43 Hampton Circuit, Yarralumla ACT 2600 ~$800,000~2~2~Apartment~6.0~1936~N/A~$3,300,000~
+8/49 Hampton Circuit, Yarralumla ACT 2600 ~$869,900~3~2~Apartment~6.0~1607~N/A~$3,000,000~
+19/43 Hampton Circuit, Yarralumla ACT 2600 ~$999,000~2~2~Townhouse~5.0~1936~N/A~$3,300,000~
+64 Hopetoun Circuit, Yarralumla ACT 2600 ~$1,160,000~3~1~House~4.0~504~119~$1,110,000~
+23/51 Musgrave Street, Yarralumla ACT 2600 ~$1,300,000 Plus~2~2~Townhouse~4.5~249~N/A~N/A~
+8/5 Kintore Crescent, Yarralumla ACT 2600 ~$1,600,000~3~2~Apartment~5.0~2862~N/A~$4,400,000~
+10/49 Hampton Circuit, Yarralumla ACT 2600 ~$1,665,000~3~3~Apartment~6.0~1607~N/A~$3,000,000~
+37 Turner Place, Yarralumla ACT 2600 ~$1,800,000~3~1~House~0.5~553~N/A~$1,549,000~
+59 Novar Street, Yarralumla ACT 2600 ~$1,960,000~3~1~House~N/A~891~102~$1,750,000~
+17 Black Street, Yarralumla ACT 2600 ~$2,100,000~2~1~House~1.0~619~91~$1,530,000~
+23 Rodway Street, Yarralumla ACT 2600 ~$2,500,000~3~1~House~N/A~887~N/A~$1,848,000~

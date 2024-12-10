@@ -1,0 +1,11 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+14 Bladon Lane, Forde ACT 2914 ~$440,000~1~1~Unit / Apartment~6.0~329~N/A~$515,000~
+73 Hibberd Crescent, Forde ACT 2914 ~  $645,000~2~1~House~N/A~220~116~$354,000~
+54 Turbayne Crescent, Forde ACT 2914 ~$909,000~3~2~House~5.5~387~N/A~$536,000~
+3 Grannall Street, Forde ACT 2914 ~$975,000 ~3~2~House~4.0~468~170~$493,000~
+56 Turbayne Crescent, Forde ACT 2914 ~  $1,049,000~4~2~House~5.0~387~208~$536,000~
+125 Amy Ackman Street, Forde ACT 2914 ~$1,195,000~4~3~House~4.0~382~233~$536,000~
+8 Turbayne Crescent, Forde ACT 2914 ~$1,240,000~4~2~House~6.0~387~208~$536,000~
+1 Jessie Street, Forde ACT 2914 ~$1375000~4~3~House~5.0~563~316~$618,000~
+35 Justice Kelly Street, Forde ACT 2914 ~$1,500,000~5~2~House~5.0~685~319~$703,000~
+15 Beveridge Crescent, Forde ACT 2914 ~$1,695,000~5~2~House~3.0~548~340~$658,000~

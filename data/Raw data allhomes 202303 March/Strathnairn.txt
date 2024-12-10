@@ -1,0 +1,19 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+The Brosnan - Townhouse 2, Strathnairn ACT 2615 ~$734,900~3~2~Other~6.9~N/A~N/A~N/A~
+The Brosnan - Townhouse 3, Strathnairn ACT 2615 ~$734,900~3~2~Townhouse~6.9~N/A~N/A~N/A~
+9 Tranter Street, Strathnairn ACT 2615 ~$749,000~3~2~House~6.0~137~143~N/A~
+The Brosnan - Townhouse 4, Strathnairn ACT 2615 ~$754,900~3~2~Townhouse~6.9~N/A~N/A~N/A~
+Motto - 256 Pro Hart Avenue, Strathnairn ACT 2615 ~$795,000~4~2~Townhouse~7.3~168~187~N/A~
+(no street name provided), Strathnairn ACT 2615 ~$825,000~4~2~House and Land Package~6.0~252~170~N/A~
+(no street name provided), Strathnairn ACT 2615 ~$855,000~3~2~House~N/A~325~162~N/A~
+Horizon Hill - Lot 30, Strathnairn ACT 2615 ~$898,000~4~2~Other~N/A~249~171~N/A~
+7 Tranter Street, Strathnairn ACT 2615 ~$920,000~4~3~House~6.0~223~189~N/A~
+Horizon Hill - Lot 23, Strathnairn ACT 2615 ~$920,000~4~3~Other~N/A~199~186~N/A~
+(no street name provided), Strathnairn ACT 2615 ~$950,000~4~2~House~6.0~250~215~N/A~
+63 Lionel Rose Street, Strathnairn ACT 2615 ~$1,095,000~4~1~House~3.5~N/A~N/A~N/A~
+Block M Section Bj, Strathnairn ACT 2615 ~$1,105,900~N/A~N/A~House and Land Package~N/A~N/A~N/A~N/A~
+100 Pro Hart Avenue, Strathnairn ACT 2615 ~$1,150,000~4~3~House~6.0~465~184~N/A~
+(no street name provided), Strathnairn ACT 2615 ~$1225000~4~2~House~6.0~447~227~N/A~
+(no street name provided), Strathnairn ACT 2615 ~$1275000~4~2~House~6.0~447~227~N/A~
+(no street name provided), Strathnairn ACT 2615 ~$1275000~5~2~House~6.0~604~251~N/A~
+(no street name provided), Strathnairn ACT 2615 ~$1,300,000~5~3~House~6.0~604~240~N/A~

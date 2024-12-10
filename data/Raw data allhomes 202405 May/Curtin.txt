@@ -1,0 +1,9 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+8/6 Walsh Place, Curtin ACT 2605 ~ $250,000~1~1~Studio~3.0~2952~N/A~$3,200,000~
+10/89 Allan Street, Curtin ACT 2605 ~$460,000~1~1~Unit / Apartment~6.0~N/A~N/A~$1,500,000~
+8/89 Allan Street, Curtin ACT 2605 ~$565,000~2~2~Unit / Apartment~6.0~N/A~N/A~$1,500,000~
+6 Mair Place, Curtin ACT 2605 ~$1,175,000~3~1~House~3.0~361~134~$816,000~
+23 Carruthers Street, Curtin ACT 2605 ~$1,175,000~3~1~House~3.5~565~114~$621,000~
+3 Sladen Place, Curtin ACT 2605 ~$1,645,000 ~4~2~House~2.0~810~173~$932,000~
+46 Dunstan Street, Curtin ACT 2605 ~$1,690,000 ~4~2~House~2.5~811~189~$870,000~
+4 Champ Place, Curtin ACT 2605 ~$1,975,000~4~2~House~4.0~649~215~$825,000~

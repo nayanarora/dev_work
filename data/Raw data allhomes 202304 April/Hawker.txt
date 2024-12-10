@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+9/153 Murranji Street, Hawker ACT 2614 ~$250,000 ~1~1~Unit / Apartment~0.5~5541~44~$149,160~
+44 Epenarra Close, Hawker ACT 2614 ~$737500~3~1~Townhouse~3.0~315~131~$462,000~
+17 Kulgera Street, Hawker ACT 2614 ~$1,075,000~4~2~House~0.5~952~170~$754,000~
+2 Ambalindum Street, Hawker ACT 2614 ~  $1,299,000~5~3~House~3.0~1258~216~$809,000~

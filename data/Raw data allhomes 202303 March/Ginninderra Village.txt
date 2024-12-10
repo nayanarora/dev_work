@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+61 Tazewell Circuit, Nicholls ACT 2913 ~$750,000~3~1~House~5.5~414~105~$406,000~
+9 Donnan Street, Nicholls ACT 2913 ~$1,380,000~5~3~House~2.0~796~335~$653,000~
+1 Barclay Place, Nicholls ACT 2913 ~$1,750,000~6~3~House~4.5~821~429~$754,000~
+10 Kleinig Street, Nicholls ACT 2913 ~$1,850,000~5~2~House~5.0~866~382~$671,000~

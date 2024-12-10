@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+7/101 Eggleston Crescent, Chifley ACT 2606 ~$550000~1~1~Townhouse~6.0~2949~59~$224,840~
+74 Eggleston Crescent, Chifley ACT 2606 ~$825,000~3~1~Duplex~1.5~502~N/A~$605,000~
+3/109 Eggleston Crescent, Chifley ACT 2606 ~$1,019,000~3~2~Townhouse~6.0~291~N/A~N/A~
+30a MacLaurin Crescent, Chifley ACT 2606 ~$1,100,000~3~2~House~5.0~397~N/A~N/A~
+14 Gledden Street, Chifley ACT 2606 ~$1,949,000~4~4~House~3.5~881~N/A~$813,000~

@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+25 Kavel Street, Torrens ACT 2607 ~$995,000 ~3~1~House~2.5~675~97~$564,000~
+8 Howard Street, Torrens ACT 2607 ~$1,200,000~4~1~House~2.0~933~N/A~$601,000~
+11 Wyatt Street, Torrens ACT 2607 ~Offers over $1,250,000~4~2~House~1.0~N/A~N/A~$601,000~
+90 Beasley Street, Torrens ACT 2607 ~$1,775,000~4~2~House~6.0~N/A~190~$750,000~

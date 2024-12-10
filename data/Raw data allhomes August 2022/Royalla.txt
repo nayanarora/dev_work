@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+168 Shearer Drive, Royalla NSW 2620 ~$1,395,000~3~1~Rural~N/A~32700.0~N/A~N/A~
+1781B Old Cooma Road, Royalla NSW 2620 ~$1,500,000~N/A~N/A~Rural~N/A~37500.0~N/A~N/A~
+43 Fox Road, Royalla NSW 2620 ~$1,987,500~5~2~House~N/A~43300.0~351~N/A~
+85 Valley Drive, Royalla NSW 2620 ~$2,300,000~2~2~House~N/A~151100.0~N/A~N/A~

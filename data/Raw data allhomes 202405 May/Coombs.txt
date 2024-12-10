@@ -1,0 +1,26 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+64/30 Pearlman Street, Coombs ACT 2611 ~$399,000~1~1~Apartment~6.0~N/A~N/A~$8,970,000~
+213/2 Terry Connolly Street, Coombs ACT 2611 ~$419,000~1~1~Apartment~6.0~N/A~N/A~$3,500,000~
+214/2 Terry Connolly Street, Coombs ACT 2611 ~ $469,000~2~1~Apartment~6.0~N/A~N/A~$3,500,000~
+Telfer Street, Coombs ACT 2611 ~$499,900~1~1~Apartment~7.8~N/A~N/A~$731,000~
+38/120 John Gorton Drive, Coombs ACT 2611 ~$539,000~2~2~Apartment~6.0~N/A~N/A~$6,540,000~
+321/2 Terry Connolly Street, Coombs ACT 2611 ~  $549,000~2~2~Apartment~8.5~N/A~N/A~$3,500,000~
+121/2 Terry Connolly Street, Coombs ACT 2611 ~$575,000~2~2~Apartment~6.0~N/A~N/A~$3,500,000~
+Molonglo Falls - U4.16/2 Terry Connolly Street, Coombs ACT 2611 ~$629,000~2~2~Apartment~6.0~N/A~N/A~$3,500,000~
+G02/2 Terry Connolly Street, Coombs ACT 2611 ~  $654,900~2~2~Unit / Apartment~6.0~N/A~N/A~N/A~
+39/8 Ken Tribe Street, Coombs ACT 2611 ~$670,000 ~3~2~Townhouse~6.0~124~N/A~N/A~
+50/20 Fairhall Street, Coombs ACT 2611 ~$690,000~3~2~Townhouse~6.0~14900.0~N/A~$7,340,000~
+36/8 Ken Tribe Street, Coombs ACT 2611 ~$712500~3~2~Townhouse~6.0~124~N/A~N/A~
+33/1 Calaby Street, Coombs ACT 2611 ~$699,000~2~2~Townhouse~6.0~4080~N/A~$3,300,000~
+422/2 Terry Connolly Street, Coombs ACT 2611 ~  $709,000~2~2~Unit / Apartment~6.0~N/A~N/A~$3,500,000~
+8/41 Arther Blakeley Way, Coombs ACT 2611 ~  $725,000~3~2~Townhouse~6.0~N/A~N/A~N/A~
+307/43 Arthur Blakeley Way, Coombs ACT 2611 ~ $729,000~3~2~Apartment~6.0~N/A~N/A~$3,190,000~
+Molonglo Falls - U1.10/2 Terry Connelly Street, Coombs ACT 2611 ~$729,000~3~2~Apartment~6.0~N/A~N/A~$3,500,000~
+22 John Gorton Drive, Coombs ACT 2611 ~$729,000~3~2~Townhouse~6.0~9800~N/A~N/A~
+Telfer Street, Coombs ACT 2611 ~$740,000~2~2~Townhouse~8.1~808~N/A~$731,000~
+507/2 Terry Connolly Street, Coombs ACT 2611 ~$775,000~3~2~Apartment~6.0~N/A~N/A~$3,500,000~
+26/11 Castan Street, Coombs ACT 2611 ~$775,000~4~3~Townhouse~6.0~187~N/A~N/A~
+36 Taggart Terrace, Coombs ACT 2611 ~$785,000~3~2~House~5.5~200~N/A~$319,000~
+13/33 Arthur Blakeley Way, Coombs ACT 2611 ~$850,000~4~2~Townhouse~6.0~13200.0~N/A~N/A~
+6 Chanter Terrace, Coombs ACT 2611 ~$895,000~4~3~House~6.0~199~161~$319,000~
+14 Chipp Street, Coombs ACT 2611 ~$1,950,000~5~3~House~7.0~510~280~$606,000~

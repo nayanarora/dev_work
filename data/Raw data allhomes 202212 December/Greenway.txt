@@ -1,0 +1,21 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+182/325 Anketell Street, Greenway ACT 2900 ~$376,000~1~1~Unit / Apartment~6.0~7284~51~$17,820~
+114/150 Anketell Street, Greenway ACT 2900 ~$382,900~1~1~Apartment~5.8~6739~78~$25,235~
+Aspen Village - Black Diamond Final Release - Limited apartments available, Greenway ACT 2900 ~$413,900~1~1~Other~5.0~N/A~53~N/A~
+104/150 Anketell Street, Greenway ACT 2900 ~$430,900~1~1~Apartment~7.6~6739~72~$25,235~
+Aspen Village - Black Diamond Final Release - An Alpine-Inspired Precinct, Greenway ACT 2900 ~$456,900~1~1~Other~7.8~N/A~61~N/A~
+46/311 Anketell Street, Greenway ACT 2900 ~$485,000~2~2~Apartment~6.0~9728~N/A~$20,522~
+Aspen Village - Black Diamond Final Release - Gateway to Adventure, Greenway ACT 2900 ~$510,900~2~1~Apartment~5.0~N/A~70~N/A~
+VUE Residences - Spacious ground level 2-Bed Apartment with Courtyard, Greenway ACT 2900 ~$518,900~2~1~Other~N/A~6739~99~N/A~
+Aspen Village - Black Diamond Final Release - Greenway's Newest Community, Greenway ACT 2900 ~$526,900~2~1~Other~6.7~N/A~71~N/A~
+628/335 Anketell Street, Greenway ACT 2900 ~$539,000~2~2~Apartment~6.0~N/A~77~N/A~
+VUE Residences - 2-Bed Apartment - Premium Location in Greenway, Greenway ACT 2900 ~$544,900~2~2~Other~5.0~6739~19~N/A~
+VUE Residences - 2-Bed Apartment - Fully Furnished, Greenway ACT 2900 ~$551,900~2~2~Other~5.0~6739~99~N/A~
+25/115 Mortimer Lewis Drive, Greenway ACT 2900 ~$575,000~2~1~Townhouse~6.0~5751~N/A~$278,300~
+206/325 Anketell Street, Greenway ACT 2900 ~Offers Over $615,000~3~2~Unit / Apartment~6.0~7284~N/A~$17,820~
+21/6 Ellison Harvie Close, Greenway ACT 2900 ~$619,000~3~2~Townhouse~5.5~5999~125~$64,350~
+15 Grounds Crescent, Greenway ACT 2900 ~$700,000 ~3~2~Townhouse~3.0~259~124~N/A~
+30/6 Ellison Harvie Close, Greenway ACT 2900 ~$720,000~3~1~Townhouse~5.5~5999~N/A~$64,350~
+131/161 Mortimer Lewis Drive, Greenway ACT 2900 ~$739,000~3~2~Apartment~6.0~29300.0~N/A~$113,400~
+5/83 Mortimer Lewis Drive, Greenway ACT 2900 ~$749,000~3~2~Townhouse~3.0~228~N/A~N/A~
+Aspen Village - Black Diamond Final Release - New Precinct in Tuggeranong, Greenway ACT 2900 ~$833,900~3~2~Apartment~5.0~N/A~102~N/A~

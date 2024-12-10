@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+15 Gleadow Street, Evatt ACT 2617 ~$835,000~3~1~House~2.0~799~115~$594,000~
+73 Ashkanasy Crescent, Evatt ACT 2617 ~$869,000 ~4~1~House~5.0~426~N/A~N/A~
+58 Clancy Street, Evatt ACT 2617 ~$895,000~4~2~House~8.0~253~140~$780,000~

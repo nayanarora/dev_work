@@ -1,0 +1,11 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+26/6 Wilkins Street, Mawson ACT 2607 ~$260,000~1~1~Unit / Apartment~N/A~8530~N/A~$168,403~
+72/4 Wilkins Street, Mawson ACT 2607 ~$260,000~1~1~Unit / Apartment~1.0~9340~43~$137,756~
+11/1 Wilkins Street, Mawson ACT 2607 ~$870,000~3~2~Townhouse~1.0~331~120~N/A~
+1/25 Wilkins Street, Mawson ACT 2607 ~$895,000~3~1~House~1.5~N/A~N/A~N/A~
+16 Aurora Close, Mawson ACT 2607 ~$1,080,000~3~1~House~2.0~797~95~$874,000~
+2/6 Aurora Close, Mawson ACT 2607 ~$1,150,000~4~2~House~3.0~427~N/A~N/A~
+1/16 Colbeck Street, Mawson ACT 2607 ~$1,190,000~3~2~Duplex~4.5~417~161~N/A~
+The Ainsworth - 3 Bedroom Townhouse, Mawson ACT 2607 ~$1,195,000~3~2~Townhouse~6.0~N/A~137~N/A~
+36 Aurora Close, Mawson ACT 2607 ~$1,399,000~5~4~House~4.0~914~246~$894,000~
+The Ainsworth - 4 Bedroom Townhouse, Mawson ACT 2607 ~$1,415,000~4~2~Other~6.0~N/A~N/A~N/A~

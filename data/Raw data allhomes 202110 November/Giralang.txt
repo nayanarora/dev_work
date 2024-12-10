@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+8 Alphard Place, Giralang ACT 2617 ~$1,050,000~4~2~House~2.0~836~167~$381,000~

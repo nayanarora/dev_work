@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+189 Namatjira Drive, Fisher ACT 2611 ~$830,000~3~1~House~2.0~793~N/A~$664,000~
+139 Badimara Street, Fisher ACT 2611 ~$999,000~4~2~House~1.0~918~144~$719,000~
+3/59 Kalgoorlie Crescent, Fisher ACT 2611 ~Offers over $1,095,000~4~2~Townhouse~5.5~323~168~N/A~
+227 Namatjira Drive, Fisher ACT 2611 ~$1,290,000~6~2~House~1.5~955~222~$727,000~

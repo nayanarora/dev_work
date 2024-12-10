@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+16/18 Zamia Place, Palmerston ACT 2913 ~Offers Above $700,000~3~2~Townhouse~4.0~230~N/A~N/A~
+2 Hart Close, Palmerston ACT 2913 ~$740,000~3~1~House~3.5~364~96~$419,000~
+14 Grampians Street, Palmerston ACT 2913 ~$1,050,000~4~2~House~4.5~722~211~$531,000~
+10 Ariah Place, Palmerston ACT 2913 ~$1,200,000~5~3~House~3.0~1051~243~$531,000~
+8 Barn Place, Palmerston ACT 2913 ~$1,399,000~6~3~House~4.0~943~401~$565,000~

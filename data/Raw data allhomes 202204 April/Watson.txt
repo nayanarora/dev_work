@@ -1,0 +1,14 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+Norrebro - Final stage - now selling, Watson ACT 2602 ~$339,900~1~1~Apartment~6.0~N/A~N/A~N/A~
+Norrebro - Final stage - now selling, Watson ACT 2602 ~$409,900~1~1~Other~6.0~N/A~N/A~N/A~
+48/23 Aspinall Street, Watson ACT 2602 ~$430,000~1~1~Apartment~6.0~N/A~N/A~$5,710,000~
+6/27 Whitmore Crescent, Watson ACT 2602 ~$495,000~2~1~Townhouse~6.0~N/A~N/A~N/A~
+Norrebro - Final stage - now selling, Watson ACT 2602 ~$545,000~2~2~Apartment~6.0~N/A~N/A~N/A~
+Norrebro - Final stage - now selling, Watson ACT 2602 ~$639,000~3~2~Apartment~6.0~N/A~N/A~N/A~
+147/395 Antill Street, Watson ACT 2602 ~$720,000~2~1~Apartment~5.5~66100.0~N/A~N/A~
+10/19 Aspinall Street, Watson ACT 2602 ~$799,000~3~2~Townhouse~3.0~N/A~N/A~N/A~
+9 Hanson Place, Watson ACT 2602 ~$1,080,000~2~1~House~0.5~650~N/A~$599,000~
+23 Kilduff Street, Watson ACT 2602 ~$1,349,000~3~2~House~6.0~377~153~$1,923,000~
+54 Mary Kitson Street, Watson ACT 2602 ~$1,400,000~4~2~House~3.5~456~152~$484,000~
+233 Antill Street, Watson ACT 2602 ~$1,400,000~3~2~House~2.0~N/A~N/A~$517,000~
+123 Irvine Street, Watson ACT 2602 ~$1,450,000~4~2~House~1.0~691~N/A~$613,000~

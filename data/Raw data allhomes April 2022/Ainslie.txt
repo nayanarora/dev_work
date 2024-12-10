@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+9 Higgins Crescent, Ainslie ACT 2602 ~$1,700,000~3~3~House~1.0~N/A~N/A~$981,000~

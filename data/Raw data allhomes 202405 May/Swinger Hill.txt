@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+1/6 Furzer Street, Phillip ACT 2606 ~$450,000~1~1~Apartment~6.0~N/A~N/A~N/A~
+12 Hallen Close, Swinger Hill ACT 2606 ~$780,000~3~1~House~3.5~346~142~N/A~
+8 Sulman Place, Phillip ACT 2606 ~$800,000~3~2~Townhouse~3.0~202~N/A~$589,000~

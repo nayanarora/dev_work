@@ -1,0 +1,14 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+4 /14 Chauvel Street, Campbell ACT 2612 ~$360,000~1~1~Apartment~0.5~3248~N/A~$150,030~
+44/81 Constitution Avenue, Campbell ACT 2612 ~$525,000~1~1~Apartment~6.0~6749~N/A~$50,225~
+74/81 Constitution Avenue, Campbell ACT 2612 ~$555000~1~1~Apartment~6.0~6749~96~$50,225~
+333/20 Anzac Park, Campbell ACT 2612 ~$720,000~2~2~Apartment~6.0~64~64~$63,037~
+424/20 Anzac Park, Campbell ACT 2612 ~$749,000~2~2~Apartment~6.0~7020~104~$63,037~
+201/71 Constitution Avenue, Campbell ACT 2612 ~$825,000~2~1~Apartment~6.0~3805~99~N/A~
+4/165 Blamey Crescent, Campbell ACT 2612 ~$995,000~3~1~Townhouse~5.5~173~N/A~N/A~
+G01/4 Anzac Park, Campbell ACT 2612 ~$1,450,000~3~2~Apartment~6.0~N/A~127~N/A~
+47 Rosenthal Street, Campbell ACT 2612 ~$1525000~4~1~House~0.5~976~159~$1,269,000~
+103 Blamey Crescent, Campbell ACT 2612 ~$1,649,000~4~2~House~5.0~836~N/A~$714,000~
+24 Patey Street, Campbell ACT 2612 ~$1,799,000~3~1~House~2.0~730~148~$1,285,000~
+29 Ferdinand Street, Campbell ACT 2612 ~$1,985,000~4~2~House~6.0~869~158~$1,311,000~
+12 Rosenthal Street, Campbell ACT 2612 ~$2,175,000~5~2~House~1.0~755~N/A~$1,311,000~

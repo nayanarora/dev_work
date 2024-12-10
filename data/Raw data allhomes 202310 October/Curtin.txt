@@ -1,0 +1,9 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+15/1 Waddell Place, Curtin ACT 2605 ~$499,000~2~2~Apartment~4.0~1816~N/A~$4,400,000~
+8/89 Allan Street, Curtin ACT 2605 ~$550,000 ~2~2~Unit / Apartment~6.0~990~N/A~$1,500,000~
+30B Parker Street, Curtin ACT 2605 ~$1,100,000~3~2~House~4.0~408~130~N/A~
+3 Sladen Place, Curtin ACT 2605 ~$1,695,000~4~2~House~2.0~810~173~$932,000~
+5B Reynolds Street, Curtin ACT 2605 ~$1,699,000~4~2~House~5.5~373~180~N/A~
+15B Reynolds Street, Curtin ACT 2605 ~$1,749,000~4~2~House~5.5~N/A~174~N/A~
+13 Storey Street, Curtin ACT 2605 ~$1,750,000 ~5~2~House~6.0~724~269~$879,000~
+30 Wilson Street, Curtin ACT 2605 ~$2,300,000~4~2~House~6.0~944~224~$1,316,000~

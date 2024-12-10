@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+617/25 Edinburgh Avenue, City ACT 2601 ~Offers Above $449,000~1~1~Studio~6.0~1669~N/A~N/A~
+1006/25 Edinburgh Avenue, City ACT 2601 ~$475,000~1~1~Apartment~6.0~1669~N/A~N/A~
+318/25 Edinburgh Avenue 'Nishi', Acton ACT 2601 ~$480,000~1~1~Unit / Apartment~6.0~N/A~N/A~N/A~
+812/25 Edinburgh Avenue, Acton ACT 2601 ~$569,000~1~1~Apartment~6.0~N/A~N/A~N/A~
+206/19 Marcus Clarke Street, City ACT 2601 ~Offers over $599,000~1~1~Apartment~6.0~4069~N/A~$17,100,000~

@@ -1,0 +1,7 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+62 Buvelot Street, Weston ACT 2611 ~$835,000~3~1~House~0.5~713~146~$734,000~
+30 Heysen Street, Weston ACT 2611 ~$850,000~4~2~House~N/A~866~153~$765,000~
+22 Fullwood Street, Weston ACT 2611 ~$949,000~4~2~House~0.5~1243~159~$822,000~
+24 Wakelin Circuit, Weston ACT 2611 ~$999,000~4~2~House~2.0~702~161~$642,000~
+23 Hilder Street, Weston ACT 2611 ~$1,099,000~4~2~House~4.0~810~175~$620,000~
+23 Collingridge Street, Weston ACT 2611 ~$1,150,000~4~2~House~1.0~859~180~$757,000~

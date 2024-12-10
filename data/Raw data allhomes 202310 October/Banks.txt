@@ -1,0 +1,8 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+3/3 Peron Place, Banks ACT 2906 ~$599,000~3~1~Townhouse~6.0~206~N/A~N/A~
+55 Reader Court, Banks ACT 2906 ~$659,999~3~1~House~5.0~366~N/A~$383,000~
+11 Wilhelmi Crescent, Banks ACT 2906 ~$899,000~3~2~House~4.5~498~120~$353,000~
+14 Youl Court, Banks ACT 2906 ~$900,000~4~2~House~4.0~810~156~$486,000~
+17 Adcock Place, Banks ACT 2906 ~$905,000~4~2~House~2.0~976~N/A~$488,000~
+15 Smeaton Circuit, Banks ACT 2906 ~$939,000~4~3~House~4.0~753~N/A~$425,000~
+1 Wollemi Place, Banks ACT 2906 ~$1,700,000~8~3~House~2.0~966~559~$555,000~

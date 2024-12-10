@@ -1,0 +1,16 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+6/1 Hoffmann Street, Moncrieff ACT 2914 ~$615,000~2~2~Townhouse~6.0~101~N/A~N/A~
+14/57 Bellhouse Crescent, Moncrieff ACT 2914 ~$650,000~3~2~Townhouse~6.0~106~N/A~N/A~
+16/30 Bon Scott Crescent, Moncrieff ACT 2914 ~$660,000~3~2~House~6.0~80~161~N/A~
+97 Limb Circuit, Moncrieff ACT 2914 ~$684,999~3~1~Townhouse~5.0~239~N/A~$353,000~
+SALUS - Unit 19, Moncrieff ACT 2914 ~$699,000~3~2~Townhouse~7.1~N/A~N/A~N/A~
+22/1 Hoffman Street, Moncrieff ACT 2914 ~$699,000~3~2~Townhouse~6.0~N/A~N/A~N/A~
+73 O'Keefe Avenue, Moncrieff ACT 2914 ~$719,000~3~2~House~6.0~236~N/A~$364,000~
+SALUS - Unit 2, Moncrieff ACT 2914 ~$739,000~3~2~Townhouse~6.1~N/A~N/A~N/A~
+22/1 Yidaki Way, Moncrieff ACT 2914 ~$790,000~4~2~Townhouse~5.0~188~N/A~N/A~
+20 Shearston Street, Moncrieff ACT 2914 ~$795,000~3~1~House~N/A~227~105~$345,000~
+SALUS - Unit 13, Moncrieff ACT 2914 ~$799,000~3~2~Townhouse~6.9~N/A~N/A~N/A~
+(no street name provided), Moncrieff ACT 2914 ~$850,000~3~2~House and Land Package~6.0~382~N/A~$547,000~
+SALUS - Unit 35, Moncrieff ACT 2914 ~$919,000~4~2~Townhouse~7.8~N/A~N/A~N/A~
+14 Limb Circuit, Moncrieff ACT 2914 ~$999,000~5~2~House~5.0~388~280~$462,000~
+28 Gussey Street, Moncrieff ACT 2914 ~$1,180,000~5~2~House~6.0~543~189~$532,000~

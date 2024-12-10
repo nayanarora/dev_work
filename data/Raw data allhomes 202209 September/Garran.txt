@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+22/15 Eldridge Crescent, Garran ACT 2605 ~$659,000~2~2~Apartment~N/A~8386~N/A~$119,250~
+12/7 Hopegood Place, Garran ACT 2605 ~Offer Over $779,000~3~2~Apartment~6.0~6187~120~$261,800~
+101 Kitchener Street, Garran ACT 2605 ~$1,450,000 ~4~2~Townhouse~4.0~607~158~N/A~
+27 Fitchett Street, Garran ACT 2605 ~$2,200,000~5~3~House~4.5~730~235~$793,000~
+10 Bonwick Place, Garran ACT 2605 ~$2,999,000~6~4~House~1.0~1088~N/A~$1,398,000~

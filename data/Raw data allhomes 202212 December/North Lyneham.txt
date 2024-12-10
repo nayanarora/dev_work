@@ -1,0 +1,12 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+263/1 Mouat Street, Lyneham ACT 2602 ~$419,000~1~1~Apartment~6.0~11200.000000000002~N/A~$51,870~
+715/253 Northbourne Avenue, Lyneham ACT 2602 ~$420,000~1~1~Apartment~6.0~4404~N/A~$57,348~
+73/1 Mouat Street, Lyneham ACT 2602 ~$429,000~1~1~House~6.0~11200.000000000002~N/A~$51,870~
+189/1 Mouat Street, Lyneham ACT 2602 ~$429,000~1~1~Apartment~4.5~11200.000000000002~57~$51,870~
+2/15 Fox Place, Lyneham ACT 2602 ~$460,000~1~1~Apartment~6.0~5075~74~$80,000~
+409/253 Northbourne Avenue, Lyneham ACT 2602 ~$580,000~2~2~Apartment~6.0~4404~N/A~$57,348~
+2/253 Northbourne Avenue, Lyneham ACT 2602 ~$639,000~2~2~Apartment~6.0~4404~N/A~$57,348~
+33/193 Mouat Street, Lyneham ACT 2602 ~$740,000~2~2~Unit / Apartment~6.0~N/A~95~N/A~
+28/124 De Burgh Street, Lyneham ACT 2602 ~Offers Over $749,000~3~1~Townhouse~3.5~144~114~N/A~
+32/2 Archibald Street, Lyneham ACT 2602 ~$749,000~2~2~Unit / Apartment~6.0~8656~N/A~$114,300~
+54 Earle Street, Lyneham ACT 2602 ~$1,080,000~3~1~House~1.5~669~N/A~$949,000~

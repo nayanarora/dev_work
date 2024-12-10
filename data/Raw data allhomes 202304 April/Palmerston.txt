@@ -1,0 +1,11 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+4/215 Kosciuszko Avenue, Palmerston ACT 2913 ~  $500,000~2~1~Townhouse~3.0~189~N/A~N/A~
+2 /215 Kosciuszko Avenue, Palmerston ACT 2913 ~$540,000~2~1~Townhouse~3.0~185~80~N/A~
+8/32 Narryer Close, Palmerston ACT 2913 ~$560,000~2~1~Townhouse~0.5~249~85~N/A~
+9/105 Bimberi Crescent, Palmerston ACT 2913 ~$639,000~3~2~Townhouse~3.0~302~107~N/A~
+4/63 Tinderry Circuit, Palmerston ACT 2913 ~$680,000~3~2~Townhouse~4.5~236~N/A~N/A~
+9 Yalga Close, Palmerston ACT 2913 ~  $750,000~3~1~House~1.5~454~N/A~$442,000~
+6 Ella Close, Palmerston ACT 2913 ~$770,000~3~1~House~3.0~509~105~$480,000~
+7 Bendora Crescent, Palmerston ACT 2913 ~$835,000~3~2~House~5.0~374~131~$421,000~
+42 Mt Warning Crescent, Palmerston ACT 2913 ~$990,000~4~2~House~5.0~639~214~$502,000~
+8 Barn Place, Palmerston ACT 2913 ~$1640000~6~3~House~4.0~943~401~$565,000~

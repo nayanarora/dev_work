@@ -1,0 +1,7 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+3/4 Fairmount Crescent, Karabar NSW 2620 ~$385000~2~1~Townhouse~N/A~N/A~N/A~N/A~
+16 Eugenia Street, Karabar NSW 2620 ~$620000~3~1~House~N/A~617~N/A~N/A~
+31 Hayley Crescent, Karabar NSW 2620 ~$950,000~3~1~House~N/A~700~104~N/A~
+75 Barracks Flat Drive, Karabar NSW 2620 ~$ 1,015,000~4~2~House~N/A~N/A~N/A~N/A~
+52 Rusten Street, Karabar NSW 2620 ~$1,157,500~5~2~House~N/A~845~N/A~N/A~
+7 Morrison Place, Karabar NSW 2620 ~$1310000~5~3~House~N/A~809~389~N/A~

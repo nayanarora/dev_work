@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+6 Sterry Place, Wanniassa ACT 2903 ~$1,049,000~4~2~House~3.5~869~164~$420,000~
+2 Sargeant Place, Wanniassa ACT 2903 ~$1,049,000~4~2~House~4.5~1039~145~$445,000~
+32 Gaunson Crescent, Wanniassa ACT 2903 ~$1,249,000~4~2~House~1.0~N/A~233~$513,000~

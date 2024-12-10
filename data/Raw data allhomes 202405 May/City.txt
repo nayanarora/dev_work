@@ -1,0 +1,86 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+605/2 Akuna Street, City ACT 2601 ~$235,000~1~1~Apartment~6.0~N/A~N/A~$13,500,000~
+201/16 Moore Street, City ACT 2601 ~$415,000~1~1~Apartment~6.0~N/A~N/A~$6,750,000~
+1111/25 Edinburgh Avenue, City ACT 2601 ~$439,000~1~1~Apartment~6.0~N/A~N/A~N/A~
+502/2 Akuna Street, City ACT 2601 ~$440,000~2~1~Apartment~6.0~N/A~N/A~$13,500,000~
+30/260 City Walk, City ACT 2601 ~ $440,000~1~1~Apartment~6.0~N/A~N/A~$14,350,000~
+1006/25 Edinburgh Avenue, City ACT 2601 ~$449,000~1~1~Apartment~6.0~N/A~N/A~N/A~
+131/264 City Walk, City ACT 2601 ~$470,000~1~1~Apartment~6.0~N/A~N/A~$14,350,000~
+8/66 Allara Street, City ACT 2601 ~$475,000~1~1~Townhouse~6.0~3715~N/A~$11,700,000~
+14/45 West Row, City ACT 2601 ~$477,000~1~1~Apartment~6.0~N/A~N/A~N/A~
+520/61 Cooyong Street, Braddon ACT 2612 ~$479,000~1~1~Apartment~5.0~N/A~N/A~$25,900,000~
+323/55 Currong Street, Braddon ACT 2612 ~$480,000~1~1~Apartment~6.0~N/A~N/A~N/A~
+115/55 Currong Street, Braddon ACT 2612 ~$485,000~1~1~Apartment~6.0~N/A~N/A~N/A~
+13/1 Gordon Street, Canberra ACT 2601 ~$485,000~1~1~Apartment~6.0~N/A~N/A~N/A~
+16/3 Gordon Street, City ACT 2601 ~  $485,000~1~1~Unit / Apartment~6.0~N/A~N/A~$30,800,000~
+165/20 Allara Street, City ACT 2601 ~$489,000~1~1~Apartment~6.0~N/A~N/A~$14,100,000~
+83/20 Allara Street, City ACT 2601 ~$489,000~1~1~Apartment~6.0~N/A~N/A~$14,100,000~
+43/15 Coranderrk Street, City ACT 2601 ~$495,000~1~1~Apartment~6.0~N/A~N/A~$20,000,000~
+7/260 City Walk, City ACT 2601 ~$495,000~1~1~Apartment~6.0~N/A~N/A~$14,350,000~
+17/1 Gordon Street, City ACT 2601 ~  $495,000~1~1~Apartment~6.0~N/A~N/A~$30,800,000~
+1303/25 Edinburgh Avenue, City ACT 2601 ~  $499,000~1~1~Apartment~6.0~N/A~N/A~N/A~
+711/25 Edinburgh Avenue, City ACT 2601 ~  $499,000~1~1~Unit / Apartment~6.0~N/A~N/A~N/A~
+1904/2 Marcus Clarke Street, City ACT 2601 ~$499,000~2~1~Apartment~4.5~N/A~N/A~N/A~
+164/20 Allara Street, City ACT 2601 ~$510,000~1~1~Apartment~6.0~N/A~N/A~$14,100,000~
+604/25 Edinburgh Avenue, City ACT 2601 ~$510,000~1~1~Unit / Apartment~6.0~N/A~N/A~N/A~
+217/61 Cooyong Street, Braddon ACT 2612 ~$515,000~1~1~Apartment~5.0~N/A~N/A~$25,900,000~
+82/3 London Circuit, City ACT 2601 ~$515,000~1~1~Apartment~6.0~N/A~N/A~$30,800,000~
+1004/25 Edinburgh Ave, City ACT 2601 ~$520,000~1~1~Apartment~6.0~N/A~N/A~N/A~
+178/20 Allara Street, City ACT 2601 ~$525,000~1~1~Unit / Apartment~6.0~N/A~N/A~$14,100,000~
+107/77 Northbourne Avenue, Turner ACT 2612 ~$535,000~2~1~Apartment~6.0~N/A~N/A~$11,250,000~
+27/66 Allara Street, Canberra ACT 2601 ~$540,000~1~2~Apartment~6.0~N/A~N/A~N/A~
+114/20 Allara Street, Canberra ACT 2601 ~$540,000~1~1~Apartment~6.0~N/A~N/A~N/A~
+176/20 Allara Street, City ACT 2601 ~$540,000~1~1~Apartment~6.0~N/A~N/A~$14,100,000~
+art.haus - One Bedroom, Turner ACT 2612 ~$542,900~1~1~Apartment~6.0~N/A~N/A~N/A~
+The Grande - Stylish One Bedroom Apartment, Canberra ACT 2601 ~$542,900~1~1~Apartment~5.0~N/A~N/A~N/A~
+703/222 City Walk, City ACT 2601 ~$545,000~2~1~Apartment~6.0~N/A~N/A~N/A~
+801/25 Edinburgh Avenue, City ACT 2601 ~  $550,000~1~1~Unit / Apartment~6.0~N/A~N/A~N/A~
+306/16 Moore Street, City ACT 2601 ~$570000~2~2~Apartment~6.0~N/A~N/A~N/A~
+415/1 Boolee Street, Reid ACT 2612 ~$575,000~2~1~Apartment~7.0~N/A~N/A~$38,500,000~
+104/66 Allara Street, City ACT 2601 ~$580,000~2~2~Apartment~6.0~N/A~N/A~$11,700,000~
+206/19 Marcus Clarke Street, City ACT 2601 ~$580,000~1~1~Apartment~6.0~N/A~N/A~$17,100,000~
+The Grande - Sleek 1 Bedroom Apartments, Canberra ACT 2601 ~$613,900~1~1~Apartment~5.0~N/A~N/A~N/A~
+206/39 London Circuit, City ACT 2601 ~  $645,000~2~1~Apartment~6.0~N/A~N/A~$17,000,000~
+133/264 City Walk, City ACT 2601 ~$649,000 ~2~2~Apartment~6.0~N/A~N/A~$14,350,000~
+105/2 Marcus Clarke Street, City ACT 2601 ~$664,000~2~2~Apartment~4.5~N/A~N/A~$23,000,000~
+176/15 Coranderrk Street, City ACT 2601 ~$680,000~2~2~Apartment~6.0~N/A~N/A~$20,000,000~
+117/20 Allara Street, City ACT 2601 ~$699,000~2~2~Apartment~6.0~N/A~N/A~$14,100,000~
+628/45 Ainslie Avenue, Braddon ACT 2612 ~$700,000~2~2~Apartment~5.0~N/A~N/A~$22,500,000~
+138/264 City Walk, City ACT 2601 ~$710,000~2~2~Apartment~6.0~N/A~N/A~$14,350,000~
+52/20 Allara Street, Canberra ACT 2601 ~$710,000~2~2~Apartment~6.0~N/A~N/A~N/A~
+71/260 City Walk, City ACT 2601 ~$720,000 ~2~2~House~6.0~1664~N/A~$14,350,000~
+79/260 City Walk, City ACT 2601 ~$720,000~2~2~House~6.0~1664~N/A~$14,350,000~
+603/240 Bunda Street, City ACT 2601 ~$720,000~2~2~Apartment~6.0~N/A~N/A~$28,250,000~
+703/240 Bunda Street, City ACT 2601 ~$725,000~2~2~Apartment~6.0~N/A~N/A~$28,250,000~
+8/1 The Mews, City ACT 2601 ~$735,000~2~1~Apartment~3.5~N/A~N/A~$30,800,000~
+1202/240 Bunda Street, City ACT 2601 ~$739,000~2~2~Apartment~5.0~N/A~N/A~$28,250,000~
+1211/39 London Circuit, City ACT 2601 ~For Sale $749,000~2~2~Apartment~6.0~N/A~N/A~$17,000,000~
+605/222 City Walk, City ACT 2601 ~$760,000~2~2~Unit / Apartment~6.0~1137~N/A~N/A~
+516/39 London Circuit, City ACT 2601 ~$780000~2~2~Unit / Apartment~6.0~N/A~N/A~$17,000,000~
+137/45 West Row, City ACT 2601 ~$765,000~2~2~Apartment~6.0~N/A~N/A~N/A~
+105/260 City Walk, City ACT 2601 ~$769,000~2~2~Unit / Apartment~6.0~N/A~N/A~$14,350,000~
+110/260 City Walk, City ACT 2601 ~$770,000~2~2~Apartment~6.0~N/A~N/A~$14,350,000~
+305/222 City Walk, City ACT 2601 ~$775,000~3~2~Apartment~6.0~N/A~N/A~N/A~
+1702/2 Marcus Clarke Street, City ACT 2601 ~$779,000~3~2~Apartment~4.0~N/A~N/A~N/A~
+149/264 City Walk, City ACT 2601 ~$780,000~2~2~Apartment~6.0~N/A~N/A~$14,350,000~
+1605/2 Marcus Clarke Street, City ACT 2601 ~$780,000~2~1~Apartment~5.0~N/A~N/A~N/A~
+art.haus - Two Bedroom, Turner ACT 2612 ~$789,900~2~1~Apartment~6.0~N/A~N/A~N/A~
+7/24 Ijong Street, Braddon ACT 2612 ~$799,999~2~2~Apartment~6.0~N/A~N/A~$2,400,000~
+802/222 City Walk, City ACT 2601 ~$800,000~3~2~Apartment~5.5~1137~N/A~N/A~
+1907/2 Marcus Clarke Street, City ACT 2601 ~$830,000~2~2~Unit / Apartment~1.5~N/A~N/A~N/A~
+The Grande - Spacious 2 Bedroom Apartment, Canberra ACT 2601 ~$834,900~2~2~Apartment~5.0~N/A~N/A~N/A~
+1513/25 Edinburgh Avenue, City ACT 2601 ~$850,000~2~2~Apartment~6.0~N/A~N/A~N/A~
+187 /45 West Row, City ACT 2601 ~$867,000~2~1~Apartment~4.0~N/A~N/A~N/A~
+The Grande - Contemporary 2 Bedroom Apartments, Canberra ACT 2601 ~$892,900~2~2~Apartment~5.0~N/A~N/A~N/A~
+1517/25 Edinburgh Avenue, City ACT 2601 ~  $950,000~2~2~Apartment~6.0~N/A~N/A~N/A~
+804/19 Marcus Clarke Street, City ACT 2601 ~$950,000~2~2~Unit / Apartment~4.5~N/A~N/A~$17,100,000~
+art.haus - Two Bedroom with Double Lock Up Garage, Turner ACT 2612 ~$979,000~2~1~Apartment~6.0~N/A~N/A~N/A~
+1107/19 Marcus Clarke Street, City ACT 2601 ~$1,095,000~2~2~Apartment~6.0~N/A~N/A~$17,100,000~
+235/81 Cooyong Street, Reid ACT 2612 ~$1,100,000~3~2~Apartment~6.0~N/A~N/A~$38,500,000~
+The Grande - Stunning 3 Bedroom Apartments, Canberra ACT 2601 ~$1,111,900~3~2~Apartment~5.0~N/A~N/A~N/A~
+art.haus - 3 Bedroom with Double Lock Up Garage, Turner ACT 2612 ~$1,399,900~3~1~Apartment~6.0~N/A~N/A~N/A~
+39/1 Gordon Street, City ACT 2601 ~  $1,400,000~3~2~Unit / Apartment~4.0~N/A~N/A~$30,800,000~
+1603/240 Bunda Street, City ACT 2601 ~$1,450,000~3~3~Apartment~5.0~N/A~N/A~$28,250,000~
+1509/25 Edinburgh Avenue, City ACT 2601 ~$1,650,000~3~2~Apartment~5.0~N/A~N/A~N/A~
+art.haus - 3 Bedroom Penthouse, Turner ACT 2612 ~$2,329,000~3~1~Apartment~6.0~N/A~N/A~N/A~
+The Grande - Luxury Penthouse Living, Canberra ACT 2601 ~$2,537,900~3~3~Apartment~5.0~N/A~N/A~N/A~

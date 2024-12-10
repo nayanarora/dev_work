@@ -1,0 +1,3 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+29 Jonsson Court, Dunlop ACT 2615 ~$777,000 ~4~2~House~5.5~521~N/A~$422,000~
+22 Branson Street, Dunlop ACT 2615 ~  $950,000~4~2~House~5.0~463~N/A~$372,000~

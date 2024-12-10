@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+27a & 27b William Street, Oaks Estate ACT 2620 ~$1,500,000~6~4~House~2.5~1012~N/A~N/A~

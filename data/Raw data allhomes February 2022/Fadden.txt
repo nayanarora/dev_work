@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+3 Free Place, Fadden ACT 2904 ~$1,075,000~5~3~House~3.5~743~N/A~$450,000~
+1 Hyne Place, Fadden ACT 2904 ~$1,100,000~4~2~House~1.5~844~N/A~$511,000~
+12 Aland Place, Fadden ACT 2904 ~$1,325,000~5~3~House~0.5~795~235~$480,000~
+210 Bugden Avenue, Fadden ACT 2904 ~$1,395,000~6~3~House~2.5~765~271~$505,000~

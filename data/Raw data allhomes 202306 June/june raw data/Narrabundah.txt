@@ -1,0 +1,18 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+5/41 Leahy Close, Narrabundah ACT 2604 ~$179,000~2~1~Apartment~5.5~5009~N/A~$204,800~
+12/41 Leahy Close, Narrabundah ACT 2604 ~$335,000~1~1~Apartment~4.0~5009~N/A~$204,800~
+51/39 Jerrabomberra Avenue, Narrabundah ACT 2604 ~  $450,000~1~1~Townhouse~4.5~8999~N/A~$180,600~
+14/34 Leahy Close, Narrabundah ACT 2604 ~$645,000~2~2~Apartment~4.5~12200.0~98~$218,240~
+29/51 Leahy Close, Narrabundah ACT 2604 ~$695,000~3~2~Unit / Apartment~2.0~3928~158~$197,600~
+28/41 Leahy Close, Narrabundah ACT 2604 ~$699,000~3~2~Townhouse~5.0~5009~N/A~$204,800~
+79/39 McIntyre Street, Narrabundah ACT 2604 ~Offer over $710,000~2~2~Apartment~6.0~13799.999999999998~N/A~$20,600,000~
+121/39 McIntyre Street, Narrabundah ACT 2604 ~  $769,000~2~2~Unit / Apartment~6.0~13799.999999999998~83~$20,600,000~
+127/39 McIntyre Street, Narrabundah ACT 2604 ~$780,000 ~2~2~Apartment~6.0~13799.999999999998~79~$20,600,000~
+52 Matina Street, Narrabundah ACT 2604 ~$1,395,000~5~4~House~2.0~739~N/A~$860,000~
+2/4B Lumeah Street, Narrabundah ACT 2604 ~$1,450,000~4~3~Townhouse~5.5~N/A~N/A~N/A~
+3/13 Lindsay Street, Narrabundah ACT 2604 ~$1,790,000~3~3~Townhouse~6.0~1031~232~$1,500,000~
+39 Sturt Avenue, Narrabundah ACT 2604 ~$1,800,000~3~2~House~3.5~927~141~$1,070,000~
+107 Walker Crescent, Narrabundah ACT 2604 ~$2,100,000~5~3~House~5.0~768~305~$1,020,000~
+91 Stuart Street, Narrabundah ACT 2604 ~$2,200,000~4~2~House~2.5~813~N/A~$1,320,000~
+4 Johnston Street, Narrabundah ACT 2604 ~$2,795,000~4~2~House~4.0~974~N/A~$1,060,000~
+48 Finniss Crescent, Narrabundah ACT 2604 ~$2,850,000~4~3~House~6.0~600~301~$1,110,000~

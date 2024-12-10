@@ -1,0 +1,13 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+7/30 Gatton Street, Farrer ACT 2607 ~$360,000 ~1~1~Unit / Apartment~2.0~1967~N/A~$259,000~
+9-11 Drevermann Street, Farrer ACT 2607 ~$530,000~2~2~Unit / Apartment~6.0~18200.0~N/A~N/A~
+2/5 Crane Place, Farrer ACT 2607 ~$775,000~3~2~Duplex~5.0~344~N/A~N/A~
+27 Gluyas Street, Farrer ACT 2607 ~$1,099,000~4~2~House~1.0~795~169~$744,000~
+157 Lambrigg Street, Farrer ACT 2607 ~$1,125,000~4~1~House~1.5~933~149~$979,000~
+20 Lambrigg Street, Farrer ACT 2607 ~$1,140,000~4~2~House~1.0~927~N/A~$798,000~
+17 Dookie Street, Farrer ACT 2607 ~$1,195,000~5~2~House~0.5~853~N/A~$834,000~
+184 Beasley Street, Farrer ACT 2607 ~$1,200,000~4~2~House~2.0~1045~N/A~$761,000~
+210 Beasley Street, Farrer ACT 2607 ~$1,210,000~6~3~House~5.0~809~226~$740,000~
+138 Hawkesbury Crescent, Farrer ACT 2607 ~$1,440,000~5~2~House~1.5~798~N/A~$1,051,000~
+39 Steinwedel Street, Farrer ACT 2607 ~$1,475,000~4~2~House~1.0~1036~228~$1,051,000~
+34 Waite Street, Farrer ACT 2607 ~$1,550,000~4~3~House~1.5~669~233~$870,000~

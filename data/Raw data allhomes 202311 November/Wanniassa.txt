@@ -1,0 +1,8 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+9/181 McBryde Crescent, Wanniassa ACT 2903 ~$470,000~2~1~Townhouse~4.0~11000.0~N/A~$7,500,000~
+34 Greeves Street, Wanniassa ACT 2903 ~  $665,000~3~1~House~1.5~467~107~$404,000~
+12 Snowden Place, Wanniassa ACT 2903 ~$730,000~3~1~House~0.5~667~104~$443,000~
+7 Snowden Place, Wanniassa ACT 2903 ~$780,000~3~1~House~1.0~628~104~$443,000~
+20 Curtain Place, Wanniassa ACT 2903 ~  $899,000~3~2~House~5.5~730~N/A~$470,000~
+43 Degraves Crescent, Wanniassa ACT 2903 ~$949,000~5~2~House~1.5~961~180~$521,000~
+58 Holden Crescent, Wanniassa ACT 2903 ~$1174000~4~2~House~2.5~864~262~$539,000~

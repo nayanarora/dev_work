@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+128/41 Philip Hodgins Street, Wright ACT 2611 ~$450,000~2~2~Unit / Apartment~6.0~N/A~73~$7,200,000~
+566 Cotter Road, Wright ACT 2611 ~$475,000~2~2~Apartment~5.5~N/A~72~$2,730,000~
+566 Cotter Road, Wright ACT 2611 ~$565,000~2~2~Apartment~5.5~N/A~98~$2,730,000~
+566 Cotter Road, Wright ACT 2611 ~$675,000~3~3~Apartment~5.5~N/A~120~$2,730,000~
+(no street name provided), Wright ACT 2611 ~$1037500~4~2~House~6.5~206~184~N/A~

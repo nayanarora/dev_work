@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+2/11 Chaffey Crescent, Ainslie ACT 2602 ~$1,195,000~3~2~House~5.0~453~N/A~N/A~
+21 Shortland Crescent, Ainslie ACT 2602 ~$1,400,000~4~2~House~0.5~724~N/A~$995,000~
+70 Paterson Street, Ainslie ACT 2602 ~$1,650,000~4~2~House~2.5~838~171~$1,175,000~
+14 Chaffey Crescent, Ainslie ACT 2602 ~$1,750,000~4~2~House~3.0~803~N/A~$1,216,000~

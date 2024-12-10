@@ -1,0 +1,22 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+24/27 Elm Way, Jerrabomberra NSW 2619 ~$612000~2~1~Townhouse~N/A~77~N/A~N/A~
+17/27 Elm Way, Jerrabomberra NSW 2619 ~$607500~2~1~Townhouse~N/A~9624~N/A~N/A~
+7/4 Redwood Avenue, Jerrabomberra NSW 2619 ~$639000~2~1~Townhouse~N/A~12400.0~N/A~N/A~
+38 Dora Street, Jerrabomberra NSW 2619 ~$855000~3~2~House~N/A~460~N/A~N/A~
+13 Bluestone Gardens, Jerrabomberra NSW 2619 ~$919,000~3~2~House~N/A~397~N/A~N/A~
+1 Winter Place, Jerrabomberra NSW 2619 ~$920,000 to $960,000~3~2~House~N/A~939~N/A~N/A~
+60 Rosewood Glen, Jerrabomberra NSW 2619 ~$935,000~3~2~House~N/A~407~207~N/A~
+44 Maple Crescent, Jerrabomberra NSW 2619 ~$965000~4~2~House~N/A~960~160~N/A~
+(no street name provided), Jerrabomberra NSW 2619 ~$1045000~4~2~House~N/A~602~N/A~N/A~
+18 Elm Way, Jerrabomberra NSW 2619 ~$1097500~4~2~House~N/A~864~864~N/A~
+29 Pannamena Crescent, Jerrabomberra NSW 2619 ~$1150000~4~2~House~N/A~712~N/A~N/A~
+211 Bicentennial Drive, Jerrabomberra NSW 2619 ~$1249000~5~3~House~N/A~783~N/A~N/A~
+2 Copperfield Place, Jerrabomberra NSW 2619 ~$1395000~4~2~House~N/A~845~N/A~N/A~
+64 Morella Avenue, Jerrabomberra NSW 2619 ~$1525000~5~3~House~N/A~1019~N/A~N/A~
+38 Freestone Crescent, Jerrabomberra NSW 2619 ~$1600000~5~2~House~N/A~852~368~N/A~
+18 Allambee Street, Jerrabomberra NSW 2619 ~$1,575,000~4~2~House~N/A~828~323~N/A~
+39 Woodhill Link, Jerrabomberra NSW 2619 ~$1645000~4~3~House~N/A~810~N/A~N/A~
+228 Bicentennial Drive, Jerrabomberra NSW 2619 ~$1,670,000~5~3~House~N/A~923~N/A~N/A~
+1 Barrigan Place, Jerrabomberra NSW 2619 ~$1790000~4~2~House~N/A~1059~N/A~N/A~
+150 Waterfall Drive, Jerrabomberra NSW 2619 ~$1,795,000~4~3~House~N/A~906~N/A~N/A~
+5 Aspen Rise, Jerrabomberra NSW 2619 ~$2299000~7~3~House~N/A~2283~N/A~N/A~

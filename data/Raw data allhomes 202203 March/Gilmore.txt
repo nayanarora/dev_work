@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+10 Jeanette Place, Gilmore ACT 2905 ~$1,179,000~3~2~House~0.5~1584~208~$385,000~

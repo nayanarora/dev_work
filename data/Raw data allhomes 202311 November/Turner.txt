@@ -1,0 +1,18 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+5/18 Moore Street, Turner ACT 2612 ~$419,000~1~1~Apartment~6.0~6377~N/A~$11,250,000~
+69/77 Northbourne Avenue, Turner ACT 2612 ~$420,000~1~1~Apartment~6.0~6377~N/A~$11,250,000~
+61/77 Northbourne Avenue, Turner ACT 2612 ~  $430,000~1~1~Unit / Apartment~6.0~6377~N/A~$11,250,000~
+45/219A Northbourne Avenue, Turner ACT 2612 ~$479,000~1~1~Apartment~6.0~5415~N/A~$8,680,000~
+3/54 Moore Street, Turner ACT 2612 ~$540000~1~1~Apartment~6.0~1856~N/A~$4,000,000~
+154/77 Northbourne Avenue, Turner ACT 2612 ~$539,000~1~1~Apartment~6.0~6377~N/A~$11,250,000~
+85/77 Northbourne Avenue, Turner ACT 2612 ~$539,900~1~1~Apartment~6.0~6377~N/A~$11,250,000~
+107/77 Northbourne Avenue, Turner ACT 2612 ~$569,000~2~1~Apartment~6.0~6377~N/A~$11,250,000~
+77/77 Northbourne Avenue, Turner ACT 2612 ~  $629,000~2~2~Apartment~6.0~6377~N/A~$11,250,000~
+24/219A Northbourne Avenue, Turner ACT 2612 ~$660000~2~2~Apartment~6.0~5415~N/A~$8,680,000~
+188/56 Forbes Street, Turner ACT 2612 ~$690,000 ~2~2~Apartment~6.0~5046~N/A~$13,000,000~
+70/77 Northbourne Avenue, Turner ACT 2612 ~$699,000~2~2~Apartment~6.0~6377~N/A~$11,250,000~
+10/16 MacLeay Street, Turner ACT 2612 ~$700,000~2~2~Apartment~6.0~1073~N/A~$2,475,000~
+2/14 Holder Street, Turner ACT 2612 ~$1185000~3~2~Townhouse~4.0~1259~N/A~$2,100,000~
+Zarah - Unit 8, Turner ACT 2612 ~$1,730,000~3~3~Townhouse~6.0~1053~N/A~$1,924,000~
+9 McCaughey Street, Turner ACT 2612 ~$1,825,000~4~1~House~1.5~935~N/A~$1,370,000~
+14 Greenway Street, Turner ACT 2612 ~$3,500,000~5~3~House~2.0~1211~N/A~$1,911,000~

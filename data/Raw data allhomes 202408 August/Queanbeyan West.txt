@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+6/8 Nimmitabel Street, Queanbeyan West NSW 2620 ~$435000~2~1~Townhouse~N/A~1249~N/A~N/A~
+2/71 Tharwa Road, Queanbeyan West NSW 2620 ~$439000~2~1~Townhouse~N/A~773~N/A~N/A~
+2/12 Nimmitabel Street, Queanbeyan West NSW 2620 ~$522500~2~1~Townhouse~0.0~113~N/A~N/A~
+5/74 Crest Park Parade, Queanbeyan West NSW 2620 ~$749000~4~2~Townhouse~N/A~263~N/A~N/A~
+28 Gilmore Place, Queanbeyan West NSW 2620 ~$850000~3~2~House~N/A~960~N/A~N/A~

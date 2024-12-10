@@ -1,0 +1,3 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+7/7 McGee Place, Pearce ACT 2607 ~$455,000~2~1~Unit / Apartment~6.0~1680~63~$149,400~
+11 Anstey Street, Pearce ACT 2607 ~$1,650,000~4~1~House~3.0~1053~N/A~$1,086,000~

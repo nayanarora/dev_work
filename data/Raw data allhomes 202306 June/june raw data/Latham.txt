@@ -1,0 +1,3 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+6 Shand Place, Latham ACT 2615 ~$675,000~3~1~House~1.5~675~144~$401,000~
+1 Meymott Place, Latham ACT 2615 ~$1,150,000~4~1~House~6.0~416~255~$458,000~

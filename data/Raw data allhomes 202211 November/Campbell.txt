@@ -1,0 +1,15 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+50/81 Constitution Avenue, Campbell ACT 2612 ~$520,000~1~1~Apartment~6.0~6749~N/A~$50,225~
+44/81 Constitution Avenue, Campbell ACT 2612 ~$545,500~1~1~Apartment~6.0~6749~N/A~$50,225~
+331/20 Anzac Park, Campbell ACT 2612 ~$675,000~2~2~Unit / Apartment~6.0~7020~69~$63,037~
+234/26 Anzac Park, Campbell ACT 2612 ~$679,000~2~2~Apartment~6.0~7020~70~$63,037~
+424/20 Anzac Park, Campbell ACT 2612 ~$780,000~2~2~Apartment~6.0~7020~104~$63,037~
+106/59 Constitution Avenue, Campbell ACT 2612 ~$820,000~2~2~Apartment~6.0~100~N/A~$68,475~
+201/59 Constitution Avenue, Campbell ACT 2612 ~$879,000~2~2~Apartment~6.0~2382~89~$68,475~
+45 White Crescent, Campbell ACT 2612 ~$1,000,000~3~1~Duplex~2.0~659~120~$1,053,000~
+1/69 Blamey Crescent, Campbell ACT 2612 ~$1,095,000~3~1~Townhouse~2.0~16800.0~N/A~$180,523~
+4/165 Blamey Crescent, Campbell ACT 2612 ~$1,100,000~3~1~Townhouse~5.5~173~N/A~N/A~
+44 Elliott Street, Campbell ACT 2612 ~$1574000~4~2~House~2.5~733~N/A~$1,099,000~
+103 Blamey Crescent, Campbell ACT 2612 ~$1,795,000~4~2~House~5.0~836~N/A~$714,000~
+16A Truscott Street, Campbell ACT 2612 ~$1,849,000~4~2~House~2.5~890~N/A~N/A~
+8 Truscott Street, Campbell ACT 2612 ~Offers over $2,900,000~4~3~House~6.0~768~N/A~$1,317,000~

@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+2 Reeves Street, Wanniassa ACT 2903 ~$1,100,000~5~2~House~1.5~1076~181~$371,000~

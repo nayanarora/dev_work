@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+4 Thring Street, Chapman ACT 2611 ~$1,075,000~N/A~N/A~N/A~N/A~262~N/A~N/A~
+84 Doyle Terrace, Chapman ACT 2611 ~$1,430,000~N/A~N/A~N/A~N/A~785~178~$775,000~
+26 Bertel Crescent, Chapman ACT 2611 ~$2,850,000~N/A~N/A~N/A~N/A~1145~550~$750,000~

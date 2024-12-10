@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+1/24 Railway Street, Oaks Estate ACT 2620 ~$679,000~3~2~Townhouse~4.0~192~163~N/A~

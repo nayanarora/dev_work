@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+Unkown Unkown, Macnamara ACT 2615 ~$1220200~4~1~House and Land Package~7.0~478~224~N/A~

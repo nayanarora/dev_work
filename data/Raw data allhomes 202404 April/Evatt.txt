@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+16 Ashkanasy Crescent, Evatt ACT 2617 ~$980,000~3~1~House~0.5~903~124~$525,000~

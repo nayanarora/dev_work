@@ -1,0 +1,12 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+75/4 Wilkins Street, Mawson ACT 2607 ~$270,000 ~1~1~Unit / Apartment~3.5~9340~42~$137,756~
+82/3 Heard Street, Mawson ACT 2607 ~$725,000~3~2~Townhouse~5.0~153~125~N/A~
+14/45 Enderby Street, Mawson ACT 2607 ~$790,000~2~2~Townhouse~5.5~4135~100~$249,600~
+1/25 Wilkins Street, Mawson ACT 2607 ~$945,000~3~1~House~1.5~N/A~N/A~N/A~
+29A MacRobertson Street, Mawson ACT 2607 ~$950,000~3~2~House~0.5~593~104~N/A~
+1/50 Enderby Street, Mawson ACT 2607 ~$990,000~3~2~Townhouse~5.0~343~148~N/A~
+17 MacRobertson Street, Mawson ACT 2607 ~$1,200,000~4~2~House~1.5~1085~199~$947,000~
+37 Hurley Street, Mawson ACT 2607 ~$1,275,000~3~2~House~5.0~1210~216~N/A~
+1/8 Aurora Close, Mawson ACT 2607 ~$1,550,000~3~2~Townhouse~6.0~N/A~183~N/A~
+16 MacRobertson Street, Mawson ACT 2607 ~$1,610,000~4~2~House~5.0~1229~178~$997,000~
+36 Enderby Street, Mawson ACT 2607 ~$2,250,000~4~2~House~6.0~883~N/A~$904,000~

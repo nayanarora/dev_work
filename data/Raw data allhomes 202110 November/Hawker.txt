@@ -1,0 +1,3 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+14 Walhallow Street, Hawker ACT 2614 ~$789,000~3~1~Townhouse~3.5~327~125~$310,000~
+5 Elsey Street, Hawker ACT 2614 ~$1,600,000~N/A~N/A~House and Land Package~N/A~1403~N/A~$823,000~

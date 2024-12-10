@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+315/25 Edinburgh Avenue, City ACT 2601 ~Offers Over $485,000~1~1~Unit / Apartment~6.0~1670~72~N/A~

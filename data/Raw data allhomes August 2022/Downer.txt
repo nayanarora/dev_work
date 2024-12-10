@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+17 Cole Street, Downer ACT 2602 ~$1,190,000~2~1~House~1.5~741~N/A~$924,000~

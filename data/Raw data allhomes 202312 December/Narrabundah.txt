@@ -1,0 +1,17 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+16/41 Leahy Close, Narrabundah ACT 2604 ~$250,000~2~1~Unit / Apartment~6.0~5009~N/A~$6,400,000~
+14/41 Leahy Close, Narrabundah ACT 2604 ~$279,000~2~1~Apartment~5.0~5009~N/A~$6,400,000~
+35/34 Leahy Close, Narrabundah ACT 2604 ~$595,000~2~2~Apartment~4.0~12200.0~N/A~$12,400,000~
+20/25 Jerrabomberra Avenue, Narrabundah ACT 2604 ~$649,000~2~2~Townhouse~4.5~7929~N/A~$8,000,000~
+28/41 Leahy Close, Narrabundah ACT 2604 ~$670,000~3~2~Townhouse~5.0~5009~N/A~$6,400,000~
+5/34 Leahy Close, Narrabundah ACT 2604 ~$689,000~2~2~Apartment~6.0~12200.0~N/A~$12,400,000~
+21/51 Leahy Close, Narrabundah ACT 2604 ~$698,000~3~2~Apartment~6.0~3928~N/A~$5,200,000~
+17/27 Leahy Close, Narrabundah ACT 2604 ~$699,000~3~2~Apartment~6.0~4864~N/A~$5,400,000~
+127/39 McIntyre Street, Narrabundah ACT 2604 ~$749,000~2~2~Apartment~6.0~13799.999999999998~N/A~$20,600,000~
+3/34 Leahy Close, Narrabundah ACT 2604 ~$845,000~3~2~Apartment~5.5~12200.0~N/A~$12,400,000~
+6 Nimbin Street, Narrabundah ACT 2604 ~$920,000~3~1~House~2.5~464~77~$650,000~
+9/21 Keira Street, Narrabundah ACT 2604 ~$950,000~2~2~Townhouse~6.0~260~N/A~N/A~
+8 Mindarie Street, Narrabundah ACT 2604 ~$1,280,000~3~1~House~3.0~747~N/A~$825,000~
+6C Lumeah Street, Narrabundah ACT 2604 ~$1,400,000~4~3~Townhouse~4.0~N/A~N/A~N/A~
+13 Sprent Street, Narrabundah ACT 2604 ~$1,695,000~5~2~House~2.5~785~215~$974,000~
+37 Sprent Street, Narrabundah ACT 2604 ~$3,875,000~5~5~House~6.0~656~N/A~$974,000~

@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+36 Lance Hill Avenue, Dunlop ACT 2615 ~$769,000~3~1~House~4.0~597~102~$472,000~
+7 Higham Place, Dunlop ACT 2615 ~$770,000~3~2~House~4.0~448~94~$404,000~
+29 Jonsson Court, Dunlop ACT 2615 ~$777,000 ~4~2~House~5.5~521~N/A~$435,000~

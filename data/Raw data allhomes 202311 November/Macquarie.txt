@@ -1,0 +1,9 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+21/21 Wiseman Street, Macquarie ACT 2614 ~$310000~1~1~Apartment~6.0~2286~N/A~$2,420,000~
+25/21 Wiseman Street, Macquarie ACT 2614 ~$320,000~1~1~Apartment~6.0~2286~N/A~$2,420,000~
+56/15 Bowman Street, Macquarie ACT 2614 ~  $390,000~1~1~Apartment~6.0~3759~N/A~$5,250,000~
+29/119 Redfern Street, Macquarie ACT 2614 ~$395,000~2~1~Apartment~6.0~3412~N/A~$2,772,000~
+2/81 Lachlan Street, Macquarie ACT 2614 ~$535,000~2~1~Unit / Apartment~6.0~1338~N/A~$960,000~
+6/15 Bowman Street, Macquarie ACT 2614 ~$645,000~2~2~Apartment~4.5~3759~N/A~$5,250,000~
+10/7 Collicott Circuit, Macquarie ACT 2614 ~$749,000~3~1~Townhouse~4.5~2801~N/A~$1,850,000~
+3 MacVitie Place, Macquarie ACT 2614 ~$825,000~3~1~House~6.0~518~124~$511,000~

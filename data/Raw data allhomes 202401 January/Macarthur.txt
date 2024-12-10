@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+1 Falkiner Place, Macarthur ACT 2904 ~$1,299,000~5~2~House~N/A~1072~282~$617,000~

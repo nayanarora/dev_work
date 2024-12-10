@@ -1,0 +1,14 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+13/20 Federal Highway, Watson ACT 2602 ~$455,000~2~2~Apartment~5.0~20500.0~N/A~$8,400,000~
+39/20 Federal Highway, Watson ACT 2602 ~$459,999~2~2~Apartment~5.0~20500.0~N/A~$8,400,000~
+Norrebro - Unit 23, 1 Bunninyong Beechworth Street, Watson, Watson ACT 2602 ~$479,900~1~1~Unit / Apartment~6.0~N/A~N/A~N/A~
+57/21 Aspinall Street, Watson ACT 2602 ~$499,000~2~2~Apartment~5.5~17200.0~N/A~$7,500,000~
+Norrebro - Unit 42, 1 Bunninyong Beechworth Street, Watson, Watson ACT 2602 ~$634,900~N/A~N/A~Unit / Apartment~6.0~N/A~N/A~N/A~
+152/395 Antill Street, Watson ACT 2602 ~$685000~2~2~Apartment~5.0~66100.0~N/A~N/A~
+80/45 Negus Crescent, Watson ACT 2602 ~$795,000~3~2~Townhouse~6.0~122~N/A~N/A~
+52/67 Negus Crescent, Watson ACT 2602 ~  $860,000~3~2~Townhouse~6.0~135~N/A~N/A~
+8 Beechworth Street, Watson ACT 2602 ~$869,000~3~2~Townhouse~6.0~1302~N/A~$1,600,000~
+2/45 Negus Crescent, Watson ACT 2602 ~$899,000~3~2~Townhouse~6.0~140~N/A~N/A~
+59 Ehrlich Circuit, Watson ACT 2602 ~$950,000~3~2~House~6.0~157~162~$273,000~
+26/215 Aspinall Street, Watson ACT 2602 ~$950,000 to $1,000,000~3~2~Townhouse~4.0~66100.0~N/A~N/A~
+20/45 Negus Crescent, Watson ACT 2602 ~  $950,000~3~2~Townhouse~6.0~169~N/A~N/A~

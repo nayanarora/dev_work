@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+8 Lane Place, Spence ACT 2615 ~$0~3~1~House~4.0~547~N/A~$432,000~

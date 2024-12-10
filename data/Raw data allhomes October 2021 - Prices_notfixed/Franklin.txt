@@ -1,0 +1,15 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+12/329 Flemington Road, Franklin ACT 2913 ~$313,000~1~1~Apartment~6.0~N/A~58~N/A~
+78/75 Elizabeth Jolley Crescent, Franklin ACT 2913 ~$335,000 to $360,000~1~1~Apartment~4.5~N/A~N/A~N/A~
+52/311 Flemington Road, Franklin ACT 2913 ~$349,000~2~1~House~6.0~N/A~N/A~N/A~
+64/41 Clare Burton Crescent, Franklin ACT 2913 ~Offers Over $359,000~1~1~Apartment~6.0~N/A~58~N/A~
+49/311 Flemington Road, Franklin ACT 2913 ~Offers over $360,000~2~1~Apartment~6.0~N/A~N/A~N/A~
+78/235 Flemington Road, Franklin ACT 2913 ~$390,000~2~1~Unit / Apartment~6.0~N/A~67~N/A~
+12/75 Elizabeth Jolley Crescent, Franklin ACT 2913 ~$450,000~2~1~Apartment~6.0~9026~N/A~N/A~
+105/311 Flemington Road, Franklin ACT 2913 ~$520,000~3~1~Apartment~6.0~12000.0~82~N/A~
+21/2 Clare-Burton Crescent, Franklin ACT 2913 ~$695,000~3~3~Townhouse~6.0~N/A~117~N/A~
+(no street name provided), Franklin ACT 2913 ~$715,000~4~2~Townhouse~5.5~N/A~N/A~N/A~
+41 Judith Wright Street, Franklin ACT 2913 ~Offers over $849,000~3~2~House~4.5~330~140~$319,000~
+26 Daniels Street, Franklin ACT 2913 ~$1075000~4~1~House~4.0~304~182~$297,000~
+4 Phipson Street, Franklin ACT 2913 ~$1,080,000~4~2~House~5.0~337~249~$320,000~
+78 Marie Pitt Street, Franklin ACT 2913 ~$1,200,000 ~4~2~House~5.0~425~N/A~$391,000~

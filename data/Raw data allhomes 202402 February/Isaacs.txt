@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+4B Hansen Circuit, Isaacs ACT 2607 ~$1,095,000~N/A~N/A~N/A~N/A~1143~142~$910,000~
+13 Adkinson Close, Isaacs ACT 2607 ~$1,400,000~N/A~N/A~N/A~N/A~763~N/A~$835,000~
+14 Kaeppel Place, Isaacs ACT 2607 ~$1,635,000~N/A~N/A~N/A~N/A~773~N/A~$853,000~

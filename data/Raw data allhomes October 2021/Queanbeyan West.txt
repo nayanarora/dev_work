@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+2/23 Gilmore Place, Queanbeyan West NSW 2620 ~$499,000~2~2~House~N/A~N/A~124~N/A~

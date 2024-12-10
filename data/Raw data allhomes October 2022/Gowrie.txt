@@ -1,0 +1,3 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+19 Dalziel Street, Gowrie ACT 2904 ~$850,000~4~2~House~1.5~702~184~$456,000~
+8 Ingram Street, Gowrie ACT 2904 ~$907,000~4~2~House~2.5~776~149~$488,000~

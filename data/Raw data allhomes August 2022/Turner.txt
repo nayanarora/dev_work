@@ -1,0 +1,14 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+59/217 Northbourne Avenue, Turner ACT 2612 ~Offers over $440,000~1~1~Apartment~6.0~5045~N/A~$62,400~
+11/28 Watson Street, Turner ACT 2612 ~$459,000~1~1~Apartment~6.0~3037~61~$167,400~
+2/29 Forbes Street, Turner ACT 2612 ~$480,000~1~1~Apartment~6.0~2867~52~$125,860~
+19/219a Northbourne Ave, Turner ACT 2612 ~$485,000~1~1~Apartment~6.0~5415~81~$69,440~
+1/68 MacLeay Street, Turner ACT 2612 ~Offers over $490,000~1~1~Apartment~5.0~2282~60~$141,450~
+18/19 Condamine Street, Turner ACT 2612 ~$599,000~2~1~Apartment~6.0~3682~N/A~$148,580~
+15/40 Moore Street, Turner ACT 2612 ~Offers over $640,000~2~2~Apartment~6.0~2013~84~$124,000~
+6/14 MacLeay Street, Turner ACT 2612 ~$660,000~2~2~Apartment~6.0~1129~N/A~$245,025~
+19/24 Forbes Street, Turner ACT 2612 ~$690,000~2~1~Apartment~6.0~7030~99~$70,200~
+24/6 MacLeay Street, Turner ACT 2612 ~$715,000 ~2~2~Apartment~6.0~3218~N/A~$148,800~
+2/49 Boldrewood Street, Turner ACT 2612 ~$1,250,000~2~2~Duplex~1.5~586~N/A~N/A~
+7/16 Holder Street, Turner ACT 2612 ~$1,795,000~4~3~Townhouse~6.0~1895~N/A~$317,200~
+26 Hackett Gardens, Turner ACT 2612 ~$2,225,000~3~1~House~N/A~1222~N/A~$1,867,000~

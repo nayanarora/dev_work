@@ -1,0 +1,3 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+411/25 Edinburgh Avenue, Acton ACT 2601 ~$512,000~1~1~Unit / Apartment~6.0~N/A~56~N/A~
+1006/25 Edinburgh Avenue, City ACT 2601 ~$520,000~1~1~Apartment~6.0~1670~56~N/A~

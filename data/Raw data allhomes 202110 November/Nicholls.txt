@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+8 Blanc Court, Nicholls ACT 2913 ~$1,039,000~4~2~House~3.5~671~154~$405,000~

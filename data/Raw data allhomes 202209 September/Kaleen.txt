@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+30 Darby Street, Kaleen ACT 2617 ~$948,000~3~1~House~3.0~698~128~$643,000~
+24 Alberga Street, Kaleen ACT 2617 ~$949,000~3~1~House~1.0~802~113~$683,000~
+16 Glenelg St, Kaleen ACT 2617 ~$949,950~3~1~House~0.5~741~N/A~$664,000~
+16 Glenelg St, Kaleen ACT 2617 ~$949,950~N/A~N/A~House~0.5~741~N/A~$664,000~
+119 Maribyrnong Avenue, Kaleen ACT 2617 ~Offers over $1,150,000~4~1~House~1.0~864~N/A~$664,000~

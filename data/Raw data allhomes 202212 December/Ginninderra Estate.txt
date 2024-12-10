@@ -1,0 +1,8 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+45/68 Hardwick Crescent, Holt ACT 2615 ~$405,000~2~2~Apartment~5.0~10200.0~85~$34,686~
+118/68 Hardwick Crescent, Holt ACT 2615 ~$460,000~2~2~Apartment~5.5~N/A~N/A~$34,686~
+5 Bonnor Close, Holt ACT 2615 ~$599,000~2~1~House~0.5~372~N/A~$355,000~
+9 Cavill Close, Holt ACT 2615 ~$735,000~3~1~House~3.5~698~N/A~$501,000~
+59 Armstrong Crescent, Holt ACT 2615 ~$749,000~3~1~House~1.5~882~N/A~$549,000~
+3 Longworth Place, Holt ACT 2615 ~$765,000~3~1~House~1.0~629~N/A~$461,000~
+40 Spofforth Street, Holt ACT 2615 ~$799,000~3~1~House~2.5~835~N/A~$549,000~

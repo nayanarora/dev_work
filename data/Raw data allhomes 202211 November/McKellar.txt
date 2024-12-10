@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+6 Tilley Place, McKellar ACT 2617 ~$830,000~3~1~House~1.0~712~N/A~$642,000~
+7 Bednall Place, McKellar ACT 2617 ~$949,000~3~2~House~3.5~889~123~$560,000~
+5 Pinkstone Place, McKellar ACT 2617 ~$1,150,000~5~3~House~1.0~734~306~$642,000~
+11 Cronin Street, McKellar ACT 2617 ~$1,260,000~4~2~House~5.5~503~209~$609,000~
+44 Hetherington Circuit, McKellar ACT 2617 ~$1,357,000~5~2~House~2.5~702~N/A~$589,000~

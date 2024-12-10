@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+23 Stacy Street, Gowrie ACT 2904 ~$800,000~3~1~House~4.0~793~134~$529,000~
+49 Middleton Circuit, Gowrie ACT 2904 ~$849,000~4~2~House~4.0~759~N/A~$441,000~
+38 Wheatley Street, Gowrie ACT 2904 ~$995,000~4~2~House~2.5~890~204~$518,000~
+53 Castleton Crescent, Gowrie ACT 2904 ~$1,350,000 ~5~3~House~3.0~1068~325~$622,000~

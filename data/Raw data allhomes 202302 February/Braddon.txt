@@ -1,0 +1,32 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+116/1 Elouera Street, Braddon ACT 2612 ~Offers over $415,000~1~1~Unit / Apartment~6.0~5805~N/A~N/A~
+71/10 Ipima Street, Braddon ACT 2612 ~$430,000~2~1~Apartment~6.0~4624~60~$76,840~
+426/1 Eloura, Braddon ACT 2612 ~$430,000~1~1~Apartment~6.0~N/A~N/A~N/A~
+29/28 Mort Street, Braddon ACT 2612 ~$439,000~1~1~Unit / Apartment~6.0~1533~N/A~$86,250~
+Founders Lane - SOL - 208/65 Cooyong Street, Braddon ACT 2612 ~$490,000~1~1~Apartment~6.0~N/A~50~N/A~
+4/40 Mort Street, Braddon ACT 2612 ~$495,000~1~1~Apartment~6.0~1533~61~$69,600~
+49/63 Ainslie Avenue, Braddon ACT 2612 ~$499,000~1~1~Apartment~6.0~4644~N/A~$131,760~
+110/74 Northbourne Avenue, Braddon ACT 2612 ~$508,000~2~2~Apartment~6.0~4171~82~$15,576~
+406/74 Northbourne Avenue, Braddon ACT 2612 ~$520,000~2~2~Apartment~6.0~4171~N/A~$15,576~
+103/102 Northbourne Avenue, Braddon ACT 2612 ~$525,000~2~1~Apartment~6.0~2090~74~$69,000~
+206/102 Northbourne Avenue, Braddon ACT 2612 ~$530,000~1~1~Apartment~6.0~2090~N/A~$69,000~
+322/74 Northbourne Avenue, Braddon ACT 2612 ~Offers Over $539,000~2~2~Unit / Apartment~6.0~4171~N/A~$15,576~
+306/27 Lonsdale Street, Braddon ACT 2612 ~$559,000~1~1~Apartment~4.0~3762~N/A~$168,200~
+708/74-76 Northbourne Avenue, Braddon ACT 2612 ~$579,000~2~2~Apartment~6.0~4171~82~$15,576~
+412/24 Lonsdale Street, Braddon ACT 2612 ~$599,000~2~1~Apartment~6.0~5011~92~$79,942~
+52/19 Ijong Street, Braddon ACT 2612 ~$600,000~2~2~Apartment~6.0~6128~77~$92,812~
+813/1 Elouera Street, Braddon ACT 2612 ~$620,000~2~2~Unit / Apartment~6.0~5805~86~N/A~
+306/17 Dooring Street, Braddon ACT 2612 ~$649,000~2~2~Apartment~3.5~5898~N/A~$87,975~
+727/1 Elouera Street, Braddon ACT 2612 ~$670,000~2~2~Apartment~6.0~5805~81~N/A~
+720/1 Elouera Street, Braddon ACT 2612 ~$690,000~2~2~Apartment~6.0~40~N/A~N/A~
+2/10 Coolac Place, Braddon ACT 2612 ~$699,000~2~2~Apartment~6.0~2750~93~$176,400~
+327/1 Elouera Street, Braddon ACT 2612 ~$705,000~2~2~Apartment~6.0~76~7~N/A~
+628/45 Ainslie Avenue, Braddon ACT 2612 ~$748,888~2~2~Apartment~5.0~9706~N/A~$71,550~
+1102/45 Ainslie Avenue, Braddon ACT 2612 ~$749,000~2~2~Apartment~6.0~9706~N/A~$71,550~
+507/16 Lonsdale Street, Braddon ACT 2612 ~$780,000~2~2~House~6.0~N/A~N/A~N/A~
+209/24 Lonsdale Street, Braddon ACT 2612 ~$799,000~2~2~Apartment~6.0~5011~N/A~$79,942~
+83 Lowanna Street, Braddon ACT 2612 ~$1,085,000~3~1~Duplex~1.5~429~N/A~$775,000~
+4/4-6 Coolac Place, Braddon ACT 2612 ~Offers Over $1,369,900~3~2~Townhouse~6.0~N/A~140~N/A~
+11 Batman Street, Braddon ACT 2612 ~Offers Over $1,379,000~2~1~House~N/A~845~N/A~$1,250,000~
+UNIT 10/78 Torrens Street, Braddon ACT 2612 ~$1,475,000~4~2~Townhouse~3.5~3729~167~$347,760~
+INDUSTRY - North Corner 3 bedroom terrace home, Braddon ACT 2612 ~$1,499,000~3~1~Townhouse~7.4~N/A~N/A~N/A~

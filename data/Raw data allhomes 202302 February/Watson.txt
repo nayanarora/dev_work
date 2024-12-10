@@ -1,0 +1,25 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+13/20 Federal Highway, Watson ACT 2602 ~$455,000~2~2~Apartment~5.0~20500.0~106~$58,800~
+31/20 Federal Highway, Watson ACT 2602 ~$459,000~2~2~Apartment~6.0~20500.0~N/A~$58,800~
+137/20 Federal Highway, Watson ACT 2602 ~$465,000 ~2~2~Unit / Apartment~2.0~20500.0~N/A~$58,800~
+32/20 Federal Highway, Watson ACT 2602 ~$469,000~2~2~Apartment~6.0~20500.0~N/A~$58,800~
+22/20 Federal Highway, Watson ACT 2602 ~$475,000~2~2~Apartment~6.0~20500.0~91~$58,800~
+10/20 Federal Highway, Watson ACT 2602 ~$480K (Offers Welcome)~2~2~Apartment~4.0~20500.0~N/A~$58,800~
+12/14 Federal Highway, Watson ACT 2602 ~$0~3~2~Townhouse~3.0~162~N/A~N/A~
+64/67 Negus Crescent, Watson ACT 2602 ~$680,000~2~2~Townhouse~6.0~102~N/A~N/A~
+26/7 Shewcroft Street, Watson ACT 2602 ~$690,000~2~2~Townhouse~5.5~8974~N/A~$144,375~
+147/395 Antill Street, Watson ACT 2602 ~$697,000~2~1~Apartment~5.5~66100.0~N/A~N/A~
+18 Carcoar Terrace, Watson ACT 2602 ~$710,000~2~2~Townhouse~6.0~2699~N/A~$136,800~
+73 Ian Nicol Street, Watson ACT 2602 ~$710,000~3~1~House~6.0~207~N/A~N/A~
+89/215 Aspinall Street, Watson ACT 2602 ~Offers Over $789,000~3~2~Apartment~4.0~66100.0~191~N/A~
+125/395 Antill Street, Watson ACT 2602 ~$870,000~3~2~Townhouse~6.0~66100.0~137~N/A~
+15/45 Negus Crescent, Watson ACT 2602 ~$875,000~3~2~Townhouse~6.0~155~N/A~N/A~
+76/45 Negus Crescent, Watson ACT 2602 ~$895,000~3~2~Townhouse~6.0~129~124~N/A~
+13/215 Aspinall Street, Watson ACT 2602 ~$949,000~3~2~Townhouse~6.0~66100.0~N/A~N/A~
+35/67 Negus Crescent, Watson ACT 2602 ~$984,900 ~4~2~Townhouse~6.0~153~179~N/A~
+39 McCawley Street, Watson ACT 2602 ~Offers Over $1,000,000~3~1~House~1.0~817~N/A~$880,000~
+12 Dickinson Street, Watson ACT 2602 ~$1,050,000~3~1~House~0.5~882~N/A~$927,000~
+26 Ehrlich Circuit, Watson ACT 2602 ~$1,050,000~3~2~Unit / Apartment~6.5~210~N/A~$348,000~
+20 Ehrlich Circuit, Watson ACT 2602 ~$1,100,000 ~4~2~Townhouse~6.5~249~N/A~$425,000~
+40/67 Negus Crescent, Watson ACT 2602 ~$1,100,000~4~3~Townhouse~5.0~268~N/A~N/A~
+3 McCawley Street, Watson ACT 2602 ~$1,190,000~3~1~House~1.5~694~95~$881,000~

@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+4/156 Clive Steele Avenue, Monash ACT 2904 ~$650,000~3~1~Townhouse~1.5~301~N/A~N/A~
+3 Corin Place, Monash ACT 2904 ~$900,000~4~1~House~2.5~1074~118~$291,000~
+54 Sturdee Crescent, Monash ACT 2904 ~$950,000~4~2~House~1.5~N/A~N/A~$363,000~
+63 Alabaster Street, Monash ACT 2904 ~$1,099,000~4~2~House~3.0~914~194~$378,000~
+12 Catani Place, Monash ACT 2904 ~$1,700,000~4~3~House~2.5~N/A~N/A~$512,000~

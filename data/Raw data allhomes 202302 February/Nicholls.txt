@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+24/23 Temperley Street, Nicholls ACT 2913 ~$840,000~3~2~House~6.0~378~188~N/A~
+2 McKinnon Street, Nicholls ACT 2913 ~$899,000~4~2~House~4.0~745~N/A~$596,000~
+34 Anne Clarke Avenue, Nicholls ACT 2913 ~$1,250,000~4~2~House~3.0~790~229~N/A~
+1 Barclay Place, Nicholls ACT 2913 ~$1,750,000~6~3~House~4.5~821~429~$754,000~

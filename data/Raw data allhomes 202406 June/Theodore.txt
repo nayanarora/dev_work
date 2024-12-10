@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+14 Callister Crescent, Theodore ACT 2905 ~$940,000~4~2~House~2.5~920~N/A~$525,000~

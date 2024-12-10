@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+6 Spillett Street, Forde ACT 2914 ~$1,200,000~4~2~House~N/A~556~241~$455,000~

@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+4 Gellatly Place, Gilmore ACT 2905 ~$800,000~3~1~House~1.5~766~N/A~$401,000~

@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+7/7 Sommers Street, Conder ACT 2906 ~  $599,000~N/A~N/A~N/A~N/A~261~N/A~N/A~
+2 Altson Circuit, Conder ACT 2906 ~$672500~N/A~N/A~N/A~N/A~439~85~N/A~
+4 Cremorne Place, Conder ACT 2906 ~$825,000~N/A~N/A~N/A~N/A~743~144~$403,000~
+6 Silvan Lane, Conder ACT 2906 ~$919,000~N/A~N/A~N/A~N/A~522~N/A~$429,000~

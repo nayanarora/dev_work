@@ -1,0 +1,7 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+21 Snodgrass Crescent, Kambah ACT 2902 ~$675,000~3~1~Retirement Village~N/A~N/A~N/A~$6,300,000~
+4 Keeling Place, Kambah ACT 2902 ~$870,000~3~1~House~1.5~775~149~$386,000~
+5 Broadhurst Street, Kambah ACT 2902 ~$1,030,000~3~1~House~2.0~755~N/A~$372,000~
+29 Crozier Circuit, Kambah ACT 2902 ~$1,090,000 ~4~2~House~3.5~831~142~$416,000~
+12 Withnell Circuit, Kambah ACT 2902 ~$1,175,000~4~2~House~2.0~681~148~$326,000~
+25 Apperly Close, Kambah ACT 2902 ~$1,725,000~4~3~House~3.0~1379~306~$613,000~

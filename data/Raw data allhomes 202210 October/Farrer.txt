@@ -1,0 +1,7 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+7/30 Gatton Street, Farrer ACT 2607 ~$360,000 ~1~1~Unit / Apartment~2.0~1967~N/A~$259,000~
+9-11 Drevermann Street, Farrer ACT 2607 ~$540,000 to $580,000~2~2~Unit / Apartment~6.0~18200.0~N/A~N/A~
+9 Sutton Place, Farrer ACT 2607 ~$995,000~3~1~House~N/A~881~95~$761,000~
+157 Lambrigg Street, Farrer ACT 2607 ~$1,125,000~4~1~House~1.5~933~149~$979,000~
+5 Werribee Crescent, Farrer ACT 2607 ~$1,300,000~4~2~House~1.0~958~N/A~$834,000~
+8 Hawkesbury Crescent, Farrer ACT 2607 ~$1,325,000~4~3~House~0.5~791~250~$979,000~

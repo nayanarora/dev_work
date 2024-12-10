@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+40 Callaghan Street, Evatt ACT 2617 ~$1,175,000~5~3~House~1.5~565~239~$809,000~

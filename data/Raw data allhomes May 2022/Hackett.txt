@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+203 Phillip Avenue, Hackett ACT 2602 ~$1,199,990~4~1~House~1.0~694~149~$582,000~

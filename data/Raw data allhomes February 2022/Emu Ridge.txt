@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+The Chandler - Everything You Need, Nothing You Don't, Belconnen ACT 2617 ~$424,900~1~1~Other~6.0~N/A~N/A~N/A~
+The Chandler - Everything You Need, Nothing You Don't, Belconnen ACT 2617 ~$454,900~1~1~Other~6.0~N/A~N/A~N/A~
+The Chandler - Everything You Need, Nothing You Don't, Belconnen ACT 2617 ~$554,900~2~2~Other~6.0~N/A~N/A~N/A~
+8/7 Joy Cummings Place, Belconnen ACT 2617 ~$560,000~2~2~Townhouse~6.0~N/A~N/A~N/A~
+The Chandler - Everything You Need, Nothing You Don't, Belconnen ACT 2617 ~$709,900~3~2~Other~6.0~N/A~N/A~N/A~

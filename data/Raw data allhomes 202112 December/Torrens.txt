@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+11 Wyatt Street, Torrens ACT 2607 ~Offers over $1,300,000~4~2~House~1.0~N/A~N/A~$523,000~
+3 Gouger Street, Torrens ACT 2607 ~$1,300,000~4~2~House~1.0~1464~212~$491,000~
+8 Wyatt Place, Torrens ACT 2607 ~Offers over $1,500,000~3~3~Duplex~6.0~N/A~233~$660,000~

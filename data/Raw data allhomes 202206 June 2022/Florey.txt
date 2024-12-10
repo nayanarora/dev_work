@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+25 Summerville Crescent, Florey ACT 2615 ~$669,900~3~1~House~1.0~241~109~$329,000~
+14 Whittell Crescent, Florey ACT 2615 ~$800,000~3~1~House~1.0~722~101~$376,000~
+16 Whitelegge Close, Florey ACT 2615 ~$950,000~3~2~House~4.0~800~144~$425,000~
+19 Elkington Street, Florey ACT 2615 ~$1,200,000~4~2~House~4.5~777~183~$425,000~

@@ -1,0 +1,3 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+27 Slessor Crescent, McKellar ACT 2617 ~$775,000~3~1~House~0.5~476~N/A~$446,000~
+5 Pinkstone Place, McKellar ACT 2617 ~Offers over $1,250,000~5~3~House~1.0~734~306~$642,000~

@@ -1,0 +1,16 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+Block AV Section AG Road 114, Macnamara ACT 2615 ~369m2 asking $475,000~N/A~N/A~N/A~N/A~369~N/A~N/A~
+3 Wapshere Street, Macnamara ACT 2615 ~$499,000~N/A~N/A~N/A~N/A~N/A~N/A~N/A~
+(no street name provided), Macnamara ACT 2615 ~$902500~N/A~N/A~N/A~N/A~439~N/A~N/A~
+Block N Section AK Road 117, Macnamara ACT 2615 ~540m2 asking $560000~N/A~N/A~N/A~N/A~540~N/A~N/A~
+Block K Section Ae, Macnamara ACT 2615 ~$858751~N/A~N/A~N/A~N/A~504~N/A~N/A~
+(no street name provided), Macnamara ACT 2615 ~$639,700~N/A~N/A~N/A~N/A~504~N/A~N/A~
+Block M Section Aa Street, Macnamara ACT 2615 ~$650,000~N/A~N/A~N/A~N/A~499~N/A~N/A~
+12 Ilma Stone Way, Macnamara ACT 2615 ~$675,000~N/A~N/A~N/A~N/A~744~N/A~N/A~
+Block O Section Bk, Macnamara ACT 2615 ~$695,000~N/A~N/A~N/A~N/A~N/A~N/A~N/A~
+20 Ilma Stone Way, Macnamara ACT 2615 ~$750,000~N/A~N/A~N/A~N/A~825~N/A~N/A~
+34 Ilma Stone Way, Macnamara ACT 2615 ~$980,000~N/A~N/A~N/A~N/A~350~210~N/A~
+(no street name provided), Macnamara ACT 2615 ~$990,000~N/A~N/A~N/A~N/A~450~N/A~N/A~
+(no street name provided), Macnamara ACT 2615 ~$1,099,000~N/A~N/A~N/A~N/A~439~225~N/A~
+(no street name provided), Macnamara ACT 2615 ~$1,199,000~N/A~N/A~N/A~N/A~439~N/A~N/A~
+14 Ginninderry, Macnamara ACT 2615 ~$1,276,260~N/A~N/A~N/A~N/A~439~N/A~N/A~

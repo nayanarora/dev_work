@@ -1,0 +1,10 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+46 Francis Forde Boulevard, Forde ACT 2914 ~$670,000~2~1~Townhouse~4.5~193~101~N/A~
+58 Hibberd Crescent, Forde ACT 2914 ~Offers Over $729,000~3~2~Townhouse~6.0~171~148~$344,000~
+10 Ridding Street, Forde ACT 2914 ~$790,000~2~1~House~5.5~328~101~$475,000~
+1 Eric Wright Street, Forde ACT 2914 ~$829,000~2~1~House~6.0~506~N/A~$561,000~
+20/16 Ray Ellis Crescent, Forde ACT 2914 ~$850,000~4~2~House~4.0~237~245~N/A~
+3 Justice Kelly Street, Forde ACT 2914 ~$870,000~3~1~House~6.0~520~156~$550,000~
+22 Buchan Crescent, Forde ACT 2914 ~$884,000~4~2~House~4.5~411~N/A~$560,000~
+6 Allnutt Crescent, Forde ACT 2914 ~$1,150,000~4~2~House~4.5~352~247~$470,000~
+12 Turbayne Crescent, Forde ACT 2914 ~$1,250,000~4~2~House~5.5~387~272~$536,000~

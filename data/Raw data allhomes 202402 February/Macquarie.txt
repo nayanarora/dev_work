@@ -1,0 +1,10 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+21/21 Wiseman Street, Macquarie ACT 2614 ~$310000~N/A~N/A~N/A~N/A~2286~N/A~$2,420,000~
+25/21 Wiseman Street, Macquarie ACT 2614 ~$320,000~N/A~N/A~N/A~N/A~2286~N/A~$2,420,000~
+56/15 Bowman Street, Macquarie ACT 2614 ~$390,000 ~N/A~N/A~N/A~N/A~3759~N/A~$5,250,000~
+9/21 Wiseman Street, Macquarie ACT 2614 ~$425,000~N/A~N/A~N/A~N/A~2286~N/A~$2,420,000~
+61/20 Bindubi Street, Macquarie ACT 2614 ~$520,000 ~N/A~N/A~N/A~N/A~3412~N/A~$2,772,000~
+6/15 Bowman Street, Macquarie ACT 2614 ~$645,000~N/A~N/A~N/A~N/A~3759~N/A~$5,250,000~
+1/35 Lochbuy Street, Macquarie ACT 2614 ~$750,000~N/A~N/A~N/A~N/A~426~N/A~N/A~
+42A Arndell Street, Macquarie ACT 2614 ~$899,000~N/A~N/A~N/A~N/A~271~N/A~N/A~
+2/60 Arndell Street, Macquarie ACT 2614 ~$975,000~N/A~N/A~N/A~N/A~409~N/A~N/A~

@@ -1,0 +1,30 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+64/20 Fairhall Street, Coombs ACT 2611 ~$399,000~1~1~Apartment~6.0~N/A~52~$7,340,000~
+39/2 Newchurch Street, Coombs ACT 2611 ~Offers Over $420,000~1~1~Unit / Apartment~6.0~N/A~63~$7,600,000~
+Del-Rey - 25/43 Arthur Blakeley Way, Coombs ACT 2611 ~$430,000~1~1~Apartment~6.2~N/A~N/A~N/A~
+Del-Rey - 2 Beds, 1 Bath, 1 Car Condominium, Coombs ACT 2611 ~$500,000~2~1~Apartment~7.0~N/A~N/A~N/A~
+Del-Rey - 2 Beds, 1 Bath, 1 Car Condominium, Coombs ACT 2611 ~$540,000~2~1~Apartment~7.0~N/A~N/A~N/A~
+81/2 Newchurch Street, Coombs ACT 2611 ~$550,000~2~2~Apartment~6.0~N/A~74~$7,600,000~
+115/2 Newchurch Street, Coombs ACT 2611 ~$550,000~2~2~Apartment~6.0~N/A~74~$7,600,000~
+Telfer Street, Coombs ACT 2611 ~$589,900~2~2~Apartment~7.8~808~N/A~$529,000~
+Del-Rey - 88/43 Arthur Blakeley Way, Coombs ACT 2611 ~$620,000~2~2~Apartment~7.7~N/A~N/A~N/A~
+The Crossing - Unit 65, Coombs ACT 2611 ~$665,000~2~3~Other~6.6~N/A~172~N/A~
+The Crossing - Unit 61, Coombs ACT 2611 ~$670,000~2~3~Other~6.6~N/A~172~N/A~
+The Crossing - Unit 78, Coombs ACT 2611 ~$680,000~2~3~Other~6.6~N/A~172~N/A~
+The Crossing - Unit 66, Coombs ACT 2611 ~$680,000~2~3~Other~6.6~N/A~172~N/A~
+Del-Rey - 2 Bed, 2 Bath, 2 Car Condominium, Coombs ACT 2611 ~$690,000~2~2~Apartment~7.0~N/A~N/A~N/A~
+Del-Rey - 95/43 Arthur Blakeley Way, Coombs ACT 2611 ~$690,000~2~2~Apartment~7.4~N/A~N/A~N/A~
+Del-Rey - 3 Beds, 2 Baths, 2 Cars Condominium, Coombs ACT 2611 ~$690,000~3~2~Apartment~7.0~N/A~N/A~N/A~
+9 Bakewell Street, Coombs ACT 2611 ~$700,000~3~2~Townhouse~6.0~N/A~N/A~$6,750,000~
+22B Castan Street, Coombs ACT 2611 ~$749000~3~2~Townhouse~6.0~N/A~N/A~$6,750,000~
+16 John Gorton Drive, Coombs ACT 2611 ~$765,000~4~3~House~6.0~9802~140~$6,300,000~
+15/1 Calaby Street, Coombs ACT 2611 ~$775,000~3~2~Townhouse~5.0~N/A~143~$3,300,000~
+Del-Rey - Brand New Penthouse, Coombs ACT 2611 ~$780,000~2~2~Apartment~7.1~N/A~N/A~N/A~
+FORM - 3 bedroom 2 bathroom with single car garage, Coombs ACT 2611 ~$850,000~3~1~Townhouse~7.9~N/A~118~N/A~
+FORM - 3 bedroom 2 bathroom with double car garage, Coombs ACT 2611 ~$890,000~3~1~Townhouse~7.7~N/A~134~N/A~
+4 Bill Leng Street, Coombs ACT 2611 ~$949,000~4~2~House~4.5~N/A~N/A~$388,000~
+FORM - North-facing 3 bedroom with double garage, Coombs ACT 2611 ~$1,000,000~3~1~Other~7.0~N/A~165~N/A~
+FORM - Huge 3 bedroom townhome, Coombs ACT 2611 ~$1,200,000~3~1~Other~8.2~N/A~218~N/A~
+71 Fred Daly Avenue, Coombs ACT 2611 ~$1,400,000~4~2~House~6.0~592~257~$464,000~
+(no street name provided), Coombs ACT 2611 ~$1,650,000~3~2~House~6.0~450~263~$445,000~
+16 Ena Noel Street, Coombs ACT 2611 ~Offers Over $1,899,000~4~2~House~4.5~534~226~$445,000~

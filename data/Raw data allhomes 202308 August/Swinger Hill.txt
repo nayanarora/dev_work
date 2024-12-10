@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+86 Barnet Close, Swinger Hill ACT 2606 ~$850,000~3~2~House~3.5~244~131~N/A~

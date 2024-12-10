@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+75 Summerville Cres, Florey ACT 2615 ~$1,085,000 ~4~2~House~2.0~816~168~$573,000~

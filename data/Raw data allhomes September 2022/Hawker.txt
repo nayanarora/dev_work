@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+15 Mataranka Street, Hawker ACT 2614 ~$1,250,000~4~2~House~1.5~1130~159~$853,000~

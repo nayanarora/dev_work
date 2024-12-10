@@ -1,0 +1,3 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+19 Djerrkura Street, Bonner ACT 2914 ~$1,080,000~4~2~House~6.0~557~N/A~$340,000~
+118 Rob Riley Circuit, Bonner ACT 2914 ~$1,200,000~4~2~House~4.5~590~N/A~$355,000~

@@ -1,0 +1,11 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+15/77 Macarthur Avenue, O'Connor ACT 2602 ~$399,000~1~1~Apartment~6.0~2106~N/A~$3,530,000~
+21/77 Macarthur Avenue, O'Connor ACT 2602 ~$435,000~1~1~Apartment~6.0~2106~N/A~$3,530,000~
+6/4 Hardman Street, O'Connor ACT 2602 ~$499,000~1~1~Apartment~5.0~1661~N/A~$2,475,000~
+102A Miller Street, O'Connor ACT 2602 ~$980,000~3~1~House~N/A~365~N/A~N/A~
+MADE - Unit 1, 31 Berrigan Street, O'Connor ACT 2602 ~$1,390,000~3~2~Townhouse~6.0~N/A~N/A~N/A~
+MADE - Unit 2, O'Connor ACT 2602 ~$1,390,000~3~2~Townhouse~6.0~N/A~N/A~N/A~
+156 Miller Street, O'Connor ACT 2602 ~$1,400,000~4~2~House~1.5~664~171~$1,038,000~
+2/10A Lilley Street, O'Connor ACT 2602 ~$1,600,000~4~3~House~5.5~N/A~N/A~N/A~
+143 Miller Street, O'Connor ACT 2602 ~$2,650,000~4~2~House~5.0~780~319~$1,120,000~
+4 Grevillea Street, O'Connor ACT 2602 ~$2,795,000~5~5~House~6.0~700~N/A~$1,120,000~

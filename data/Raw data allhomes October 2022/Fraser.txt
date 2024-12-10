@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+63 Shakespeare Crescent, Fraser ACT 2615 ~$1,075,000~5~2~House~N/A~1133~N/A~$534,000~

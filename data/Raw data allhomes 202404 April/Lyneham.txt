@@ -1,0 +1,43 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+15A/62 Wattle Street, Lyneham ACT 2602 ~$350,000~1~1~Apartment~2.5~8761~N/A~$6,750,000~
+810/241 Northbourne Avenue, Lyneham ACT 2602 ~$370,000~1~1~Unit / Apartment~6.0~1740~N/A~$4,500,000~
+The Legacy Units at Northbourne Village - Stylish Inner-City Living, Lyneham ACT 2602 ~$399,000~N/A~1~Studio~6.0~N/A~N/A~N/A~
+19/60 Wattle Street, Lyneham ACT 2602 ~$405,000~2~1~Apartment~2.5~11200.000000000002~N/A~$8,280,000~
+157/1 Mouat Street, Lyneham ACT 2602 ~$420,000~1~1~Unit / Apartment~5.0~11200.000000000002~N/A~$19,950,000~
+507/241 Northbourne Avenue, Lyneham ACT 2602 ~$438,000~1~1~Apartment~6.0~1740~N/A~$4,500,000~
+102/1 Mouat Street, Lyneham ACT 2602 ~$450,000~1~1~Apartment~6.0~11200.000000000002~N/A~$19,950,000~
+6C/62 Wattle Street, Lyneham ACT 2602 ~$475,000~2~1~Unit / Apartment~5.5~8761~N/A~$6,750,000~
+The Sullivan at Northbourne Village - 111/349 Northbourne Ave, Lyneham ACT 2602 ~$479,000~1~1~Apartment~6.0~N/A~N/A~N/A~
+De Burgh at Northbourne Village - Type 1, Lyneham ACT 2602 ~$490,000~1~1~Apartment~6.0~N/A~N/A~N/A~
+De Burgh at Northbourne Village - Inner-city 1 Bed, Lyneham ACT 2602 ~$495,000~1~1~Apartment~6.0~N/A~N/A~N/A~
+293/1 Mouat Street, Lyneham ACT 2602 ~$499,000~2~1~Unit / Apartment~6.0~11200.000000000002~N/A~$19,950,000~
+De Burgh at Northbourne Village - Executive 1 Bed, Lyneham ACT 2602 ~$538,000~1~1~Apartment~6.0~N/A~N/A~N/A~
+110/355 Northbourne Avenue, Lyneham ACT 2602 ~$570,000~1~1~Apartment~6.5~N/A~N/A~N/A~
+505/100 De Burgh Street, Lyneham ACT 2602 ~$570,000~1~1~Apartment~6.0~5094~N/A~N/A~
+2/253 Northbourne Avenue, Lyneham ACT 2602 ~$599,000~2~2~Apartment~6.0~4404~N/A~$10,620,000~
+606/349 Northbourne Avenue, Lyneham ACT 2602 ~$619000~2~1~Apartment~8.0~5094~N/A~N/A~
+10/1 Edwell Place, Lyneham ACT 2602 ~Offers over $635,000~2~1~Townhouse~2.5~203~N/A~N/A~
+407/100 De Burgh Street, Lyneham ACT 2602 ~$659,000~2~2~Apartment~6.0~5094~N/A~N/A~
+9/26 De Burgh Street, Lyneham ACT 2602 ~$660,000~3~2~Apartment~6.0~676~N/A~$1,800,000~
+308/1 Mouat Street, Lyneham ACT 2602 ~$665,000~2~2~Unit / Apartment~6.0~11200.000000000002~N/A~$19,950,000~
+The Sullivan at Northbourne Village - 115/349 Northbourne Ave, Lyneham ACT 2602 ~$665,000~2~1~Apartment~6.0~N/A~N/A~N/A~
+412/349 Northbourne Avenue, Lyneham ACT 2602 ~$680,000~2~1~Unit / Apartment~7.0~5094~N/A~N/A~
+De Burgh at Northbourne Village - Premium Investment, Lyneham ACT 2602 ~$687,000~2~1~Apartment~6.0~N/A~N/A~N/A~
+603/349 Northbourne Avenue, Lyneham ACT 2602 ~$699,900~2~2~Apartment~6.5~5094~N/A~N/A~
+G02/100 De Burgh Street, Lyneham ACT 2602 ~$719,000~2~2~Apartment~6.0~N/A~N/A~N/A~
+De Burgh at Northbourne Village - Stylish 2 Bed Apartment, Lyneham ACT 2602 ~$749,000~2~2~Apartment~6.0~N/A~N/A~N/A~
+6/64 Goodwin Street, Lyneham ACT 2602 ~Offers over $750,000 ~2~2~Townhouse~6.0~2126~N/A~$2,800,000~
+De Burgh at Northbourne Village - Type 8, Lyneham ACT 2602 ~$772,000~2~2~Apartment~6.0~N/A~N/A~N/A~
+The Sullivan at Northbourne Village - 803/349 Northbourne Ave, Lyneham ACT 2602 ~$773,750~2~2~Apartment~6.0~N/A~N/A~N/A~
+The Sullivan at Northbourne Village - 205/100 De Burgh St, Lyneham ACT 2602 ~$790,000~2~2~Apartment~6.0~N/A~N/A~N/A~
+11/64 Goodwin Street, Lyneham ACT 2602 ~$924499~3~2~Townhouse~6.0~2126~N/A~$2,800,000~
+The Sullivan at Northbourne Village - Final 3 Bed with Views, Lyneham ACT 2602 ~$990,000~3~2~Apartment~6.0~N/A~N/A~N/A~
+165/50 Ellenborough Street, Lyneham ACT 2602 ~$1,049,000~3~2~Townhouse~5.0~220~N/A~N/A~
+De Burgh at Northbourne Village - Two-Storey 3 Bed, Lyneham ACT 2602 ~$1,050,000~3~2~Apartment~6.0~N/A~N/A~N/A~
+79/50 Ellenborough Street, Lyneham ACT 2602 ~$1,050,000~3~2~Townhouse~4.5~87899.99999999999~N/A~N/A~
+206/100 De Burgh Street, Lyneham ACT 2602 ~$1,100,000~3~2~Apartment~6.0~5094~N/A~N/A~
+28/50 Ellenborough Street, Lyneham ACT 2602 ~$1,110,000~3~2~Townhouse~4.5~234~N/A~N/A~
+506/100 De Burgh Street, Lyneham ACT 2602 ~$1,150,000~3~2~Apartment~6.0~5094~N/A~N/A~
+50 Mackennal Street, Lyneham ACT 2602 ~$1,150,000~3~2~House~2.0~683~N/A~$874,000~
+123 Goodwin Street, Lyneham ACT 2602 ~$1,250,000~4~2~House~3.5~441~N/A~$709,000~
+12 Von Guerard Crescent, Lyneham ACT 2602 ~$1,885,000~4~3~House~4.5~740~286~$879,000~

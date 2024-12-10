@@ -1,0 +1,7 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+11 Platypus Place, Nicholls ACT 2913 ~Offers above $935,000 invited~3~2~House~4.5~441~137~$580,000~
+7 Rosella Street, Nicholls ACT 2913 ~$995,000~3~2~House~2.5~423~208~$561,000~
+43 Freda Bennett Circuit, Nicholls ACT 2913 ~$1,080,000~5~2~House~3.5~719~156~$566,000~
+6 Monfries Place, Nicholls ACT 2913 ~$1,650,000~5~3~House~4.5~743~399~$691,000~
+40 Temperley Street, Nicholls ACT 2913 ~$1,775,000~5~2~House~3.0~869~295~$775,000~
+50 Sue Geh Circuit, Nicholls ACT 2913 ~$1,990,000~5~2~House~4.0~969~442~$830,000~

@@ -1,0 +1,14 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+21 Snodgrass Crescent, Kambah ACT 2902 ~$595,000~2~1~Retirement Village~N/A~36800.0~N/A~$6,300,000~
+37 Bosworth Circuit, Kambah ACT 2902 ~$650,000~3~1~House~N/A~372~106~$312,000~
+5/37 Wyselaskie Circuit, Kambah ACT 2902 ~$720,000~3~1~Townhouse~2.0~N/A~N/A~N/A~
+45/87 Crozier Circuit, Kambah ACT 2902 ~$744,000~3~1~Townhouse~1.0~117~102~N/A~
+21 Snodgrass Crescent, Kambah ACT 2902 ~$755,000~3~1~Retirement Village~N/A~36800.0~N/A~$6,300,000~
+4 Lovegrove Place, Kambah ACT 2902 ~$765,000~3~1~House~3.4~780~N/A~$500,000~
+7 Tiernan Place, Kambah ACT 2902 ~$770,000~4~1~House~1.5~702~N/A~$461,000~
+15 Severne Crescent, Kambah ACT 2902 ~$950,000~4~2~House~2.5~844~163~$510,000~
+2/4 Kearne Place, Kambah ACT 2902 ~$1,050,000~4~2~House~6.0~N/A~152~N/A~
+1/75 Mt Vernon Drive, Kambah ACT 2902 ~$1,080,000~4~2~Townhouse~2.5~444~182~N/A~
+19 Barritt Street, Kambah ACT 2902 ~$1,150,000~5~3~House~4.5~424~193~N/A~
+25 Mt Vernon Drive, Kambah ACT 2902 ~$1.35m~6~3~House~2.0~1073~N/A~$620,000~
+45 McDermott Street, Kambah ACT 2902 ~$1,429,000~4~3~House~6.0~697~N/A~$428,000~

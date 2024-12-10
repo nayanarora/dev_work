@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+1/9 Lidgett Place, Florey ACT 2615 ~$610,000~2~1~Townhouse~1.5~321~N/A~N/A~

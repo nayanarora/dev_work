@@ -1,0 +1,10 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+30/5 Crest Road, Crestwood NSW 2620 ~$294750~2~1~Unit / Apartment~N/A~4830~N/A~N/A~
+42/85 Derrima Road, Crestwood NSW 2620 ~$317000~2~1~Apartment~N/A~4774~N/A~N/A~
+3/2 Velacia Place, Crestwood NSW 2620 ~$344000~2~1~Unit / Apartment~N/A~N/A~N/A~N/A~
+8/7-9 Blackall Avenue, Crestwood NSW 2620 ~$660000~3~2~House~N/A~2787~N/A~N/A~
+14 Young Street, Crestwood NSW 2620 ~$680000~1~1~House~N/A~852~N/A~N/A~
+10 Hunt Place, Crestwood NSW 2620 ~$764000~3~1~House~N/A~671~N/A~N/A~
+120 Morton Street, Crestwood NSW 2620 ~$875000~3~1~House~N/A~777~N/A~N/A~
+1 Heather Street, Crestwood NSW 2620 ~$895,000~4~3~House~N/A~632~N/A~N/A~
+37 Hutchison Circuit, Crestwood NSW 2620 ~$1185000~4~2~House~N/A~635~175~N/A~

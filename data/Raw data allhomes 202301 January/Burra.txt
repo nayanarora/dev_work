@@ -1,0 +1,7 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+1196 Burra Road, Burra NSW 2620 ~$1225000~2~1~House~N/A~10000.0~N/A~N/A~
+1485 Burra Road, Burra NSW 2620 ~$1,500,000~3~1~House~N/A~50000.0~N/A~N/A~
+171 Urila Road, Burra NSW 2620 ~$1,550,000~4~2~House~N/A~213100.0~180~N/A~
+40 Moore Road, Burra NSW 2620 ~$1,700,000~5~2~House~N/A~471500.0~288~N/A~
+57 Urila Road, Burra NSW 2620 ~$2,290,000~8~4~Rural~N/A~92000.0~N/A~N/A~
+133 MacDiarmid Road, Burra NSW 2620 ~$2,350,000~5~2~House~N/A~149900.0~380~N/A~

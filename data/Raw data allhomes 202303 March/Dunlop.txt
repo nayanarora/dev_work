@@ -1,0 +1,8 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+7/8 Jeff Snell Crescent, Dunlop ACT 2615 ~$499,000~2~2~Apartment~4.0~703~107~$109,120~
+2/52 Jeff Snell Crescent, Dunlop ACT 2615 ~$520,000~2~1~Townhouse~5.5~1231~70~$91,440~
+22 Excalibur Street, Dunlop ACT 2615 ~$585,000~2~1~House~5.5~244~83~$275,000~
+230 Kerrigan Street, Dunlop ACT 2615 ~$649,000~3~1~House~5.0~217~102~$254,000~
+76 Jeff Snell Crescent, Dunlop ACT 2615 ~$675,000~3~1~House~5.0~242~119~$275,000~
+13 Favco Place, Dunlop ACT 2615 ~$920,000~4~2~House~3.5~341~173~$334,000~
+22 Branson Street, Dunlop ACT 2615 ~$1,020,000~4~2~House~5.0~463~N/A~$372,000~

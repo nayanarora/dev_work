@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+11/23 Heidelberg Street, Conder ACT 2906 ~$589,000~3~1~Unit / Apartment~1.5~245~98~N/A~
+6 Lake Place, Conder ACT 2906 ~$799,000~3~2~House~2.0~868~N/A~$485,000~
+52 Templestowe Avenue, Conder ACT 2906 ~Offers Over $849,000~4~1~House~4.0~711~144~$401,000~
+9 Veal Place, Conder ACT 2906 ~$849,900~4~2~House~2.0~828~N/A~$469,000~
+15 Llewellyn Loop, Conder ACT 2906 ~$895,000~4~2~House~4.5~614~N/A~$451,000~

@@ -1,0 +1,14 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+Aspen Village - Tuggeranong's Most Exciting New Precinct, Greenway ACT 2900 ~$301,900~1~1~Apartment~5.0~N/A~N/A~N/A~
+Aspen Village - Greenway's Newest Community, Greenway ACT 2900 ~$305,900~1~1~Apartment~5.0~N/A~N/A~N/A~
+Aspen Village - Gateway to Adventure, Greenway ACT 2900 ~$309,900~1~1~Apartment~5.0~N/A~N/A~N/A~
+Aspen Village - On the Edge of Lake Tuggeranong, Greenway ACT 2900 ~$332,900~1~1~Apartment~5.0~N/A~N/A~N/A~
+296/325 Anketell Street, Greenway ACT 2900 ~$350,000~1~1~Apartment~6.0~N/A~50~N/A~
+Aspen Village - Construction Underway, Greenway ACT 2900 ~$438,900~2~2~Apartment~5.0~N/A~N/A~N/A~
+94/35 Oakden Street, Greenway ACT 2900 ~$439,000~2~2~Apartment~6.0~7286~N/A~N/A~
+Aspen Village - The Peak of Luxury, Greenway ACT 2900 ~$510,900~2~2~Apartment~5.0~N/A~N/A~N/A~
+12/6 Ellison Harvie Close, Greenway ACT 2900 ~$560,000~3~1~Townhouse~6.0~N/A~N/A~N/A~
+21 Cynthea Teague Crescent, Greenway ACT 2900 ~$779,900~3~3~Townhouse~6.5~N/A~N/A~N/A~
+Rowland Reece Crescent, Greenway ACT 2900 ~$949,900~4~1~Townhouse~7.5~N/A~N/A~N/A~
+Terraces Greenway - 1/1 Rowland Rees Crescent, Greenway ACT 2900 ~$1,300,000~5~2~Townhouse~5.0~N/A~N/A~N/A~
+1/1 Rowland Rees Crescent, Greenway ACT 2900 ~$1,400,000~5~2~Townhouse~7.1~N/A~415~N/A~

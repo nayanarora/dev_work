@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+32 Rogers Street, Fraser ACT 2615 ~$1,180,000~6~3~House~1.0~1061~227~$534,000~

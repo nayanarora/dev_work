@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+18 The Verge, Swinger Hill ACT 2606 ~$860,000~3~2~Townhouse~1.0~N/A~162~N/A~

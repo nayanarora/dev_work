@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+3 Themeda Place, Rivett ACT 2611 ~$775,000~2~1~House~2.0~737~N/A~$567,000~
+237 Hindmarsh Drive, Rivett ACT 2611 ~$1,100,000~5~2~House~0.5~830~158~$574,000~
+60 Carbeen Street, Rivett ACT 2611 ~$1,149,000~4~2~House~3.5~728~N/A~$561,000~
+123 Darwinia Terrace, Rivett ACT 2611 ~$1,399,000 ~4~2~House~2.0~1130~150~$650,000~

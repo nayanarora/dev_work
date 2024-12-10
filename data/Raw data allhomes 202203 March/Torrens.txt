@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+8 Howard Street, Torrens ACT 2607 ~$1,200,000~4~1~House~2.0~933~N/A~$601,000~

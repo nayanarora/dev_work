@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+4 Gamor Street, Waramanga ACT 2611 ~$1,649,000~5~2~House~2.5~736~245~$431,000~

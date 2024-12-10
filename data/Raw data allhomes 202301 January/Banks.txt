@@ -1,0 +1,7 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+15/35 Brockway Circuit, Banks ACT 2906 ~$700,000~3~2~Townhouse~5.5~289~155~N/A~
+23 McLuckie Crescent, Banks ACT 2906 ~Offers Over $719,000~3~1~House~0.5~525~101~$369,000~
+9/41 Wiburd Street, Banks ACT 2906 ~$749,000~3~1~Townhouse~6.0~380~96~N/A~
+12/35 Brockway Circuit, Banks ACT 2906 ~Offers Over $759,000~4~2~Townhouse~5.5~344~N/A~N/A~
+2 Adcock Place, Banks ACT 2906 ~$950,000~4~1~House~4.5~831~N/A~$451,000~
+24 Olive Pink Crescent, Banks ACT 2906 ~$1,100,000~4~1~House~4.5~627~N/A~$493,000~

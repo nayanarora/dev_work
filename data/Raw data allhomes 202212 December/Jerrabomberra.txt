@@ -1,0 +1,16 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+5/1-7 Torpy Place, Jerrabomberra NSW 2619 ~$625,000~3~1~Townhouse~N/A~2949~N/A~N/A~
+14/17 Brudenell Drive, Jerrabomberra NSW 2619 ~$650000~2~1~House~N/A~6449~N/A~N/A~
+37 Unwin Avenue, Jerrabomberra NSW 2619 ~$749,000~3~2~House~N/A~266~N/A~N/A~
+33 Unwin Avenue, Jerrabomberra NSW 2619 ~$890000~3~2~House~N/A~510~N/A~N/A~
+16 Kinlyside Avenue, Jerrabomberra NSW 2619 ~$929000~3~2~House~N/A~800~N/A~N/A~
+43 Stringybark Drive, Jerrabomberra NSW 2619 ~$972000~4~2~House~N/A~615~N/A~N/A~
+2/11 Urangarra Place, Jerrabomberra NSW 2619 ~$1000000~4~2~House~N/A~487~187~N/A~
+12 Alder Close, Jerrabomberra NSW 2619 ~$999,000~4~2~House~N/A~628~N/A~N/A~
+52 Pannamena Crescent, Jerrabomberra NSW 2619 ~$1150000~4~2~House~N/A~554~302~N/A~
+11 Allambee Street, Jerrabomberra NSW 2619 ~$0~4~3~House~N/A~814~N/A~N/A~
+211 Bicentennial Drive, Jerrabomberra NSW 2619 ~$1350000~5~3~House~N/A~783~N/A~N/A~
+47 Forest Drive, Jerrabomberra NSW 2619 ~$1425000~4~2~House~N/A~950~323~N/A~
+66 Waterfall Drive, Jerrabomberra NSW 2619 ~$1572500~5~3~House~N/A~986~272~N/A~
+5 Hickory Place, Jerrabomberra NSW 2619 ~$1715000~4~3~House~N/A~900~N/A~N/A~
+23 Lakeview Gardens, Jerrabomberra NSW 2619 ~$1,949,000~3~2~House~N/A~1037~293~N/A~

@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+10 Frayne Place, Stirling ACT 2611 ~$1,100,000~4~3~House~1.5~669~166~$465,000~

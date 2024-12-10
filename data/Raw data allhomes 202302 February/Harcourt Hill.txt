@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+1 Barclay Place, Nicholls ACT 2913 ~$1,750,000~6~3~House~4.5~821~429~$754,000~

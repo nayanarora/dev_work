@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+4/5 Taronga Place, O'Malley ACT 2606 ~$1,295,000~4~2~Townhouse~2.5~513~N/A~N/A~
+9 Timbarra Crescent, O'Malley ACT 2606 ~$2,750,000~4~2~House~2.5~2272~N/A~$1,627,000~
+Culgoa Circuit, O'Malley ACT 2606 ~$3,200,000~5~3~House~N/A~N/A~N/A~N/A~
+11 Gerogery Place, O'Malley ACT 2606 ~$3,395,000~7~4~House~1.5~1576~748~$1,658,000~

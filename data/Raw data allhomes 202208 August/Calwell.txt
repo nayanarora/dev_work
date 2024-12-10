@@ -1,0 +1,8 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+3 Wettenhall Circuit, Calwell ACT 2905 ~$0~4~2~House~1.5~669~N/A~$455,000~
+12 Johnstone Circuit, Calwell ACT 2905 ~$879,000~4~2~House~4.5~702~189~$488,000~
+72 Costello Circuit, Calwell ACT 2905 ~$899,000~4~2~House~1.0~774~220~$430,000~
+36 Martley Circuit, Calwell ACT 2905 ~$919,000~4~2~House~3.0~796~147~$397,000~
+73 O'Connor Circuit, Calwell ACT 2905 ~$925,000~4~3~House~N/A~906~187~$438,000~
+123 Outtrim Avenue, Calwell ACT 2905 ~$960,000~4~1~House~0.5~718~N/A~$370,000~
+61 O'Connor Circuit, Calwell ACT 2905 ~$1,040,000~5~2~House~1.0~964~N/A~$468,000~

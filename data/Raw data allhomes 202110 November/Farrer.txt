@@ -1,0 +1,3 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+13 Pudney Street, Farrer ACT 2607 ~$1,450,000~4~1~House~1.0~880~N/A~$614,000~
+3 Crowe Place, Farrer ACT 2607 ~$1,850,000~5~3~House~2.5~841~367~$614,000~

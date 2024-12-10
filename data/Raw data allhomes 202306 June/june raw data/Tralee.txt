@@ -1,0 +1,40 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+51 Tassel Terrace, Tralee NSW 2620 ~$695,000~3~2~House~6.0~160~N/A~N/A~
+30 Saltbush Parade, Tralee NSW 2620 ~$789000~3~2~House~N/A~325~126~N/A~
+Lot 309 Section Am, Tralee NSW 2620 ~$790,000~3~2~House~N/A~N/A~N/A~N/A~
+20 Tassel Terrace, Tralee NSW 2620 ~$795,000~3~2~House~N/A~298~147~N/A~
+23 Saltbush Parade, Tralee NSW 2620 ~$799,000~3~2~House~N/A~171~N/A~N/A~
+VIVA - Storksbill Terrace, South Jerrabomberra NSW 2620 ~$820,000~3~2~Townhouse~N/A~N/A~174~N/A~
+VIVA - 26 Storksbill Terrace, South Jerrabomberra NSW 2620 ~$820,000~4~2~Townhouse~N/A~N/A~174~N/A~
+15 Saltbush Parade, Tralee NSW 2620 ~$825,000~3~2~House~N/A~247~149~N/A~
+8 Oxalis Crescent, Tralee NSW 2620 ~$913500~4~2~House~N/A~330~250~N/A~
+South Jerrabomberra Homes by The Village Building Co - Lot 922, Tralee NSW 2620 ~$829,900~3~2~House and Land Package~N/A~N/A~164~N/A~
+South Jerrabomberra Homes by The Village Building Co - Lot 920, Tralee NSW 2620 ~$834,900~3~2~House and Land Package~N/A~N/A~N/A~N/A~
+The Gateway at South Jerrabomberra - Lot 704, South Jerrabomberra NSW 2620 ~$844,695~3~2~Other~N/A~N/A~136~N/A~
+(no street name provided), South Jerrabomberra NSW 2620 ~$849,000~4~1~House and Land Package~N/A~350~190~N/A~
+22 Saltbush Parade, Tralee NSW 2620 ~$850,000~4~2~House~N/A~180~230~N/A~
+(no street name provided), South Jerrabomberra NSW 2620 ~$855,000~4~1~House and Land Package~N/A~350~189~N/A~
+South Jerrabomberra Homes by The Village Building Co - Lot 918, Tralee NSW 2620 ~$864,900~4~2~House and Land Package~N/A~N/A~N/A~N/A~
+South Jerrabomberra Homes by The Village Building Co - Lot 914, Tralee NSW 2620 ~$869,900~4~2~House and Land Package~N/A~N/A~N/A~N/A~
+VIVA - 18 Storksbill Terrace, South Jerrabomberra NSW 2620 ~$875,000~4~2~Townhouse~N/A~N/A~182~N/A~
+(no street name provided), South Jerrabomberra NSW 2620 ~$889,000~4~1~House and Land Package~N/A~348~210~N/A~
+VIVA - 32 Storksbill Terrace, South Jerrabomberra NSW 2620 ~$900,000~3~2~Townhouse~N/A~N/A~182~N/A~
+The Gateway at South Jerrabomberra - Lot 702, South Jerrabomberra NSW 2620 ~$902,863~4~2~House and Land Package~N/A~N/A~203~N/A~
+(no street name provided), South Jerrabomberra NSW 2620 ~$923350~4~1~House and Land Package~N/A~417~211~N/A~
+The Gateway at South Jerrabomberra - Lot 705, South Jerrabomberra NSW 2620 ~$947,103~5~2~House and Land Package~N/A~N/A~170~N/A~
+693 Oxalis Crescent, Tralee NSW 2620 ~From $ 951,668*~4~2~House~N/A~N/A~N/A~N/A~
+South Jerrabomberra Homes by The Village Building Co - Lot 929, Tralee NSW 2620 ~$952,900~5~2~House and Land Package~N/A~N/A~N/A~N/A~
+30 Alpine Ash Way, Tralee NSW 2620 ~$975000~4~2~House~N/A~430~N/A~N/A~
+58 Alpine Ash Way, Tralee NSW 2620 ~$977500~4~2~House~N/A~477~209~N/A~
+South Jerrabomberra Homes by The Village Building Co - Lot 904, Tralee NSW 2620 ~$967,900~5~2~House and Land Package~N/A~N/A~N/A~N/A~
+60 Alpine Ash Way, Tralee NSW 2620 ~$995000~4~2~House~N/A~461~191~N/A~
+The Gateway at South Jerrabomberra - Lot 700, South Jerrabomberra NSW 2620 ~$979,206~4~2~House and Land Package~N/A~N/A~229~N/A~
+(no street name provided), South Jerrabomberra NSW 2620 ~$985,000~4~1~House and Land Package~N/A~350~207~N/A~
+(no street name provided), Tralee NSW 2620 ~$998,000~4~2~House and Land Package~N/A~361~211~N/A~
+(no street name provided), South Jerrabomberra NSW 2620 ~$1,029,000~5~1~House and Land Package~N/A~616~216~N/A~
+(no street name provided), South Jerrabomberra NSW 2620 ~$1,061,500~4~1~House and Land Package~N/A~630~221~N/A~
+98 Oxalis Crescent, Tralee NSW 2620 ~$1087500~4~1~House~N/A~420~N/A~N/A~
+20 Violet Terrace, South Jerrabomberra NSW 2620 ~$1,080,000~4~1~House~N/A~492~259~N/A~
+15 Maidenhair Road, Tralee NSW 2620 ~$1,090,000~4~2~House~N/A~294~240~N/A~
+The Gateway at South Jerrabomberra - Lot 698, South Jerrabomberra NSW 2620 ~$1,105,400~4~2~House~N/A~N/A~N/A~N/A~
+The Gateway at South Jerrabomberra - Lot 697, South Jerrabomberra NSW 2620 ~$1,143,990~4~3~House~N/A~N/A~306~N/A~

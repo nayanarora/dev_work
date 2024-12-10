@@ -1,0 +1,8 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+24 Hibberd Crescent, Forde ACT 2914 ~$715,000~2~1~House~6.0~225~180~$293,800~
+75 Hibberd Crescent, Forde ACT 2914 ~$769,000~3~2~House~6.0~220~N/A~$344,000~
+22 Buchan Crescent, Forde ACT 2914 ~$950,000~4~2~House~4.5~411~N/A~$560,000~
+38 Zakharov Avenue, Forde ACT 2914 ~$1,109,000~3~2~House~5.0~638~217~$550,000~
+(no street name provided), Forde ACT 2914 ~$1,209,000~4~3~House~6.0~370~194~$511,000~
+29 Hibberd Crescent, Forde ACT 2914 ~$1275000~4~2~House~5.0~611~250~$688,000~
+13 Phyllis Frost Street, Forde ACT 2914 ~$1,379,000~5~2~House~6.0~822~322~$785,000~

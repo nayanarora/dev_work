@@ -1,0 +1,7 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+1/24 Hugh McKay Crescent, Dunlop ACT 2615 ~$649,000~3~1~Townhouse~3.5~388~N/A~N/A~
+3 Tarrant Crescent, Dunlop ACT 2615 ~$750,000~3~2~House~4.5~500~137~$390,000~
+5/9 Gouldsmith Street, Dunlop ACT 2615 ~$759,000~3~2~Townhouse~5.0~382~N/A~N/A~
+36 Lance Hill Avenue, Dunlop ACT 2615 ~$769,000~3~1~House~4.0~597~102~$472,000~
+39 Sunshine Loop, Dunlop ACT 2615 ~  $919,000~4~2~House~3.0~547~185~$419,000~
+5 Koerstz Street, Dunlop ACT 2615 ~$1,025,000~4~2~House~6.0~712~232~$493,000~

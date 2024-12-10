@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+29/21 Wiseman Street, Macquarie ACT 2614 ~$330,000~1~1~Apartment~6.0~2286~72~$45,496~
+12 Nairn Place, Macquarie ACT 2614 ~$725,000~2~1~House~1.0~257~N/A~$545,000~
+6/79 Blackman Crescent, Macquarie ACT 2614 ~$799,000~3~2~House~1.5~N/A~N/A~N/A~

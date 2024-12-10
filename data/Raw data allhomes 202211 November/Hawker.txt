@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+49 Elkedra Close, Hawker ACT 2614 ~$775,000~3~2~Townhouse~1.5~316~94~$434,000~
+23 Elkedra Close, Hawker ACT 2614 ~$780,000~3~1~Townhouse~1.5~297~89~$462,000~
+30 Kulgera Street, Hawker ACT 2614 ~$1,149,000~4~2~House~1.0~825~N/A~$726,000~
+17 Florina Place, Hawker ACT 2614 ~Offers over $1,550,000~4~5~House~3.0~1802~475~$925,000~
+31 Marrakai Street, Hawker ACT 2614 ~$1,550,000~4~2~House~4.5~1430~235~$1,155,000~

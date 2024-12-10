@@ -1,0 +1,14 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+12 Burnett Street, Kaleen ACT 2617 ~$880,000~5~2~House~2.0~914~204~$708,000~
+16 Glenelg Street, Kaleen ACT 2617 ~$899,000~3~1~House~0.5~741~114~$664,000~
+119 Maribyrnong Avenue, Kaleen ACT 2617 ~Offers over $950,000~4~1~House~1.0~864~N/A~$664,000~
+13 Blythe Close, Kaleen ACT 2617 ~$989,000~3~1~House~1.5~724~N/A~$604,000~
+73 Maribyrnong Avenue, Kaleen ACT 2617 ~$1,050,000~4~2~House~2.5~826~124~$695,000~
+3 Darby Street, Kaleen ACT 2617 ~$1,060,000~3~2~House~1.5~820~N/A~$664,000~
+11 Fitzmaurice Street, Kaleen ACT 2617 ~$1,089,000~4~2~House~3.0~878~206~$664,000~
+24 Darby Street, Kaleen ACT 2617 ~Offers over $1,150,000~3~2~House~2.0~921~172~$695,000~
+3 Inman Place, Kaleen ACT 2617 ~$1,180,000~4~2~House~2.0~882~167~$687,000~
+41 Pokana Circuit, Kaleen ACT 2617 ~$1,199,000~5~2~House~2.0~772~N/A~$683,000~
+10 Bingham Circuit, Kaleen ACT 2617 ~$1,200,000~4~2~House~1.5~816~177~$683,000~
+46 Daintree Crescent, Kaleen ACT 2617 ~$1,250,000~4~2~House~3.0~727~173~$664,000~
+12 Sanford Place, Kaleen ACT 2617 ~$1,489,000~5~2~House~3.5~883~250~$687,000~

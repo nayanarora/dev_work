@@ -1,0 +1,11 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+The Parks - 1 Bedroom Apartment, Red Hill ACT 2603 ~$699,900~1~1~Apartment~N/A~14700.0~76~$3,727,000~
+The Parks - 1 Bedroom Apartment, Red Hill ACT 2603 ~$870,900~1~1~Apartment~N/A~14700.0~111~$3,727,000~
+4 Cimba Lane, Red Hill ACT 2603 ~$1,600,000~3~2~House~7.4~150~N/A~$540,000~
+82 Monaro Crescent, Red Hill ACT 2603 ~$1,620,000 ~3~1~House~5.0~650~124~$1,290,000~
+5 Aviemore Lane, Red Hill ACT 2603 ~$1,700,000~4~3~House~6.0~168~254~$590,000~
+201 La Perouse Street, Red Hill ACT 2603 ~$1,750,000~3~3~House~7.0~N/A~212~N/A~
+72 Hicks Street, Red Hill ACT 2603 ~$1929000~4~2~House~N/A~845~N/A~$1,550,000~
+204 Monaro Crescent, Red Hill ACT 2603 ~$2047500~3~2~House~N/A~1082~143~$1,420,000~
+13 Beagle Street, Red Hill ACT 2603 ~$2462000~5~2~House~1.0~911~211~$1,470,000~
+54 Investigator Street, Red Hill ACT 2603 ~$3545000~5~4~House~5.0~877~N/A~$1,390,000~

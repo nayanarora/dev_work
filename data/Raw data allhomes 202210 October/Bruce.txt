@@ -1,0 +1,22 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+110/10 Thynne Street, Bruce ACT 2617 ~$269,000~1~1~Apartment~4.0~16000.0~N/A~$78,343~
+40/21 Battye Street, Bruce ACT 2617 ~$299,000~1~1~Apartment~6.0~13500.0~N/A~$40,068~
+78/10 Thynne Street, Bruce ACT 2617 ~$385,000~2~2~Apartment~6.0~16000.0~83~$78,343~
+3/10 Thynne Street, Bruce ACT 2617 ~$389,000~2~2~Apartment~5.5~N/A~121~N/A~
+133/1 Braybrooke Street, Bruce ACT 2617 ~$395,000~1~1~Unit / Apartment~6.0~13500.0~N/A~$40,068~
+51/8 Baudinette Circuit, Bruce ACT 2617 ~$399,000~1~1~Apartment~6.0~8025~N/A~$72,420~
+401/82 Thynne Street, Bruce ACT 2617 ~$419,000~1~1~Apartment~6.0~340~N/A~N/A~
+108/10 Thynne Street, Bruce ACT 2617 ~$420,000~3~2~Apartment~5.0~16000.0~99~$78,343~
+74/10 Thynne Street, Bruce ACT 2617 ~$429,000~3~2~Apartment~6.0~16000.0~N/A~$78,343~
+407/39 Braybrook Street, Bruce ACT 2617 ~$449,900~1~1~Apartment~6.0~N/A~N/A~N/A~
+The Brooke - G20/39 Braybrooke Street, Bruce ACT 2617 ~$454,900~1~1~Apartment~6.0~3161~N/A~$950,000~
+35/126 Thynne Street, Bruce ACT 2617 ~$468,000 ~2~1~Apartment~4.5~5563~63~$41,674~
+67/21 Battye Street, Bruce ACT 2617 ~$470,000~2~1~Apartment~6.0~N/A~N/A~N/A~
+2/35 Crisp Circuit, Bruce ACT 2617 ~$589,000~2~1~Townhouse~5.0~231~90~N/A~
+177/140 Thynne Street, Bruce ACT 2617 ~$655,000~3~2~Apartment~5.5~21600.0~132~$40,425~
+4/85 Lampard Circuit, Bruce ACT 2617 ~$0~3~2~Townhouse~5.0~200~N/A~N/A~
+20/21 Thynne Street, Bruce ACT 2617 ~$835,000~3~2~Unit / Apartment~6.0~N/A~N/A~N/A~
+91 Kinloch Circuit, Bruce ACT 2617 ~$886,000~3~2~House~5.5~21200.0~130~$163,520~
+IVES - Unit 4B-1, Bruce ACT 2617 ~$1,085,000~4~3~Townhouse~6.4~N/A~N/A~N/A~
+65 Lampard Circuit, Bruce ACT 2617 ~Offers over $1.1mil~5~2~Other~6.0~N/A~N/A~N/A~
+RISE - Four bedrooms townhouse 4A (With private lift), Bruce ACT 2617 ~$1,268,000~4~2~Townhouse~6.1~N/A~251~N/A~

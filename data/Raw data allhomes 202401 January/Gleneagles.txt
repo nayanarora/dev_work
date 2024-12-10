@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+123 Mt Vernon Drive, Kambah ACT 2902 ~$1,995,000~4~2~House~2.5~928~N/A~$725,000~

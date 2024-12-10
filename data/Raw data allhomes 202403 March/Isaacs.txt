@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+9/2 Adkinson Close, Isaacs ACT 2607 ~$729,000~2~1~Townhouse~0.5~359~N/A~N/A~
+13 Davitt Close, Isaacs ACT 2607 ~$1,090,000~3~2~House~1.5~213~N/A~$600,000~
+4B Hansen Circuit, Isaacs ACT 2607 ~$1,095,000~4~2~House~4.0~1143~142~$910,000~
+49 Julia Flynn Avenue, Isaacs ACT 2607 ~$1,399,000~4~3~House~0.5~944~175~$908,000~

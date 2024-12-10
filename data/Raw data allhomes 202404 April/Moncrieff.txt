@@ -1,0 +1,21 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+53/1 Bon Scott Cres, Moncrieff ACT 2914 ~$549,000~2~1~Townhouse~6.0~10300.0~N/A~$5,500,000~
+19/2 Hoffmann Street, Moncrieff ACT 2914 ~$614000~2~2~Townhouse~6.0~6470~N/A~$4,186,000~
+SALUS - Unit 27, Moncrieff ACT 2914 ~$669,000~3~2~Townhouse~7.1~N/A~N/A~N/A~
+13/6 Bon Scott Crescent, Moncrieff ACT 2914 ~$695,000~3~2~Townhouse~6.0~198~N/A~N/A~
+15/345 Mirrabei Drive, Moncrieff ACT 2914 ~Offers Over: $699,000~3~2~Townhouse~6.0~5800~N/A~$3,300,000~
+SALUS - Unit 2, Moncrieff ACT 2914 ~$719,000~3~2~Townhouse~6.1~N/A~N/A~N/A~
+41/351 Mirrabei Drive, Moncrieff ACT 2914 ~$729,000~4~2~Townhouse~6.0~6859~N/A~$4,680,000~
+SALUS - Unit 13, Moncrieff ACT 2914 ~$779,000~3~2~Townhouse~6.9~N/A~N/A~N/A~
+6/101 O'Keefe Avenue, Moncrieff ACT 2914 ~$785,000~4~2~Townhouse~6.0~3352~N/A~$2,200,000~
+(no street name provided), Moncrieff ACT 2914 ~$850,000~3~2~House and Land Package~6.0~382~N/A~$547,000~
+SALUS - Unit 35, Moncrieff ACT 2914 ~$919,000~4~2~Townhouse~7.8~N/A~N/A~N/A~
+27 Bandstand Street, Moncrieff ACT 2914 ~$1,030,000~4~2~House~6.0~486~212~$504,000~
+47 Dorrie Crescent, Moncrieff ACT 2914 ~$1,030,000~4~2~House~5.5~680~235~$526,000~
+21 Bandstand Street, Moncrieff ACT 2914 ~$1,050,000~4~3~House~5.0~450~N/A~$489,000~
+59 Crackajack Way, Moncrieff ACT 2914 ~$1,140,000~4~2~House~6.0~499~257~$514,000~
+28 Gussey Street, Moncrieff ACT 2914 ~$1,150,000~5~2~House~6.0~543~189~$532,000~
+10 Gaston Way, Moncrieff ACT 2914 ~$1,165,000~4~3~House~6.0~560~N/A~$537,000~
+15 Crackajack Way, Moncrieff ACT 2914 ~$1,180,000~4~2~House~5.0~500~N/A~$514,000~
+28 Harold Blair Crescent, Moncrieff ACT 2914 ~Offers over $1,275,000~5~3~House~4.0~534~300~$522,000~
+17 Lumsdaine Street, Moncrieff ACT 2914 ~$1,379,000~5~3~House~6.0~646~285~$555,000~

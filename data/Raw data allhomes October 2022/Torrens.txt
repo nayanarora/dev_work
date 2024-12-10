@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+24 Duncan Street, Torrens ACT 2607 ~$890,000~3~1~House~1.0~661~N/A~$770,000~

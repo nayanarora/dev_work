@@ -1,0 +1,11 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+1 Macnamara, Macnamara ACT 2615 ~$583950~N/A~N/A~House and Land Package~N/A~N/A~N/A~N/A~
+Block K Section Ae, Macnamara ACT 2615 ~$858751~4~2~House and Land Package~7.0~504~N/A~N/A~
+Block Q Section Bj, Macnamara ACT 2615 ~From $999,000~4~2~House~7.0~420~236~N/A~
+(no street name provided), Macnamara ACT 2615 ~$1,149,000~4~1~House and Land Package~6.0~420~N/A~N/A~
+Asimus Avenue, Macnamara ACT 2615 ~$1,255,500~4~1~House~7.0~548~253~N/A~
+181 Ginninderry Estate, Macnamara ACT 2615 ~$1,275,260*~4~2~House~6.0~439~266~N/A~
+14 Ginninderry, Macnamara ACT 2615 ~$1,276,260~4~2~House and Land Package~N/A~439~N/A~N/A~
+(no street name provided), Macnamara ACT 2615 ~$1508500~4~1~House and Land Package~6.0~910~N/A~N/A~
+(no street name provided), Macnamara ACT 2615 ~$1,375,400~4~1~House and Land Package~N/A~504~N/A~N/A~
+(no street name provided), Macnamara ACT 2615 ~$1,450,000~4~1~House and Land Package~7.0~613~N/A~N/A~

@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+(no street name provided), Deakin ACT 2600 ~$435,000~1~1~Unit / Apartment~6.0~N/A~N/A~N/A~
+67 MacGregor Street, Deakin ACT 2600 ~$679000~2~1~Retirement Village~N/A~N/A~N/A~$10,500,000~
+67 MacGregor Street, Deakin ACT 2600 ~$759,000~2~1~Retirement Village~N/A~N/A~N/A~$10,500,000~
+67 MacGregor Street, Deakin ACT 2600 ~$837500~3~1~Retirement Village~N/A~N/A~N/A~$10,500,000~
+27 Lawley Street, Deakin ACT 2600 ~$2,085,000~3~1~House~0.5~968~100~$923,000~

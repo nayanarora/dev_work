@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+17 Trenwith Close, Spence ACT 2615 ~$1,100,000~4~2~House~N/A~1011~N/A~$695,000~

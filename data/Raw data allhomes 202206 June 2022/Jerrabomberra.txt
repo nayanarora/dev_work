@@ -1,0 +1,19 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+4/23 Elm Way, Jerrabomberra NSW 2619 ~$554000~2~1~Townhouse~N/A~N/A~N/A~N/A~
+2/21 Elm Way, Jerrabomberra NSW 2619 ~$599000~2~1~Townhouse~N/A~N/A~N/A~N/A~
+4/103 Bicentennial Drive, Jerrabomberra NSW 2619 ~$600000~2~1~House~N/A~276~N/A~N/A~
+16/17 Elm Way, Jerrabomberra NSW 2619 ~$609499~2~1~Townhouse~N/A~215~N/A~N/A~
+5/31 Dora Street, Jerrabomberra NSW 2619 ~$825000~3~1~Townhouse~N/A~3890~N/A~N/A~
+36 Bayside Court, Jerrabomberra NSW 2619 ~$925000~3~2~House~N/A~487~125~N/A~
+38 Bayside Ct, Jerrabomberra NSW 2619 ~$950000~4~2~House~N/A~476~N/A~N/A~
+19 Gabriel Drive, Jerrabomberra NSW 2619 ~$974000~4~2~House~N/A~N/A~N/A~N/A~
+76 Rosewood Glen, Jerrabomberra NSW 2619 ~$975,000~4~2~House~N/A~462~N/A~N/A~
+(no street name provided), Jerrabomberra NSW 2619 ~$1024000~4~2~House~N/A~732~185~N/A~
+2 Banyalla Close, Jerrabomberra NSW 2619 ~$1,100,000~4~2~House~N/A~864~N/A~N/A~
+44 Brudenell Drive, Jerrabomberra NSW 2619 ~$1,200,000~4~2~House~N/A~849~212~N/A~
+4 Stromlo Place, Jerrabomberra NSW 2619 ~$1250000~4~2~House~N/A~N/A~N/A~N/A~
+177 Bicentennial Drive, Jerrabomberra NSW 2619 ~$1,299,000~5~3~House~N/A~783~318~N/A~
+271 Bicentennial Drive, Jerrabomberra NSW 2619 ~$1505000~5~2~House~N/A~831~257~N/A~
+6 Myrtle Close, Jerrabomberra NSW 2619 ~$1700000~5~3~House~N/A~824~437~N/A~
+5 Hickory Place, Jerrabomberra NSW 2619 ~$1887500~4~3~House~N/A~900~N/A~N/A~
+22 Nicholii Loop, Jerrabomberra NSW 2619 ~$1900000~5~3~House~N/A~N/A~N/A~N/A~

@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+29 Elkedra Close, Hawker ACT 2614 ~$830,000~3~1~House~1.0~353~95~$462,000~

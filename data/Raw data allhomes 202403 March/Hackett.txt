@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+4/127 Madigan Street, Hackett ACT 2602 ~$325,000~1~1~Unit / Apartment~6.0~3717~N/A~$4,200,000~

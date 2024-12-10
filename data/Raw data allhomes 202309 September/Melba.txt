@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+4/6 Goldner Circuit, Melba ACT 2615 ~$679,000~3~2~Townhouse~3.5~342~N/A~N/A~

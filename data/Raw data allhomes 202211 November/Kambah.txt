@@ -1,0 +1,16 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+31/25 Pinkerton Circuit, Kambah ACT 2902 ~$549,000~2~1~Townhouse~3.5~163~89~N/A~
+21 Snodgrass Crescent, Kambah ACT 2902 ~$595,000~2~1~Retirement Village~N/A~36800.0~N/A~$6,300,000~
+17/37 Wyselaskie Circuit, Kambah ACT 2902 ~$650,000~3~1~Townhouse~1.5~312~98~N/A~
+73 Livingston Avenue, Kambah ACT 2902 ~$739,000~3~1~House~1.0~686~105~$428,000~
+45 Karney Place, Kambah ACT 2902 ~$745,900~3~1~House~1.5~638~117~$460,000~
+21 Snodgrass Crescent, Kambah ACT 2902 ~$755,000~3~1~Retirement Village~N/A~36800.0~N/A~$6,300,000~
+101 O'Halloran Circuit, Kambah ACT 2902 ~$770,000~3~1~House~0.5~703~125~$496,000~
+7 Tiernan Place, Kambah ACT 2902 ~$800000~4~1~House~1.5~702~N/A~$461,000~
+13 Hobler Place, Kambah ACT 2902 ~$790,000~4~2~House~1.5~1068~N/A~$530,000~
+3 Howey Place, Kambah ACT 2902 ~$799,000~3~1~House~1.0~724~N/A~$502,000~
+84 Lee Steere Crescent, Kambah ACT 2902 ~Offers Over $899,000~4~2~House~1.5~700~N/A~$500,000~
+1/75 Mt Vernon Drive, Kambah ACT 2902 ~$1,080,000~4~2~Townhouse~2.5~444~182~N/A~
+21 Maxworthy Street, Kambah ACT 2902 ~$1,100,000~4~2~House~1.0~919~N/A~$510,000~
+19 Barritt Street, Kambah ACT 2902 ~$1,150,000~5~3~House~4.5~424~193~N/A~
+47 Ivo Whitton Circuit, Kambah ACT 2902 ~$1450000~5~2~House~4.5~890~227~$616,000~

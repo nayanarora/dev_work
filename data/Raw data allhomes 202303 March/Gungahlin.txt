@@ -1,0 +1,64 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+29/1 Gungahlin Place, Gungahlin ACT 2912 ~$315,000~1~1~Unit / Apartment~6.0~2769~N/A~$57,750~
+54/1 Gungahlin Place, Gungahlin ACT 2912 ~$330,000~1~1~House~6.0~N/A~N/A~N/A~
+106/38 Gozzard Street, Gungahlin ACT 2912 ~$345,000~1~1~Apartment~6.0~2345~68~N/A~
+52/40 Swain Street, Gungahlin ACT 2912 ~$349,000~1~1~Apartment~6.0~2769~45~$57,750~
+Level 12/149/1 Anthony Rolfe Avenue, Gungahlin ACT 2912 ~$355,000~1~1~Apartment~6.0~N/A~56~N/A~
+34/52 Swain Street, Gungahlin ACT 2912 ~$359,000~1~1~Unit / Apartment~6.0~N/A~52~N/A~
+27/6 Gungahlin Place, Gungahlin ACT 2912 ~$359,000~1~1~Apartment~6.0~2550~N/A~$52,500~
+275/1 Anthony Rolfe Avenue, Gungahlin ACT 2912 ~$359,900~1~1~Apartment~6.0~7379~65~$40,800~
+121/87 Gozzard Street, Gungahlin ACT 2912 ~$369,000~1~1~Apartment~6.0~N/A~54~N/A~
+409/1 Anthony Rolfe Avenue, Gungahlin ACT 2912 ~$369,000~1~1~Apartment~6.0~7379~66~$40,800~
+(no street name provided), Gungahlin ACT 2912 ~$369,900~1~1~Apartment~4.0~2550~50~$52,500~
+Sierra Gungahlin - Secure now for just $1000, Gungahlin ACT 2912 ~$389,900~1~1~Other~6.0~N/A~N/A~N/A~
+The Establishment - 1-bed, Light-Filled Living Area & Bedroom, Gungahlin ACT 2912 ~$390,900~1~1~Apartment~5.0~N/A~57~N/A~
+58/2 Hinder Street, Gungahlin ACT 2912 ~$409,000 ~1~1~Apartment~6.0~3505~N/A~$20,825~
+Sierra Gungahlin - 1 bedroom + Study, Gungahlin ACT 2912 ~$419,888~1~1~Other~7.3~N/A~N/A~N/A~
+188/1 Anthony Rolfe Avenue, Gungahlin ACT 2912 ~$420,000~1~1~Apartment~6.0~7379~74~$40,800~
+Amici - Unit 73 - High level north facing, Gungahlin ACT 2912 ~$429,900~1~1~Apartment~6.2~N/A~64~N/A~
+The Establishment - 1-bed, Functional Layout, Gungahlin ACT 2912 ~$446,900~1~1~Apartment~5.0~N/A~74~N/A~
+The Establishment - 1-bed, Great Investment Opportunity, Gungahlin ACT 2912 ~$455,900~1~1~Apartment~5.0~N/A~65~N/A~
+Nue - A Brand Nue Gungahlin, Gungahlin ACT 2912 ~$460,000~1~1~Apartment~5.1~N/A~N/A~N/A~
+The Establishment - 2-bed, Exclusive Amenities, Gungahlin ACT 2912, Gungahlin ACT 2912 ~$468,900~2~1~Apartment~5.0~N/A~67~N/A~
+Nue - A Brand Nue Gungahlin, Gungahlin ACT 2912 ~$474,300~1~1~Apartment~5.1~N/A~N/A~N/A~
+92/1 Anthony Rolfe Avenue, Gungahlin ACT 2912 ~$489500~2~2~Apartment~6.0~7380~91~$40,800~
+300/1 Anthony Rolfe Avenue, Gungahlin ACT 2912 ~$489000~2~2~Apartment~6.0~7379~N/A~$40,800~
+225/100 Gungahlin Place, Gungahlin ACT 2912 ~$499,000~2~2~Apartment~6.0~2516~91~N/A~
+G6 - 2 BEDROOM APARTMENTS WITH SECURE BASEMENT PARKING, Gungahlin ACT 2912 ~$499,900~2~1~Other~6.0~N/A~78~N/A~
+The Establishment - 2-bed, Ready to move in, Gungahlin ACT 2912, Gungahlin ACT 2912 ~$512,900~2~1~Apartment~5.0~N/A~78~N/A~
+407/2 Gribble Street, Gungahlin ACT 2912 ~$519,000~2~2~Apartment~6.0~2193~84~$31,122~
+102/77 Gozzard Street, Gungahlin ACT 2912 ~$525,000~2~2~Apartment~6.0~2279~93~$36,490~
+Nue - A Brand Nue Gungahlin, Gungahlin ACT 2912 ~$529,900~2~1~Apartment~5.1~N/A~N/A~N/A~
+Amici - Unit 86 - North facing market place views, Gungahlin ACT 2912 ~$529,900~2~1~Apartment~6.2~N/A~72~N/A~
+1106/8 Gribble Street, Gungahlin ACT 2912 ~$539,500~2~2~Apartment~6.0~2163~N/A~$31,325~
+207/2 Gribble Street, Gungahlin ACT 2912 ~$550,000~2~2~Apartment~6.0~2193~N/A~$31,122~
+The Establishment - 2-bed, Convenience in Gungahlin Town Centre, Gungahlin ACT 2912 ~$552,900~2~2~Apartment~5.0~N/A~88~N/A~
+Sierra Gungahlin - 2 bedroom, Gungahlin ACT 2912 ~$559,900~2~1~Apartment~5.3~N/A~N/A~N/A~
+706/2 Gribble Street, Gungahlin ACT 2912 ~$567,000~3~2~Apartment~6.0~2193~82~$31,122~
+232/1 Anthony Rolfe Avenue, Gungahlin ACT 2912 ~$580,000~2~2~Apartment~6.0~7379~100~$40,800~
+33/2 Hinder Street, Gungahlin ACT 2912 ~$590,000~3~2~Apartment~6.0~3506~109~$20,825~
+The Establishment - 2-bed, Generously Sized Apartment, Gungahlin ACT 2912 ~$615,900~2~2~Apartment~5.0~N/A~90~N/A~
+Amici - Unit 66 - generous living space with study nook, Gungahlin ACT 2912 ~$629,900~2~2~Apartment~6.2~N/A~96~N/A~
+Amici - Unit 44 - Light filled and private, Gungahlin ACT 2912 ~$639,900~3~2~Apartment~6.2~N/A~98~N/A~
+Amici - Unit 37 - Light filled and private, Gungahlin ACT 2912 ~$639,900~3~2~Apartment~6.2~N/A~98~N/A~
+7/87 Gozzard Street, Gungahlin ACT 2912 ~$640,000 to $665,000~2~2~Apartment~6.0~N/A~N/A~N/A~
+G6 - The MILA Penthouse, Gungahlin ACT 2912 ~$699,900~2~1~Apartment~6.0~N/A~N/A~N/A~
+Sierra Gungahlin - 2 Bedroom Mixed Use Podium, Gungahlin ACT 2912 ~$699,900~2~2~Other~6.0~N/A~N/A~N/A~
+Nue - A Brand Nue Gungahlin, Gungahlin ACT 2912 ~$719,900~2~2~Apartment~5.1~N/A~N/A~N/A~
+Sierra Gungahlin - Last remaining 3 bedroom residence, Gungahlin ACT 2912 ~$749,888~3~2~Other~7.7~N/A~N/A~N/A~
+Nue - A Brand Nue Gungahlin, Gungahlin ACT 2912 ~$749,900~2~2~Townhouse~5.0~N/A~N/A~N/A~
+G6 - The ZARA Penthouse, Gungahlin ACT 2912 ~$774,900~2~1~Apartment~6.0~N/A~N/A~N/A~
+235/1 Anthony Rolfe Avenue, Gungahlin ACT 2912 ~$799,000~3~2~Unit / Apartment~6.0~7379~N/A~$40,800~
+G6 - The NOVA Penthouse, Gungahlin ACT 2912 ~$799,900~3~1~Apartment~6.0~N/A~N/A~N/A~
+425/1 Anthony Rolfe Avenue, Gungahlin ACT 2912 ~$869,000~3~2~Apartment~6.0~7379~117~$40,800~
+Amici - Unit 93 - Uninterrupted Nature reserve views, Gungahlin ACT 2912 ~$879,900~3~2~Apartment~6.2~N/A~134~N/A~
+424/1 Anthony Rolfe Avenue, Gungahlin ACT 2912 ~$888,000~3~2~Apartment~6.0~7379~156~$40,800~
+379 Gundaroo Drive, Gungahlin ACT 2912 ~$899,000~3~2~Duplex~3.5~570~206~N/A~
+Nue - A Brand Nue Gungahlin, Gungahlin ACT 2912 ~$899,900~3~2~Townhouse~5.0~N/A~N/A~N/A~
+Amici - Unit 91 - Penthouse with double balcony, Gungahlin ACT 2912 ~$899,900~4~2~Apartment~6.2~N/A~168~N/A~
+1701/6 Gribble Street, Gungahlin ACT 2912 ~$959,000~3~2~Apartment~5.0~2163~156~$31,325~
+G6 - The VERA Penthouse, Gungahlin ACT 2912 ~$964,900~3~1~Apartment~6.0~N/A~N/A~N/A~
+1207/90 Swain Street, Gungahlin ACT 2912 ~$990,000~3~2~Apartment~6.0~N/A~N/A~N/A~
+Nue - A Brand Nue Gungahlin, Gungahlin ACT 2912 ~$1,020,000~3~2~Apartment~5.1~N/A~N/A~N/A~
+G6 - The EVA Penthouse, Gungahlin ACT 2912 ~$1,199,900~3~1~Apartment~6.0~N/A~N/A~N/A~
+G6 - The DANA Penthouse, Gungahlin ACT 2912 ~$1,499,900~4~2~Apartment~6.0~N/A~N/A~N/A~

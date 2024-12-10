@@ -1,0 +1,13 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+12/41 Leahy Close, Narrabundah ACT 2604 ~$335,000~1~1~Apartment~4.0~5009~N/A~$204,800~
+16/40 Leahy Close, Narrabundah ACT 2604 ~$450,000~2~1~Apartment~4.5~4783~N/A~$191,520~
+117/39 McIntyre Street, Narrabundah ACT 2604 ~$475,000~1~1~Unit / Apartment~7.5~N/A~N/A~N/A~
+25/51 Leahy Close, Narrabundah ACT 2604 ~$799000~3~2~Apartment~1.5~3928~108~$197,600~
+15 Arinya Street, Narrabundah ACT 2604 ~$990,000~2~1~House~2.5~586~N/A~$1,000,000~
+50 McIntyre Street, Narrabundah ACT 2604 ~$1,099,000~2~1~House~2.0~567~93~$1,000,000~
+12 Bega Place, Narrabundah ACT 2604 ~$1,120,000~2~1~House~0.5~720~N/A~$790,000~
+36 Bayley Street, Narrabundah ACT 2604 ~$1,175,000~3~1~Duplex~2.0~835~116~$1,250,000~
+19/34 Leahy Close, Narrabundah ACT 2604 ~$1,195,000~3~2~Townhouse~2.5~12200.0~16~$218,240~
+163/39 McIntyre Street, Narrabundah ACT 2604 ~$1,299,000~3~2~Townhouse~6.0~13799.999999999998~128~N/A~
+52 Caley Crescent, Narrabundah ACT 2604 ~$1,890,000~3~1~House~1.5~717~N/A~$1,200,000~
+310 Goyder Street, Narrabundah ACT 2604 ~$2,100,000~4~3~House~4.0~702~N/A~$940,000~

@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+6 Macqueen Place, Charnwood ACT 2615 ~$765,000~3~1~House~0.5~606~N/A~$270,000~

@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+11/7 Ella Close, Palmerston ACT 2913 ~Offers Over $590,000~2~1~Townhouse~0.0~192~N/A~N/A~
+27/7 Elvire Place, Palmerston ACT 2913 ~$699,000~3~1~Townhouse~5.5~341~N/A~N/A~
+12/25 Namadgi Circuit, Palmerston ACT 2913 ~$745000~3~2~Townhouse~0.5~253~N/A~N/A~
+13 Laptz Close, Palmerston ACT 2913 ~$850,000~3~2~House~1.5~469~228~$465,000~

@@ -1,0 +1,9 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+1/8 Biddell Place, Nicholls ACT 2913 ~$660,000~3~2~Townhouse~4.5~317~149~N/A~
+5/133 Kelleway Avenue, Nicholls ACT 2913 ~$700,000~3~2~Townhouse~5.5~217~178~N/A~
+13/29 Temperley Street, Nicholls ACT 2913 ~$945,000~3~2~Townhouse~5.0~289~N/A~N/A~
+7 Rosella Street, Nicholls ACT 2913 ~$955,000~3~2~House~2.5~423~208~$561,000~
+43 Freda Bennett Circuit, Nicholls ACT 2913 ~$999,000~4~2~House~3.5~719~156~$566,000~
+1 Hattersley Court, Nicholls ACT 2913 ~$1,150,000~5~2~House~2.0~887~253~$566,000~
+159 Temperley Street, Nicholls ACT 2913 ~$1,498,000~4~2~House~3.5~987~270~$940,000~
+6 Monfries Place, Nicholls ACT 2913 ~$1,650,000~5~3~House~4.5~743~399~$691,000~

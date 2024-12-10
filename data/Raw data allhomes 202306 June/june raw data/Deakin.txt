@@ -1,0 +1,10 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+67 MacGregor Street, Deakin ACT 2600 ~$402500~1~N/A~Retirement Village~N/A~19600.0~N/A~$15,700,000~
+67 MacGregor Street, Deakin ACT 2600 ~$695,000~2~1~Retirement Village~N/A~19600.0~N/A~$15,700,000~
+31/29 State Circle, Deakin ACT 2600 ~$837500~2~2~Apartment~6.0~3074~85~$189,710~
+423/2 Grose Street, Deakin ACT 2600 ~$1,200,000~2~1~Apartment~6.0~8789~N/A~$128,380~
+89 Newdegate Street, Deakin ACT 2600 ~$1,799,000~4~3~House~5.0~709~201~$1,010,000~
+93 Stonehaven Crescent, Deakin ACT 2600 ~$1,995,000~4~3~House~N/A~748~N/A~$1,160,000~
+3/10 Canterbury Crescent, Deakin ACT 2600 ~$2,999,000~4~4~Townhouse~6.0~N/A~237~N/A~
+5 Normanby Crescent, Deakin ACT 2600 ~$4,500,000~4~1~Other~6.4~909~395~$3,100,000~
+7 Normanby Crescent, Deakin ACT 2600 ~$5,500,000~4~1~Other~6.9~915~390~N/A~

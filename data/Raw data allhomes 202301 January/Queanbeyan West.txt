@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+60 Hellmund Street, Queanbeyan West NSW 2620 ~$719000~3~1~House~N/A~735~N/A~N/A~
+20 Robertson St, Queanbeyan West NSW 2620 ~$792500~3~2~House~N/A~668~N/A~N/A~
+41 Brereton Street, Queanbeyan West NSW 2620 ~$845000~3~1~House~N/A~790~N/A~N/A~

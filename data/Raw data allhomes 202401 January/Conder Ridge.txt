@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+4 Cremorne Place, Conder ACT 2906 ~$825,000~5~2~House~4.5~743~144~$403,000~
+75 Altson Circuit, Conder ACT 2906 ~$ 995,000~5~2~House~3.0~863~206~$416,000~
+9 Emanuel Place, Conder ACT 2906 ~$1,250,000~5~1~House~3.5~829~N/A~$554,000~

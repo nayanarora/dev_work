@@ -1,0 +1,3 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+47 Ivo Whitton Circuit, Kambah ACT 2902 ~$1450000~5~2~House~4.5~890~227~$616,000~
+70 Mt Vernon Drive, Kambah ACT 2902 ~$1,695,000~6~1~House~4.5~897~334~$616,000~

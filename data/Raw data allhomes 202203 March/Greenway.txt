@@ -1,0 +1,23 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+11/56 Cowlishaw Street, Greenway ACT 2900 ~$350,000~1~1~Unit / Apartment~6.0~N/A~N/A~$5,855,000~
+9/56 Cowlishaw Street, Greenway ACT 2900 ~$360,000~1~1~Apartment~6.0~N/A~N/A~$5,855,000~
+274/325 Anketell Street, Greenway ACT 2900 ~$364,999~1~1~Apartment~6.0~N/A~N/A~N/A~
+Aspen Village - 426/335 Anketell Street, Greenway ACT 2900 ~$424,900~1~1~Apartment~5.0~N/A~57~N/A~
+186/325 Anketell Street, Greenway ACT 2900 ~$430,000~2~2~Unit / Apartment~6.0~N/A~N/A~N/A~
+27/142 Anketell Street, Greenway ACT 2900 ~$430,000~2~2~Unit / Apartment~6.0~N/A~74~N/A~
+Aspen Village - 330/335 Anketell Street, Greenway ACT 2900 ~$446,900~1~1~Apartment~5.0~N/A~N/A~N/A~
+Aspen Village - 904/335 Anketell Street, Greenway ACT 2900 ~$459,900~1~1~Apartment~5.0~N/A~N/A~N/A~
+7/102 Athllon Drive, Greenway ACT 2900 ~$470,000~2~1~Apartment~5.5~N/A~N/A~$1,440,000~
+Door 921 Unit 281, Greenway ACT 2900 ~$499,999~2~2~Unit / Apartment~6.0~N/A~N/A~N/A~
+14/120 Athllon Drive, Greenway ACT 2900 ~$515,000~2~2~Apartment~6.0~N/A~110~$1,350,000~
+Aspen Village - 515/335 Anketell Street, Greenway ACT 2900 ~$552,900~2~2~Apartment~5.0~N/A~75~N/A~
+Aspen Village - 823/335 Anketell Street, Greenway ACT 2900 ~$577,900~2~2~Apartment~5.0~N/A~76~N/A~
+28/35 Oakden Street, Greenway ACT 2900 ~Offers Over $615,000~3~2~Townhouse~6.0~N/A~116~N/A~
+27/6 Ellison Harvie Close, Greenway ACT 2900 ~$650,000~3~1~Townhouse~4.0~6000~N/A~N/A~
+2/48 Florence Taylor Street, Greenway ACT 2900 ~Offers Over $670,000~2~1~Townhouse~4.0~282~101~N/A~
+75/1 Limburg Way, Greenway ACT 2900 ~$674,000~3~2~Apartment~6.0~N/A~125~$4,500,000~
+Ellison Waters - Street view 3 Bedroom Townhouse + Double Garage, Greenway ACT 2900 ~$749,000~3~1~Other~6.0~N/A~158~N/A~
+21 Cynthea Teague Crescent, Greenway ACT 2900 ~$779,900~3~3~Townhouse~6.5~N/A~N/A~$3,045,000~
+83/1 Rowland Rees Crescent, Greenway ACT 2900 ~$785,000~3~2~Townhouse~6.0~N/A~N/A~N/A~
+Ellison Waters - Waterfront Townhouse Garage and Carport, Greenway ACT 2900 ~$849,000~3~1~Townhouse~6.0~N/A~N/A~N/A~
+Ellison Waters - Waterfront Townhouse 3 Bedroom 2 Courtyard Double Garage, Greenway ACT 2900 ~$925,000~3~2~Townhouse~6.0~N/A~N/A~N/A~

@@ -1,0 +1,3 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+22/2 Sexton Street, Cook ACT 2614 ~Offers Over $630,000~2~2~Townhouse~1.5~281~91~N/A~
+24/16 Sexton Street, Cook ACT 2614 ~$639,000~2~1~House~3.0~331~106~N/A~

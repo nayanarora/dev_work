@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+14 Carpenter Close, Calwell ACT 2905 ~$699,000~3~2~House~1.0~377~94~$417,000~
+13 Duggan Street, Calwell ACT 2905 ~  $749,000~3~1~House~2.5~718~N/A~$435,000~
+67 Downard Street, Calwell ACT 2905 ~$900,000~4~1~House~2.0~792~138~$431,000~

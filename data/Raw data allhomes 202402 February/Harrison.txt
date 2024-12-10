@@ -1,0 +1,21 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+102/230 Flemington Road, Harrison ACT 2914 ~$430,000~N/A~N/A~N/A~N/A~19700.0~N/A~$8,800,000~
+24/4 Sapling Street, Harrison ACT 2914 ~$435,000~N/A~N/A~N/A~N/A~19700.0~N/A~$8,800,000~
+44 Otway Street, Harrison ACT 2914 ~$449,000~N/A~N/A~N/A~N/A~3529~N/A~$2,240,000~
+41/236 Flemington Road, Harrison ACT 2914 ~$484,999~N/A~N/A~N/A~N/A~19700.0~N/A~$8,800,000~
+128/230 Flemington Road, Harrison ACT 2914 ~$489,000~N/A~N/A~N/A~N/A~19700.0~N/A~$8,800,000~
+86/11 Wimmera Street, Harrison ACT 2914 ~$499,000~N/A~N/A~N/A~N/A~7075~N/A~$4,800,000~
+76/1 Windjana Street, Harrison ACT 2914 ~$549,000~N/A~N/A~N/A~N/A~6318~N/A~$4,675,000~
+16/141 Mapleton Avenue, Harrison ACT 2914 ~$550,000~N/A~N/A~N/A~N/A~11800.0~N/A~$6,000,000~
+10/141 Mapleton Avenue, Harrison ACT 2914 ~$550,000~N/A~N/A~N/A~N/A~11800.0~N/A~$6,000,000~
+34/84 Kings Canyon St, Harrison ACT 2914 ~$675,000~N/A~N/A~N/A~N/A~5472~N/A~$3,910,000~
+25/138 Flemington Road, Harrison ACT 2914 ~$699,000~N/A~N/A~N/A~N/A~12800.0~N/A~$6,300,000~
+31/224 Flemington Road, Harrison ACT 2914 ~$720,000 ~N/A~N/A~N/A~N/A~11900.0~N/A~N/A~
+30 Otway Street, Harrison ACT 2914 ~$759000~N/A~N/A~N/A~N/A~3529~N/A~$2,240,000~
+41 Katoomba Street, Harrison ACT 2914 ~$880,000~N/A~N/A~N/A~N/A~299~N/A~$427,000~
+36 Carpentaria Street, Harrison ACT 2914 ~$895000~N/A~N/A~N/A~N/A~389~204~$481,000~
+32 Cedar Street, Harrison ACT 2914 ~  $925,000~N/A~N/A~N/A~N/A~248~N/A~$389,000~
+45 Katoomba Street, Harrison ACT 2914 ~$930,000~N/A~N/A~N/A~N/A~259~N/A~$395,000~
+31 Nimbera Street, Harrison ACT 2914 ~$1,050,000 ~N/A~N/A~N/A~N/A~517~N/A~$562,000~
+14 De Bortoli Street, Harrison ACT 2914 ~$1230000~N/A~N/A~N/A~N/A~521~270~$606,000~
+7 Helby Street, Harrison ACT 2914 ~$1,380,000~N/A~N/A~N/A~N/A~528~N/A~$598,000~

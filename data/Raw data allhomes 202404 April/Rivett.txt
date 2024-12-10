@@ -1,0 +1,7 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+29 Pavonia Street, Rivett ACT 2611 ~$870,000~3~1~House~1.0~748~106~$614,000~
+97 Darwinia Terrace, Rivett ACT 2611 ~$899,000~4~2~House~2.5~843~134~$624,000~
+7 Eugenia Street, Rivett ACT 2611 ~$949000~3~2~House~1.0~708~N/A~$659,000~
+13 Epacris Place, Rivett ACT 2611 ~$949,000 ~3~1~House~3.0~798~135~$660,000~
+16 Bangalay Crescent, Rivett ACT 2611 ~$950,000~4~2~House~0.0~743~N/A~$545,000~
+123 Darwinia Terrace, Rivett ACT 2611 ~$1,325,000 ~4~2~House~2.0~1130~150~$650,000~

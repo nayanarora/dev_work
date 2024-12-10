@@ -1,0 +1,10 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+16/19 Moorhouse Street, O'Connor ACT 2602 ~$425,000~1~1~Apartment~5.0~N/A~N/A~$4,900,000~
+3/41 David Street, O'Connor ACT 2602 ~Offers Over $445,000~2~1~Apartment~5.0~N/A~N/A~$4,590,000~
+5/13A David Street, O'Connor ACT 2602 ~$450,000~1~1~Apartment~6.0~N/A~N/A~$1,200,000~
+13/27 David Street, O'Connor ACT 2602 ~$475,000~1~1~Unit / Apartment~6.0~N/A~N/A~$2,535,000~
+14/19 Moorehouse St, O'Connor ACT 2602 ~$509,000~2~1~Other~3.0~N/A~N/A~N/A~
+7/27 Berrigan Crescent, O'Connor ACT 2602 ~Offers over $520,000~1~1~Apartment~6.0~N/A~N/A~$3,500,000~
+1/53 Coolibah Crescent, O'Connor ACT 2602 ~$900,000~3~2~Unit / Apartment~2.5~N/A~N/A~N/A~
+12b Pedder Street, O'Connor ACT 2602 ~$1,895,000~4~1~Dual Occupancy~6.1~414~N/A~$1,343,000~
+60 Clianthus Street, O'Connor ACT 2602 ~$2,680,000~4~2~House~4.5~831~N/A~$1,290,000~

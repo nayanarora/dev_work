@@ -1,0 +1,14 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+2 Guboo Street, Bonner ACT 2914 ~$640,000~2~1~House~5.0~189~88~$286,000~
+41 Bieundurry Street, Bonner ACT 2914 ~$860,000~3~2~House~5.5~354~166~$415,000~
+13 Mabo Boulevard, Bonner ACT 2914 ~$985,000~4~2~House~5.5~567~N/A~$539,000~
+69 Essie Coffey Street, Bonner ACT 2914 ~$1048000~4~2~House~5.5~452~194~$475,000~
+13 William Cooper Avenue, Bonner ACT 2914 ~Offers Over $999,000~4~2~House~4.5~630~175~$597,000~
+55 Murrjinelle Circuit, Bonner ACT 2914 ~$999,000~4~2~House~5.5~488~160~$500,000~
+166 Mabo Boulevard, Bonner ACT 2914 ~$999,000~4~2~House~4.5~435~N/A~$475,000~
+31 Bill Ferguson Circuit, Bonner ACT 2914 ~$1,050,000~4~2~House~6.0~405~N/A~$460,000~
+32 Ben Blakeney Street, Bonner ACT 2914 ~$1,050,000~4~2~House~5.5~540~N/A~$540,000~
+8 Mabo Boulevard, Bonner ACT 2914 ~$1,070,000~4~2~House~5.0~583~246~$562,000~
+7 Lucy Beeton Crescent, Bonner ACT 2914 ~$1,100,000~5~3~House~5.0~637~N/A~$597,000~
+2 Len Barratt Street, Bonner ACT 2914 ~$1,120,000~4~2~House~4.5~630~197~$577,000~
+199 Mabo Boulevard, Bonner ACT 2914 ~$1,125,000~4~2~House~4.5~522~313~$533,000~

@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+24 Clifford Crescent, Melba ACT 2615 ~$690,000~3~1~House~1.0~877~110~$544,000~
+53 Alfred Hill Drive, Melba ACT 2615 ~Offers Over $1,100,000~6~4~House~2.5~848~N/A~$416,000~
+3 Bainton Place, Melba ACT 2615 ~$1,749,000~4~2~House~2.0~1662~176~$907,000~

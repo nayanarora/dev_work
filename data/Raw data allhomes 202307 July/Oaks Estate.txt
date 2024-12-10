@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+20/30 River Street, Oaks Estate ACT 2620 ~$252500~1~1~Unit / Apartment~4.0~1012~42~N/A~

@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+7/56 Trinculo Place, Queanbeyan East NSW 2620 ~$324500~2~1~Unit / Apartment~N/A~N/A~N/A~N/A~
+29/6 High Street, Queanbeyan East NSW 2620 ~$339000~1~1~Apartment~N/A~N/A~66~N/A~
+4/20 Mulloon Street, Queanbeyan East NSW 2620 ~$690000~3~2~Townhouse~N/A~N/A~N/A~N/A~

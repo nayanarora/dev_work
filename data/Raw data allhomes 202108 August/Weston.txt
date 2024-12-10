@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+40 Cazneaux Crescent, Weston ACT 2611 ~$1,295,000~5~2~House~5.0~604~243~$470,000~

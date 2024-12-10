@@ -1,0 +1,8 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+22A Larakia Street, Waramanga ACT 2611 ~$629,000~2~1~House~2.0~280~85~N/A~
+1&2/27 Gamor Street, Waramanga ACT 2611 ~$799,000~3~2~Duplex~1.5~797~N/A~N/A~
+27 Alawa Street, Waramanga ACT 2611 ~$850,000~3~1~House~N/A~713~111~$655,000~
+33 Alawa Street, Waramanga ACT 2611 ~$895,000~4~2~House~3.5~733~N/A~$655,000~
+66 Woralul Street, Waramanga ACT 2611 ~$899,000~4~1~House~1.0~693~115~$633,000~
+1/15 Burara Crescent, Waramanga ACT 2611 ~$950,000~3~1~Dual Occupancy~5.0~N/A~N/A~N/A~
+75 Nangor Street, Waramanga ACT 2611 ~$1,090,000~4~2~House~1.5~905~159~$632,000~

@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+29 Dulverton Street, Amaroo ACT 2914 ~$1,090,000~4~2~House~4.5~449~147~$390,000~

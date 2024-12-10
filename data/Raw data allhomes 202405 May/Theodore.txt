@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+3/19 Brigden Crescent, Theodore ACT 2905 ~  $535,000~2~1~Townhouse~2.5~1426~N/A~$870,000~
+16 Porteous Crescent, Theodore ACT 2905 ~$795,000~3~1~House~0.0~925~N/A~$445,000~
+5 Mighell Place, Theodore ACT 2905 ~$885,000~5~1~House~2.5~851~N/A~$482,000~
+44 Louis Loder Street, Theodore ACT 2905 ~$1,100,000~4~2~House~2.0~1226~N/A~$550,000~

@@ -1,0 +1,3 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+8 Miranda Place, Melba ACT 2615 ~$1275000~4~3~House~2.0~866~311~$562,000~
+22 Bainton Crescent, Melba ACT 2615 ~$1375000~6~2~House~1.0~1236~280~$726,000~

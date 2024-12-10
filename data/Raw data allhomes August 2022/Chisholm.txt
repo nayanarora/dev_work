@@ -1,0 +1,7 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+5/97 Clift Crescent, Chisholm ACT 2905 ~Offers Over $545,000~2~1~Townhouse~1.5~584~86~N/A~
+24 Meeson Street, Chisholm ACT 2905 ~Offers Over $765,000~3~1~House~1.5~743~122~$450,000~
+26 Glencross Street, Chisholm ACT 2905 ~$795,000~3~1~House~2.0~685~N/A~$434,000~
+5 Scotney Place, Chisholm ACT 2905 ~Offers Over $869,000~4~2~House~3.5~857~N/A~$506,000~
+12 Glencross Street, Chisholm ACT 2905 ~$895,000~3~1~House~4.5~677~N/A~$434,000~
+9 Pidgeon Place, Chisholm ACT 2905 ~$950,000~4~1~House~1.0~1334~N/A~$399,000~

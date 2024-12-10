@@ -1,0 +1,13 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+5/7 Arthur Street, Crestwood NSW 2620 ~$209500~1~1~Unit / Apartment~N/A~N/A~N/A~N/A~
+1/10 Arthur Street, Crestwood NSW 2620 ~$230,000~1~1~Unit / Apartment~N/A~N/A~38~N/A~
+7/6 Stornaway Road, Crestwood NSW 2620 ~$280000~2~1~Unit / Apartment~N/A~N/A~N/A~N/A~
+37/86 Derrima Road, Crestwood NSW 2620 ~$310000~2~1~Unit / Apartment~N/A~N/A~63~N/A~
+15/161 Uriarra Road, Crestwood NSW 2620 ~$349000~1~1~Unit / Apartment~N/A~N/A~N/A~N/A~
+9/161 Uriarra Road, Crestwood NSW 2620 ~$349000~1~1~Apartment~N/A~N/A~N/A~N/A~
+18/161 Uriarra Road, Crestwood NSW 2620 ~$360000~1~1~Apartment~N/A~N/A~N/A~N/A~
+10/78 Derrima Road, Crestwood NSW 2620 ~$523500~2~1~Apartment~N/A~N/A~108~N/A~
+3/136 Morton Street, Crestwood NSW 2620 ~$700000~3~2~Townhouse~N/A~N/A~N/A~N/A~
+2/136 Morton Street, Crestwood NSW 2620 ~$700000~3~2~Townhouse~N/A~N/A~N/A~N/A~
+1/24 Lorn Road, Crestwood NSW 2620 ~$700000~3~2~Townhouse~N/A~N/A~N/A~N/A~
+3 Linaria Place, Crestwood NSW 2620 ~$850000~4~1~House~N/A~N/A~N/A~N/A~

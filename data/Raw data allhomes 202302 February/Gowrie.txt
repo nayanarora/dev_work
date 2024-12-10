@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+23 Stacy Street, Gowrie ACT 2904 ~$829,000~3~1~House~4.0~793~134~$529,000~
+13 Stacy Street, Gowrie ACT 2904 ~$865,000~3~2~House~3.0~917~151~$551,000~
+23 Bruxner Close, Gowrie ACT 2904 ~$980,000 ~4~2~House~0.5~1191~200~$453,000~
+2 Galleghan Circuit, Gowrie ACT 2904 ~$990,000~5~3~House~3.5~1168~N/A~N/A~

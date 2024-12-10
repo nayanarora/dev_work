@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+201 Knoke Avenue, Gordon ACT 2906 ~$575,000~3~1~House~4.0~488~N/A~$360,000~
+20/2 Travers Street, Gordon ACT 2906 ~$628,000~3~2~Townhouse~5.0~N/A~156~N/A~
+55 Carslake Loop, Gordon ACT 2906 ~$750,000~3~1~House~4.0~921~N/A~$305,000~

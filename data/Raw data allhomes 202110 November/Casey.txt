@@ -1,0 +1,3 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+6/14 Andersch Street, Casey ACT 2913 ~$599,000~2~2~Townhouse~6.0~2057~96~N/A~
+4/3 Deasey Close, Casey ACT 2913 ~$739,000 ~3~2~Townhouse~6.0~N/A~132~N/A~

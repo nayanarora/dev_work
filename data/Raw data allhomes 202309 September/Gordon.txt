@@ -1,0 +1,11 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+11 Revell Close, Gordon ACT 2906 ~$630,000 ~3~1~House~1.5~420~93~$416,000~
+75 Sherwood Circuit, Gordon ACT 2906 ~  $669,000~3~1~House~3.5~513~95~$507,000~
+13 McVilly Close, Gordon ACT 2906 ~$770,000~3~1~House~2.5~856~N/A~$524,000~
+45 Oxenham Circuit, Gordon ACT 2906 ~$900,000~4~2~House~4.0~442~148~$490,000~
+42 Kirkwood Crescent, Gordon ACT 2906 ~$989,000~4~2~House~2.0~800~N/A~$508,000~
+44 Michael Holt Crescent, Gordon ACT 2906 ~$1,099,000~4~2~House~2.0~948~171~$509,000~
+34 Callaway Crescent, Gordon ACT 2906 ~$1,125,000 ~4~2~House~3.0~871~235~$508,000~
+10 Callaway Crescent, Gordon ACT 2906 ~$1189000~4~2~House~3.5~936~225~$537,000~
+40 Clem Hill Street, Gordon ACT 2906 ~  $1,249,000~5~3~House~3.0~770~252~$490,000~
+32 Clem Hill Street, Gordon ACT 2906 ~$1,350,000~5~2~House~4.0~848~N/A~$509,000~

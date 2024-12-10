@@ -1,0 +1,8 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+24/815 Horse Park Drive, Amaroo ACT 2914 ~$580,000~2~2~Townhouse~6.0~135~88~N/A~
+1/11 Clara Close, Amaroo ACT 2914 ~$680,000~3~1~Townhouse~3.5~339~128~N/A~
+6/51 Sandover Circuit, Amaroo ACT 2914 ~$799,000~3~2~House~5.5~155~200~N/A~
+27 Diamond Street, Amaroo ACT 2914 ~$930,000~3~2~House~5.0~450~186~$542,000~
+(no street name provided), Amaroo ACT 2914 ~$995,000~4~2~House~4.0~700~155~$598,000~
+26 Narran Street, Amaroo ACT 2914 ~$1,000,000~4~2~House~3.0~531~194~$534,000~
+6 Evella Court, Amaroo ACT 2914 ~$1,150,000~4~2~House~3.5~768~N/A~$572,000~

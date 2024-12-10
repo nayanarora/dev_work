@@ -1,0 +1,23 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+115/14 Boolee Street, Reid ACT 2612 ~$410,000~1~1~Apartment~6.0~N/A~N/A~$11,815,000~
+126/14 Boolee Street, Reid ACT 2612 ~$440,000~1~1~Apartment~6.0~N/A~N/A~N/A~
+230/81 Cooyong Street, Reid ACT 2612 ~$459000~1~1~Apartment~6.0~N/A~N/A~$38,500,000~
+615/83 Cooyong Street, Reid ACT 2612 ~$460,000~1~1~Apartment~6.0~N/A~N/A~$38,500,000~
+421/81 Cooyong Street, Reid ACT 2612 ~$489,000~1~1~Apartment~7.0~N/A~N/A~$38,500,000~
+24/43 Constitution Avenue, Reid ACT 2612 ~$520,000~1~1~Apartment~6.0~N/A~N/A~$6,675,000~
+65/43 Constitution Avenue, Reid ACT 2612 ~$545,000~1~1~Unit / Apartment~6.0~N/A~N/A~$6,675,000~
+Unit 56/14 Boolee St, Reid ACT 2612 ~$549,000~2~1~Unit / Apartment~5.5~N/A~N/A~N/A~
+130/14 Boolee Street, Reid ACT 2612 ~$569,900~1~1~Unit / Apartment~2.0~N/A~N/A~N/A~
+56/14 Boolee St, Reid ACT 2612 ~$580000~2~1~Apartment~N/A~N/A~N/A~$11,815,000~
+507/83 Cooyong Street, Reid ACT 2612 ~$574,900~2~2~Apartment~6.0~N/A~N/A~$38,500,000~
+1/14 Boolee Street, Reid ACT 2612 ~$579,000~2~2~Apartment~3.5~N/A~N/A~N/A~
+421/83 Cooyong Street, Reid ACT 2612 ~$580,000 ~2~2~Unit / Apartment~6.0~N/A~N/A~$38,500,000~
+226/81 Cooyong Street, Reid ACT 2612 ~$589,000~2~2~Unit / Apartment~5.0~N/A~N/A~$38,500,000~
+209/81 Cooyong Street, Reid ACT 2612 ~$590,000~2~2~Unit / Apartment~6.0~N/A~N/A~$38,500,000~
+33 Currong Street South, Reid ACT 2612 ~$620,000~N/A~N/A~Apartment~6.0~N/A~N/A~$4,080,000~
+116/83 Cooyong Street, Reid ACT 2612 ~$639,000~2~2~Apartment~6.0~N/A~N/A~$38,500,000~
+720/81 Cooyong Street, Reid ACT 2612 ~Offers Over $669,000~2~2~Unit / Apartment~6.0~N/A~N/A~$38,500,000~
+1201/81 Cooyong Street, Reid ACT 2612 ~$710,000~2~2~Apartment~7.0~N/A~N/A~$38,500,000~
+110/81 Cooyong Street, Reid ACT 2612 ~$799,000~3~2~Apartment~6.0~N/A~N/A~$38,500,000~
+311/81 Cooyong Street, Reid ACT 2612 ~$830,000~3~2~Apartment~5.8~N/A~N/A~$38,500,000~
+629/81 Cooyong Street, Reid ACT 2612 ~$885,000~3~2~Apartment~5.0~N/A~N/A~$38,500,000~

@@ -1,0 +1,8 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+5/3 Gurubun Close, Ngunnawal ACT 2913 ~$580,000~3~1~Townhouse~5.0~144~N/A~N/A~
+5/123 Wanganeen Avenue, Ngunnawal ACT 2913 ~$699,000~3~2~Townhouse~5.0~396~N/A~N/A~
+117 Kavangal Circuit, Ngunnawal ACT 2913 ~$750,000~3~2~House~6.0~239~128~$349,000~
+57 Marungul Avenue, Ngunnawal ACT 2913 ~$1,300,000~5~3~House~4.0~913~N/A~$683,000~
+16 Mandurah Place, Ngunnawal ACT 2913 ~$1,550,000~5~3~House~3.0~844~282~$607,000~
+23 Gadali Crescent, Ngunnawal ACT 2913 ~$1,700,000~4~2~House~4.5~930~316~$786,000~
+16 Deumonga Court, Ngunnawal ACT 2913 ~$1,900,000~5~4~House~5.5~841~508~$743,000~

@@ -1,0 +1,9 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+5/3 Gurubun Close, Ngunnawal ACT 2913 ~$620,000~3~1~Townhouse~5.0~144~N/A~N/A~
+23 Yuranigh Court, Ngunnawal ACT 2913 ~$639,000~3~1~House~5.0~294~N/A~$351,000~
+18 Gulwan Street, Ngunnawal ACT 2913 ~$0~3~1~House~5.5~246~N/A~$367,000~
+13/60 Paul Coe Crescent, Ngunnawal ACT 2913 ~$675,000~3~1~Townhouse~5.5~141~N/A~N/A~
+34 Lanley Square, Ngunnawal ACT 2913 ~$795,000~3~2~House~3.0~355~N/A~$398,000~
+13 Cubillo Crescent, Ngunnawal ACT 2913 ~Offers over $819,000~3~2~House~3.0~357~107~$400,000~
+19 Kurrama Close, Ngunnawal ACT 2913 ~$899,000~3~2~House~5.0~450~170~$479,000~
+56 Marungul Avenue, Ngunnawal ACT 2913 ~$1698000~6~4~House~3.0~924~N/A~$743,000~

@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+167 Belconnen Way, Hawker ACT 2614 ~$1,149,000~4~2~House~2.0~1076~280~$498,000~

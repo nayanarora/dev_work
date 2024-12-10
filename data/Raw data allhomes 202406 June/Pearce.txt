@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+8 Shout Place, Pearce ACT 2607 ~$2,039,000~5~3~House~4.5~851~313~$917,000~

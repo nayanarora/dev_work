@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+16/78 Hodgson Crescent, Pearce ACT 2607 ~$360,000~2~1~Apartment~6.0~3982~68~$132,000~
+45/21-67 McNamara Street, Pearce ACT 2607 ~$645,000~2~1~Townhouse~1.0~N/A~72~N/A~
+2/59 Hodgson Crescent, Pearce ACT 2607 ~$1,090,000 ~3~2~House~5.5~440~147~N/A~
+102 Hodgson Crescent, Pearce ACT 2607 ~$1,350,000 ~4~2~House~1.0~873~N/A~$777,000~
+11 Parkhill Street, Pearce ACT 2607 ~$1,649,000~5~2~House~1.0~1008~345~$970,000~

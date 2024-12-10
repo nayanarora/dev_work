@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+73 Jumbuck Crescent, Lawson ACT 2617 ~$688,000~3~2~Townhouse~5.0~7579~N/A~$7,319,000~
+9/23 Wanderlight Avenue, Lawson ACT 2617 ~$739,000~3~3~Townhouse~6.0~8953~N/A~$6,785,000~
+48/2 Rouseabout Street, Lawson ACT 2617 ~$750,000~3~3~Townhouse~6.0~85~N/A~N/A~
+32/1 Nevertire St, Lawson ACT 2617 ~$835,000~4~2~Townhouse~6.0~9228~N/A~$5,250,000~
+18 Swagman Street, Lawson ACT 2617 ~  $1,989,000~5~3~House~5.5~450~376~$642,000~

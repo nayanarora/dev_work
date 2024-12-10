@@ -1,0 +1,27 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+72/10 Thynne Street, Bruce ACT 2617 ~  $300,000~2~2~Apartment~N/A~16000.0~N/A~$10,044,000~
+21/2 Eardley Street, Bruce ACT 2617 ~$325,000~1~1~Apartment~6.0~16000.0~N/A~$10,044,000~
+7/2 Eardley Street, Bruce ACT 2617 ~  $350,000~2~2~Apartment~6.0~16000.0~N/A~$10,044,000~
+83/1 Braybrooke Street, Bruce ACT 2617 ~$365,000~1~1~Unit / Apartment~6.0~13500.0~N/A~$5,565,000~
+51/2 Eardley Street, Bruce ACT 2617 ~$385,000~2~1~Apartment~6.0~16000.0~N/A~$10,044,000~
+69/10 Thynne Street, Bruce ACT 2617 ~$399,000~2~2~Apartment~6.0~16000.0~N/A~$10,044,000~
+115/1 Braybrooke Street, Bruce ACT 2617 ~$405,000~2~1~Apartment~4.0~13500.0~N/A~$5,565,000~
+9/21 Battye Street, Bruce ACT 2617 ~$409,000~2~1~Apartment~6.0~13500.0~N/A~$5,565,000~
+114/39 Braybrooke Street, Bruce ACT 2617 ~$420,000~1~1~Apartment~6.0~N/A~N/A~N/A~
+29/126 Thynne Street, Bruce ACT 2617 ~$429,000~2~1~Apartment~4.5~5563~N/A~$2,835,000~
+The Brooke - 1 Bedroom, Bruce ACT 2617 ~$430,000~1~1~Apartment~6.0~3161~N/A~$4,040,000~
+56/2 Eardley Street, Bruce ACT 2617 ~$430,000~3~2~Apartment~6.0~16000.0~N/A~$10,044,000~
+134/1 Braybrooke Street, Bruce ACT 2617 ~$452500~2~1~Unit / Apartment~6.0~13500.0~N/A~$5,565,000~
+204/39 Braybrooke Street, Bruce ACT 2617 ~$489,000~2~1~Apartment~6.5~N/A~N/A~N/A~
+110/1 Braybrooke Street, Bruce ACT 2617 ~$499,000~2~1~Apartment~5.0~13500.0~N/A~$5,565,000~
+The Brooke - Ground floor 1 bed +study room, Bruce ACT 2617 ~$550,000~1~1~Apartment~6.0~3161~N/A~$4,040,000~
+25/31 Thynne Street, Bruce ACT 2617 ~$599,000~3~2~Apartment~6.0~12600.0~N/A~$7,800,000~
+UNIT 17/31 Thynne Street, Bruce ACT 2617 ~$610,000~2~2~Apartment~4.5~12600.0~N/A~$7,800,000~
+110/31 Thynne Street, Bruce ACT 2617 ~$630,000~3~2~Unit / Apartment~5.5~12600.0~N/A~$7,800,000~
+19 Paget Street, Bruce ACT 2617 ~$640,000~2~2~Townhouse~5.5~21600.0~N/A~$8,085,000~
+The Brooke - 306/Brooke, 2 bed 2 bath 2 car, Bruce ACT 2617 ~$650,000~2~2~Other~6.0~3161~N/A~$4,040,000~
+5/2 Tauss Place, Bruce ACT 2617 ~$660,000~3~2~Apartment~6.0~2855~N/A~$1,980,000~
+29/33 Braybrooke Street, Bruce ACT 2617 ~$745,000~3~2~Townhouse~6.0~6558~N/A~N/A~
+2B/4 Thynne Street, Bruce ACT 2617 ~$750,000~2~2~Townhouse~6.0~N/A~N/A~N/A~
+95/121 Thynne Street, Bruce ACT 2617 ~$879,900~3~2~Townhouse~3.0~202~N/A~N/A~
+58/121 Thynne Street, Bruce ACT 2617 ~  $920,000~3~2~Townhouse~5.0~336~N/A~N/A~

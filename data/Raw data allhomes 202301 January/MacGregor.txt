@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+10 Dobie Place, MacGregor ACT 2615 ~$699,000 ~3~1~House~4.0~679~154~$382,000~
+21 Victor Chang Street, MacGregor ACT 2615 ~$749,000~3~1~House~5.0~464~N/A~$406,000~
+43 Jean Macnamara Street, MacGregor ACT 2615 ~$949,000~4~2~House~6.0~441~223~$397,000~
+59 MacFarlane Burnet Avenue, MacGregor ACT 2615 ~$1,030,000~4~2~House~5.0~600~212~$482,000~

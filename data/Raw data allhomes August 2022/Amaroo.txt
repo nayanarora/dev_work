@@ -1,0 +1,8 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+7 Saxby Close, Amaroo ACT 2914 ~$740,000 ~3~1~House~6.0~376~N/A~$495,000~
+8/39 Mornington Street, Amaroo ACT 2914 ~$820,000~3~1~Townhouse~4.5~378~136~N/A~
+64 Wanderer Court, Amaroo ACT 2914 ~$849,000~3~2~House~6.0~348~347~$453,000~
+15 Buckingham Street, Amaroo ACT 2914 ~$1,039,000~4~2~House~6.0~477~N/A~$549,000~
+44 Magenta Square, Amaroo ACT 2914 ~$1075000~4~2~House~4.5~524~209~$508,000~
+(no street name provided), Amaroo ACT 2914 ~$1100000~4~2~House~4.0~700~155~$598,000~
+26 Tarrabool Street, Amaroo ACT 2914 ~$1,900,000~5~2~House~4.0~653~507~$709,000~

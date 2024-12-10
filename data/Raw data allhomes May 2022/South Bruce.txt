@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+407/39 Braybrook Street, Bruce ACT 2617 ~$449,900~1~1~Apartment~6.0~N/A~N/A~N/A~
+The Brooke - G20/39 Braybrooke Street, Bruce ACT 2617 ~$454,900~1~1~Apartment~6.0~N/A~N/A~$950,000~
+IVES - Unit 4B-1, Bruce ACT 2617 ~$1,085,000~4~3~Townhouse~6.4~N/A~N/A~N/A~
+RISE - Four bedrooms townhouse 4A (With private lift), Bruce ACT 2617 ~$1,268,000~4~2~Townhouse~6.1~N/A~251~N/A~

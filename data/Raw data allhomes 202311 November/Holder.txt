@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+1/7 Hyndes Crescent, Holder ACT 2611 ~  $435,000~2~1~Apartment~5.0~5314~N/A~$3,000,000~
+1 Sharland Place, Holder ACT 2611 ~$790,000 ~3~1~House~3.5~694~108~$591,000~
+37 Spowers Circuit, Holder ACT 2611 ~$919,000~4~2~House~1.0~869~163~$597,000~
+25 Hyndes Crescent, Holder ACT 2611 ~$940,000~3~1~House~1.5~790~N/A~$614,000~
+2 Winton Place, Holder ACT 2611 ~$1,069,000 ~5~2~House~0.5~781~190~$594,000~

@@ -1,0 +1,28 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+715/19 Challis Street, Dickson ACT 2602 ~  $410,000~1~1~Apartment~6.0~51~51~N/A~
+308/13-15 Challis Street, Dickson ACT 2602 ~$445,000~1~1~Apartment~6.0~N/A~64~N/A~
+410/13-15 Challis Street, Dickson ACT 2602 ~$449,000~1~1~Apartment~6.5~N/A~N/A~N/A~
+607/15 Challis Street, Dickson ACT 2602 ~  $450,000~1~1~Apartment~6.0~N/A~65~N/A~
+Challis Street, Dickson ACT 2602 ~$460,000~1~1~Apartment~6.0~63~63~N/A~
+25/26 Antill Street, Dickson ACT 2602 ~$485,000~1~1~Unit / Apartment~6.0~N/A~N/A~N/A~
+8/10-12 Stockdale Street, Dickson ACT 2602 ~$490,000~1~1~Unit / Apartment~6.0~N/A~N/A~N/A~
+7/34 Dooring Street, Dickson ACT 2602 ~  $495,000~1~1~Townhouse~5.5~N/A~N/A~$3,930,000~
+310/19 Challis Street, Dickson ACT 2602 ~$575,000~2~1~Apartment~6.0~N/A~70~N/A~
+117/6 Cape Street, Dickson ACT 2602 ~$579,000~2~2~Apartment~6.0~N/A~N/A~N/A~
+204/6 Cape Street, Dickson ACT 2602 ~$580,000~2~2~Apartment~6.0~N/A~N/A~N/A~
+46/13-15 Challis Street, Dickson ACT 2602 ~$645,000~2~2~Apartment~6.0~N/A~80~N/A~
+Kashmir - AG08 Ground Level | East Facing Terrace, Dickson ACT 2602 ~$650,000~2~2~Other~6.1~N/A~N/A~N/A~
+Kashmir - A603 Level 6 | West Facing Sunset Views With Extra Storage, Dickson ACT 2602 ~$655,000~2~2~Other~6.4~N/A~N/A~N/A~
+MULBERRY - 2 bedroom apartments, Dickson ACT 2602 ~$660,000~2~2~Other~6.9~N/A~N/A~N/A~
+Kashmir - A704 Level 7 | Additional Storage, Dickson ACT 2602 ~$660,000~2~2~Other~7.2~N/A~N/A~N/A~
+MULBERRY - 2 bedroom apartments, Dickson ACT 2602 ~$670,000~2~2~Other~6.9~N/A~20~N/A~
+MULBERRY - 2 bedroom apartments, Dickson ACT 2602 ~$670,000~2~2~Other~6.9~N/A~N/A~N/A~
+Kashmir - A101 Level 1 | Spacious Two Bedroom, Dickson ACT 2602 ~$695,000~2~2~Other~6.4~N/A~N/A~N/A~
+147/55 Dooring Street, Dickson ACT 2602 ~$699000~2~2~Unit / Apartment~6.0~N/A~N/A~N/A~
+Kashmir - A212 Level 2 | East Facing Entertainer, Dickson ACT 2602 ~$720,000~2~2~Other~6.4~N/A~N/A~N/A~
+Kashmir - B304 Level 3 | Premium North East Facing, Dickson ACT 2602 ~$745,000~2~2~Other~7.2~N/A~N/A~N/A~
+75a Dooring Street, Dickson ACT 2602 ~$890000~3~2~Duplex~2.5~457~125~N/A~
+8/3 Majura Avenue, Dickson ACT 2602 ~$950,000~3~3~Townhouse~6.0~1560~167~N/A~
+71 Wilshire Street, Dickson ACT 2602 ~$1,100,000~3~1~Duplex~3.0~N/A~N/A~$645,000~
+21 Dumaresq Street, Dickson ACT 2602 ~  $1,250,000~3~1~House~2.0~664~100~$680,000~
+29 Dumaresq Street, Dickson ACT 2602 ~$1,350,000~3~1~House~2.0~664~N/A~$680,000~

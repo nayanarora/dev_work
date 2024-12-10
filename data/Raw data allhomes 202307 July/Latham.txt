@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+6/15 Wanliss Street, Latham ACT 2615 ~$649,000~3~2~Townhouse~5.0~193~147~N/A~
+98 O'Loghlen Street, Latham ACT 2615 ~$785,000~3~1~House~6.0~826~N/A~$464,000~
+1 Meymott Place, Latham ACT 2615 ~$1,150,000~4~1~House~6.0~416~255~$458,000~

@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+33 Eppalock Street, Duffy ACT 2611 ~  $1,049,000~4~2~House~2.0~804~255~$713,000~
+135B Burrinjuck Crescent, Duffy ACT 2611 ~$1,300,000~3~2~Townhouse~6.0~409~N/A~N/A~
+13 Mokoan Place, Duffy ACT 2611 ~  $1,399,000~4~2~House~3.0~1295~203~$749,000~

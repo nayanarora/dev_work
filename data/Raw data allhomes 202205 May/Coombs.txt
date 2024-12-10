@@ -1,0 +1,27 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+Del-Rey - 1 Bed, 1 Bath, 1 Car Condominium, Coombs ACT 2611 ~$430,000~1~1~Apartment~7.0~N/A~N/A~N/A~
+Del-Rey - 2 Beds, 1 Bath, 1 Car Condominium, Coombs ACT 2611 ~$480,000~2~1~Apartment~7.0~N/A~N/A~N/A~
+Del-Rey - 2 Beds, 1 Bath, 1 Car Condominium, Coombs ACT 2611 ~$530,000~2~1~Apartment~7.0~N/A~N/A~N/A~
+Telfer Street, Coombs ACT 2611 ~$589,900~2~2~Apartment~7.8~N/A~N/A~$529,000~
+Del-Rey - 2 Beds, 2 Baths, 2 Cars Condominium, Coombs ACT 2611 ~$620,000~2~2~Apartment~7.0~N/A~N/A~N/A~
+Del-Rey - 3 Beds, 2 Baths, 2 Cars Condominium, Coombs ACT 2611 ~$660,000~3~2~Apartment~7.0~N/A~N/A~N/A~
+The Crossing - Unit 65, Coombs ACT 2611 ~$665,000~2~3~Other~6.6~N/A~172~N/A~
+The Crossing - Unit 61, Coombs ACT 2611 ~$670,000~2~3~Other~6.6~N/A~172~N/A~
+Del-Rey - 2 Beds, 2 Baths, 2 Cars Condominium, Coombs ACT 2611 ~$670,000~2~2~Apartment~7.0~N/A~N/A~N/A~
+The Crossing - Unit 78, Coombs ACT 2611 ~$680,000~2~3~Other~6.6~N/A~172~N/A~
+Del-Rey - 2 Bed, 2 Bath, 2 Car Condominium, Coombs ACT 2611 ~$680,000~2~2~Apartment~7.0~N/A~N/A~N/A~
+The Crossing - Unit 66, Coombs ACT 2611 ~$680,000~2~3~Other~6.6~N/A~172~N/A~
+87 Woodberry Avenue, Coombs ACT 2611 ~$729,000~3~2~Townhouse~6.0~N/A~N/A~$4,860,000~
+11/33 Arthur Blakeley Way, Coombs ACT 2611 ~Offers Over $729,000~3~2~Townhouse~6.0~N/A~115~N/A~
+40 Taggart Terrace, Coombs ACT 2611 ~$800000~3~2~Townhouse~6.0~N/A~N/A~$231,000~
+Del-Rey - 3 Beds, 2 Baths, 2 Cars Condominium, Coombs ACT 2611 ~$790,000~3~2~Apartment~7.0~N/A~N/A~N/A~
+63/16 Cornelius Street, Coombs ACT 2611 ~$799,900~2~1~Townhouse~6.0~N/A~86~N/A~
+FORM - Light filled, 2 bed, 2 bath, Coombs ACT 2611 ~$799,900~2~1~Other~8.0~N/A~128~N/A~
+FORM - 27/18 Cornelius Street, Coombs ACT 2611 ~$949,900~3~1~Townhouse~7.9~N/A~118~N/A~
+FORM - North-facing 3 bedroom with double garage, Coombs ACT 2611 ~$1,000,000~3~1~Other~7.0~N/A~165~N/A~
+30/18 Cornelius Street, Coombs ACT 2611 ~$1,000,000~3~1~Townhouse~7.0~N/A~164~N/A~
+Unit 14 - 7B Woodberry Avenue, Coombs ACT 2611 ~$1,300,000~3~1~Townhouse~7.0~N/A~214~N/A~
+FORM - Huge 3 bedroom townhome, Coombs ACT 2611 ~$1,300,000~3~1~Other~N/A~N/A~218~N/A~
+26 Chipp Street, Coombs ACT 2611 ~$1,525,000~4~2~House~6.0~506~208~$439,000~
+(no street name provided), Coombs ACT 2611 ~$1,650,000~3~2~House~6.0~450~263~$445,000~
+16 Ena Noel Street, Coombs ACT 2611 ~Offers Over $1,950,000~4~2~House~4.5~534~226~$445,000~

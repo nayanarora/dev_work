@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+14 Flecker Place, Florey ACT 2615 ~Offers over $600,000~2~1~Townhouse~N/A~276~N/A~$432,000~
+3/83 Ratcliffe Crescent, Florey ACT 2615 ~Offers over $669,000~3~1~Townhouse~N/A~472~137~N/A~
+35/15 John Cleland Crescent, Florey ACT 2615 ~$699,000 ~3~2~Townhouse~3.0~42900.0~100~$119,875~
+2 Freney Place, Florey ACT 2615 ~$900,000~3~2~House~2.0~589~N/A~$530,000~

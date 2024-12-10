@@ -1,0 +1,8 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+39/7 Eldridge Crescent, Garran ACT 2605 ~$630,000~2~2~Unit / Apartment~6.0~5619~N/A~$6,825,000~
+1/2 Eldridge Crescent, Garran ACT 2605 ~$669,000 NEG~2~2~Apartment~4.0~10800.0~N/A~$8,225,000~
+9/7 Eldridge Crescent, Garran ACT 2605 ~Offer Over $750,000~3~2~Apartment~6.0~5619~N/A~$6,825,000~
+37/10 Hopegood Place, Garran ACT 2605 ~$789,000~3~2~Apartment~6.0~7346~N/A~$8,600,000~
+4/2 Eldridge Crescent, Garran ACT 2605 ~$800,000 Plus~3~2~Apartment~6.0~10800.0~N/A~$8,225,000~
+3 Palmer Street, Garran ACT 2605 ~$1,150,000~3~1~House~3.0~924~159~$857,000~
+5 Rusden Street, Garran ACT 2605 ~$1,700,000~5~3~House~5.0~957~220~$1,112,000~

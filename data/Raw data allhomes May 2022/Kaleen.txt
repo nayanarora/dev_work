@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+40 Liffey Circuit, Kaleen ACT 2617 ~$800,000~4~1~House~3.5~400~112~N/A~
+95 Alberga Street, Kaleen ACT 2617 ~$1,040,000~3~1~House~0.5~752~105~$506,000~
+38 Burnett Street, Kaleen ACT 2617 ~$1,695,000~6~3~House~1.5~763~N/A~$506,000~

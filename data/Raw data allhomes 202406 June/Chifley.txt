@@ -1,0 +1,7 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+12/6 MacLaurin Crescent, Chifley ACT 2606 ~$439,950~2~1~Unit / Apartment~4.0~N/A~N/A~$7,000,000~
+43/17 Medley Street, Chifley ACT 2606 ~$480,000 ~2~1~Apartment~6.0~N/A~N/A~$11,250,000~
+40 Gledden Street, Chifley ACT 2606 ~$975,000~3~1~House~1.0~678~96~$842,000~
+19 Charteris Crescent, Chifley ACT 2606 ~$1,450,000~4~1~Townhouse~6.0~350~N/A~$942,000~
+2/3 Charteris Crescent, Chifley ACT 2606 ~$1,480,000~4~2~Townhouse~6.0~N/A~N/A~N/A~
+40 Wilsmore Crescent, Chifley ACT 2606 ~$1,799,000~5~3~House~0.5~1846~342~$1,242,000~

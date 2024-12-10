@@ -1,0 +1,28 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+3/23 Elm Way, Jerrabomberra NSW 2619 ~$574000~2~1~Townhouse~N/A~5455~N/A~N/A~
+8/17 Elm Way, Jerrabomberra NSW 2619 ~$655000~2~1~Townhouse~N/A~6136~N/A~N/A~
+2/1-7 Torpy Place, Jerrabomberra NSW 2619 ~$695000~3~1~Townhouse~N/A~2949~N/A~N/A~
+45a Kinlyside Avenue, Jerrabomberra NSW 2619 ~$815000~3~1~House~N/A~480~N/A~N/A~
+41 Bluestone Gardens, Jerrabomberra NSW 2619 ~$865000~3~2~House~N/A~563~N/A~N/A~
+7 Colverwell Crescent, Jerrabomberra NSW 2619 ~$975000~4~2~House~N/A~440~114~N/A~
+18 Elm Way, Jerrabomberra NSW 2619 ~$1015000~4~2~House~N/A~864~864~N/A~
+(no street name provided), Jerrabomberra NSW 2619 ~$1045000~4~2~House~N/A~602~N/A~N/A~
+232 Halloran Drive, Jerrabomberra NSW 2619 ~$1175000~4~2~House~N/A~743~254~N/A~
+2 Alder Close, Jerrabomberra NSW 2619 ~$1212500~4~2~House~N/A~670~N/A~N/A~
+3 Terrara Close, Jerrabomberra NSW 2619 ~$1219000~5~2~House~N/A~791~N/A~N/A~
+(no street name provided), Jerrabomberra NSW 2619 ~$1,220,000~5~2~House~N/A~823~N/A~N/A~
+2 Copperfield Place, Jerrabomberra NSW 2619 ~$1250000~4~2~House~N/A~845~225~N/A~
+28 Jacaranda Drive, Jerrabomberra NSW 2619 ~$1400000~6~3~House~N/A~1275~N/A~N/A~
+93 Bicentennial Drive, Jerrabomberra NSW 2619 ~$1412500~4~2~House~N/A~932~N/A~N/A~
+7 Robinia Place, Jerrabomberra NSW 2619 ~$1450000~4~2~House~N/A~915~N/A~N/A~
+4 Mariners Court, Jerrabomberra NSW 2619 ~$1525000~5~2~House~N/A~936~363~N/A~
+10 Kavanagh Street, Jerrabomberra NSW 2619 ~$1,495,000~4~2~House~N/A~1073~240~N/A~
+7 Laurence Close, Jerrabomberra NSW 2619 ~$1560000~6~3~House~N/A~1657~N/A~N/A~
+24 Waterfall Drive, Jerrabomberra NSW 2619 ~$1650000~5~2~House~N/A~1039~331~N/A~
+228 Bicentennial Drive, Jerrabomberra NSW 2619 ~$1,670,000~5~3~House~N/A~923~N/A~N/A~
+7 Bellbush Close, Jerrabomberra NSW 2619 ~$1745000~5~3~House~N/A~1375~338~N/A~
+19 Maple Crescent, Jerrabomberra NSW 2619 ~$1945000~6~4~House~N/A~830~387~N/A~
+16 Aspen Rise, Jerrabomberra NSW 2619 ~$1,990,000~5~3~House~N/A~1080~N/A~N/A~
+5 Aspen Rise, Jerrabomberra NSW 2619 ~$2199999~7~3~House~N/A~2283~N/A~N/A~
+4 Laurence Close, Jerrabomberra NSW 2619 ~$2225000~5~3~House~N/A~1152~383~N/A~
+2 Callitris Place, Jerrabomberra NSW 2619 ~$2400000~6~3~House~N/A~1025~N/A~N/A~

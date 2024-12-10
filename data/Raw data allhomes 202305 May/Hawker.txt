@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+9/153 Murranji Street, Hawker ACT 2614 ~$235,000 ~1~1~Unit / Apartment~0.5~5541~44~$149,160~

@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+94 Appel Crescent, Fadden ACT 2904 ~$1,600,000~5~3~House~2.0~719~N/A~$443,000~

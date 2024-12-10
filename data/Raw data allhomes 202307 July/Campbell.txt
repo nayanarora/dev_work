@@ -1,0 +1,15 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+506/4 Anzac Park, Campbell ACT 2612 ~$530,000~1~1~Apartment~6.0~4895~N/A~N/A~
+11/86 Anzac Park, Campbell ACT 2612 ~$550,000~2~1~Unit / Apartment~N/A~2824~N/A~$186,000~
+419/12 Provan Street, Campbell ACT 2612 ~$695,000~2~2~Apartment~6.0~7020~N/A~$63,037~
+33/81 Constitution Avenue, Campbell ACT 2612 ~$699,000~2~2~Apartment~6.0~6749~72~$50,225~
+321/2 Anzac Parade, Campbell ACT 2612 ~$725,000~2~2~Apartment~6.0~N/A~N/A~N/A~
+101/59 Constitution Avenue, Campbell ACT 2612 ~$755000~2~2~Apartment~6.0~2382~80~$68,475~
+512/21 Provan Street, Campbell ACT 2612 ~$775,000~2~2~Apartment~6.0~4256~82~$144,760~
+4 /112 Blamey Crescent, Campbell ACT 2612 ~$1,699,000~3~1~Townhouse~6.0~345~179~N/A~
+2/130 Blamey Crescent, Campbell ACT 2612 ~$1,700,000~3~3~Townhouse~6.0~1000~180~$544,500~
+29 Ferdinand Street, Campbell ACT 2612 ~$1,895,000~4~2~House~6.0~869~158~$1,311,000~
+12 Rosenthal Street, Campbell ACT 2612 ~$2139000~5~2~House~1.0~755~N/A~$1,311,000~
+3 Coral Place, Campbell ACT 2612 ~$2.1M OR BEST OFFER~5~3~House~2.5~1071~223~$1,195,000~
+3 Coral Place, Campbell ACT 2612 ~$2,100,000~5~3~House~2.0~1071~N/A~$1,195,000~
+7 Patey Street, Campbell ACT 2612 ~$2,900,000~4~2~House~2.0~836~259~$1,338,000~

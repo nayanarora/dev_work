@@ -1,0 +1,22 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+31/25 Pinkerton Circuit, Kambah ACT 2902 ~$549,000~2~1~Townhouse~3.5~163~89~N/A~
+14/25 Pinkerton Circuit, Kambah ACT 2902 ~$550,000~2~1~Townhouse~4.5~163~87~N/A~
+21 Snodgrass Crescent, Kambah ACT 2902 ~$580,000~2~1~Retirement Village~N/A~36800.0~N/A~$6,300,000~
+7/59 Pinkerton Circuit, Kambah ACT 2902 ~$590,000~2~1~Townhouse~2.0~331~76~N/A~
+67 Castley Circuit, Kambah ACT 2902 ~$650,000~3~1~House~3.0~475~102~$340,000~
+74 Tepper Circuit, Kambah ACT 2902 ~$680,000~3~1~House~1.5~604~102~$487,000~
+17/37 Wyselaskie Circuit, Kambah ACT 2902 ~$690,000~3~1~Townhouse~1.5~312~98~N/A~
+2 Hopwood Place, Kambah ACT 2902 ~$0~3~1~House~1.0~919~N/A~$541,000~
+21 Snodgrass Crescent, Kambah ACT 2902 ~$735,000~3~1~Retirement Village~N/A~36800.0~N/A~$6,300,000~
+73 Livingston Avenue, Kambah ACT 2902 ~$739,000~3~1~House~1.0~686~105~$428,000~
+12/81 Crozier Circuit, Kambah ACT 2902 ~$755,000~3~1~Townhouse~4.0~166~88~N/A~
+101 O'Halloran Circuit, Kambah ACT 2902 ~$790,000~3~1~House~0.5~703~125~$496,000~
+1 Cheyne Place, Kambah ACT 2902 ~$800,000~3~1~House~1.0~1042~113~$598,000~
+43 Chirnside Circuit, Kambah ACT 2902 ~$830,000~3~2~House~4.0~518~137~$393,000~
+13 Hobler Place, Kambah ACT 2902 ~$840,000~4~2~House~1.5~1068~N/A~$530,000~
+3 Howey Place, Kambah ACT 2902 ~$840,000~3~1~House~1.0~724~N/A~$502,000~
+12 Boustead Circuit, Kambah ACT 2902 ~$860,000~3~2~House~2.0~866~N/A~$562,000~
+5 Connor Place, Kambah ACT 2902 ~$875,000~3~2~House~1.5~931~130~$510,000~
+14 Dale Circuit, Kambah ACT 2902 ~$1190000~3~2~House~0.5~1710~132~$664,000~
+47 Ivo Whitton Circuit, Kambah ACT 2902 ~$1450000~5~2~House~4.5~890~227~$616,000~
+70 Mt Vernon Drive, Kambah ACT 2902 ~$1,695,000~6~1~House~4.5~897~334~$616,000~

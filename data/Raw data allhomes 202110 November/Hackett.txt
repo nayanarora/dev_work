@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+15/127 Madigan Street, Hackett ACT 2602 ~$285,000~1~1~Unit / Apartment~1.0~3716~38~N/A~
+12/131 Rivett Street, Hackett ACT 2602 ~$289,000 ~1~1~Apartment~3.0~N/A~N/A~N/A~
+226 Antill Street, Hackett ACT 2602 ~$1,359,000~4~2~House~0.5~N/A~N/A~$593,000~

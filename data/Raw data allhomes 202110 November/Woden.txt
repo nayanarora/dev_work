@@ -1,0 +1,56 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+2/12 Albermarle Place, Phillip ACT 2606 ~$319,000~1~1~Apartment~5.5~N/A~N/A~N/A~
+1114/15 Bowes Street, Phillip ACT 2606 ~$345,000~1~1~Unit / Apartment~6.0~N/A~60~N/A~
+2107/15 Bowes Street, Phillip ACT 2606 ~$349,000~1~1~Apartment~8.5~N/A~N/A~N/A~
+W2 - Life Multiplied - 1 Bedroom Apartment, Phillip ACT 2606 ~$385,000~1~1~Apartment~5.0~N/A~N/A~$1,712,000~
+57/116 Easty Street, Phillip ACT 2606 ~$390,000~1~1~Apartment~6.0~N/A~N/A~N/A~
+W2 - 1 Bedroom Apartment | Type 1B/1B(a), Phillip ACT 2606 ~$402,000~1~1~Apartment~5.9~N/A~N/A~$1,712,000~
+WOVA - Most Exciting New Precinct in Woden, Woden ACT 2606 ~$405,900~1~1~Apartment~5.0~N/A~N/A~N/A~
+1402/15 Bowes Street, Phillip ACT 2606 ~$409,000~1~1~Apartment~4.5~N/A~74~N/A~
+Oaks - Crown - Unit 126, Phillip ACT 2606 ~$410,000~1~1~Apartment~6.0~N/A~59~$13,500,000~
+The Melrose - 1 Bedroom Apartment | Type 1C, Phillip ACT 2606 ~$414,900~1~1~Apartment~6.0~N/A~N/A~N/A~
+256/15 Bowes Street, Phillip ACT 2606 ~$415,000~1~1~Apartment~6.0~N/A~N/A~N/A~
+The Shard - Coming Soon to Woden Town Centre, Phillip ACT 2606 ~$418,000~1~1~Other~6.0~N/A~N/A~$950,000~
+Oaks - Crown - Unit 148, Phillip ACT 2606 ~$420,000~1~1~Apartment~6.0~N/A~N/A~$13,500,000~
+The Melrose - 1 Bedroom Apartment | Type 1B, Phillip ACT 2606 ~$429,900~1~1~Apartment~6.0~N/A~N/A~N/A~
+Oaks - Crown - Unit 160, Phillip ACT 2606 ~$435,000~1~1~Apartment~6.0~N/A~61~$13,500,000~
+Grand Central Towers - 1321/15 Bowes Street, Woden ACT 2606 ~$484,900~2~2~Apartment~5.0~N/A~N/A~N/A~
+W2 - Life Multiplied - 2 Bedroom Apartment, Phillip ACT 2606 ~$490,000~2~1~Apartment~7.3~N/A~N/A~$1,712,000~
+W2 - 2 Bedroom Apartment | Type 2C, Phillip ACT 2606 ~$517500~2~1~Apartment~6.0~N/A~83~$1,712,000~
+The Shard - Coming Soon to Woden Town Centre, Phillip ACT 2606 ~$493,000~1~1~Other~6.0~N/A~N/A~$950,000~
+Grand Central Towers - 2303/15 Bowes Street, Woden ACT 2606 ~$499,900~2~2~Apartment~5.0~N/A~N/A~N/A~
+The Melrose - 2 Bedroom Apartment | Type 2H, Phillip ACT 2606 ~$516,900~2~2~Apartment~6.0~N/A~N/A~N/A~
+The Melrose - 2 Bedroom Apartment | Type 2E, Phillip ACT 2606 ~$518,900~2~2~Apartment~6.0~N/A~N/A~N/A~
+Grand Central Towers - 2006/15 Bowes Street, Woden ACT 2606 ~$519,900~2~1~Apartment~5.0~N/A~N/A~N/A~
+The Melrose - 2 Bedroom Apartment | Type 2G, Phillip ACT 2606 ~$531,900~2~2~Apartment~6.0~N/A~N/A~N/A~
+W2 - 2 Bedroom, 2 Bathroom apartment | Type 2B, Phillip ACT 2606 ~$582500~2~2~Apartment~5.9~N/A~N/A~$1,712,000~
+46a/12 Albermarle Street, Phillip ACT 2606 ~$550,000~3~1~Apartment~4.5~N/A~N/A~N/A~
+The Melrose - 2 Bedroom Apartment | Type 2C, Phillip ACT 2606 ~$551,900~2~2~Apartment~6.0~N/A~N/A~N/A~
+WOVA - Living. Made Livelier., Woden ACT 2606 ~$556,900~2~2~Apartment~5.0~N/A~N/A~N/A~
+The Shard - Coming Soon to Woden Town Centre, Phillip ACT 2606 ~$568,000~2~2~Other~6.0~N/A~N/A~$950,000~
+813/15 Bowes Street, Phillip ACT 2606 ~$569,000~2~2~Apartment~6.0~N/A~96~N/A~
+38/15 Irving Street, Phillip ACT 2606 ~$575,000 ~2~2~Unit / Apartment~6.0~N/A~87~N/A~
+68/15 Bowes Street, Phillip ACT 2606 ~$575,000~2~2~Apartment~6.0~N/A~91~N/A~
+W2 - 2 Bedroom, 2 Bathroom apartment | Type 2F, Phillip ACT 2606 ~$580,000~2~2~Apartment~5.0~N/A~91~$1,712,000~
+WOVA - Woden's New Landmark Precinct, Woden ACT 2606 ~$584,900~2~2~Apartment~5.0~N/A~N/A~N/A~
+6/15 Irving Street, Phillip ACT 2606 ~$649,000~2~2~Apartment~6.0~N/A~86~N/A~
+Grand Central Towers - 2108/15 Bowes Street, Woden ACT 2606 ~$696,400~3~2~Apartment~5.0~N/A~N/A~N/A~
+The Shard - Coming Soon to Woden Town Centre, Phillip ACT 2606 ~$745,000~3~2~Other~6.0~N/A~N/A~$950,000~
+W2 - 3 Bedroom Apartment | Type 3B, Phillip ACT 2606 ~$759000~3~2~Apartment~6.0~N/A~N/A~$1,712,000~
+The Shard - Coming Soon to Woden Town Centre, Phillip ACT 2606 ~$750,000~3~2~Other~6.0~N/A~N/A~$950,000~
+W2 - Rental Income, Multiplied - 4 Bedroom Dual Key Apartment, Phillip ACT 2606 ~$799,000~4~2~Apartment~5.7~N/A~N/A~$1,712,000~
+The Melrose - 3 Bedroom Apartment | Type 3B, Phillip ACT 2606 ~$829,900~3~2~Apartment~6.0~N/A~N/A~N/A~
+367/15 Bowes Street, Phillip ACT 2606 ~$899,000~3~2~Apartment~5.5~N/A~123~N/A~
+371/15 Bowes Street, Phillip ACT 2606 ~$899,900~3~2~Apartment~6.0~N/A~169~N/A~
+2207/15 Bowes Street, Phillip ACT 2606 ~$926,900~3~2~Unit / Apartment~6.0~N/A~159~N/A~
+The Shard - Coming Soon to Woden Town Centre, Phillip ACT 2606 ~$935,000~3~2~Other~6.0~N/A~N/A~$950,000~
+2401/15 Bowes Street, Phillip ACT 2606 ~$989,900~3~2~Unit / Apartment~6.0~N/A~159~N/A~
+Grand Central Towers - 1601/15 Bowes Street, Woden ACT 2606 ~$1,019,900~3~2~Apartment~5.0~N/A~N/A~N/A~
+The Melrose - 3 Bedroom Apartment | Type 3A, Phillip ACT 2606 ~$1,074,900~3~2~Apartment~6.0~N/A~N/A~N/A~
+WOVA - At the heart of a landmark revival, Woden ACT 2606 ~$1,265,000~3~2~Apartment~5.0~N/A~N/A~N/A~
+W2 - Life Multiplied - Penthouse Apartment | Type 1, Phillip ACT 2606 ~$1,335,000~3~2~Other~7.0~N/A~N/A~$1,712,000~
+WOVA - A Vibrant New Urban Community in Woden, Woden ACT 2606 ~$1,350,000~3~2~Apartment~5.0~N/A~N/A~N/A~
+W2 - Penthouse Apartment | Unit 2303, Phillip ACT 2606 ~$1,600,000~3~2~Apartment~7.0~N/A~144~$1,712,000~
+The Shard - Coming Soon to Woden Town Centre, Phillip ACT 2606 ~$1,750,000~4~3~Other~6.0~N/A~N/A~$950,000~
+The Shard - Coming Soon to Woden Town Centre, Phillip ACT 2606 ~$1,800,000~3~3~Other~6.0~N/A~N/A~$950,000~
+The Shard - Coming Soon to Woden Town Centre, Phillip ACT 2606 ~$2,200,000~3~3~Other~6.0~N/A~N/A~$950,000~

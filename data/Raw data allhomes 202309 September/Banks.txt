@@ -1,0 +1,7 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+3 Reader Court, Banks ACT 2906 ~  $699,000~3~1~House~4.5~552~90~$426,000~
+99 Pockett Avenue, Banks ACT 2906 ~$729,000~3~1~House~4.5~480~112~$324,000~
+147 Tom Roberts Avenue, Banks ACT 2906 ~$740,000~3~1~Dual Occupancy~4.0~425~N/A~N/A~
+4 McLuckie Crescent, Banks ACT 2906 ~$800,000~4~2~House~3.0~869~133~$451,000~
+15 Smeaton Circuit, Banks ACT 2906 ~$939,000~4~3~House~4.0~753~N/A~$425,000~
+5 Wollemi Place, Banks ACT 2906 ~$975,000~7~4~House~3.5~1202~461~$633,000~

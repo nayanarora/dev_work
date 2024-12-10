@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+3/6 Walsh Place, Curtin ACT 2605 ~$229,000~1~1~Apartment~2.0~N/A~33~$3,000,000~
+60 Throssell Street, Curtin ACT 2605 ~$1,299,000~3~1~House~2.5~747~110~$609,000~
+49 McCormack Street, Curtin ACT 2605 ~$1,450,000~4~2~House~1.5~947~154~$729,000~
+3 Parker Street, Curtin ACT 2605 ~$1,745,000 ~5~2~House~3.5~699~174~$609,000~
+15 McCulloch Street, Curtin ACT 2605 ~$1,775,000~3~2~Townhouse~5.0~454~166~N/A~

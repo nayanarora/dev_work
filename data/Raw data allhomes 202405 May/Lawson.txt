@@ -1,0 +1,14 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+17/15 Stockman Avenue, Lawson ACT 2617 ~  $440,000~1~1~Apartment~6.0~N/A~N/A~$5,520,000~
+22/11 Wanderlight Avenue, Lawson ACT 2617 ~$599,000~2~2~Townhouse~6.0~5693~N/A~$4,600,000~
+20/11 Wanderlight Avenue, Lawson ACT 2617 ~$599,000~2~2~Townhouse~6.0~5693~N/A~$4,600,000~
+31/15 Wanderlight Avenue, Lawson ACT 2617 ~$635,000~3~2~Townhouse~5.5~6287~N/A~$5,060,000~
+63/15 Jumbuck Crescent, Lawson ACT 2617 ~$725,000~3~3~Townhouse~4.0~11399.999999999998~N/A~$6,574,000~
+81 Jumbuck Crescent, Lawson ACT 2617 ~$739,000~3~2~Townhouse~4.5~7579~N/A~$7,319,000~
+38 Narrambla Terrace, Lawson ACT 2617 ~$750,000 ~3~2~Townhouse~6.0~5609~N/A~$4,485,000~
+36/1 Nevertire Street, Lawson ACT 2617 ~$750,000~3~2~Townhouse~6.0~9231~N/A~$5,250,000~
+22/17 Nevertire Street, Lawson ACT 2617 ~$759,000~4~3~Townhouse~4.5~6858~N/A~$5,290,000~
+34/1 Nevertire Street, Lawson ACT 2617 ~$799,000 ~4~2~Townhouse~6.0~9231~N/A~$5,250,000~
+34/2 Bulletin Street, Lawson ACT 2617 ~$800,000~3~2~Townhouse~6.0~6325~N/A~$5,125,000~
+13 Bellbird Loop, Lawson ACT 2617 ~$1,700,000 ~5~3~House~5.5~570~286~$697,000~
+18 Swagman Street, Lawson ACT 2617 ~  $1,889,000~5~3~House~5.5~450~376~$642,000~

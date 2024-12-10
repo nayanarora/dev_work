@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+9 Kerr Place, Charnwood ACT 2615 ~$625,000~3~1~House~0.5~562~103~$405,000~
+41/42 Lhotsky Street, Charnwood ACT 2615 ~$640,000~3~1~Townhouse~6.0~293~97~N/A~
+6 Packham Place, Charnwood ACT 2615 ~$695,000~3~1~House~1.0~439~N/A~$432,000~
+6 Bunker Place, Charnwood ACT 2615 ~$755,000~3~1~House~1.0~585~103~$469,000~
+12 Rouse Place, Charnwood ACT 2615 ~$824000~3~1~House~2.5~764~N/A~$405,000~

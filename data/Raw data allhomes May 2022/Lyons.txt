@@ -1,0 +1,8 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+2A/30 Glenorchy Street, Lyons ACT 2606 ~$235000~1~1~Unit / Apartment~4.5~N/A~33~$6,000,000~
+84/179 Melrose Drive, Lyons ACT 2606 ~Offers Over $315,000~2~1~Unit / Apartment~4.0~N/A~57~$9,513,000~
+40/5 Burnie Street, Lyons ACT 2606 ~$485,000~2~1~Apartment~6.0~N/A~N/A~$10,500,000~
+1/18 Devonport Street, Lyons ACT 2606 ~$504000~1~1~Apartment~6.0~N/A~N/A~$1,200,000~
+1/61 Launceston Street, Lyons ACT 2606 ~$960,000~3~2~Townhouse~4.0~N/A~120~N/A~
+19 Lutana Street, Lyons ACT 2606 ~$1,189,000~3~1~House~1.5~694~N/A~$628,000~
+30 Deloraine Street, Lyons ACT 2606 ~$1,600,000~3~1~House~1.0~1082~N/A~$636,000~

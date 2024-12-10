@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+2/215 Kosciuszko Avenue, Palmerston ACT 2913 ~$530,000~2~1~Townhouse~3.0~185~80~N/A~
+42 Mainwaring Rich Circuit, Palmerston ACT 2913 ~$700,000~3~1~House~3.0~500~109~$443,000~
+13 Brinkley Circuit, Palmerston ACT 2913 ~$1,099,000~4~2~House~1.0~839~269~$655,000~

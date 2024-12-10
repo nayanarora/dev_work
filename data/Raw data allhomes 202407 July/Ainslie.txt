@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+102 Majura Avenue, Ainslie ACT 2602 ~$1,195,000~3~1~Duplex~4.0~490~N/A~$719,000~
+116 Majura Avenue, Ainslie ACT 2602 ~$1,225,000~4~2~Duplex~2.5~489~N/A~$719,000~
+39 Campbell Street, Ainslie ACT 2602 ~$1,499,000~3~1~House~0.0~981~90~$1,152,000~

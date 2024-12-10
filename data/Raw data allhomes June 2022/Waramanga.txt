@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+14 Alawa Street, Waramanga ACT 2611 ~$1,299,000~4~2~House~1.0~1657~161~$525,000~

@@ -1,0 +1,3 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+45 Blackburn Street, Pearce ACT 2607 ~$1,049,000~4~2~House~0.5~789~N/A~$850,000~
+8 Shout Place, Pearce ACT 2607 ~$2,090,000~5~3~House~4.5~851~313~$917,000~

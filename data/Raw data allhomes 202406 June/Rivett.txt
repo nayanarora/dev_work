@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+39 Blancoa Place, Rivett ACT 2611 ~$580,000~3~1~House~4.0~266~N/A~$406,000~
+20 Blancoa Place, Rivett ACT 2611 ~$699,000~3~2~House~3.5~344~108~$438,000~
+7 Eugenia Street, Rivett ACT 2611 ~$949000~3~2~House~1.0~708~N/A~$659,000~
+13 Epacris Place, Rivett ACT 2611 ~$949,000~3~1~House~3.0~798~135~$660,000~
+52 Streeton Drive, Rivett ACT 2611 ~ $960,000~3~1~House~1.5~914~145~$624,000~

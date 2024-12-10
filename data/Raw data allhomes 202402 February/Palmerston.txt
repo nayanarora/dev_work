@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+27/7 Elvire Place, Palmerston ACT 2913 ~$699,000~N/A~N/A~N/A~N/A~341~N/A~N/A~
+16/21 Namadgi Circuit, Palmerston ACT 2913 ~$710000~N/A~N/A~N/A~N/A~298~N/A~N/A~
+12/25 Namadgi Circuit, Palmerston ACT 2913 ~$740,000~N/A~N/A~N/A~N/A~253~N/A~N/A~
+23 Freeling Crescent, Palmerston ACT 2913 ~$1,150,000~N/A~N/A~N/A~N/A~811~342~$567,000~

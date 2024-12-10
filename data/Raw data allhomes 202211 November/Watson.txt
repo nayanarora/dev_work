@@ -1,0 +1,24 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+Norrebro - Final stage - now selling, Watson ACT 2602 ~$349,900~1~1~Apartment~6.0~N/A~N/A~N/A~
+Norrebro - Final stage - now selling, Watson ACT 2602 ~$399,900~1~1~Other~6.0~N/A~N/A~N/A~
+13/20 Federal Highway, Watson ACT 2602 ~$455,000~2~2~Apartment~5.0~20500.0~106~$58,800~
+28/28 Beechworth Street, Watson ACT 2602 ~Offers over $459,000~1~1~Unit / Apartment~6.0~N/A~N/A~N/A~
+7/23 Tay, Watson ACT 2602 ~$475,000~2~1~Apartment~2.5~N/A~N/A~N/A~
+32/20 Federal Highway, Watson ACT 2602 ~$489,000~2~2~Apartment~6.0~20500.0~N/A~$58,800~
+10/20 Federal Highway, Watson ACT 2602 ~$490K (Offers Welcome)~2~2~Apartment~4.0~20500.0~N/A~$58,800~
+31/20 Federal Highway, Watson ACT 2602 ~$499,000~2~2~Apartment~6.0~20500.0~N/A~$58,800~
+Norrebro - Final stage - now selling, Watson ACT 2602 ~$559,900~2~2~Apartment~6.0~N/A~N/A~N/A~
+25/23 Aspinall Street, Watson ACT 2602 ~$579,000~2~2~Apartment~4.0~11700.0~119~$106,240~
+172/395 Antill Street, Watson ACT 2602 ~$599,000~2~2~Apartment~6.0~66100.0~100~N/A~
+Norrebro - Final stage - now selling, Watson ACT 2602 ~$639,900~3~2~Apartment~6.0~N/A~N/A~N/A~
+147/395 Antill Street, Watson ACT 2602 ~$697,000~2~1~Apartment~5.5~66100.0~N/A~N/A~
+125/395 Antill Street, Watson ACT 2602 ~$870,000~3~2~Townhouse~6.0~66100.0~137~N/A~
+81 Phillip Avenue, Watson ACT 2602 ~$875,000~3~1~Duplex~2.5~569~117~$725,000~
+7 Bettie McNee Street, Watson ACT 2602 ~$920,000~3~1~Townhouse~5.0~240~162~$425,000~
+40/67 Negus Crescent, Watson ACT 2602 ~$1,100,000~4~3~Townhouse~5.0~268~N/A~N/A~
+28 Ehrlich Circuit, Watson ACT 2602 ~Offers over $1,200,000~4~2~Townhouse~6.5~249~180~$425,000~
+36 Kilduff Street, Watson ACT 2602 ~$1,250,000~3~2~House~6.0~375~161~$625,000~
+34 Negus Crescent, Watson ACT 2602 ~$1,265,000~5~2~House~4.5~453~N/A~$700,000~
+28 Phippard Court, Watson ACT 2602 ~$1,290,000~4~2~House~6.0~326~197~$526,000~
+37B Molesworth Street, Watson ACT 2602 ~$1,399,000~4~2~House~5.5~401~N/A~N/A~
+21 Wade Street, Watson ACT 2602 ~$1,500,000~4~2~House~2.0~771~139~$874,000~

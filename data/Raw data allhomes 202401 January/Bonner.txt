@@ -1,0 +1,17 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+87 Murrjinelle Circuit, Bonner ACT 2914 ~$670,000~3~1~House~6.0~250~146~$308,000~
+1 Deucem Smith Street, Bonner ACT 2914 ~$700000~3~1~House~6.0~240~125~$308,000~
+75 Mobourne Street, Bonner ACT 2914 ~$689,000~3~1~House~6.0~218~N/A~$293,000~
+71 Mobourne Street, Bonner ACT 2914 ~$690,000~3~1~House~6.0~218~143~$293,000~
+1 Yarri Street, Bonner ACT 2914 ~$695,000~3~1~House~4.0~244~N/A~$308,000~
+5 Neidjie Close, Bonner ACT 2914 ~$695,000~3~1~House~6.0~148~126~$276,000~
+7 Murrjinelle Circuit, Bonner ACT 2914 ~ $699,000~3~1~House~6.0~248~N/A~$308,000~
+6/147 Bill Ferguson Circuit, Bonner ACT 2914 ~$750,000~4~2~Townhouse~6.0~140~N/A~N/A~
+16 Eugene Vincent Street, Bonner ACT 2914 ~$785,000~3~2~House~5.0~235~N/A~$318,000~
+10 Abdullah Street, Bonner ACT 2914 ~$785,000~3~2~House~5.0~362~143~$441,000~
+74 Eugene Vincent Street, Bonner ACT 2914 ~$899,000~4~2~House~5.0~345~178~$428,000~
+8 Mabo Boulevard, Bonner ACT 2914 ~$1,050,000~4~2~House~5.0~583~246~$562,000~
+162 Ida West Street, Bonner ACT 2914 ~$1,090,000~4~2~House~5.0~540~N/A~$540,000~
+26 Numiari Street, Bonner ACT 2914 ~  $1,130,000~4~2~House~4.5~525~200~$533,000~
+6 Neidjie Close, Bonner ACT 2914 ~$1,150,000~4~2~House~5.0~535~280~$540,000~
+119 Ida West Street, Bonner ACT 2914 ~$1,295,000~5~3~House~5.5~452~292~$475,000~

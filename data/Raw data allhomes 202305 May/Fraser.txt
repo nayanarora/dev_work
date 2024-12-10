@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+4 Vercoe Place, Fraser ACT 2615 ~$920,000~4~2~House~1.0~1024~N/A~$580,000~

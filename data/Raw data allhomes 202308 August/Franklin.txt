@@ -1,0 +1,14 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+51/21 Christina Stead Street, Franklin ACT 2913 ~$350,000~1~1~Unit / Apartment~6.0~7982~N/A~$5,313,000~
+68/311 Flemington Road, Franklin ACT 2913 ~$449,000~2~1~Apartment~6.0~12000.0~N/A~$7,800,000~
+39/301 Flemington Road, Franklin ACT 2913 ~  $450,000~2~2~Apartment~6.0~9629~N/A~$5,875,000~
+92/75 Elizabeth Jolley Crescent, Franklin ACT 2913 ~$509,000~2~2~Apartment~4.5~9025~N/A~$2,650,000~
+92/104 Henry Kendall Street, Franklin ACT 2913 ~$530,000 ~2~2~Apartment~6.0~10400.0~N/A~$6,480,000~
+4/289 Flemington Road, Franklin ACT 2913 ~$530,000~2~2~Apartment~6.0~5049~N/A~$3,875,000~
+1/297 Flemington Road, Franklin ACT 2913 ~$535,000~2~2~Apartment~4.0~9629~N/A~$5,875,000~
+15/2 Trist Street, Franklin ACT 2913 ~$539,900~2~2~Apartment~6.0~5049~N/A~$3,875,000~
+22/283 Flemington Road, Franklin ACT 2913 ~$545,000~2~2~Apartment~6.0~4354~N/A~$3,125,000~
+13/233 Flemington Road, Franklin ACT 2913 ~$690,000 ~3~2~Townhouse~4.5~7611~N/A~$4,500,000~
+16/86 Henry Kendall Street, Franklin ACT 2913 ~$699,000 ~3~2~House~6.0~4886~110~$3,625,000~
+12 Nina Murdoch Street, Franklin ACT 2913 ~  $1,390,000.-~5~3~House~N/A~570~N/A~N/A~
+66 Marie Pitt Street, Franklin ACT 2913 ~  $1,400,000~4~3~House~5.5~578~242~$621,000~

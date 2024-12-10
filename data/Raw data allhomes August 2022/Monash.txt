@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+1/38 Kenyon Circuit, Monash ACT 2904 ~$625,000~3~1~Townhouse~4.0~459~N/A~N/A~
+34/156 Clive Steele Avenue, Monash ACT 2904 ~$735,000~3~2~Townhouse~4.5~341~193~N/A~
+21 Charleston Street, Monash ACT 2904 ~$799,000~3~1~House~4.5~488~N/A~$420,000~
+3 Corin Place, Monash ACT 2904 ~$889,000~4~1~House~2.5~1074~118~$381,000~
+18 Harkness Street, Monash ACT 2904 ~$1,195,000~4~2~House~1.0~898~242~$596,000~

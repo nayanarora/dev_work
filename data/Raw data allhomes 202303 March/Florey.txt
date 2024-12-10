@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+28 Enright Crescent, Florey ACT 2615 ~$619,000~2~1~House~2.5~259~80~$464,000~
+86/15 John Cleland Crescent, Florey ACT 2615 ~$669,000~3~2~Townhouse~5.5~42900.0~101~$119,875~
+93/15 John Cleland Crescent, Florey ACT 2615 ~$699,000~3~2~Unit / Apartment~6.0~42900.0~107~$119,875~
+7 Kitson Place, Florey ACT 2615 ~$929,000~3~1~House~3.0~676~N/A~$530,000~
+85 Summerville Crescent, Florey ACT 2615 ~$1,090,000~5~2~House~4.0~795~212~$656,000~

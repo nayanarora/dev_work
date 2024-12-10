@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+11 Eucalypt Place, Royalla NSW 2620 ~$1920000~4~2~House~N/A~37800.0~N/A~N/A~
+44 Sherwood Place, Royalla NSW 2620 ~$1,975,000 ONO~4~2~House~N/A~30299.999999999996~325~N/A~
+500 Royalla Drive, Royalla NSW 2620 ~$2100000~6~4~House~N/A~52200.0~N/A~N/A~
+182 Valley Drive, Royalla NSW 2620 ~$2,499,000 to $2,595,000~6~3~House~N/A~57500.0~N/A~N/A~
+11 Valley Drive, Royalla NSW 2620 ~$2,899,000 ONO~5~3~House~N/A~31400.0~N/A~N/A~

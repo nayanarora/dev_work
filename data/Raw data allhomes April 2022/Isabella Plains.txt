@@ -1,0 +1,3 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+14/8 Jondol Place, Isabella Plains ACT 2905 ~$650,000~3~1~Townhouse~1.0~N/A~102~N/A~
+8 Nugal Place, Isabella Plains ACT 2905 ~$827,000~4~1~House~3.0~657~133~$352,000~

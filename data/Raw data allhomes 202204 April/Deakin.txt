@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+406/2 Grose Street, Deakin ACT 2600 ~$1,750,000~3~1~Apartment~5.0~N/A~193~$13,000,000~
+11 Nathan Street, Deakin ACT 2600 ~$1,800,000~5~2~House~N/A~640~N/A~$780,000~
+71 Kent Street, Deakin ACT 2600 ~$0~4~2~House~1.5~N/A~N/A~$750,000~

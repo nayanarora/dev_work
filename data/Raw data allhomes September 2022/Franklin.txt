@@ -1,0 +1,16 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+45/289 Flemington Road, Franklin ACT 2913 ~Offers Over $359,000~1~1~Unit / Apartment~6.0~5049~56~$59,287~
+(no street name provided), Franklin ACT 2913 ~$365,000~1~1~House~6.0~12000.0~N/A~$79,560~
+17/307 Flemington Road, Franklin ACT 2913 ~$379,000~1~1~Apartment~6.0~10400.0~N/A~$49,896~
+12/21 Christina Stead Street, Franklin ACT 2913 ~$385,000~1~1~Apartment~6.0~7982~N/A~$38,253~
+6/35 Clare Burton Crescent, Franklin ACT 2913 ~Offers Over $425,000~1~1~Townhouse~6.0~5118~N/A~$171,900~
+76/235 Flemington Road, Franklin ACT 2913 ~$450,000~2~1~Apartment~6.0~7611~68~$49,500~
+21/311 Flemington Road, Franklin ACT 2913 ~Offers over $530,000~2~2~Apartment~5.0~12000.0~N/A~$79,560~
+2/329 Flemington Road, Franklin ACT 2913 ~$545,000~2~2~Apartment~6.0~11600.0~N/A~$70,380~
+108/49 Nullabor Avenue, Franklin ACT 2913 ~$580,000~2~2~Apartment~6.0~N/A~N/A~N/A~
+28/50 Henry Kendall Street, Franklin ACT 2913 ~$670,000~3~2~Townhouse~5.5~71~111~N/A~
+(no street name provided), Franklin ACT 2913 ~$755,000~3~1~Townhouse~5.5~103~N/A~N/A~
+7/92 Henry Kendall Street, Franklin ACT 2913 ~$780,000~3~2~Townhouse~6.0~9629~N/A~$51,112~
+22 Jeannie Gunn Street, Franklin ACT 2913 ~$850,000~3~2~House~5.0~275~126~$340,000~
+9 Kylie Tennant Street, Franklin ACT 2913 ~$940,000~3~2~House~5.0~405~N/A~$465,000~
+21 Petherick Street, Franklin ACT 2913 ~$1,100,000~4~2~House~5.0~405~174~$496,000~

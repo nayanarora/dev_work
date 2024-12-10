@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+74/3 Nevertire Street, Lawson ACT 2617 ~$430,000~2~1~Apartment~6.0~9228~52~$84,000~
+6/2 Rouseabout Street, Lawson ACT 2617 ~$750,000~3~2~Townhouse~6.0~162~162~N/A~
+7 Narrambla Terrace, Lawson ACT 2617 ~Offers Over $1,599,000~5~3~House~4.0~554~313~$653,000~
+22 Toorale Terrace, Lawson ACT 2617 ~$1,900,000~6~1~House~4.0~554~277~$653,000~

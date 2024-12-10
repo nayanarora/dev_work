@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+2 Gladman Close, Isaacs ACT 2607 ~$950,000~3~2~Townhouse~1.0~632~126~N/A~
+6 Adey Place, Isaacs ACT 2607 ~$965,000~3~1~House~3.5~592~151~$638,000~
+43 MacLagan Street, Isaacs ACT 2607 ~$979,000~4~2~House~3.0~872~169~$581,000~
+2 Bee Place, Isaacs ACT 2607 ~$995,000~3~2~House~5.5~637~N/A~$629,000~
+7 Adkinson Close, Isaacs ACT 2607 ~$1,059,000~3~2~House~1.0~792~131~$835,000~

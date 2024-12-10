@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+28/11 Starcevich Crescent, Jacka ACT 2914 ~$679,000~3~2~Townhouse~5.0~167~N/A~N/A~

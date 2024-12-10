@@ -1,0 +1,18 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+50/81 Constitution Avenue, Campbell ACT 2612 ~$520,000~1~1~Apartment~6.0~6749~N/A~$50,225~
+41/81 Constitution Avenue, Campbell ACT 2612 ~$545,500~1~1~Apartment~6.0~6749~N/A~$50,225~
+234/26 Anzac Park, Campbell ACT 2612 ~$679,000~2~2~Apartment~6.0~7020~70~$63,037~
+509/15 Provan Street, Campbell ACT 2612 ~$679,000~2~2~Apartment~6.0~4256~63~$144,760~
+427/2 Anzac Park, Campbell ACT 2612 ~$715000~2~2~Apartment~6.0~4895~74~N/A~
+331/20 Anzac Park, Campbell ACT 2612 ~$690,000~2~2~Unit / Apartment~6.0~7020~69~$63,037~
+424/20 Anzac Park, Campbell ACT 2612 ~$799,000~2~2~Apartment~6.0~7020~104~$63,037~
+413/21 Provan Street, Campbell ACT 2612 ~Offers Over $820,000~2~2~Apartment~6.0~4256~N/A~$144,760~
+4/165 Blamey Crescent, Campbell ACT 2612 ~$1,100,000~3~1~Townhouse~5.5~173~N/A~N/A~
+1/69 Blamey Crescent, Campbell ACT 2612 ~$1,195,000~3~1~Townhouse~2.0~16800.0~N/A~$180,523~
+102/15 Provan Street, Campbell ACT 2612 ~Offers over $1,250,000~3~2~Apartment~6.0~4256~N/A~$144,760~
+44 Elliott Street, Campbell ACT 2612 ~Offers over $1,590,000~4~2~House~2.5~733~N/A~$1,099,000~
+Signature Collection - Executive Living - 3 Bedroom + Media/Home Office/Bed 4, Campbell ACT 2612 ~$1,650,000~3~1~Apartment~N/A~N/A~N/A~N/A~
+62 Waller Crescent, Campbell ACT 2612 ~$1,699,000~4~2~House~3.0~695~219~$1,083,000~
+16A Truscott Street, Campbell ACT 2612 ~$1,895,000~4~2~House~2.5~890~N/A~N/A~
+602/4 Anzac Park, Campbell ACT 2612 ~$1,999,999~3~2~Apartment~6.0~6~172~N/A~
+36 Rosenthal Street, Campbell ACT 2612 ~$2,950,000~4~1~House~4.5~764~309~$1,311,000~

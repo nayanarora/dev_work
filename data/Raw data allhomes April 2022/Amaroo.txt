@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+2/140 Katherine Avenue, Amaroo ACT 2914 ~$798,000~3~2~Townhouse~6.0~N/A~172~N/A~

@@ -1,0 +1,23 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+177/41 Philip Hodgins Street, Wright ACT 2611 ~$395,000~1~1~Apartment~6.0~17900.0~N/A~$40,320~
+43/40 Philip Hodgins Street, Wright ACT 2611 ~$400,000~1~1~Apartment~6.0~21200.0~N/A~$32,300~
+50/566 Cotter Road, Wright ACT 2611 ~$410,000~1~1~Apartment~6.0~2032~72~$21,294~
+182/39 Catalano Street, Wright ACT 2611 ~$415,000~2~1~Apartment~6.0~21200.0~N/A~$32,300~
+30/60 Tishler Street, Wright ACT 2611 ~$420,000~1~1~Apartment~6.0~8514~N/A~$85,500~
+162/61 John Gorton Drive, Wright ACT 2611 ~$440000~1~1~Unit / Apartment~6.0~17600.0~62~$62,832~
+71/566 Cotter Road, Wright ACT 2611 ~$425,000~1~1~Apartment~6.0~2032~N/A~$21,294~
+56/25 John Gorton Drive, Wright ACT 2611 ~  $439,000~1~1~Unit / Apartment~6.0~11299.999999999998~67~$5,500,000~
+163/61 John Gorton Drive, Wright ACT 2611 ~$445,000~1~1~Apartment~6.0~17600.0~62~$62,832~
+169/41 Philip Hodgins Street, Wright ACT 2611 ~$515,000~2~2~Apartment~6.0~17900.0~85~$40,320~
+149/45 Catalano Street, Wright ACT 2611 ~$519,000~2~2~Apartment~6.0~21200.0~80~$32,300~
+231/30 Philip Hodgins Street, Wright ACT 2611 ~$530,000~2~2~Apartment~6.0~21200.0~105~$32,300~
+87/2 Peter Cullen Way, Wright ACT 2611 ~$530,000~2~1~Apartment~N/A~17600.0~N/A~$62,832~
+235/30 Philip Hodgins Street, Wright ACT 2611 ~$539,000~2~2~Unit / Apartment~6.0~21200.0~71~$32,300~
+Level 5/75/566 Cotter Road, Wright ACT 2611 ~  $559,000~2~2~Apartment~6.0~N/A~78~N/A~
+53 Tishler Street, Wright ACT 2611 ~  $650,000~3~2~Townhouse~6.0~5626~N/A~$3,640,000~
+John Gorton Drive, Wright ACT 2611 ~$680,000~3~1~Apartment~6.0~N/A~N/A~N/A~
+11/34 Truebridge Street, Wright ACT 2611 ~$710000~3~2~Townhouse~6.0~N/A~105~N/A~
+8/28 Truebridge Street, Wright ACT 2611 ~$720000~3~2~Townhouse~6.0~N/A~N/A~N/A~
+(no street name provided), Wright ACT 2611 ~$1037500~4~2~House~6.5~206~184~N/A~
+38 Lindsay Pryor Street, Wright ACT 2611 ~$1,349,000~4~2~House~5.5~507~N/A~$644,000~
+39 Peter Cullen Way, Wright ACT 2611 ~$1,370,000~4~3~House~5.0~450~202~$593,000~

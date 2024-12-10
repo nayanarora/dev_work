@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+39 Partridge Street, Fadden ACT 2904 ~$845,000~3~2~House~4.0~736~N/A~$589,000~
+422 Bugden Avenue, Fadden ACT 2904 ~$1,000,000~5~2~House~1.0~753~N/A~$647,000~
+15 Richter Close, Fadden ACT 2904 ~$1,195,000~4~2~House~2.0~864~218~$674,000~

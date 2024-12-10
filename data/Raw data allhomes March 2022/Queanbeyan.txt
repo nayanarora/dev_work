@@ -1,0 +1,49 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+21/5 Crest Road, Crestwood NSW 2620 ~$209000~1~1~Unit / Apartment~N/A~N/A~N/A~N/A~
+22/10 Macquoid Street, Queanbeyan NSW 2620 ~$205,000~1~1~Apartment~N/A~N/A~N/A~N/A~
+10/122 Henderson Road, Queanbeyan NSW 2620 ~$240000~1~1~Unit / Apartment~N/A~N/A~N/A~N/A~
+3/39 Thurralilly Street, Queanbeyan NSW 2620 ~$244000~2~1~Unit / Apartment~N/A~54~N/A~N/A~
+23/67 Macquoid Street, Queanbeyan NSW 2620 ~$279000~2~1~Unit / Apartment~N/A~N/A~N/A~N/A~
+15/67 Derrima Road, Queanbeyan NSW 2620 ~$295000~2~1~Unit / Apartment~N/A~N/A~N/A~N/A~
+17/67 Derrima Road, Queanbeyan NSW 2620 ~$295,000~2~1~Unit / Apartment~N/A~N/A~N/A~N/A~
+37/86 Derrima Road, Crestwood NSW 2620 ~$310000~2~1~Unit / Apartment~N/A~N/A~63~N/A~
+2/59 Donald Road, Karabar NSW 2620 ~$315000~2~1~Townhouse~N/A~N/A~N/A~N/A~
+9/3a Stornaway Road, Queanbeyan NSW 2620 ~$325,000~1~1~Apartment~N/A~N/A~N/A~N/A~
+3C/17 Uriarra Road, Queanbeyan NSW 2620 ~$330000~1~1~House~N/A~N/A~N/A~N/A~
+29/6 High Street, Queanbeyan East NSW 2620 ~$339000~1~1~Apartment~N/A~N/A~66~N/A~
+19/34 Mowatt Street, Queanbeyan NSW 2620 ~$340000~2~1~Unit / Apartment~N/A~N/A~N/A~N/A~
+16/3A Stornaway Road, Queanbeyan NSW 2620 ~$345000~1~1~Apartment~N/A~N/A~53~N/A~
+15/161 Uriarra Road, Crestwood NSW 2620 ~$349000~1~1~Unit / Apartment~N/A~N/A~N/A~N/A~
+9/161 Uriarra Road, Crestwood NSW 2620 ~$349000~1~1~Apartment~N/A~N/A~N/A~N/A~
+18/12 Kings Street, Queanbeyan NSW 2620 ~$365000~2~1~Apartment~N/A~N/A~N/A~N/A~
+11/126 Henderson Street, Queanbeyan NSW 2620 ~$370000~2~1~Unit / Apartment~N/A~N/A~54~N/A~
+24A/17 Uriarra Road, Queanbeyan NSW 2620 ~$380000~2~2~Apartment~N/A~N/A~N/A~N/A~
+68/17 Uriarra Road, Queanbeyan NSW 2620 ~$412500~2~2~Apartment~N/A~N/A~99~N/A~
+7/13-15 Mowatt Street, Queanbeyan NSW 2620 ~$400,000~2~1~Unit / Apartment~N/A~N/A~83~N/A~
+14a/17 Uriarra Road, Queanbeyan NSW 2620 ~$437500~2~2~Apartment~N/A~N/A~N/A~N/A~
+2/29 Morton Street, Queanbeyan NSW 2620 ~$460000~1~1~Townhouse~N/A~N/A~60~N/A~
+3/6 High Street, Queanbeyan NSW 2620 ~$465000~1~1~Unit / Apartment~N/A~N/A~91~N/A~
+63/39-43 Crawford Street, Queanbeyan NSW 2620 ~$469000~2~2~Unit / Apartment~N/A~N/A~N/A~N/A~
+3/12 Nimmitabel Street, Queanbeyan NSW 2620 ~$487500~2~1~Townhouse~N/A~N/A~N/A~N/A~
+42/4 Ross Road, Queanbeyan NSW 2620 ~$500000~2~2~Apartment~N/A~N/A~N/A~N/A~
+8/15 Charles Street, Queanbeyan NSW 2620 ~$554500~2~1~Townhouse~N/A~N/A~200~N/A~
+1/19 Donald Road, Queanbeyan NSW 2620 ~$600000~2~2~Townhouse~N/A~N/A~N/A~N/A~
+3/25 Uriarra Road, Queanbeyan NSW 2620 ~$644500~3~2~Townhouse~N/A~N/A~N/A~N/A~
+3/38 Buttle Street, Queanbeyan NSW 2620 ~$650,000~3~2~Townhouse~N/A~186~120~N/A~
+17/6 Doeberl Place, Queanbeyan NSW 2620 ~$700000~3~1~Townhouse~N/A~N/A~N/A~N/A~
+10/5 Weir Place, Queanbeyan West NSW 2620 ~$707500~3~2~Townhouse~N/A~N/A~N/A~N/A~
+10 Cassidy Street, Queanbeyan NSW 2620 ~$725000~2~1~House~N/A~923~82~N/A~
+21/44 Carrington Street, Queanbeyan NSW 2620 ~$700,000~3~2~Townhouse~N/A~330~102~N/A~
+28/48 Carrington Street, Queanbeyan NSW 2620 ~$725000~3~2~Townhouse~N/A~N/A~83~N/A~
+1/43 Isabella Street, Queanbeyan NSW 2620 ~$790,000~3~2~Townhouse~N/A~N/A~N/A~N/A~
+22 Fergus Road, Queanbeyan NSW 2620 ~$882500~4~2~House~N/A~N/A~N/A~N/A~
+74 Stornaway Road, Queanbeyan NSW 2620 ~$905000~3~1~House~N/A~N/A~N/A~N/A~
+28 Rusten Street, Karabar NSW 2620 ~$904000~4~2~House~N/A~654~N/A~N/A~
+25 Kinsela Street, Karabar NSW 2620 ~$945000~4~2~House~N/A~1313~N/A~N/A~
+23 Margaret Street, Queanbeyan NSW 2620 ~$1050000~4~3~House~N/A~568~255~N/A~
+3 Marril Street, Queanbeyan NSW 2620 ~$1200000~5~3~House~N/A~653~N/A~N/A~
+21 Kathleen St, Queanbeyan NSW 2620 ~$1,200,000~4~2~House~N/A~626~N/A~N/A~
+7 Morrison Place, Karabar NSW 2620 ~$1310000~5~3~House~N/A~809~389~N/A~
+(no street name provided), Jumping Creek NSW 2620 ~$1440000~4~2~House and Land Package~N/A~716~293~N/A~
+(no street name provided), Jumping Creek NSW 2620 ~$1562500~5~3~House and Land Package~N/A~827~460~N/A~
+(no street name provided), Jumping Creek NSW 2620 ~$1577500~5~3~House and Land Package~N/A~716~460~N/A~

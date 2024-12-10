@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+45 De Graaff Street, Holder ACT 2611 ~$899,000~4~2~House~3.0~723~N/A~$580,000~

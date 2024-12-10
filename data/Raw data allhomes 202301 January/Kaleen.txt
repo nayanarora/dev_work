@@ -1,0 +1,7 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+6 Cloncurry Street, Kaleen ACT 2617 ~$899,000~3~1~House~1.0~748~N/A~$664,000~
+120 Maribyrnong Avenue, Kaleen ACT 2617 ~$949,000~3~2~House~1.5~784~N/A~$664,000~
+3 Darby Street, Kaleen ACT 2617 ~$970,000~3~2~House~1.5~820~N/A~$664,000~
+13 Blythe Close, Kaleen ACT 2617 ~$989,000~3~1~House~1.5~724~N/A~$604,000~
+37 Onkaparinga Crescent, Kaleen ACT 2617 ~$1,390,000~4~1~House~1.0~988~330~$788,000~
+19 Glenelg Street, Kaleen ACT 2617 ~$1,800,000~4~3~House~6.0~839~232~$689,000~

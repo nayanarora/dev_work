@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+11 Le Souef Crescent, Florey ACT 2615 ~$649,000~2~1~House~2.5~381~89~$421,000~

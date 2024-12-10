@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+5/38 Kenyon Circuit, Monash ACT 2904 ~$595,000~3~1~Townhouse~2.0~8538~101~N/A~
+3/5 Blakey Close, Monash ACT 2904 ~$649,000~3~2~Townhouse~5.0~N/A~N/A~N/A~
+21 Upton Street, Monash ACT 2904 ~$780,000~3~1~House~0.5~725~125~$325,000~
+22 Shirra Close, Monash ACT 2904 ~$949,000~4~3~House~2.5~870~204~$394,000~

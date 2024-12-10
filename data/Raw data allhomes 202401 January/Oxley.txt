@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+17 Gosman Close, Oxley ACT 2903 ~Offer Over $659,000~3~1~House~3.0~718~100~$485,000~
+1 Connibere Crescent, Oxley ACT 2903 ~$975,000~4~2~House~4.0~1084~N/A~$509,000~
+92 Newman Morris Circuit, Oxley ACT 2903 ~$975,000~4~2~House~2.5~853~N/A~$554,000~

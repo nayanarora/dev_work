@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+8 Brill Place, Gowrie ACT 2904 ~$739,000 Plus~3~2~House~0.5~760~N/A~$450,000~
+29 Castleton Crescent, Gowrie ACT 2904 ~$879,000~3~2~House~1.0~822~153~$587,000~
+25 Dalziel Street, Gowrie ACT 2904 ~$880,000~4~2~House~1.5~707~167~$456,000~

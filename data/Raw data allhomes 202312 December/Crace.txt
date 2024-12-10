@@ -1,0 +1,8 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+13 Fairfield Street, Crace ACT 2911 ~$649,000~2~1~Townhouse~5.0~135~N/A~$319,000~
+3/21 Samaria Street, Crace ACT 2911 ~$699,000~2~2~Townhouse~6.0~138~N/A~N/A~
+11 Hillcrest Street, Crace ACT 2911 ~$1,250,000 ~4~3~House~5.0~465~240~$576,000~
+28 Durong Street, Crace ACT 2911 ~$1,350,000 ~4~2~House~6.0~507~224~$644,000~
+56 Langtree Crescent, Crace ACT 2911 ~$1,430,000~4~2~House~5.5~599~284~$705,000~
+40 Ivory Street, Crace ACT 2911 ~$1,499,000~4~3~House~5.5~542~N/A~$692,000~
+2 Baratta Street, Crace ACT 2911 ~$1,650,000~4~2~House~3.5~775~361~$790,000~

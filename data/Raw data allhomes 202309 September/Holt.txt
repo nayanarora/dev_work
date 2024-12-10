@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+22/47 Lorraway Street, Holt ACT 2615 ~  $749,500~3~2~Townhouse~6.0~219~N/A~N/A~
+45 Lionel Rose Street, Holt ACT 2615 ~$789,000~3~2~House~6.0~250~N/A~$371,000~
+8/1-5 MacNaughton Street, Holt ACT 2615 ~$829,000~4~2~Townhouse~5.5~486~N/A~N/A~
+3/11 Chester Close, Holt ACT 2615 ~$839,000~4~2~Townhouse~5.0~250~N/A~N/A~

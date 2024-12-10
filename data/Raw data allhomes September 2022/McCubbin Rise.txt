@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+14 Chevalier Street, Weston ACT 2611 ~Offers Over $929,000~3~1~House~3.5~862~113~$741,000~
+30 Fullwood Street, Weston ACT 2611 ~$1,095,000~5~3~House~4.0~870~N/A~$705,000~
+16 Isherwood Street, Weston ACT 2611 ~$1,300,000~6~5~House~4.5~283~N/A~$550,000~

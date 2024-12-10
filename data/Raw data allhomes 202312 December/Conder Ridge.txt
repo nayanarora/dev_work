@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+4 Cremorne Place, Conder ACT 2906 ~$825,000~5~2~House~4.5~743~144~$403,000~
+40 Charterisville Avenue, Conder ACT 2906 ~$900,000~4~1~House~3.0~704~N/A~$542,000~
+5 Montgomery Place, Conder ACT 2906 ~$900,000~5~2~House~4.5~658~189~$471,000~
+75 Altson Circuit, Conder ACT 2906 ~$ 995,000~5~2~House~3.0~863~206~$416,000~

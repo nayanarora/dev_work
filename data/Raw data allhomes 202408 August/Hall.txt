@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+24 Palmer Street, Hall ACT 2618 ~$2,550,000~4~3~House~6.0~2032~N/A~N/A~

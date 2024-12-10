@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+47 Folingsby Street, Weston ACT 2611 ~$1,000,000~4~2~House~1.5~725~142~$569,000~
+8 Withers Place, Weston ACT 2611 ~$1,149,000~4~2~House~3.5~686~N/A~$624,000~
+11 Fereday Street, Weston ACT 2611 ~$1,450,000 ~5~3~House~6.0~605~N/A~$766,000~

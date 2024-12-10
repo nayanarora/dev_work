@@ -1,0 +1,13 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+14 /6 Edmondson Street, Campbell ACT 2612 ~$410,000~1~1~Apartment~1.5~N/A~N/A~$11,840,000~
+17/114 Blamey Crescent, Campbell ACT 2612 ~$415,000~2~1~Unit / Apartment~2.5~N/A~N/A~N/A~
+11/6 Edmondson Street, Campbell ACT 2612 ~$560,000 Plus~2~1~Apartment~6.0~N/A~N/A~$11,840,000~
+42/81 Constitution Avenue, Campbell ACT 2612 ~$665000~2~2~Apartment~6.0~N/A~91~$10,250,000~
+113/21 Provan Street, Campbell ACT 2612 ~$750,000~2~2~Apartment~6.0~N/A~N/A~N/A~
+111/6 Provan Street, Campbell ACT 2612 ~$775,000~2~2~Apartment~6.0~N/A~84~$15,375,000~
+Seventy One - Spacious 2 Bedroom, Separate Living Spaces/Media, Campbell ACT 2612 ~$865,000~2~1~Other~N/A~N/A~N/A~$1,713,000~
+3/28 Chauvel Street, Campbell ACT 2612 ~$1,950,000~3~2~Townhouse~6.0~N/A~378~N/A~
+4/58 Jacka Crescent, Campbell ACT 2612 ~$2,000,000~3~2~House~7.2~N/A~317~$1,596,000~
+6 Godfrey Street, Campbell ACT 2612 ~$2,300,000~4~1~House~0.5~929~181~$1,002,000~
+The Parade - Campbell 5 - Sub-Penthouse - 602/4 Anzac Park, Campbell ACT 2612 ~$2,480,000~3~3~Apartment~6.0~N/A~N/A~N/A~
+46 Jacka Place, Campbell ACT 2612 ~$3,595,000~4~3~House~N/A~1702~N/A~$1,176,000~

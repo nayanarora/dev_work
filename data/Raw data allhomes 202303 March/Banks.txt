@@ -1,0 +1,8 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+25/3 Peron Place, Banks ACT 2906 ~$610,000~3~2~Townhouse~3.0~244~119~N/A~
+4/41 Bellchambers Crescent, Banks ACT 2906 ~$680,000~3~2~House~4.5~287~154~N/A~
+15/35 Brockway Circuit, Banks ACT 2906 ~$695,000~3~2~Townhouse~5.5~289~155~N/A~
+1/30 Betty Maloney Crescent, Banks ACT 2906 ~  $699,000~4~2~Townhouse~4.0~395~136~N/A~
+24 Abercrombie Circuit, Banks ACT 2906 ~  $735,000~3~1~House~2.5~475~108~$400,000~
+2 Adcock Place, Banks ACT 2906 ~$850,000~4~1~House~4.5~831~N/A~$451,000~
+18 Kettlewell Crescent, Banks ACT 2906 ~$949,000~4~3~House~4.0~704~N/A~$450,000~

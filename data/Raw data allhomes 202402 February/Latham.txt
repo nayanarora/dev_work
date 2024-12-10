@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+240 Southern Cross Drive, Latham ACT 2615 ~$825000~N/A~N/A~N/A~N/A~942~N/A~$500,000~
+12 Hensman Street, Latham ACT 2615 ~$899,000~N/A~N/A~N/A~N/A~1131~161~$520,000~
+1 Meymott Place, Latham ACT 2615 ~$1,150,000~N/A~N/A~N/A~N/A~416~255~$458,000~

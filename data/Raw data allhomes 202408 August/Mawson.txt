@@ -1,0 +1,10 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+69/4 Wilkins Street, Mawson ACT 2607 ~$369,000~2~1~Unit / Apartment~1.5~N/A~N/A~$9,875,000~
+15/6 Wilkins Street, Mawson ACT 2607 ~$389,000~2~1~Unit / Apartment~0.0~N/A~N/A~$6,720,000~
+4/58-60 Hurley Street, Mawson ACT 2607 ~Offers Over $699,000~2~2~Townhouse~4.5~N/A~N/A~N/A~
+8/45 Enderby Street, Mawson ACT 2607 ~$750,000 ~2~2~Townhouse~6.0~4137~N/A~N/A~
+12/45 Enderby Street, Mawson ACT 2607 ~$830,000~3~1~Townhouse~4.5~4137~N/A~N/A~
+3/8 Aurora Close, Mawson ACT 2607 ~$1380000~3~1~Townhouse~6.0~N/A~N/A~N/A~
+3/153 Shackleton Circuit, Mawson ACT 2607 ~$1,462,500~4~2~Townhouse~6.0~N/A~N/A~N/A~
+4 Pasco Street, Mawson ACT 2607 ~$1,465,000~4~2~House~1.5~1170~167~$889,000~
+4/153 Shackleton Circuit, Mawson ACT 2607 ~$1,470,000~4~2~Townhouse~6.0~N/A~N/A~N/A~

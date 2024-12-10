@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+8/3 Redcliffe Street, Palmerston ACT 2913 ~$569,000~2~1~House~2.0~193~88~N/A~
+24 Bendora Crescent, Palmerston ACT 2913 ~$949,000~4~2~House~5.5~483~N/A~$385,000~
+8 Gudgenby Close, Palmerston ACT 2913 ~  $990,000~4~2~House~6.0~666~N/A~$516,000~
+23 Freeling Crescent, Palmerston ACT 2913 ~$1,190,000~4~2~House~3.0~811~N/A~$567,000~
+15 Lambell Close, Palmerston ACT 2913 ~$1,299,000~4~3~House~4.0~802~N/A~$598,000~

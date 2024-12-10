@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+22A Larakia Street, Waramanga ACT 2611 ~$599,000~2~1~House~2.0~280~85~N/A~

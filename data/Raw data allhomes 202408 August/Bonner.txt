@@ -1,0 +1,16 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+37 William Cooper Avenue, Bonner ACT 2914 ~$669,000~2~1~Townhouse~5.5~225~N/A~$306,000~
+33 Jimmy Clements Crescent, Bonner ACT 2914 ~$687500~2~2~House~4.5~306~129~$336,000~
+3 Syddall Street, Bonner ACT 2914 ~$699,000~3~2~House~5.5~148~132~$276,000~
+9 Mumshirl Street, Bonner ACT 2914 ~$950,000~4~2~House~6.0~438~150~$475,000~
+88 Irinyili Street, Bonner ACT 2914 ~$1,005,000~4~2~House~5.0~453~452~$475,000~
+41 Roy Marika Street, Bonner ACT 2914 ~$1,019,000~4~2~House~6.0~435~215~$475,000~
+17 Joe Croft Street, Bonner ACT 2914 ~$1075000~4~2~House~4.5~466~238~$475,000~
+6 Maria Lock Street, Bonner ACT 2914 ~$1,039,000~4~2~House~6.0~551~N/A~$540,000~
+7 Bieundurry Street, Bonner ACT 2914 ~$1,050,000~4~2~House~6.0~540~233~$540,000~
+5 Joe Croft Street, Bonner ACT 2914 ~$1,050,00 ~4~2~House~5.5~479~N/A~$500,000~
+162 Ida West Street, Bonner ACT 2914 ~$1,090,000~4~2~House~5.0~540~N/A~$540,000~
+190 Mabo Boulevard, Bonner ACT 2914 ~$1125000~4~2~House~4.5~522~265~$533,000~
+14 Clancy McKenna Crescent, Bonner ACT 2914 ~$1,100,000~4~2~House~6.0~597~N/A~$563,000~
+119 Ida West Street, Bonner ACT 2914 ~$1,309,000~5~3~House~6.0~452~313~$475,000~
+21 Numiari Street, Bonner ACT 2914 ~$1,450,000~5~3~House~4.0~772~318~$652,000~

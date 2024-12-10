@@ -1,0 +1,23 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+7/40 Newlop Street, Ngunnawal ACT 2913 ~$540,000~2~1~Townhouse~2.5~196~N/A~N/A~
+12/11 Tarra Place, Ngunnawal ACT 2913 ~$624000~3~1~Townhouse~4.0~278~N/A~N/A~
+5 Gamban Square, Ngunnawal ACT 2913 ~$599,000~2~1~House~4.0~286~126~$351,000~
+78 Burrumarra Avenue, Ngunnawal ACT 2913 ~$629,000~2~1~House~6.0~208~N/A~$349,000~
+8/2 Manity Court, Ngunnawal ACT 2913 ~$695000~3~2~Townhouse~4.5~373~N/A~N/A~
+15 Lanley Square, Ngunnawal ACT 2913 ~$685,000~3~1~House~4.0~318~N/A~$376,000~
+2 Syron Place, Ngunnawal ACT 2913 ~$699,000~3~1~House~5.0~314~314~$398,000~
+5 Biala Place, Ngunnawal ACT 2913 ~Offers over $715,000~3~1~House~4.5~372~N/A~$386,000~
+6 Bullala Court, Ngunnawal ACT 2913 ~$725,000~3~2~House~4.5~339~134~$400,000~
+47 Windradyne Street, Ngunnawal ACT 2913 ~$729,000~3~2~House~4.5~391~N/A~$400,000~
+7/10 Jabanungga Avenue, Ngunnawal ACT 2913 ~$730,000~3~2~Townhouse~5.5~N/A~N/A~N/A~
+28 Gang-Gang Court, Ngunnawal ACT 2913 ~$749,999~3~2~House~5.0~366~167~$386,000~
+3 Lingiari Court, Ngunnawal ACT 2913 ~$750,000~3~2~House~4.0~324~102~$400,000~
+49 Yumba Avenue, Ngunnawal ACT 2913 ~$775,000~3~1~House~4.5~383~133~$400,000~
+65 Gurrang Avenue, Ngunnawal ACT 2913 ~$780,000~3~2~House~4.0~486~135~$421,000~
+34 Yumba Avenue, Ngunnawal ACT 2913 ~$835,000~3~1~House~4.5~361~112~$400,000~
+9 Len Waters Street, Ngunnawal ACT 2913 ~$849,999~4~2~House~4.0~681~175~$477,000~
+2 Cuzens Place, Ngunnawal ACT 2913 ~$875,000~4~2~House~3.5~800~N/A~$730,000~
+181 Jabanungga Avenue, Ngunnawal ACT 2913 ~$979,000~4~2~House~4.5~420~193~$386,000~
+48 Carina Street, Ngunnawal ACT 2913 ~$1,000,000~4~2~House~3.5~759~248~$477,000~
+4 Galmarra Street, Ngunnawal ACT 2913 ~$1,100,000~4~2~House~4.5~902~298~$811,000~
+18 Milari Street, Ngunnawal ACT 2913 ~$1,190,000~5~2~House~4.5~1016~N/A~$873,000~

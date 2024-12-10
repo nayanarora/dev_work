@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+62 Buvelot Street, Weston ACT 2611 ~$835,000~3~1~House~0.5~713~146~$734,000~
+8 Heysen Street, Weston ACT 2611 ~$849,000 ~3~2~Duplex~1.5~795~N/A~$732,000~
+23 Collingridge Street, Weston ACT 2611 ~$1,125,000~4~2~House~1.0~859~180~$757,000~
+4 Rubbo Crescent, Weston ACT 2611 ~$1,399,000~5~2~House~5.0~920~N/A~$858,000~

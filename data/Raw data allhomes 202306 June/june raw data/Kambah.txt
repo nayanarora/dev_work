@@ -1,0 +1,11 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+14/53 Ashby Circuit, Kambah ACT 2902 ~  $520,000~2~1~Townhouse~3.0~302~84~N/A~
+21 Snodgrass Crescent, Kambah ACT 2902 ~$595,000~2~1~Retirement Village~N/A~36800.0~N/A~$6,300,000~
+23/69 Morrison Street, Kambah ACT 2902 ~$610,000~2~1~Townhouse~1.5~181~92~N/A~
+10 Moseley Place, Kambah ACT 2902 ~$650,000~3~1~House~0.5~950~N/A~$541,000~
+2/15 Weavell Place, Kambah ACT 2902 ~$725,000~3~1~Townhouse~4.5~158~N/A~N/A~
+21 Snodgrass Crescent, Kambah ACT 2902 ~$810,000~3~1~Retirement Village~N/A~36800.0~N/A~$6,300,000~
+4 McDowall Place, Kambah ACT 2902 ~$899,000~5~3~House~1.5~824~193~$557,000~
+2/1 Feltus Place, Kambah ACT 2902 ~$950,000~4~2~House~4.5~481~N/A~N/A~
+41 Ivo Whitton Circuit, Kambah ACT 2902 ~$1,275,000~4~3~House~4.5~959~N/A~$639,000~
+10 Armytage Circuit, Kambah ACT 2902 ~$1,400,000~6~1~Dual Occupancy~6.0~1003~286~$598,000~

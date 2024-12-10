@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+10 Vogelsang Place, Flynn ACT 2615 ~$810000~3~1~House~1.5~902~120~$505,000~
+21 Ferguson Place, Flynn ACT 2615 ~$880,000~3~2~House~1.5~613~N/A~$482,000~
+6 Joyner Crescent, Flynn ACT 2615 ~$1,150,000~6~3~House~3.5~800~283~$505,000~

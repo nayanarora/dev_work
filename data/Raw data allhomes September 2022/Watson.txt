@@ -1,0 +1,26 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+2/113-115 Knox Street, Watson ACT 2602 ~$330,000~2~N/A~Apartment~1.5~1800~N/A~$154,710~
+Norrebro - Final stage - now selling, Watson ACT 2602 ~$349,900~1~1~Apartment~6.0~N/A~N/A~N/A~
+Norrebro - Final stage - now selling, Watson ACT 2602 ~$399,900~1~1~Other~6.0~N/A~N/A~N/A~
+15/23 Tay Street, Watson ACT 2602 ~$450,000~2~1~Unit / Apartment~6.0~9181~67~N/A~
+36/23 Tay Street, Watson ACT 2602 ~Offers Over $475,000~2~1~Apartment~6.0~9181~80~N/A~
+87/20 Federal Highway, Watson ACT 2602 ~$498,000~2~2~Apartment~5.0~20500.0~N/A~$58,800~
+118/20 Federal Highway, Watson ACT 2602 ~$0~2~2~Apartment~6.0~20500.0~N/A~$58,800~
+26/20 Federal Highway, Watson ACT 2602 ~Offers over $509,000~2~2~Apartment~6.0~N/A~92~$58,800~
+13/20 Federal Highway, Watson ACT 2602 ~$510,000~2~2~Apartment~5.0~20500.0~106~$58,800~
+32/20 Federal Highway, Watson ACT 2602 ~$512,000~2~2~Apartment~6.0~20500.0~N/A~$58,800~
+31/20 Federal Highway, Watson ACT 2602 ~$512,000~2~2~Apartment~6.0~20500.0~N/A~$58,800~
+10/20 Federal Highway, Watson ACT 2602 ~$515K (Offers Welcome)~2~2~Apartment~4.0~20500.0~N/A~$58,800~
+22/35 Tay Street, Watson ACT 2602 ~$527,000~2~1~Apartment~6.0~9584~68~N/A~
+Norrebro - Final stage - now selling, Watson ACT 2602 ~$559,900~2~2~Apartment~6.0~N/A~N/A~N/A~
+28/23 Aspinall Street, Watson ACT 2602 ~$560,000~2~2~Apartment~6.0~11700.0~N/A~$106,240~
+133/395 Antill Street, Watson ACT 2602 ~$600,000~2~2~Apartment~4.0~66100.0~N/A~N/A~
+Norrebro - Final stage - now selling, Watson ACT 2602 ~$639,900~3~2~Apartment~6.0~N/A~N/A~N/A~
+147/395 Antill Street, Watson ACT 2602 ~$697,000~2~1~Apartment~5.5~66100.0~N/A~N/A~
+D25 Norrebro, Watson ACT 2602 ~$800,000~2~2~Townhouse~7.0~N/A~N/A~N/A~
+81 Phillip Avenue, Watson ACT 2602 ~$875,000~3~1~Duplex~2.5~569~117~$725,000~
+21a Negus Crescent, Watson ACT 2602 ~$890,000 ~3~2~Townhouse~6.5~1458~N/A~$169,200~
+40/67 Negus Crescent, Watson ACT 2602 ~$1,100,000~4~3~Townhouse~5.0~268~N/A~N/A~
+36 Kilduff Street, Watson ACT 2602 ~$1,250,000~3~2~House~6.0~375~161~$625,000~
+16 McCawley Street, Watson ACT 2602 ~$1,275,000~3~1~House~1.0~776~N/A~$900,000~
+21 Wade Street, Watson ACT 2602 ~$1,500,000~4~2~House~2.0~771~139~$874,000~

@@ -1,0 +1,11 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+10/1 Eldridge Crescent, Garran ACT 2605 ~$669,000~2~2~Apartment~4.5~9615~109~$205,625~
+15/1 Eldridge Crescent, Garran ACT 2605 ~$780,000 Plus~3~2~Apartment~6.0~9615~N/A~$205,625~
+20 Dennis Street, Garran ACT 2605 ~$1,100,000~3~1~House~N/A~792~128~$1,000,000~
+29B Tompson Street, Garran ACT 2605 ~$1,150,000~3~2~Townhouse~6.0~N/A~112~N/A~
+103A Gilmore Crescent, Garran ACT 2605 ~$1,175,000~3~2~Unit / Apartment~1.0~326~136~N/A~
+60 Curlewis Crescent, Garran ACT 2605 ~$1,200,000~3~1~House~1.0~906~N/A~$877,000~
+127 Gilmore Crescent, Garran ACT 2605 ~$1,270,000~3~2~House~0.5~992~N/A~$771,000~
+8 Esson Place, Garran ACT 2605 ~$1,300,000 ~4~2~House~5.5~481~187~N/A~
+3/7 Sabine Close, Garran ACT 2605 ~$1,499,000~4~3~House~4.5~448~N/A~N/A~
+37 Couvreur Street, Garran ACT 2605 ~$1749000~6~3~House~1.0~1040~N/A~$1,173,000~

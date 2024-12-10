@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+49/815 Horse Park Drive, Amaroo ACT 2914 ~   $469,000~1~1~Townhouse~6.0~5172~81~N/A~
+24/815 Horse Park Drive, Amaroo ACT 2914 ~$570,000~2~2~Townhouse~6.0~135~88~N/A~
+1/11 Clara Close, Amaroo ACT 2914 ~$650,000~3~1~Townhouse~3.5~339~128~N/A~
+27 Diamond Street, Amaroo ACT 2914 ~$899,000~3~2~House~5.0~450~186~$542,000~

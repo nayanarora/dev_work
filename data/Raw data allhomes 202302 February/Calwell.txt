@@ -1,0 +1,9 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+13 Crooke Close, Calwell ACT 2905 ~Offers over $695,000~3~1~House~N/A~781~93~$435,000~
+5 Benson Crescent, Calwell ACT 2905 ~$730,000~3~1~House~3.0~722~N/A~$397,000~
+23 Downard Street, Calwell ACT 2905 ~$749,000~3~1~House~4.0~792~N/A~$410,000~
+7 Oman Place, Calwell ACT 2905 ~$769,000~4~1~House~3.0~762~N/A~$430,000~
+76 Outtrim Avenue, Calwell ACT 2905 ~$859,900~4~2~House~3.0~815~181~$444,000~
+9/7 Purnell Place, Calwell ACT 2905 ~$868,000~4~2~Townhouse~2.5~417~N/A~N/A~
+58 Must Circuit, Calwell ACT 2905 ~$870,000~4~2~House~3.0~842~134~$446,000~
+31 Martley Circuit, Calwell ACT 2905 ~Offers Over $1,075,000~5~2~House~1.0~903~244~$527,000~

@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+15 Volpato Street, Forde ACT 2914 ~$1,760,000~5~3~House~3.5~465~364~$405,000~

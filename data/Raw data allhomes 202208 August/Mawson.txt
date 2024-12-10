@@ -1,0 +1,12 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+7/86 Mawson Drive, Mawson ACT 2607 ~Offers above $479,000~1~1~Townhouse~6.0~3150~54~$164,700~
+14/45 Enderby Street, Mawson ACT 2607 ~$790,000~2~2~Townhouse~5.5~4135~100~$249,600~
+29A MacRobertson Street, Mawson ACT 2607 ~$950,000~3~2~House~0.5~593~104~N/A~
+4/72 Shackleton Circuit, Mawson ACT 2607 ~$1,050,000~3~2~Townhouse~1.5~872~150~N/A~
+20 Mawson Drive, Mawson ACT 2607 ~$1,100,000 ~3~2~House~3.5~914~155~$960,000~
+17 MacRobertson Street, Mawson ACT 2607 ~$1,200,000~4~2~House~1.5~1085~199~$947,000~
+34 Mawson Drive, Mawson ACT 2607 ~$1,250,000~4~2~House~2.5~882~166~$1,005,000~
+37 Hurley Street, Mawson ACT 2607 ~$1,350,000~3~2~House~5.0~1210~216~N/A~
+1/8 Aurora Close, Mawson ACT 2607 ~$1,550,000~3~2~Townhouse~6.0~N/A~183~N/A~
+16 MacRobertson Street, Mawson ACT 2607 ~$1,610,000~4~2~House~5.0~1229~178~$997,000~
+23 Mawson Drive, Mawson ACT 2607 ~$1,950,000~4~1~House~2.0~1780~N/A~$1,300,000~

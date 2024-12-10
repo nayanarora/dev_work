@@ -1,0 +1,24 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+(no street name provided), Strathnairn ACT 2615 ~$401250~4~1~House and Land Package~6.0~N/A~N/A~N/A~
+(no street name provided), Strathnairn ACT 2615 ~$400,000~1~1~House~6.0~N/A~52~N/A~
+(no street name provided), Strathnairn ACT 2615 ~$600,000~4~1~House~6.0~N/A~N/A~N/A~
+(no street name provided), Strathnairn ACT 2615 ~$620,000~4~1~House~6.0~N/A~N/A~N/A~
+The Connery - Brand new townhouses, Strathnairn ACT 2615 ~$679,000~3~2~Townhouse~6.0~N/A~130~N/A~
+The Connery - Brand new townhouses, Strathnairn ACT 2615 ~$679,000~3~2~Townhouse~6.0~N/A~152~N/A~
+(no street name provided), Strathnairn ACT 2615 ~$735,000~4~2~House and Land Package~6.0~236~185~N/A~
+(no street name provided), Strathnairn ACT 2615 ~$755,000~4~2~House~6.0~236~185~N/A~
+(no street name provided), Strathnairn ACT 2615 ~$809950~4~2~House~6.0~168~N/A~N/A~
+Block 6/15 Tranter Street, Strathnairn ACT 2615 ~$789,000~3~2~House~6.0~137~110~N/A~
+(no street name provided), Strathnairn ACT 2615 ~$805000~4~2~House~6.0~371~190~N/A~
+(no street name provided), Strathnairn ACT 2615 ~$812000~4~2~House~6.0~448~194~N/A~
+51 Jill Landsberg Terrace, Strathnairn ACT 2615 ~$825,000~4~2~House~6.0~362~190~N/A~
+Block 3/21 Tranter Street, Strathnairn ACT 2615 ~$829,000~4~3~House~6.0~165~134~N/A~
+(no street name provided), Strathnairn ACT 2615 ~$839,000~4~2~House and Land Package~6.0~400~205~N/A~
+(no street name provided), Strathnairn ACT 2615 ~$870000~4~2~House~6.0~526~239~N/A~
+Block 1/25 Tranter Street, Strathnairn ACT 2615 ~$890,000~4~3~House~6.0~224~146~N/A~
+21 Clothier Street, Strathnairn ACT 2615 ~$895,000~6~2~House and Land Package~6.0~443~288~N/A~
+49 Speldewinde Street, Strathnairn ACT 2615 ~$920,000~4~3~House~6.0~400~232~N/A~
+(no street name provided), Strathnairn ACT 2615 ~$975000~4~3~House~6.0~650~220~N/A~
+1 Asimus Avenue, Strathnairn ACT 2615 ~$1175000~4~2~House and Land Package~N/A~604~N/A~N/A~
+(no street name provided), Strathnairn ACT 2615 ~$1,070,000~5~3~House~6.0~604~240~N/A~
+41 Cameleer Lane, Strathnairn ACT 2615 ~$1,200,000~7~1~House~7.0~N/A~N/A~N/A~

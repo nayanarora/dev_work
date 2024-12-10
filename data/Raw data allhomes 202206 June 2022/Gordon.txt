@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+3 Sharman Place, Gordon ACT 2906 ~$700,000~3~1~House~3.0~462~111~$277,000~
+24 Charlton Crescent, Gordon ACT 2906 ~$760,000~3~1~House~3.5~367~N/A~$244,000~
+6 Chipperfield Circuit, Gordon ACT 2906 ~$839,000~3~2~House~4.5~469~153~$277,000~
+12 Stan Ray Street, Gordon ACT 2906 ~Offers Over $1,149,000~4~2~House~3.0~919~195~$462,000~
+6 Dempsey Place, Gordon ACT 2906 ~$1,250,000~4~2~House~2.5~1053~273~$447,000~

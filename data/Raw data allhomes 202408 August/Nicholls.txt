@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+7/87 Kelleway Avenue, Nicholls ACT 2913 ~$849,000~3~2~Townhouse~4.0~216~N/A~N/A~
+8/25 Temperley Street, Nicholls ACT 2913 ~Offers over $1,100,000~4~2~Townhouse~6.0~456~N/A~N/A~
+5 Fitzsimmons Street, Nicholls ACT 2913 ~$1,295,000~5~3~House~4.0~931~249~$673,000~
+68 Sue Geh Circuit, Nicholls ACT 2913 ~$1473000~4~2~House~4.0~802~289~$727,000~
+12 Kleinig Street, Nicholls ACT 2913 ~$1875000~5~2~House~5.0~915~373~$685,000~

@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+9/60 Copland Drive, Evatt ACT 2617 ~$679,000~3~2~Townhouse~4.5~152~N/A~N/A~
+13 Slater Place, Evatt ACT 2617 ~$749,000~3~1~House~3.5~735~107~$544,000~
+6 Kinkead Street, Evatt ACT 2617 ~$900,000~4~2~House~2.5~715~140~$544,000~
+40 Callaghan Street, Evatt ACT 2617 ~$1,175,000~5~3~House~1.5~565~239~$809,000~

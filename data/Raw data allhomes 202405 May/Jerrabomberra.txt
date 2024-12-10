@@ -1,0 +1,26 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+6/21 Elm Way, Jerrabomberra NSW 2619 ~$599000~2~1~Townhouse~N/A~3615~N/A~N/A~
+9/17 Brudenell Drive, Jerrabomberra NSW 2619 ~$630,000~2~1~Townhouse~N/A~6449~N/A~N/A~
+17/17 Brudenell Drive, Jerrabomberra NSW 2619 ~$654000~2~1~Townhouse~N/A~6452~N/A~N/A~
+8/103 Bicentennial Dr, Jerrabomberra NSW 2619 ~$665000~2~1~House~N/A~316~96~N/A~
+2/1-7 Torpy Place, Jerrabomberra NSW 2619 ~$650000~3~1~Townhouse~N/A~2949~N/A~N/A~
+3/4 Redwood Avenue, Jerrabomberra NSW 2619 ~$769,000~3~1~Townhouse~N/A~321~N/A~N/A~
+16 Macadamia Close, Jerrabomberra NSW 2619 ~$1005000~3~2~House~N/A~558~N/A~N/A~
+7 Breen Place, Jerrabomberra NSW 2619 ~$1114000~5~3~House~N/A~859~N/A~N/A~
+104 Halloran Drive, Jerrabomberra NSW 2619 ~$1104000~4~2~House~N/A~863~N/A~N/A~
+7 Bottlebrush Place, Jerrabomberra NSW 2619 ~$1,120,000~4~2~House~N/A~596~246~N/A~
+(no street name provided), Jerrabomberra NSW 2619 ~$1,120,000~4~2~House~N/A~712~N/A~N/A~
+228 Halloran Drive, Jerrabomberra NSW 2619 ~$1255000~4~2~House~N/A~706~181~N/A~
+18 Darmody Place, Jerrabomberra NSW 2619 ~$1275000~4~2~House~N/A~814~208~N/A~
+64 Bicentennial Drive, Jerrabomberra NSW 2619 ~$1320000~4~2~House~N/A~738~N/A~N/A~
+27 Balcombe Street, Jerrabomberra NSW 2619 ~$1350000~4~2~House~N/A~991~227~N/A~
+47 Redwood Avenue, Jerrabomberra NSW 2619 ~$1412500~4~2~House~N/A~918~N/A~N/A~
+3 She-Oak Place, Jerrabomberra NSW 2619 ~$1,399,000~5~2~House~N/A~956~N/A~N/A~
+261 Bicentennial Drive, Jerrabomberra NSW 2619 ~$1449000~4~2~House~N/A~910~N/A~N/A~
+24 Waterfall Drive, Jerrabomberra NSW 2619 ~$1650000~5~2~House~N/A~1039~331~N/A~
+57 Woodhill Link, Jerrabomberra NSW 2619 ~$1,650,000~5~2~House~N/A~914~280~N/A~
+29 Nicholii Loop, Jerrabomberra NSW 2619 ~$1675000~5~3~House~N/A~801~N/A~N/A~
+17 Lakeview Gardens, Jerrabomberra NSW 2619 ~$1,699,000~4~3~House~0.0~1096~N/A~N/A~
+28 Eucalypt Rise, Jerrabomberra NSW 2619 ~$1840000~4~2~House~N/A~2377~N/A~N/A~
+15 Euroka Place, Jerrabomberra NSW 2619 ~$2050000~4~2~House~N/A~7078~526~N/A~
+2 Callitris Place, Jerrabomberra NSW 2619 ~$2050000~6~3~House~N/A~1025~N/A~N/A~

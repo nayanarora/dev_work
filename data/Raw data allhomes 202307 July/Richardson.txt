@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+4 Pogney Place, Richardson ACT 2905 ~$625000~3~2~House~0.5~366~86~$380,000~

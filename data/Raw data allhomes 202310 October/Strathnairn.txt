@@ -1,0 +1,36 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+27/14 Grace Munro Crescent, Strathnairn ACT 2615 ~  $570,000~2~2~Townhouse~6.0~11100.000000000002~N/A~N/A~
+1/52 Speldewinde Street, Strathnairn ACT 2615 ~$580,000~2~1~Townhouse~6.0~111~N/A~N/A~
+The Brosnan - 29 Wahlquist Street, Strathnairn ACT 2615 ~$715,000~3~2~Other~6.9~N/A~N/A~N/A~
+The Brosnan - Townhouse 2, Strathnairn ACT 2615 ~$734,900~3~2~Townhouse~6.9~N/A~N/A~N/A~
+57 Speldewinde Street, Strathnairn ACT 2615 ~$745,000 ~3~2~Townhouse~6.0~170~N/A~N/A~
+31 Ariotti Street, Strathnairn ACT 2615 ~$774000~3~2~Townhouse~6.0~168~N/A~N/A~
+VIVERE - Unit 12 - 1-19 Speldewinde Street, Strathnairn ACT 2615 ~$750,000~3~2~Townhouse~6.0~N/A~N/A~N/A~
+The Brosnan - 31 Wahlquist Street, Strathnairn ACT 2615 ~$754,900~3~2~Townhouse~6.9~N/A~N/A~N/A~
+The Lazenby - Townhouse 3, Strathnairn ACT 2615 ~$769,000~2~1~Townhouse~6.0~N/A~N/A~N/A~
+VIVERE - Unit 4 - 1-19 Speldewinde Street, Strathnairn ACT 2615 ~$775,000~3~2~Townhouse~6.0~N/A~N/A~N/A~
+VIVERE - Unit 9 - 1-19 Speldewinde Street, Strathnairn ACT 2615 ~$775,000~3~2~Townhouse~6.0~N/A~N/A~N/A~
+VIVERE - Unit 2 - 1-19 Speldewinde Street, Strathnairn ACT 2615 ~$775,000~3~2~Townhouse~6.0~N/A~N/A~N/A~
+ASHTON - Unit 9, Strathnairn ACT 2615 ~$795,000~3~1~Other~6.0~N/A~N/A~N/A~
+The Lazenby - Townhouse 1, Strathnairn ACT 2615 ~$799,000~2~2~Townhouse~6.0~N/A~N/A~N/A~
+ASHTON - Unit 6, Strathnairn ACT 2615 ~$800,000~3~1~Other~6.0~N/A~N/A~N/A~
+ASHTON - Unit 16, Strathnairn ACT 2615 ~$800,000~3~1~Other~6.0~N/A~N/A~N/A~
+The Lazenby - Townhouse 10, Strathnairn ACT 2615 ~$829,000~2~1~Townhouse~6.0~N/A~N/A~N/A~
+VIVERE - Unit 10 - 1-19 Speldewinde Street, Strathnairn ACT 2615 ~$850,000~3~2~Townhouse~6.0~N/A~N/A~N/A~
+(no street name provided), Strathnairn ACT 2615 ~$855,000~3~2~House~N/A~325~162~N/A~
+48 Joan Tully Court, Strathnairn ACT 2615 ~$870000~4~2~House~6.0~312~179~N/A~
+33 Speldewinde Street, Strathnairn ACT 2615 ~$890,000~4~1~House and Land Package~6.0~250~N/A~N/A~
+Horizon Hill - Lot 47, Strathnairn ACT 2615 ~$945,000~4~2~Other~N/A~191~N/A~N/A~
+(no street name provided), Strathnairn ACT 2615 ~$950,000~4~2~House~6.0~250~215~N/A~
+Block M Section Bj, Strathnairn ACT 2615 ~$990,000~N/A~N/A~House and Land Package~N/A~N/A~N/A~N/A~
+Block Q Section Bj, Macnamara ACT 2615 ~From $999,000~4~2~House~7.0~420~236~N/A~
+28 Berents Street, Strathnairn ACT 2615 ~$1039000~4~2~House~5.5~414~198~N/A~
+Horizon Hill - Lot 50, Strathnairn ACT 2615 ~$1,008,000~4~2~Other~N/A~249~N/A~N/A~
+Horizon Hill - Lot 46, Strathnairn ACT 2615 ~$1,030,000~4~2~Other~N/A~248~N/A~N/A~
+27 Rachel Makinson Street, Strathnairn ACT 2615 ~$1,050,000~4~2~House~6.0~547~157~N/A~
+Horizon Hill - Lot 44, Strathnairn ACT 2615 ~$1,060,000~4~2~Other~N/A~N/A~N/A~N/A~
+(no street name provided), Strathnairn ACT 2615 ~$1,100,000~4~2~House~6.0~420~227~N/A~
+(no street name provided), Macnamara ACT 2615 ~$1,100,000~4~2~House~6.0~420~225~N/A~
+32 Jill Landsberg Terrace, Strathnairn ACT 2615 ~$1,175,000~4~2~House~6.0~641~191~N/A~
+Horizon Hill - Lot 24, Strathnairn ACT 2615 ~$1,275,000~4~2~Other~N/A~N/A~N/A~N/A~
+Horizon Hill - Lot 54, Strathnairn ACT 2615 ~$1,350,000~4~2~Other~N/A~492~N/A~N/A~

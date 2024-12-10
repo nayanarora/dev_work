@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+29B Tompson Street, Garran ACT 2605 ~$1,350,000~3~2~House~6.0~N/A~155~N/A~

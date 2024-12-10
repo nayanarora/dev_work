@@ -1,0 +1,80 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+57/40 Swain Street, Gungahlin ACT 2912 ~Inviting   $280,000~N/A~N/A~N/A~N/A~2769~N/A~$3,300,000~
+38/1 Anthony Rolfe Avenue, Gungahlin ACT 2912 ~  $349,900~N/A~N/A~N/A~N/A~7376~N/A~$12,750,000~
+110/100 Gungahlin Place, Gungahlin ACT 2912 ~  $350,000~N/A~N/A~N/A~N/A~2269~N/A~N/A~
+222/100 Gungahlin Place, Gungahlin ACT 2912 ~$359,000~N/A~N/A~N/A~N/A~2269~N/A~N/A~
+376/1 Anthony Rolfe Avenue, Gungahlin ACT 2912 ~  $365,000~N/A~N/A~N/A~N/A~7376~N/A~$12,750,000~
+365/1 Anthony Rolfe Avenue, Gungahlin ACT 2912 ~$382500~N/A~N/A~N/A~N/A~7376~N/A~$12,750,000~
+G6 - 1 BEDROOM APARTMENTS, Gungahlin ACT 2912 ~$369,900~N/A~N/A~N/A~N/A~N/A~N/A~N/A~
+904/90 Swain Street, Gungahlin ACT 2912 ~$379,000~N/A~N/A~N/A~N/A~N/A~N/A~N/A~
+404/90 Swain Street, Gungahlin ACT 2912 ~  $379,000~N/A~N/A~N/A~N/A~N/A~N/A~N/A~
+99/77 Gozzard Street, Gungahlin ACT 2912 ~$380,000~N/A~N/A~N/A~N/A~2279~N/A~$4,450,000~
+166/1 Anthony Rolfe Avenue, Gungahlin ACT 2912 ~  $385,000~N/A~N/A~N/A~N/A~7376~N/A~$12,750,000~
+121/87 Gozzard Street, Gungahlin ACT 2912 ~$389,000~N/A~N/A~N/A~N/A~N/A~N/A~N/A~
+1208/6 Gribble Street, Gungahlin ACT 2912 ~$399,999~N/A~N/A~N/A~N/A~2163~N/A~$4,475,000~
+1002/6 Gribble Street, Gungahlin ACT 2912 ~$409,000~N/A~N/A~N/A~N/A~2163~N/A~$4,475,000~
+22/77 Gozzard Street, Gungahlin ACT 2912 ~  $419,000~N/A~N/A~N/A~N/A~2279~N/A~$4,450,000~
+188/1 Anthony Rolfe Avenue, Gungahlin ACT 2912 ~$420,000~N/A~N/A~N/A~N/A~7376~N/A~$12,750,000~
+139/1 Anthony Rolfe Avenue, Gungahlin ACT 2912 ~$435,000~N/A~N/A~N/A~N/A~7376~N/A~$12,750,000~
+Sierra Gungahlin - FREE MORTGAGE FOR 12 MONTHS*, Gungahlin ACT 2912 ~$439,900~N/A~N/A~N/A~N/A~N/A~N/A~N/A~
+167/1 Anthony Rolfe Avenue, Gungahlin ACT 2912 ~$445,000~N/A~N/A~N/A~N/A~7376~N/A~$12,750,000~
+300/1 Anthony Rolfe Avenue, Gungahlin ACT 2912 ~$449000~N/A~N/A~N/A~N/A~7376~N/A~$12,750,000~
+309/48 Gungahlin Place, Gungahlin ACT 2912 ~$450,000~N/A~N/A~N/A~N/A~2128~N/A~$2,350,000~
+601/2 Gribble Street, Gungahlin ACT 2912 ~$450,000~N/A~N/A~N/A~N/A~2193~N/A~$4,446,000~
+Nue - A Brand Nue Gungahlin, Gungahlin ACT 2912 ~$460,000~N/A~N/A~N/A~N/A~N/A~N/A~N/A~
+Nue - A Brand Nue Gungahlin, Gungahlin ACT 2912 ~$467,000~N/A~N/A~N/A~N/A~N/A~N/A~N/A~
+380/1 Anthony Rolfe Avenue, Gungahlin ACT 2912 ~$479000~N/A~N/A~N/A~N/A~7376~84~$12,750,000~
+217/90 Swain Street, Gungahlin ACT 2912 ~$469,000~N/A~N/A~N/A~N/A~N/A~N/A~N/A~
+The Establishment - Brand new 2 bed in Town Centre, Gungahlin ACT 2912 ~$470,000~N/A~N/A~N/A~N/A~3333~N/A~$6,800,000~
+The Establishment - Brand new 2 bed in Town Centre, Gungahlin ACT 2912 ~$470,000~N/A~N/A~N/A~N/A~3333~N/A~$6,800,000~
+602/90 Swain Street, Gungahlin ACT 2912 ~$470,000~N/A~N/A~N/A~N/A~N/A~N/A~N/A~
+292/1 Anthony Rolfe Avenue, Gungahlin ACT 2912 ~$475,000~N/A~N/A~N/A~N/A~7376~N/A~$12,750,000~
+119/1 Anthony Rolfe Avenue, Gungahlin ACT 2912 ~$480,000~N/A~N/A~N/A~N/A~7376~N/A~$12,750,000~
+704/8 Gribble Street, Gungahlin ACT 2912 ~$480,000~N/A~N/A~N/A~N/A~2163~N/A~$4,475,000~
+1 Hamer Street, Gungahlin ACT 2912 ~$489,000~N/A~N/A~N/A~N/A~381~N/A~$469,000~
+Sierra Gungahlin - FREE MORTGAGE FOR 12 MONTHS*, Gungahlin ACT 2912 ~$489,900~N/A~N/A~N/A~N/A~N/A~N/A~N/A~
+G6 - 2 BEDROOM APARTMENTS, Gungahlin ACT 2912 ~$497,900~N/A~N/A~N/A~N/A~N/A~N/A~N/A~
+115/1 Anthony Rolfe Avenue, Gungahlin ACT 2912 ~$499,000~N/A~N/A~N/A~N/A~7376~N/A~$12,750,000~
+74/10 Hinder Street, Gungahlin ACT 2912 ~$499,000~N/A~N/A~N/A~N/A~17200.0~N/A~$8,150,000~
+60/77 Gozzard Street, Gungahlin ACT 2912 ~$509,000~N/A~N/A~N/A~N/A~2279~N/A~$4,450,000~
+102/90 Swain Street, Gungahlin ACT 2912 ~$515,000~N/A~N/A~N/A~N/A~N/A~N/A~N/A~
+401/6 Gribble Street, Gungahlin ACT 2912 ~$515,000~N/A~N/A~N/A~N/A~2163~N/A~$4,475,000~
+87 Gozzard Street, Gungahlin ACT 2912 ~$519,000~N/A~N/A~N/A~N/A~3333~N/A~$6,800,000~
+The Establishment - 1002/90 Swain Street, Gungahlin ACT 2912 ~$519,000~N/A~N/A~N/A~N/A~3333~N/A~$6,800,000~
+136/1 Anthony Rolfe Avenue, Gungahlin ACT 2912 ~$530,000~N/A~N/A~N/A~N/A~7376~N/A~$12,750,000~
+94/77 Gozzard Street, Gungahlin ACT 2912 ~$535,000~N/A~N/A~N/A~N/A~2279~N/A~$4,450,000~
+70/10 Hinder Street, Gungahlin ACT 2912 ~$545,000~N/A~N/A~N/A~N/A~17200.0~N/A~$8,150,000~
+Swain Street, Gungahlin ACT 2912 ~$555,000~N/A~N/A~N/A~N/A~N/A~N/A~N/A~
+909/90 Swain Street, Gungahlin ACT 2912 ~  $565,000~N/A~N/A~N/A~N/A~N/A~N/A~N/A~
+909/90 Swain Street, Gungahlin ACT 2912 ~  $565,000~N/A~N/A~N/A~N/A~N/A~N/A~N/A~
+11/2 Hinder Street, Gungahlin ACT 2912 ~$569,000~N/A~N/A~N/A~N/A~3505~N/A~$4,250,000~
+1111/2 Gribble Street, Gungahlin ACT 2912 ~$569,999~N/A~N/A~N/A~N/A~2193~N/A~$4,446,000~
+Sierra Gungahlin - FREE MORTGAGE FOR 12 MONTHS*, Gungahlin ACT 2912 ~$579,900~N/A~N/A~N/A~N/A~N/A~N/A~N/A~
+1305/2 Gribble Street, Gungahlin ACT 2912 ~$579,999~N/A~N/A~N/A~N/A~2193~N/A~$4,446,000~
+The Establishment - G03/90 Swain Street, Gungahlin ACT 2912 ~$585,000~N/A~N/A~N/A~N/A~3333~N/A~$6,800,000~
+The Establishment - Type A.2A - 1204/90 Swain Street, Gungahlin ACT 2912 ~$595,000~N/A~N/A~N/A~N/A~3333~N/A~$6,800,000~
+1/1 Anthony Rolfe Avenue, Gungahlin ACT 2912 ~$599,000~N/A~N/A~N/A~N/A~7376~N/A~$12,750,000~
+The Establishment - 814/90 Swain Street, Gungahlin ACT 2912 ~$605,000~N/A~N/A~N/A~N/A~3333~N/A~$6,800,000~
+709/2 Gribble Street, Gungahlin ACT 2912 ~$625,000~N/A~N/A~N/A~N/A~2193~N/A~$4,446,000~
+2/1 Anthony Rolfe Avenue, Gungahlin ACT 2912 ~$630,000~N/A~N/A~N/A~N/A~7376~N/A~$12,750,000~
+G6 - 2 BEDROOM TERRACES, Gungahlin ACT 2912 ~$649,900~N/A~N/A~N/A~N/A~N/A~N/A~N/A~
+1306/6 Gribble Street, Gungahlin ACT 2912 ~$685,000~N/A~N/A~N/A~N/A~2163~N/A~$4,475,000~
+Nue - A Brand Nue Gungahlin, Gungahlin ACT 2912 ~$729,900~N/A~N/A~N/A~N/A~N/A~N/A~N/A~
+235/1 Anthony Rolfe Avenue, Gungahlin ACT 2912 ~$739,000~N/A~N/A~N/A~N/A~7376~N/A~$12,750,000~
+Nue - A Brand Nue Gungahlin, Gungahlin ACT 2912 ~$756,000~N/A~N/A~N/A~N/A~N/A~N/A~N/A~
+Sierra Gungahlin - FREE MORTGAGE FOR 12 MONTHS*, Gungahlin ACT 2912 ~$769,900~N/A~N/A~N/A~N/A~N/A~N/A~N/A~
+G6 - 2 BEDROOM PENTHOUSE, Gungahlin ACT 2912 ~$774,900~N/A~N/A~N/A~N/A~N/A~N/A~N/A~
+U6 Olea, Camilleri Way, Gungahlin ACT 2912 ~$785,000~N/A~N/A~N/A~N/A~N/A~N/A~N/A~
+The Establishment - Final 3-Bed with Huge Balcony - 90 Swain Street, Gungahlin ACT 2912 ~$799,000~N/A~N/A~N/A~N/A~3333~N/A~$6,800,000~
+Nue - A Brand Nue Gungahlin, Gungahlin ACT 2912 ~$849,900~N/A~N/A~N/A~N/A~N/A~N/A~N/A~
+Sierra Gungahlin - FREE MORTGAGE FOR 12 MONTHS*, Gungahlin ACT 2912 ~$859,900~N/A~N/A~N/A~N/A~N/A~N/A~N/A~
+338 Anthony Rolfe Avenue, Gungahlin ACT 2912 ~$875,000~N/A~N/A~N/A~N/A~231~N/A~$400,000~
+63 Mary Gillespie Avenue, Gungahlin ACT 2912 ~$879,000~N/A~N/A~N/A~N/A~231~N/A~$400,000~
+1701/6 Gribble Street, Gungahlin ACT 2912 ~$879,000~N/A~N/A~N/A~N/A~2163~N/A~$4,475,000~
+304/102 Swain Street, Gungahlin ACT 2912 ~$899,000~N/A~N/A~N/A~N/A~4672~N/A~$5,150,000~
+21 Petersilka Street, Gungahlin ACT 2912 ~$1,035,000~N/A~N/A~N/A~N/A~470~210~$535,000~
+6 Elm Grove, Gungahlin ACT 2912 ~$1,050,000~N/A~N/A~N/A~N/A~462~155~$431,000~
+Nue - A Brand Nue Gungahlin, Gungahlin ACT 2912 ~$1,071,000~N/A~N/A~N/A~N/A~N/A~N/A~N/A~
+13 Dame Zara Street, Gungahlin ACT 2912 ~$1,150,000~N/A~N/A~N/A~N/A~501~220~$535,000~
+10 Eckley Street, Gungahlin ACT 2912 ~$1,485,000~N/A~N/A~N/A~N/A~220~N/A~$350,000~
+91 & 91A Anthony Rolfe Avenue, Gungahlin ACT 2912 ~$1,599,000~N/A~N/A~N/A~N/A~N/A~N/A~N/A~

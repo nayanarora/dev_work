@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+8/21 Clark Close, Spence ACT 2615 ~$550,000~2~1~Townhouse~6.0~N/A~90~N/A~

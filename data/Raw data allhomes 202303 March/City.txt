@@ -1,0 +1,28 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+14/28 West Row, City ACT 2601 ~$309,500~1~1~Apartment~6.0~3246~N/A~$78,750~
+605 Edinburgh Avenue, City ACT 2601 ~$415,000~1~1~Apartment~6.0~1670~51~N/A~
+43/20 Allara Street, City ACT 2601 ~$470,000~1~1~Apartment~6.0~1380~N/A~$46,530~
+145/45 West Row, City ACT 2601 ~$479,900~1~1~Apartment~6.0~2462~N/A~N/A~
+Founders Lane - SOL - 208/65 Cooyong Street, Braddon ACT 2612 ~$490,000~1~1~Apartment~6.0~N/A~50~N/A~
+67/15 Coranderrk Street, City ACT 2601 ~$495,000~1~1~Apartment~4.5~10400.0~60~$96,000~
+1006/25 Edinburgh Avenue, City ACT 2601 ~$495,000~1~1~Apartment~6.0~1670~56~N/A~
+46/2 Edinburgh Avenue, City ACT 2601 ~$495,000~1~1~Apartment~6.0~6922~68~$83,160~
+1504/2 Marcus Clarke Street, City ACT 2601 ~$498,000~2~1~Apartment~6.0~7981~72~$126,500~
+100/20 Allara Street, Canberra ACT 2601 ~$549,000~1~1~Apartment~6.0~N/A~66~N/A~
+611/25 Edinburgh Avenue, City ACT 2601 ~$549,000~1~1~Apartment~6.0~1670~59~N/A~
+410/16 Moore Street, City ACT 2601 ~  $560,000~2~2~Apartment~6.0~1487~N/A~$116,775~
+708/74-76 Northbourne Avenue, Braddon ACT 2612 ~$569,000~2~2~Apartment~6.0~4171~82~$15,576~
+Level 10/1014/240 Bunda Street, City ACT 2601 ~$585,000~1~1~Unit / Apartment~6.0~N/A~60~N/A~
+The Griffin, Parkes - 44 Constitution Avenue, Parkes ACT 2600 ~$629,000~1~1~Other~5.3~N/A~N/A~N/A~
+145/264 City Walk, City ACT 2601 ~$670,000 ~2~2~Apartment~6.0~1664~N/A~$44,485~
+84/45 West Row, City ACT 2601 ~$675,000~2~2~Apartment~6.0~2462~91~N/A~
+103/39 London Circuit, City ACT 2601 ~$0~2~2~Apartment~6.0~820~N/A~N/A~
+8/45 West Row, City ACT 2601 ~$685000~2~2~Apartment~6.0~2462~78~N/A~
+18/260 City Walk, City ACT 2601 ~$699,000~2~2~Apartment~6.0~1664~N/A~$44,485~
+415/65 Cooyong Street, Braddon ACT 2612 ~$735,000~2~2~Apartment~7.0~11100.000000000002~88~$62,160~
+628/45 Ainslie Avenue, Braddon ACT 2612 ~$748,888~2~2~Apartment~5.0~9706~N/A~$71,550~
+1607/2 Marcus Clarke Street, City ACT 2601 ~$795,000~2~2~Apartment~6.0~7981~N/A~$126,500~
+156/15 Coranderrk Street, City ACT 2601 ~$824995~2~2~Apartment~5.0~10400.0~121~$96,000~
+13/70 Henty Street, Braddon ACT 2612 ~$1,229,000~3~2~Townhouse~6.0~2626~126~$145,920~
+INDUSTRY - North Corner 3 bedroom terrace home, Braddon ACT 2612 ~$1,499,000~3~1~Townhouse~7.4~N/A~N/A~N/A~
+The Griffin, Parkes - 3 bedroom penthouse, Parkes ACT 2600 ~$2,750,000~3~3~Other~5.3~N/A~N/A~N/A~

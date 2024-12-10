@@ -1,0 +1,3 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+7 Roope Close, Calwell ACT 2905 ~$665,000~3~1~House~3.0~457~103~$420,000~
+75 Mountain Circuit, Calwell ACT 2905 ~$899,000~4~2~House~3.0~646~N/A~$469,000~

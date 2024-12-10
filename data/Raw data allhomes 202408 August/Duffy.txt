@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+20 Kallara Close, Duffy ACT 2611 ~offers above $900,000~3~1~House~4.0~1053~121~$646,000~

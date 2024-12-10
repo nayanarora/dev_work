@@ -1,0 +1,17 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+(no street name provided), Franklin ACT 2913 ~$365,000~1~1~House~6.0~12000.0~N/A~$79,560~
+17/307 Flemington Road, Franklin ACT 2913 ~$379,000~1~1~Apartment~6.0~10400.0~N/A~$49,896~
+12/21 Christina Stead Street, Franklin ACT 2913 ~$385,000~1~1~Apartment~6.0~7982~N/A~$38,253~
+102/227 Flemington Road, Franklin ACT 2913 ~$439,000~2~1~Apartment~6.0~7982~72~$38,253~
+98/75 Elizabeth Jolley Crescent, Franklin ACT 2913 ~Offers Above $499,900~2~2~Apartment~6.0~9025~98~$2,650,000~
+39/241 Flemington Road, Franklin ACT 2913 ~$519,000~2~2~Apartment~6.0~7075~82~$26,712~
+70/41 Clare Burton Crescent, Franklin ACT 2913 ~Offers over $530,000~2~2~Apartment~6.0~5932~N/A~$60,375~
+2/329 Flemington Road, Franklin ACT 2913 ~$545,000~2~2~Apartment~6.0~11600.0~N/A~$70,380~
+79/51 Nullarbor Avenue, Franklin ACT 2913 ~$619,000~3~2~Apartment~6.0~7075~117~$26,712~
+(no street name provided), Franklin ACT 2913 ~$755,000~3~1~Townhouse~5.5~103~N/A~N/A~
+7/92 Henry Kendall Street, Franklin ACT 2913 ~$780,000~3~2~Townhouse~6.0~9629~N/A~$51,112~
+22 Jeannie Gunn Street, Franklin ACT 2913 ~$900,000~3~2~House~5.0~275~126~$340,000~
+1 Bright Street, Franklin ACT 2913 ~$949,000~3~2~House~5.0~369~N/A~$467,000~
+20 Marie Pitt Street, Franklin ACT 2913 ~$959,000~4~1~House~4.0~337~N/A~$437,000~
+16 Patrick White Circuit, Franklin ACT 2913 ~$1,000,000~4~2~House~4.0~350~163~$481,000~
+21 Petherick Street, Franklin ACT 2913 ~$1,100,000~4~2~House~5.0~405~174~$496,000~

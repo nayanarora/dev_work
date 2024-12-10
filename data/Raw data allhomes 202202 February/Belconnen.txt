@@ -1,0 +1,41 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+194/60 College Street, Belconnen ACT 2617 ~Offers over $355,000~1~1~Apartment~6.0~N/A~57~$8,400,000~
+147/64 College Street, Belconnen ACT 2617 ~Offers Over $360,000~1~1~Unit / Apartment~6.0~N/A~57~$8,400,000~
+123/57 Benjamin Way, Belconnen ACT 2617 ~$361,500~1~1~Apartment~6.0~N/A~61~N/A~
+307/80 Chandler Street, Belconnen ACT 2617 ~$365,000~1~1~Apartment~6.0~N/A~N/A~$8,400,000~
+63/57 Benjamin Way, Belconnen ACT 2617 ~$365,000~1~1~Apartment~6.0~N/A~85~$4,410,000~
+136/41 Chandler Street, Belconnen ACT 2617 ~$370,000~1~1~Apartment~6.0~N/A~N/A~$10,560,000~
+5/35 Chandler Street, Belconnen ACT 2617 ~Offers over $390,000~1~1~Apartment~6.0~N/A~N/A~$10,560,000~
+711/1 Grazier Lane, Belconnen ACT 2617 ~offer above $393000~1~1~Apartment~6.0~N/A~58~N/A~
+82/8 Veryard Lane, Belconnen ACT 2617 ~$424000~1~1~Unit / Apartment~6.0~N/A~N/A~$6,225,000~
+81/39 Benjamin Way, Belconnen ACT 2617 ~$419,000~1~1~Apartment~6.0~N/A~73~N/A~
+The Chandler - Everything You Need, Nothing You Don't, Belconnen ACT 2617 ~$424,900~1~1~Other~6.0~N/A~N/A~N/A~
+The Chandler - Everything You Need, Nothing You Don't, Belconnen ACT 2617 ~$454,900~1~1~Other~6.0~N/A~N/A~N/A~
+176/39 Benjamin Way, Belconnen ACT 2617 ~$480,000~2~1~Apartment~6.0~N/A~N/A~$6,720,000~
+High Society - 1915/3 Grazier Lane, Belconnen ACT 2617 ~$504,900~2~1~Apartment~5.0~N/A~N/A~N/A~
+High Society - 2011/3 Grazier Lane, Belconnen ACT 2617 ~$509,900~2~2~Apartment~5.0~N/A~N/A~N/A~
+33/57 Benjamin Way, Belconnen ACT 2617 ~$510,000~2~1~Apartment~5.5~7654~106~$4,410,000~
+Nightfall - 909/2 Grazier Lane, Belconnen ACT 2617 ~$516,843~2~2~Apartment~5.0~N/A~N/A~N/A~
+Nightfall - 803/2 Grazier Lane, Belconnen ACT 2617 ~$534,900~2~1~Apartment~5.0~N/A~N/A~N/A~
+Nightfall - 711/2 Grazier Lane, Belconnen ACT 2617 ~$540,900~2~2~Apartment~5.0~N/A~N/A~N/A~
+Nightfall - 408/2 Grazier Lane, Belconnen ACT 2617 ~$541,900~2~2~Apartment~5.0~N/A~N/A~N/A~
+Nightfall - 1203/2 Grazier Lane, Belconnen ACT 2617 ~$546,900~2~1~Apartment~5.0~N/A~N/A~N/A~
+The Chandler - Everything You Need, Nothing You Don't, Belconnen ACT 2617 ~$554,900~2~2~Other~6.0~N/A~N/A~N/A~
+8/7 Joy Cummings Place, Belconnen ACT 2617 ~$560,000~2~2~Townhouse~6.0~N/A~N/A~N/A~
+High Society - 1713/3 Grazier Lane, Belconnen ACT 2617 ~$569,900~2~2~Apartment~5.0~N/A~N/A~N/A~
+Nightfall - 612/2 Grazier Lane, Belconnen ACT 2617 ~$577,900~2~2~Apartment~5.0~N/A~N/A~N/A~
+Cirrus - 1 Bedroom, Belconnen ACT 2617 ~$590,000~1~1~Apartment~6.5~N/A~N/A~N/A~
+49/17 Chandler Street, Belconnen ACT 2617 ~$590,000~3~1~Unit / Apartment~5.0~5997~N/A~N/A~
+2105/3 Grazier Lane, Belconnen ACT 2617 ~$640,000~2~2~Apartment~6.0~N/A~87~N/A~
+The Chandler - Everything You Need, Nothing You Don't, Belconnen ACT 2617 ~$709,900~3~2~Other~6.0~N/A~N/A~N/A~
+161 Emu Bank, Belconnen ACT 2617 ~$777500~2~2~Apartment~6.5~N/A~N/A~N/A~
+Cirrus - 2 Bedroom - 2C, Belconnen ACT 2617 ~$730,000~2~1~Apartment~6.5~N/A~N/A~N/A~
+Cirrus - 2 Bedroom, Belconnen ACT 2617 ~$750,000~2~2~Apartment~6.5~N/A~N/A~N/A~
+Cirrus - 2 Bedroom, Belconnen ACT 2617 ~$790,000~2~1~Apartment~6.5~N/A~N/A~N/A~
+High Society - 2504/1 Grazier Lane, Belconnen ACT 2617 ~$792,900~3~2~Apartment~5.0~N/A~N/A~N/A~
+High Society - 2604/1 Grazier Lane, Belconnen ACT 2617 ~$799,900~3~2~Apartment~5.0~N/A~N/A~N/A~
+High Society - 2301/3 Grazier Lane, Belconnen ACT 2617 ~$825,000~3~2~Apartment~5.0~N/A~N/A~N/A~
+High Society - 2504/3 Grazier Lane, Belconnen ACT 2617 ~$870,900~3~2~Apartment~5.0~N/A~N/A~N/A~
+100/41 Chandler Street, Belconnen ACT 2617 ~$880,000~3~2~Unit / Apartment~6.0~N/A~N/A~$10,560,000~
+High Society - 2503/1 Grazier Lane, Belconnen ACT 2617 ~$890,000~3~2~Apartment~5.0~N/A~N/A~N/A~
+High Society - 2702/1 Grazier Lane, Belconnen ACT 2617 ~$930,900~3~2~Other~5.0~N/A~N/A~N/A~

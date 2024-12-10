@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+35 Embley Street, Holder ACT 2611 ~$830,000~3~1~House~2.0~680~109~$699,000~
+13 Sheaffe Street, Holder ACT 2611 ~$925,000~3~1~House~4.0~901~133~$687,000~
+45 De Graaff Street, Holder ACT 2611 ~$949,000~4~2~House~2.0~723~N/A~$660,000~

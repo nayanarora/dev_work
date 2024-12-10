@@ -1,0 +1,3 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+14/71 Lawrenson Circuit, Jacka ACT 2914 ~$565,000~2~1~Townhouse~6.0~145~N/A~N/A~
+20/4 Lawrenson Circuit, Jacka ACT 2914 ~$585,000~2~1~Townhouse~6.0~225~N/A~N/A~

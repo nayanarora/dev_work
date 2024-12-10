@@ -1,0 +1,3 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+20 Dowthwaite Street, Fraser ACT 2615 ~$995,000~4~3~House~2.0~1037~N/A~$534,000~
+7 De Smet Place, Fraser ACT 2615 ~$1,150,000~5~2~House~1.0~1007~N/A~$580,000~

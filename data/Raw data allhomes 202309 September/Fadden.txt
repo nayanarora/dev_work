@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+1 Coyne Street, Fadden ACT 2904 ~$910,000~3~2~House~1.0~794~129~N/A~
+26 Airey Crescent, Fadden ACT 2904 ~$1075000~4~2~House~3.0~708~N/A~$560,000~
+281 Bugden Avenue, Fadden ACT 2904 ~  $1,150,000~4~2~House~2.0~929~N/A~$691,000~
+45 Maughan Crescent, Fadden ACT 2904 ~$1,200,000~4~2~House~2.0~1029~N/A~$722,000~
+74 Appel Crescent, Fadden ACT 2904 ~$1,699,000~4~3~House~3.5~772~N/A~$622,000~

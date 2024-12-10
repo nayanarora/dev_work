@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+3 Meiklejohn Place, Flynn ACT 2615 ~$899,000~N/A~N/A~N/A~N/A~803~N/A~$570,000~
+44 Barber Crescent, Flynn ACT 2615 ~$939,000~N/A~N/A~N/A~N/A~935~225~$600,000~
+20 Love Street, Flynn ACT 2615 ~$1,100,000~N/A~N/A~N/A~N/A~777~205~$508,000~
+39 Hooper Crescent, Flynn ACT 2615 ~$1,149,000~N/A~N/A~N/A~N/A~1276~N/A~$744,000~
+14 Bird Place, Flynn ACT 2615 ~$1,150,000~N/A~N/A~N/A~N/A~1304~286~$675,000~

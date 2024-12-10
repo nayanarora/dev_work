@@ -1,0 +1,7 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+9/7 Eldridge Crescent, Garran ACT 2605 ~$799,000~3~2~Apartment~6.0~5617~N/A~$177,450~
+32/2 Eldridge Crescent, Garran ACT 2605 ~$800,000~3~2~Unit / Apartment~6.0~10800.0~131~$156,275~
+17 Boothby Place, Garran ACT 2605 ~$880,000~3~2~Townhouse~2.5~208~N/A~$499,000~
+103A Gilmore Crescent, Garran ACT 2605 ~$1,095,000~3~2~House~1.0~326~136~N/A~
+127 Gilmore Crescent, Garran ACT 2605 ~$1185000~3~2~House~0.5~992~N/A~$771,000~
+8 Esson Place, Garran ACT 2605 ~$1,200,000~4~2~House~5.5~481~187~N/A~

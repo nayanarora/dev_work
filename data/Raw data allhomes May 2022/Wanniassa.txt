@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+1 O'Grady Place, Wanniassa ACT 2903 ~Offers Over $870,000~3~2~House~N/A~964~133~$427,000~
+20 Maltby Circuit, Wanniassa ACT 2903 ~$900,000~4~2~House~1.0~817~158~$378,000~
+25 Longmore Crescent, Wanniassa ACT 2903 ~$980,000~3~1~House~5.0~894~N/A~$392,000~
+220 Longmore Crescent, Wanniassa ACT 2903 ~$1,010,000~4~1~House~5.0~N/A~N/A~$469,000~
+30 Longmore Crescent, Wanniassa ACT 2903 ~$1,100,000~5~2~House~2.0~970~262~$400,000~

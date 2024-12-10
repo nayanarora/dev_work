@@ -1,0 +1,9 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+56/3 Young Street, Crestwood NSW 2620 ~$364000~N/A~N/A~N/A~N/A~762~N/A~N/A~
+Unit 19/6 King Street, Crestwood NSW 2620 ~$350,000~N/A~N/A~N/A~N/A~2066~N/A~N/A~
+41/4 Ross Road, Crestwood NSW 2620 ~$507500~N/A~N/A~N/A~N/A~N/A~N/A~N/A~
+1/74 Uriarra Road, Crestwood NSW 2620 ~$714000~N/A~N/A~N/A~N/A~1072~N/A~N/A~
+43 Uriarra Road, Crestwood NSW 2620 ~$755000~N/A~N/A~N/A~N/A~740~N/A~N/A~
+124 Morton Street, Crestwood NSW 2620 ~$800000~N/A~N/A~N/A~N/A~791~N/A~N/A~
+9 Glenn Place, Crestwood NSW 2620 ~$824000~N/A~N/A~N/A~N/A~613~N/A~N/A~
+46 Early Street, Crestwood NSW 2620 ~$954000~N/A~N/A~N/A~N/A~619~N/A~N/A~

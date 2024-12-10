@@ -1,0 +1,11 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+73/3 Waddell Place, Curtin ACT 2605 ~$239,000~1~1~Studio~6.0~13100.0~N/A~$11,780,000~
+39/3 Waddell Place, Curtin ACT 2605 ~Offers over $390,000~2~1~Unit / Apartment~6.0~N/A~N/A~$11,780,000~
+11/143 Carruthers Street, Curtin ACT 2605 ~$400,000 Plus~2~1~Apartment~4.0~N/A~N/A~$5,000,000~
+4 Morgan Crescent, Curtin ACT 2605 ~$900,000~3~1~House~2.0~565~92~$805,000~
+94 Carruthers Street, Curtin ACT 2605 ~$1,100,000 ~3~1~House~0.5~769~100~$810,000~
+47 Throssell Street, Curtin ACT 2605 ~$1,250,000 ~3~1~House~1.5~915~140~$921,000~
+11 Philp Place, Curtin ACT 2605 ~$1,545,000~4~2~House~4.5~736~161~$824,000~
+22 Kidston Crescent, Curtin ACT 2605 ~$1,549,000 ~4~2~House~0.5~805~206~$1,022,000~
+5 Rason Place, Curtin ACT 2605 ~$3,145,000~5~6~House~4.0~692~414~$750,000~
+68 Jennings Street, Curtin ACT 2605 ~$3200000~5~3~House~4.5~810~381~$911,000~

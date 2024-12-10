@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+16 Glenelg St, Kaleen ACT 2617 ~$949,950~3~1~House~0.5~741~N/A~$664,000~
+13 Blythe Close, Kaleen ACT 2617 ~$989,000~3~1~House~1.5~724~N/A~$604,000~
+73 Maribyrnong Avenue, Kaleen ACT 2617 ~$1,050,000~4~2~House~2.5~826~124~$695,000~
+119 Maribyrnong Avenue, Kaleen ACT 2617 ~Offers over $1,050,000~4~1~House~1.0~864~N/A~$664,000~
+11 Fitzmaurice Street, Kaleen ACT 2617 ~$1,090,000~4~2~House~3.0~878~206~$664,000~

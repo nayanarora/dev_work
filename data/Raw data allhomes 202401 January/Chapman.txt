@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+26 Bertel Crescent, Chapman ACT 2611 ~$2,850,000~4~3~House~3.0~1145~550~$750,000~

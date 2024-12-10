@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+12 Leeper Place, Isaacs ACT 2607 ~$975,000~3~2~Townhouse~1.5~453~133~N/A~

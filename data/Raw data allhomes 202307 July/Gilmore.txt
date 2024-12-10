@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+30 Rischbieth Crescent, Gilmore ACT 2905 ~   $839,000~3~2~House~2.0~836~112~$500,000~

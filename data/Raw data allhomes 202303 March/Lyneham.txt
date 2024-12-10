@@ -1,0 +1,12 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+263/1 Mouat Street, Lyneham ACT 2602 ~$419,000~1~1~Apartment~6.0~11200.000000000002~N/A~$51,870~
+73/1 Mouat Street, Lyneham ACT 2602 ~$425,000~1~1~House~6.0~11200.000000000002~N/A~$51,870~
+232/1 Mouat Street, Lyneham ACT 2602 ~$435,000~1~1~Apartment~6.0~11200.000000000002~N/A~$51,870~
+145/1 Mouat Street, Lyneham ACT 2602 ~$499,000~2~1~Apartment~6.0~11200.000000000002~N/A~$51,870~
+3/25 Owen Crescent, Lyneham ACT 2602 ~$625,000~2~2~Apartment~6.0~1845~70~$170,030~
+2/253 Northbourne Avenue, Lyneham ACT 2602 ~$639,000~2~2~Apartment~6.0~4404~N/A~$57,348~
+281/1 Mouat Street, Lyneham ACT 2602 ~$659,000~2~2~Apartment~6.5~11200.000000000002~104~$51,870~
+287/1 Mouat Street, Lyneham ACT 2602 ~$700,000~2~2~Apartment~6.0~11200.000000000002~N/A~$51,870~
+19/15 Fox Place, Lyneham ACT 2602 ~$780,000~3~2~Apartment~3.0~5075~N/A~$80,000~
+46/193 Mouat Street, Lyneham ACT 2602 ~$790,000~2~1~Townhouse~6.0~8656~N/A~$114,300~
+107/1 Mouat Street, Lyneham ACT 2602 ~$795,000~3~3~Apartment~6.0~11200.000000000002~N/A~$51,870~

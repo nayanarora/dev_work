@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+The Chandler - Everything You Need, Nothing You Don't, Belconnen ACT 2617 ~$359,900~1~1~Other~6.0~N/A~N/A~N/A~
+The Chandler - Everything You Need, Nothing You Don't, Belconnen ACT 2617 ~$399,900~1~1~Other~6.0~N/A~N/A~N/A~
+The Chandler - Everything You Need, Nothing You Don't, Belconnen ACT 2617 ~$499,900~2~2~Other~6.0~N/A~N/A~N/A~
+The Chandler - Everything You Need, Nothing You Don't, Belconnen ACT 2617 ~$634,900~3~2~Other~6.0~N/A~N/A~N/A~

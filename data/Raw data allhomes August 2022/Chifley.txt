@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+3 Carslaw Street, Chifley ACT 2606 ~Offers over $995,000~3~1~House~3.0~748~96~$753,000~
+2/13 Renwick Street, Chifley ACT 2606 ~$1,150,000 ~4~2~Townhouse~5.0~603~N/A~N/A~
+10 Lyle Place, Chifley ACT 2606 ~$1,350,000~4~3~House~1.0~761~197~$725,000~
+56 Wilsmore Crescent, Chifley ACT 2606 ~$1,649,999~5~2~House~2.0~1249~178~$972,000~

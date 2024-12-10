@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+The Sullivan at Northbourne Village - Type 16, Lyneham ACT 2602 ~$417,000~1~1~Apartment~6.1~N/A~N/A~N/A~
+7/16 De Burgh Street, Lyneham ACT 2602 ~$435,000~1~1~Unit / Apartment~6.0~682~62~$740,000~
+The Sullivan at Northbourne Village - Type 10, Lyneham ACT 2602 ~$455,000~1~1~Apartment~6.4~N/A~N/A~N/A~
+The Sullivan at Northbourne Village - Type 17, Lyneham ACT 2602 ~$670,000~2~2~Apartment~6.0~N/A~N/A~N/A~

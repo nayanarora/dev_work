@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+86/15 John Cleland Crescent, Florey ACT 2615 ~$669,000~3~2~Townhouse~5.5~42900.0~101~$119,875~
+93/15 John Cleland Crescent, Florey ACT 2615 ~$699,000~3~2~Unit / Apartment~6.0~42900.0~107~$119,875~
+85 Summerville Crescent, Florey ACT 2615 ~$1,090,000~5~2~House~4.0~795~212~$656,000~

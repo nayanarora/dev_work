@@ -1,0 +1,53 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+(no street name provided), Taylor ACT 2913 ~$279,000~3~2~House and Land Package~6.0~N/A~N/A~N/A~
+Langi Apartments: A Boutique Development - 1 bedroom apartment, Taylor ACT 2913 ~$323,000~1~1~Apartment~6.0~N/A~72~N/A~
+Langi Apartments - 2 or 3 bedroom apartments, Taylor ACT 2913 ~$381000~1~1~Apartment~6.0~N/A~56~N/A~
+(no street name provided), Taylor ACT 2913 ~$333,000~3~2~House~6.0~N/A~N/A~N/A~
+SkyHaus - Reaching new heights in Taylor, Taylor ACT 2913 ~$334,900~1~1~Apartment~6.0~N/A~75~N/A~
+SkyHaus - Reaching new heights in Taylor, Taylor ACT 2913 ~$349,900~2~1~Apartment~6.0~N/A~60~N/A~
+SkyHaus - Reaching new heights in Taylor, Taylor ACT 2913 ~$349,900~1~1~Apartment~6.0~N/A~62~N/A~
+SkyHaus - Reaching new heights in Taylor, Taylor ACT 2913 ~$349,900~2~1~Apartment~6.0~N/A~N/A~N/A~
+(no street name provided), Taylor ACT 2913 ~$357,000~4~1~House~6.0~N/A~N/A~N/A~
+Langi Apartments: A Boutique Development - 1 bedroom plus Study apartment, Taylor ACT 2913 ~$395,000~1~1~Apartment~6.0~N/A~72~N/A~
+(no street name provided), Taylor ACT 2913 ~$395,000 ~N/A~N/A~House~N/A~N/A~N/A~N/A~
+Langi Apartments - 2 bedroom apartment, Taylor ACT 2913 ~$430000~2~2~Apartment~6.0~N/A~90~N/A~
+Langi Apartments: A Boutique Development - 2 bedroom apartment, Taylor ACT 2913 ~$420,000~2~2~Apartment~6.0~N/A~90~N/A~
+SkyHaus - Reaching new heights in Taylor, Taylor ACT 2913 ~$479,900~2~2~Apartment~6.0~N/A~101~N/A~
+SkyHaus - Reaching new heights in Taylor, Taylor ACT 2913 ~$499,900~2~2~Apartment~6.0~N/A~79~N/A~
+(no street name provided), Taylor ACT 2913 ~$570,000~3~1~Townhouse~6.0~N/A~166~N/A~
+SkyHaus - Reaching new heights in Taylor, Taylor ACT 2913 ~$645,000~2~2~Apartment~6.0~N/A~100~N/A~
+SkyHaus - Reaching new heights in Taylor, Taylor ACT 2913 ~$645,000~2~2~Apartment~6.0~N/A~100~N/A~
+55 Corkery Crescent, Taylor ACT 2913 ~$649,000~2~1~House~6.0~135~121~N/A~
+(no street name provided), Taylor ACT 2913 ~$650,000~3~1~House~6.0~N/A~246~N/A~
+SkyHaus - Reaching new heights in Taylor, Taylor ACT 2913 ~$655,000~2~2~Apartment~6.0~N/A~100~N/A~
+SkyHaus - Reaching new heights in Taylor, Taylor ACT 2913 ~$655,000~2~2~Apartment~6.0~N/A~100~N/A~
+Sutherland Crescent, Taylor ACT 2913 ~$685,000~3~2~Townhouse~6.8~N/A~N/A~N/A~
+EXTRA - It's time you had something EXTRA, Taylor ACT 2913 ~$724,900~3~2~Townhouse~6.0~N/A~N/A~N/A~
+EXTRA - It's time you had something EXTRA, Taylor ACT 2913 ~$724,900~3~2~Townhouse~6.0~N/A~N/A~N/A~
+EXTRA - It's time you had something EXTRA, Taylor ACT 2913 ~$724,900~3~2~Townhouse~6.0~N/A~N/A~N/A~
+EXTRA - It's time you had something EXTRA, Taylor ACT 2913 ~$724,900~3~2~Townhouse~6.0~N/A~N/A~N/A~
+(no street name provided), Taylor ACT 2913 ~$752500~4~2~House and Land Package~6.5~198~N/A~N/A~
+(no street name provided), Taylor ACT 2913 ~$755,000~3~2~House~6.0~198~122~N/A~
+57 Corkery Crescent, Taylor ACT 2913 ~$799,000~3~2~House~6.0~198~175~N/A~
+37 Corkery Crescent, Taylor ACT 2913 ~$869,000 ~4~2~House~6.0~240~180~N/A~
+(no street name provided), Taylor ACT 2913 ~$869,000~3~2~House and Land Package~6.0~250~170~N/A~
+61 Corkery Crescent, Taylor ACT 2913 ~$875,000~3~2~House~6.0~232~201~N/A~
+(no street name provided), Taylor ACT 2913 ~$879,000~3~2~House and Land Package~6.0~250~170~N/A~
+5 Dan Gazzard View, Taylor ACT 2913 ~$899,000~4~2~House and Land Package~6.0~539~225~N/A~
+3 Kitty Henry Rise, Taylor ACT 2913 ~$899,000~4~1~House and Land Package~6.0~N/A~N/A~N/A~
+(no street name provided), Taylor ACT 2913 ~$963,000~5~3~House~6.0~570~265~N/A~
+38 Everist Street, Taylor ACT 2913 ~$965,000~4~2~House~6.0~341~180~N/A~
+6 Bea Hutton Close, Taylor ACT 2913 ~$1,140,990~4~1~House and Land Package~6.0~540~220~N/A~
+13 Don Gazzard View, Taylor ACT 2913 ~$1,150,000~N/A~N/A~House~6.6~630~N/A~N/A~
+(no street name provided), Taylor ACT 2913 ~$1,150,000~4~2~House~6.0~420~233~N/A~
+(no street name provided), Taylor ACT 2913 ~$1,169,990~4~1~House and Land Package~6.0~540~238~N/A~
+(no street name provided), Taylor ACT 2913 ~$1,190,990~4~1~House and Land Package~6.0~540~247~N/A~
+16 Chadwick Street, Taylor ACT 2913 ~Offers Above $1,199,000~5~3~House~5.5~498~288~N/A~
+10 Gordon Ford Way, Taylor ACT 2913 ~$1,200,000~4~1~House and Land Package~6.0~549~245~N/A~
+22 George Seddon Crescent, Taylor ACT 2913 ~$1,225,000~4~3~House~6.0~N/A~N/A~N/A~
+27 Ellis Stones Terrace, Taylor ACT 2913 ~$1,225,000~4~3~House~6.0~539~261~N/A~
+18 Sunnyman Street, Taylor ACT 2913 ~$1,250,000~4~3~House~6.0~540~260~N/A~
+7 Anchor Street, Taylor ACT 2913 ~$1,300,000~4~1~House~N/A~480~220~N/A~
+(no street name provided), Taylor ACT 2913 ~$1400000~5~3~House and Land Package~6.0~722~250~N/A~
+9 Butterworth Street, Taylor ACT 2913 ~$1,300,000~4~3~House~5.5~450~277~N/A~
+(no street name provided), Taylor ACT 2913 ~$1,380,000~4~3~House~6.0~572~240~N/A~

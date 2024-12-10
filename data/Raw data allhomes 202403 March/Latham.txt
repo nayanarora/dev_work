@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+18 Moorehead Place, Latham ACT 2615 ~$749,000~3~2~House~4.5~326~107~$345,000~
+24 Chambers Street, Latham ACT 2615 ~$779,000~3~2~House~1.5~664~104~$412,000~
+30 Herron Crescent, Latham ACT 2615 ~$855000~4~1~House~3.5~448~192~$458,000~
+12 Hensman Street, Latham ACT 2615 ~$899,000~4~2~House~1.5~1131~161~$520,000~
+1 Meymott Place, Latham ACT 2615 ~$1,150,000~4~1~House~6.0~416~255~$458,000~

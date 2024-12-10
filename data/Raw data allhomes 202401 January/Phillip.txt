@@ -1,0 +1,68 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+38/12 Albermarle Place, Phillip ACT 2606 ~$349,500~1~1~Unit / Apartment~5.0~N/A~N/A~N/A~
+1215/15 Bowes Street, Phillip ACT 2606 ~$355,000~1~1~Unit / Apartment~5.5~3377~N/A~$12,070,000~
+715/15 Bowes Street, Phillip ACT 2606 ~$370,000~1~1~Unit / Apartment~6.0~3377~N/A~$12,070,000~
+WOVA - A Rising Mixed-Use Community in Woden - 1 Bedroom, Phillip ACT 2606 ~$390,900~1~1~Apartment~5.0~N/A~N/A~N/A~
+808/50 Furzer Street, Phillip ACT 2606 ~  $395,000~1~1~Unit / Apartment~6.0~N/A~N/A~N/A~
+625/15 Bowes Street, Phillip ACT 2606 ~$399,000~1~1~Unit / Apartment~6.0~3377~N/A~$12,070,000~
+804/15 Bowes Street, Phillip ACT 2606 ~$409999~1~1~Apartment~6.0~3377~N/A~$12,070,000~
+41/116 Easty Street, Phillip ACT 2606 ~$430,000~1~1~Apartment~5.5~14100.0~N/A~$13,500,000~
+302/15 Bowes Street, Phillip ACT 2606 ~$440,000.00~1~1~Apartment~6.0~3377~N/A~$12,070,000~
+Level 8/320/1 Launceston Street, Phillip ACT 2606 ~  $440,000~1~1~House~6.0~N/A~52~N/A~
+1225/15 Bowes Street, Phillip ACT 2606 ~$449,000~1~1~Apartment~6.0~3377~N/A~$12,070,000~
+408/6 Furzer Street, Phillip ACT 2606 ~$455,000~1~1~Apartment~6.0~10200.0~N/A~$24,350,000~
+8/85 Port Jackson Circuit, Phillip ACT 2606 ~$455,000~2~1~Apartment~5.0~1154~N/A~$1,800,000~
+11 Launceston Street, Phillip ACT 2606 ~$459,900~1~1~Apartment~6.0~10200.0~N/A~$24,350,000~
+Level 6/609/6 Furzer Street, Phillip ACT 2606 ~$474,000~1~1~Apartment~6.0~N/A~N/A~N/A~
+246/7 Irving Street, Phillip ACT 2606 ~$480,000~1~1~Apartment~6.0~7059~N/A~$8,075,000~
+3/49 Furzer Street, Phillip ACT 2606 ~  $495,000~2~1~Apartment~6.0~1673~N/A~N/A~
+The Shard - Coming Soon to Woden Town Centre, Phillip ACT 2606 ~$499,000~1~1~Other~6.0~690~N/A~$950,000~
+Level 17/1703/1 Furzer Street, Phillip ACT 2606 ~$499,000~1~1~Apartment~5.5~N/A~N/A~N/A~
+Woden Green - Tower 2 - New Release - One Bedroom, Phillip ACT 2606 ~$499,900~1~1~Apartment~6.0~N/A~N/A~N/A~
+42/7 Irving Street, Phillip ACT 2606 ~$530,000~2~1~Apartment~6.0~7059~N/A~$8,075,000~
+1021/15 Bowes Street, Phillip ACT 2606 ~$530000~2~2~Apartment~5.5~3377~N/A~$12,070,000~
+The Shard - Coming Soon to Woden Town Centre, Phillip ACT 2606 ~$539,900~1~1~Other~6.0~690~N/A~$950,000~
+1416/15 Bowes Street, Phillip ACT 2606 ~$544,000~2~2~Apartment~6.0~3377~N/A~$12,070,000~
+201/15 Mower Place, Phillip ACT 2606 ~$549,000~2~2~Apartment~5.5~16500.0~N/A~$12,000,000~
+WOVA - Woden. Revamped, Woden ACT 2606 - 2 Bedroom, Phillip ACT 2606 ~$550,900~2~1~Apartment~5.0~N/A~N/A~N/A~
+Unit 1609 | 49 Furzer Street, Phillip ACT 2606 ~$560,000~2~1~Apartment~7.4~N/A~N/A~N/A~
+75/1 Surprize Place, Phillip ACT 2606 ~$565,000~2~1~Apartment~6.0~6314~N/A~$5,250,000~
+Unit 504 | 11 Launceston Street, Phillip ACT 2606 ~$575,000~2~2~Apartment~6.0~N/A~N/A~N/A~
+26/9 Irving Street, Phillip ACT 2606 ~$579,000 ~2~2~Apartment~6.0~3685~N/A~N/A~
+168/7 Irving Street, Phillip ACT 2606 ~$590,000~2~1~Apartment~6.0~7059~N/A~$8,075,000~
+1310/15 Bowes Street, Phillip ACT 2606 ~$595,000~2~2~Apartment~6.0~3377~N/A~$12,070,000~
+1704/15 Bowes Street, Phillip ACT 2606 ~  $599,000~2~2~Apartment~6.0~3377~N/A~$12,070,000~
+146/15 Irving Street, Phillip ACT 2606 ~$599,999~2~2~Apartment~6.0~9676~N/A~$9,050,000~
+44/1 Surprize Place, Phillip ACT 2606 ~  $600,000~2~1~Unit / Apartment~6.0~6314~N/A~$5,250,000~
+5/11 Cavanough Street, Phillip ACT 2606 ~$600,000~2~2~Townhouse~4.5~N/A~N/A~N/A~
+12/14 Alsop Close, Phillip ACT 2606 ~$615,000~2~1~Townhouse~5.0~185~N/A~N/A~
+Level 20/2005/15 Bowes Street, Phillip ACT 2606 ~$624,900~2~2~Apartment~6.0~N/A~N/A~N/A~
+20/9 Irving Street, Phillip ACT 2606 ~$629,000~2~2~House~6.0~111~83~N/A~
+28/15 Irving Street, Phillip ACT 2606 ~$649,000~2~2~Apartment~6.0~9676~N/A~$9,050,000~
+146/11 Irving Street, Phillip ACT 2606 ~$649,000 ~2~2~Apartment~6.0~N/A~N/A~N/A~
+171/11 Irving Street, Phillip ACT 2606 ~$650,000~2~2~Unit / Apartment~6.0~N/A~N/A~N/A~
+1/18 Horbury Street, Phillip ACT 2606 ~$650,000 ~3~2~Townhouse~1.0~168~N/A~N/A~
+94/49 Furzer Street, Phillip ACT 2606 ~$665,000~2~2~Unit / Apartment~6.0~N/A~N/A~N/A~
+Woden Green - Tower 2 - 2 Bedroom - Type G, Phillip ACT 2606 ~$670,000~2~2~Other~5.5~N/A~N/A~N/A~
+Woden Green - Woden Green Tower Two Selling Now, Phillip ACT 2606 ~$670,000~2~1~Apartment~6.0~N/A~N/A~N/A~
+1123/15 Bowes Street, Phillip ACT 2606 ~$675,000~3~2~Apartment~5.0~3377~N/A~$12,070,000~
+The Shard - Coming Soon to Woden Town Centre, Phillip ACT 2606 ~$679,000~2~2~Other~6.0~690~N/A~$950,000~
+185/15 Irving Street, Phillip ACT 2606 ~$699,000~2~2~Unit / Apartment~6.0~9676~N/A~$9,050,000~
+252/15 Irving Street, Phillip ACT 2606 ~$699,000~2~2~Apartment~6.0~9676~N/A~$9,050,000~
+Unit 431/Door 1711 Wova, Phillip ACT 2606 ~$725,000~2~2~Apartment~5.0~N/A~N/A~N/A~
+61/9 Irving Street, Phillip ACT 2606 ~$739,000~3~2~Apartment~6.0~3685~N/A~N/A~
+810/180 Corrina Street, Phillip ACT 2606 ~$769,000~2~2~Apartment~6.0~N/A~N/A~N/A~
+Woden Green - Tower 1 -Type C - 2 Bedroom + Office/Media, Phillip ACT 2606 ~$775,000~2~2~Apartment~6.3~N/A~N/A~N/A~
+Woden Green - Tower 2 - 2 Bedroom + Office/Media - Type B, Phillip ACT 2606 ~$807,500~2~1~Other~5.9~N/A~N/A~N/A~
+The Shard - Coming Soon to Woden Town Centre, Phillip ACT 2606 ~$819,000~3~2~Other~6.0~690~N/A~$950,000~
+WOVA - A Rising Mixed-Use Community in Woden - 3 Bedroom, Phillip ACT 2606 ~$826,900~3~2~Other~5.0~N/A~N/A~N/A~
+812/35 Furzer, Phillip ACT 2606 ~$840,000~3~2~Apartment~6.0~N/A~N/A~N/A~
+The Shard - Coming Soon to Woden Town Centre, Phillip ACT 2606 ~$849,000~3~2~Other~6.0~690~N/A~$950,000~
+8 Sulman Place, Phillip ACT 2606 ~$895,000~3~2~Townhouse~3.0~202~N/A~$589,000~
+The Shard - Coming Soon to Woden Town Centre, Phillip ACT 2606 ~$1,175,000~3~2~Other~6.0~690~N/A~$950,000~
+Woden Green - Tower 2 - New Release - Three Bedroom, Phillip ACT 2606 ~$1,400,000~3~2~Apartment~6.0~N/A~N/A~N/A~
+Level 23/2301/6 Furzer Street, Phillip ACT 2606 ~$1,499,000~3~2~Apartment~5.0~N/A~N/A~N/A~
+WOVA - Spectacular 156+18sqm High-Rise Living Penthouse, Phillip ACT 2606 ~$1,523,900~3~2~Apartment~5.0~N/A~N/A~N/A~
+Woden Green - Tower 1 - Unit 1502 - 3 Bedroom 'Signature Collection', Phillip ACT 2606 ~$1,595,000~3~2~Apartment~5.2~N/A~N/A~N/A~
+The Shard - Coming Soon to Woden Town Centre, Phillip ACT 2606 ~$1,850,000~3~3~Other~6.0~690~N/A~$950,000~
+The Shard - Coming Soon to Woden Town Centre, Phillip ACT 2606 ~$2,995,000~4~3~Other~6.0~690~N/A~$950,000~

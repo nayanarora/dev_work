@@ -1,0 +1,29 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+177/41 Philip Hodgins Street, Wright ACT 2611 ~$395,000~1~1~Apartment~6.0~17900.0~N/A~$40,320~
+162/61 John Gorton Drive, Wright ACT 2611 ~$399,000~1~1~Unit / Apartment~6.0~17600.0~62~$62,832~
+50/566 Cotter Road, Wright ACT 2611 ~$399,000 ~1~1~Apartment~6.0~2032~72~$21,294~
+25/566 Cotter Road, Wright ACT 2611 ~$412500~1~1~Apartment~6.0~2032~59~$21,294~
+182/39 Catalano Street, Wright ACT 2611 ~$405,000~2~1~Apartment~6.0~21200.0~N/A~$32,300~
+163/61 John Gorton Drive, Wright ACT 2611 ~$425,000~1~1~Apartment~6.0~17600.0~62~$62,832~
+71/566 Cotter Road, Wright ACT 2611 ~$425,000~1~1~Apartment~6.0~2032~N/A~$21,294~
+36/60 Tishler Street, Wright ACT 2611 ~$425,000~1~1~Apartment~6.0~8514~N/A~$85,500~
+56/25 John Gorton Drive, Wright ACT 2611 ~  $439,000~1~1~Unit / Apartment~6.0~11299.999999999998~67~$5,500,000~
+Debut - 1 Bedroom Apartment, Wright ACT 2611 ~$459,900~1~1~Other~N/A~N/A~N/A~N/A~
+169/41 Philip Hodgins Street, Wright ACT 2611 ~$505,000~2~2~Apartment~6.0~17900.0~85~$40,320~
+149/45 Catalano Street, Wright ACT 2611 ~$519,000~2~2~Apartment~6.0~21200.0~80~$32,300~
+231/30 Philip Hodgins Street, Wright ACT 2611 ~$520,000~2~2~Apartment~6.0~21200.0~105~$32,300~
+122/61 John Gorton Drive, Wright ACT 2611 ~$520,000 ~2~2~Apartment~6.0~17600.0~79~$62,832~
+235/30 Philip Hodgins Street, Wright ACT 2611 ~$529,000~2~2~Unit / Apartment~6.0~21200.0~71~$32,300~
+87/2 Peter Cullen Way, Wright ACT 2611 ~$530,000~2~1~Apartment~N/A~17600.0~N/A~$62,832~
+53 Tishler Street, Wright ACT 2611 ~  $630,000~3~2~Townhouse~6.0~5626~N/A~$3,640,000~
+John Gorton Drive, Wright ACT 2611 ~$680,000~3~1~Apartment~6.0~N/A~N/A~N/A~
+8/28 Truebridge Street, Wright ACT 2611 ~$695,000~3~2~Townhouse~6.0~N/A~N/A~N/A~
+32/58 Max Jacobs Avenue, Wright ACT 2611 ~$695,000~3~3~Townhouse~6.0~17600.0~126~$62,832~
+Debut - 2 Bedroom Apartment, Wright ACT 2611 ~$699,900~2~1~Other~N/A~N/A~N/A~N/A~
+Debut - Large 2 Bedroom townhome with 2 car garage, Wright ACT 2611 ~$799,900~2~1~Other~N/A~N/A~N/A~N/A~
+Debut - 3 bedroom with single car garage, Wright ACT 2611 ~$799,900~3~1~Other~7.8~N/A~N/A~N/A~
+Debut - 3 bedroom with double garage, Wright ACT 2611 ~$829,900~3~1~Other~7.8~N/A~N/A~N/A~
+Debut - 3 Bedroom townhome with north-facing park views, Wright ACT 2611 ~$899,900~3~1~Other~N/A~N/A~N/A~N/A~
+Debut - 4 Bedroom with rumpus, Wright ACT 2611 ~$1,199,900~4~1~Other~N/A~N/A~N/A~N/A~
+34 Thwaites Crescent, Wright ACT 2611 ~$1,349,000~4~2~House~6.0~484~N/A~$623,000~
+39 Peter Cullen Way, Wright ACT 2611 ~$1,349,000~4~3~House~5.0~450~202~$593,000~

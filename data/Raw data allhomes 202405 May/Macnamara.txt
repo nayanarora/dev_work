@@ -1,0 +1,8 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+Block K Section Ae, Macnamara ACT 2615 ~$858751~4~2~House and Land Package~7.0~504~N/A~N/A~
+34 Ilma Stone Way, Macnamara ACT 2615 ~$940,000~4~2~House~7.0~350~210~N/A~
+(no street name provided), Macnamara ACT 2615 ~$1,075,000~4~2~House and Land Package~6.0~439~N/A~N/A~
+(no street name provided), Macnamara ACT 2615 ~$1,199,000~4~1~House and Land Package~7.0~439~N/A~N/A~
+14 Ginninderry, Macnamara ACT 2615 ~$1,276,260~4~2~House and Land Package~N/A~439~N/A~N/A~
+(no street name provided), Macnamara ACT 2615 ~$1,399,000~4~1~House and Land Package~7.0~613~N/A~N/A~
+94 Eric Willmot Wy, Macnamara ACT 2615 ~$1,400,000~5~3~House~6.0~600~316~N/A~

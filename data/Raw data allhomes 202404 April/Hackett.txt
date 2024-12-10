@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+4/127 Madigan Street, Hackett ACT 2602 ~$319,000~1~1~Unit / Apartment~6.0~3717~N/A~$4,200,000~
+24 Selwyn Street, Hackett ACT 2602 ~$975,000~3~1~House~0.5~693~N/A~$819,000~
+14 Bragg Street, Hackett ACT 2602 ~$1,950,000~4~2~House~2.0~855~N/A~$960,000~

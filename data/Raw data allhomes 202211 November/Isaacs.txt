@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+20/28 Ringrose Crescent, Isaacs ACT 2607 ~$749,000~3~2~Townhouse~3.0~276~N/A~N/A~
+7 Rosson Place, Isaacs ACT 2607 ~$1,049,000~4~2~House~1.5~557~150~$580,000~
+7 Adkinson Close, Isaacs ACT 2607 ~$1,249,000~3~2~House~1.0~792~131~$835,000~
+9 Kaeppel Place, Isaacs ACT 2607 ~$1,695,000~4~2~House~6.0~882~212~$1,162,000~

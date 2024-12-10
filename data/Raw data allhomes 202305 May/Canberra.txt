@@ -1,0 +1,30 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+219/2 Akuna Street, City ACT 2601 ~$249,000~N/A~1~Apartment~6.0~2306~N/A~$63,450~
+28/66 Allara Street, City ACT 2601 ~  $470,000~1~1~Unit / Apartment~6.0~3715~N/A~$79,560~
+1006/25 Edinburgh Avenue, City ACT 2601 ~$495,000~1~1~Apartment~6.0~1670~56~N/A~
+183/264 City Walk, City ACT 2601 ~  $500,000~1~1~Apartment~6.0~1664~N/A~$44,485~
+2/15 Coranderrk Street, City ACT 2601 ~$505,000~1~1~Apartment~6.0~10400.0~66~$96,000~
+719 61 Cooyong Street, Braddon ACT 2612 ~$505,000~1~1~Apartment~6.0~N/A~60~N/A~
+1408/240 Bunda Street, City ACT 2601 ~$529000~1~1~Apartment~6.0~4180~N/A~$192,100~
+G13/83 Cooyong Street, Reid ACT 2612 ~$519,000~1~1~Apartment~6.0~10600.0~75~$46,970~
+G12/55 Currong Street, Braddon ACT 2612 ~$520,000~1~1~Apartment~6.0~N/A~58~N/A~
+713/240 Bunda Street, Canberra ACT 2601 ~$539,000~1~1~Apartment~6.0~N/A~73~N/A~
+611/25 Edinburgh Avenue, City ACT 2601 ~$549,000~1~1~Apartment~6.0~1670~59~N/A~
+Level 10/1014/240 Bunda Street, City ACT 2601 ~$559,900~1~1~Unit / Apartment~6.0~N/A~60~N/A~
+410/16 Moore Street, City ACT 2601 ~  $560,000~2~2~Apartment~6.0~1487~N/A~$116,775~
+708/74-76 Northbourne Avenue, Braddon ACT 2612 ~$569,000~2~2~Apartment~6.0~4171~82~$15,576~
+1112/240 Bunda Street, City ACT 2601 ~$584500~1~1~Unit / Apartment~6.0~74~N/A~$192,100~
+72/66 Allara Street, City ACT 2601 ~  $610,000~2~2~Unit / Apartment~6.0~3715~93~$79,560~
+607/39 London Circuit, City ACT 2601 ~  $620,000~2~1~Apartment~6.0~5~77~N/A~
+The Griffin, Parkes - 44 Constitution Avenue, Parkes ACT 2600 ~$629,000~1~1~Other~5.3~N/A~N/A~N/A~
+103/39 London Circuit, City ACT 2601 ~$650,000~2~2~Apartment~6.0~820~N/A~N/A~
+149/45 West Row, City ACT 2601 ~$685,000~2~2~Apartment~6.0~2462~91~N/A~
+18/260 City Walk, City ACT 2601 ~$699,000~2~2~Apartment~6.0~1664~N/A~$44,485~
+146/20 Allara Street, City ACT 2601 ~$720,000~2~2~Apartment~6.0~1380~87~$46,530~
+628/45 Ainslie Avenue, Braddon ACT 2612 ~$748,888~2~2~Apartment~5.0~9706~N/A~$71,550~
+156/15 Coranderrk Street, City ACT 2601 ~$750,000~2~2~Apartment~5.0~10400.0~121~$96,000~
+71/260 City Walk, City ACT 2601 ~$750,000~2~2~Apartment~6.5~1664~77~$44,485~
+149/264 City Walk, City ACT 2601 ~$799,000~2~2~Apartment~6.0~1664~N/A~$44,485~
+705/222 City Walk, City ACT 2601 ~$899,000~2~2~Apartment~6.0~1137~107~$292,878~
+91/20 Allara Street, Canberra ACT 2601 ~$935,000~2~2~House~6.0~N/A~94~N/A~
+13/70 Henty Street, Braddon ACT 2612 ~$1,199,000~3~2~Townhouse~6.0~2626~126~$145,920~

@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+22 Cruikshank Street, Wanniassa ACT 2903 ~Offers Over $1,100,000~4~2~House~3.0~870~211~$532,000~

@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+12 Hervey Place, Wanniassa ACT 2903 ~$775,000~3~1~House~1.0~905~N/A~$521,000~
+5 Bosisto Place, Wanniassa ACT 2903 ~ $799,000~3~1~House~2.5~831~106~$511,000~
+74 Longmore Crescent, Wanniassa ACT 2903 ~  $799,000~3~1~House~2.0~968~111~$521,000~
+5 Vale Place, Wanniassa ACT 2903 ~$930,000~4~2~House~N/A~726~152~$575,000~
+16 Adamson Crescent, Wanniassa ACT 2903 ~$949,000~3~1~House~N/A~1101~N/A~$576,000~

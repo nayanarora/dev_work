@@ -1,0 +1,7 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+6F/32 Gatton Street, Farrer ACT 2607 ~$459,000~2~1~Unit / Apartment~2.0~N/A~N/A~N/A~
+9-11 Drevermann Street, Farrer ACT 2607 ~$565,000~2~2~Unit / Apartment~6.0~18200.0~N/A~N/A~
+9 Cameron Street, Farrer ACT 2607 ~$1,160,000~4~2~House~1.5~866~N/A~$833,000~
+38 Drevermann Street, Farrer ACT 2607 ~$1,500,000~5~3~House~1.0~1007~257~$954,000~
+36 Drevermann Street, Farrer ACT 2607 ~$1,750,000~5~3~House~4.0~1220~N/A~$1,023,000~
+109 Hawkesbury Crescent, Farrer ACT 2607 ~$2,975,000~5~4~House~3.0~1260~432~$1,090,000~

@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+6/108 Herron Crescent, Latham ACT 2615 ~$618,000~3~1~Unit / Apartment~0.5~351~96~N/A~
+13 Stretton Crescent, Latham ACT 2615 ~Offers over $769,000~3~1~House~1.0~690~105~$401,000~
+1 Meymott Place, Latham ACT 2615 ~$1,030,000~4~1~House~6.0~416~255~$458,000~

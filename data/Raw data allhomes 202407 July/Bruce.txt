@@ -1,0 +1,24 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+30/2 Eardley Street, Bruce ACT 2617 ~$329,000~2~2~Apartment~6.0~N/A~N/A~$10,044,000~
+28/21 Battye Street, Bruce ACT 2617 ~$349,000~1~1~Apartment~6.0~N/A~N/A~$5,565,000~
+28/2 Eardley Street, Bruce ACT 2617 ~$350,000~2~2~Apartment~4.5~N/A~N/A~$10,044,000~
+27/37 Braybrooke Street, Bruce ACT 2617 ~Offers over $350,000~1~1~Apartment~6.0~N/A~N/A~$1,620,000~
+29/132 Thynne Street, Bruce ACT 2617 ~$370,000~1~1~Apartment~6.0~N/A~N/A~$8,085,000~
+63/126 Thynne Street, Bruce ACT 2617 ~$389,000~1~1~Unit / Apartment~6.0~N/A~N/A~$2,835,000~
+182/140 Thynne Street, Bruce ACT 2617 ~Offers over $390,000~1~1~Apartment~6.0~N/A~N/A~$8,085,000~
+54/8 Baudinette Circuit, Bruce ACT 2617 ~$410,000~1~1~Apartment~6.0~N/A~N/A~N/A~
+503/1 Watkin Street, Bruce ACT 2617 ~$435,000~1~1~Unit / Apartment~6.0~N/A~N/A~N/A~
+7/21 Battye Street, Bruce ACT 2617 ~$440,000 ~2~1~Apartment~6.0~N/A~N/A~$5,565,000~
+130/8 Baudinette Circuit, Bruce ACT 2617 ~$450000~1~1~Apartment~6.0~N/A~N/A~N/A~
+96/10 Thynne Street, Bruce ACT 2617 ~$460,000~3~2~Apartment~6.0~N/A~N/A~$10,044,000~
+6/132 Thynne Street, Bruce ACT 2617 ~$518,000~2~2~Apartment~6.0~N/A~N/A~$8,085,000~
+30/132 Thynne Street, Bruce ACT 2617 ~$520,000~2~2~Apartment~5.5~N/A~N/A~$8,085,000~
+(no street name provided), Bruce ACT 2617 ~$537500~2~2~Apartment~6.0~N/A~N/A~N/A~
+107/31 Thynne Street, Bruce ACT 2617 ~Offers Over $555,000~2~2~Unit / Apartment~6.0~N/A~N/A~$7,800,000~
+111/31 Thynne Street, Bruce ACT 2617 ~Offers Over $600,000~3~2~Unit / Apartment~6.0~N/A~N/A~$7,800,000~
+UNIT 17/31 Thynne Street, Bruce ACT 2617 ~$610,000~2~2~Apartment~4.5~N/A~N/A~$7,800,000~
+178/140 Thynne Street, Bruce ACT 2617 ~$649,900~3~2~Unit / Apartment~4.0~N/A~N/A~$8,085,000~
+3/4 Dines Place, Bruce ACT 2617 ~$850,000~3~2~Townhouse~5.5~414~N/A~N/A~
+7 Kinloch Circuit, Bruce ACT 2617 ~$1,199,000~4~2~House~5.0~418~N/A~$500,000~
+3/7 Mugglestone Place, Bruce ACT 2617 ~$1,220,000~4~2~House~4.5~603~180~N/A~
+75 Thynne Street, Bruce ACT 2617 ~$1,585,000~6~1~House~4.5~270~254~$430,000~

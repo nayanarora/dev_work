@@ -1,0 +1,23 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+30 Pearlman Street, Coombs ACT 2611 ~$330,000~1~1~Apartment~8.0~N/A~N/A~N/A~
+Molonglo Falls - Construction commenced, Coombs ACT 2611 ~$349,000~1~1~Apartment~6.0~N/A~61~N/A~
+Molonglo Falls - Construction commenced, Coombs ACT 2611 ~$349,000~1~1~Apartment~6.0~N/A~61~N/A~
+11/60 John Gorton Drive, Coombs ACT 2611 ~$369,000~1~1~Apartment~6.0~8046~56~N/A~
+Molonglo Falls - Construction commenced, Coombs ACT 2611 ~$499,000~2~2~Apartment~6.0~N/A~86~N/A~
+Molonglo Falls - Construction commenced, Coombs ACT 2611 ~$499,000~2~2~Apartment~6.0~N/A~86~N/A~
+(no street name provided), Coombs ACT 2611 ~$507,000~4~1~Other~6.0~N/A~229~$426,000~
+Molonglo Falls - Construction commenced, Coombs ACT 2611 ~$547,000~2~2~Apartment~6.0~N/A~88~N/A~
+Molonglo Falls - Construction commenced, Coombs ACT 2611 ~$547,000~2~2~Apartment~6.0~N/A~88~N/A~
+Molonglo Falls - Construction commenced, Coombs ACT 2611 ~$549,000~2~2~Apartment~6.0~N/A~88~N/A~
+Molonglo Falls - Construction commenced, Coombs ACT 2611 ~$549,000~2~2~Apartment~6.0~N/A~88~N/A~
+FORM - Light filled 2 bedroom 2 bathroom - Construction commenced, Coombs ACT 2611 ~$559,900~2~1~Other~7.5~N/A~N/A~N/A~
+Molonglo Falls - Construction commenced, Coombs ACT 2611 ~$589,000~2~2~Apartment~6.0~N/A~117~N/A~
+FORM - North Facing 3 Bedroom single Garage, Coombs ACT 2611 ~$669,900~3~1~Other~7.5~N/A~N/A~N/A~
+Molonglo Falls - Construction commenced, Coombs ACT 2611 ~$699,000~3~2~Apartment~6.0~N/A~111~N/A~
+Molonglo Falls - Construction commenced, Coombs ACT 2611 ~$749,000~3~2~Apartment~6.0~N/A~126~N/A~
+Molonglo Falls - Construction commenced, Coombs ACT 2611 ~$749,000~3~2~Apartment~6.0~N/A~126~N/A~
+Molonglo Falls - Construction commenced, Coombs ACT 2611 ~$749,000~3~2~Apartment~6.0~N/A~139~N/A~
+Woodberry Avenue, Coombs ACT 2611 ~$759,900~3~2~Townhouse~6.0~N/A~N/A~N/A~
+(no street name provided), Coombs ACT 2611 ~$770,000~4~2~House~6.0~N/A~N/A~N/A~
+FORM - Huge 3 bedroom double garage - Construction Commenced, Coombs ACT 2611 ~$799,000~3~1~Other~7.5~N/A~N/A~N/A~
+(no street name provided), Coombs ACT 2611 ~$1,650,000~3~2~Townhouse~6.0~450~263~N/A~

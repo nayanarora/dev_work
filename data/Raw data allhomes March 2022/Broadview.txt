@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+77 Bargang Crescent, Ngunnawal ACT 2913 ~$650,000~3~1~House~6.0~334~102~$237,000~

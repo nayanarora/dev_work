@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+6 Morice Place, Bonython ACT 2905 ~$950,000~4~2~House~4.0~659~N/A~$389,000~

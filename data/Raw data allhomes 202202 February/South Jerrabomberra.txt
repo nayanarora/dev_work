@@ -1,0 +1,15 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+(no street name provided), South Jerrabomberra NSW 2620 ~$350,000~3~1~House~N/A~N/A~N/A~N/A~
+28/42 Tassel Terrace, South Jerrabomberra NSW 2620 ~$760,000~4~2~Other~6.0~N/A~N/A~N/A~
+Road, South Jerrabomberra NSW 2620 ~$850,000~3~2~House~N/A~N/A~129~N/A~
+Lot 309 Section Am, Tralee NSW 2620 ~$900,000~3~2~House~N/A~429~227~N/A~
+(no street name provided), Tralee NSW 2620 ~$969000~4~2~House~6.0~415~213~N/A~
+Sunray Street, South Jerrabomberra NSW 2620 ~$983,800~4~2~House~N/A~370~N/A~N/A~
+(no street name provided), South Jerrabomberra NSW 2620 ~$990,000~4~1~House and Land Package~N/A~394~208~N/A~
+(no street name provided), South Jerrabomberra NSW 2620 ~$1,018,000~4~1~House and Land Package~N/A~372~228~N/A~
+(no street name provided), South Jerrabomberra NSW 2620 ~$1,050,000~4~1~House and Land Package~N/A~360~212~N/A~
+(no street name provided), South Jerrabomberra NSW 2620 ~$1,180,000~4~1~House and Land Package~N/A~617~259~N/A~
+(no street name provided), South Jerrabomberra NSW 2620 ~$1202500~4~1~House and Land Package~N/A~606~289~N/A~
+(no street name provided), South Jerrabomberra NSW 2620 ~$1,280,000~4~1~House and Land Package~N/A~600~288~N/A~
+(no street name provided), South Jerrabomberra NSW 2620 ~$1,400,000~4~1~House and Land Package~N/A~361~281~N/A~
+(no street name provided), South Jerrabomberra NSW 2620 ~$1,450,000~5~1~House and Land Package~N/A~418~303~N/A~

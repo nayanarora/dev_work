@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+15 Edlington Street, Fraser ACT 2615 ~$780,000~3~1~House~0.5~920~120~$431,000~

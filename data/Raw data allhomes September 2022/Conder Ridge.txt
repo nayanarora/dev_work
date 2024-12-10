@@ -1,0 +1,8 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+11/23 Heidelberg Street, Conder ACT 2906 ~Offers Over $629,000~3~1~Unit / Apartment~1.5~245~98~N/A~
+9/2 Jane Price Crescent, Conder ACT 2906 ~$660,000~3~1~Townhouse~3.0~257~N/A~N/A~
+8 Falls Place, Conder ACT 2906 ~$689,000~3~1~House~2.5~847~118~$407,000~
+3 Oddie Place, Conder ACT 2906 ~$849,000~4~2~House~3.5~722~167~$458,000~
+9 Veal Place, Conder ACT 2906 ~$940,000~4~2~House~2.0~828~N/A~$469,000~
+(no street name provided), Conder ACT 2906 ~$949,000~4~2~House~4.0~797~192~$518,000~
+6 Aldor Green, Conder ACT 2906 ~$1207500~5~2~House~4.5~900~239~$543,000~

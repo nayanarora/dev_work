@@ -1,0 +1,13 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+The Parks - 1 Bedroom Apartment, Red Hill ACT 2603 ~$699,900~1~1~Apartment~N/A~14700.0~N/A~$3,727,000~
+The Parks - 1/6 Lady Nelson Place, Red Hill ACT 2603, Red Hill ACT 2603 ~$870,900~1~1~Other~6.0~14700.0~N/A~$3,727,000~
+26/6 Lady Nelson Place, Red Hill ACT 2603 ~$1,115,000~2~2~Apartment~6.0~N/A~N/A~N/A~
+72 Hicks Street, Red Hill ACT 2603 ~$1,749,000~4~2~House~N/A~845~N/A~$1,550,000~
+201 La Perouse Street, Red Hill ACT 2603 ~$1,750,000~3~3~House~7.0~N/A~212~N/A~
+24 Astrolabe Street, Red Hill ACT 2603 ~$2,000,000~4~2~House~0.5~714~146~$1,270,000~
+5 Pelsart Street, Red Hill ACT 2603 ~$2,349,000~4~2~House~1.5~1112~242~$1,810,000~
+200 Monaro Crescent, Red Hill ACT 2603 ~$2,585,000~6~3~House~2.5~835~N/A~$1,340,000~
+22 Hicks Street, Red Hill ACT 2603 ~$2,600,000~5~3~House~1.5~916~N/A~$1,600,000~
+49 Investigator Street, Red Hill ACT 2603 ~$2,850,000~5~3~House~4.0~783~N/A~$1,388,000~
+3 Tamar Street, Red Hill ACT 2603 ~$3,850,000~6~3~House~3.0~880~N/A~$1,408,000~
+31 Pelsart Street, Red Hill ACT 2603 ~$4500000~5~4~House~4.0~1370~525~$1,690,000~

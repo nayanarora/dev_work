@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+4/18 Glenmaggie Street, Duffy ACT 2611 ~Offers Over $359,000~2~1~Apartment~3.5~8004~N/A~$115,937~
+9 Cordeaux Street, Duffy ACT 2611 ~$1,190,000~4~2~House~2.0~691~N/A~$752,000~
+2/30 Kallara Close, Duffy ACT 2611 ~Offers over $1,260,000~4~3~House~5.5~N/A~182~N/A~

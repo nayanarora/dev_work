@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+12 Hervey Place, Wanniassa ACT 2903 ~$795,000~3~1~House~1.0~905~N/A~$521,000~
+121 Langdon Avenue, Wanniassa ACT 2903 ~$849,000~4~2~House~1.5~873~156~$515,000~
+3 O'Grady Place, Wanniassa ACT 2903 ~$920,000~4~2~House~1.5~1114~N/A~$595,000~

@@ -1,0 +1,8 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+4 Freda Bennett Circuit, Nicholls ACT 2913 ~$649,000~3~1~House~4.0~225~138~$237,000~
+3 Freda Bennett Circuit, Nicholls ACT 2913 ~$665000~3~1~House~6.0~225~117~$237,000~
+9/149 Kelleway Avenue, Nicholls ACT 2913 ~$750,000~3~2~Townhouse~4.0~295~N/A~N/A~
+23/27 Temperley Street, Nicholls ACT 2913 ~$875,000~3~1~Townhouse~4.0~173~N/A~N/A~
+37 Whatmore Court, Nicholls ACT 2913 ~$1,095,000 plus~4~2~House~3.0~822~252~$673,000~
+53 Kelleway Avenue, Nicholls ACT 2913 ~$1,350,000~5~2~House~3.5~705~323~$570,000~
+36 McAuliffe Court, Nicholls ACT 2913 ~$1,550,000~5~1~House~3.5~889~304~$800,000~

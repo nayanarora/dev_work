@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+422 Bugden Avenue, Fadden ACT 2904 ~$1,200,000~5~2~House~1.0~753~N/A~$647,000~
+29 Courtice Close, Fadden ACT 2904 ~$1,225,000~5~3~House~1.0~895~212~$668,000~
+4 Stopford Crescent, Fadden ACT 2904 ~$2,150,000~4~2~House~4.5~1029~380~$633,000~

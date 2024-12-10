@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+14 Schofield Place, Gordon ACT 2906 ~  $759,000~3~2~House~1.5~466~121~$380,000~
+8 McGrowdie Place, Gordon ACT 2906 ~$810,000~3~2~House~1.5~428~N/A~$380,000~
+3 Rollins Place, Gordon ACT 2906 ~$980,000~3~1~House~4.5~530~218~$523,000~
+56 Lewis Luxton Avenue, Gordon ACT 2906 ~$1,020,000~4~2~House~4.5~747~N/A~$459,000~

@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+10/10 Taronga Place, O'Malley ACT 2606 ~$1,675,000~4~2~Townhouse~3.0~N/A~220~N/A~
+11 Ngunawal Drive, O'Malley ACT 2606 ~$3,300,000~6~4~House~3.0~1897~590~$750,000~
+52 Culgoa Circuit, O'Malley ACT 2606 ~$3,600,000~5~4~House~2.0~2958~715~$1,555,000~
+Culgoa Circuit, O'Malley ACT 2606 ~$3,650,000~5~3~House~N/A~N/A~N/A~N/A~
+28 Pindari Crescent, O'Malley ACT 2606 ~$3,850,000~5~3~House~3.0~1796~431~$871,000~

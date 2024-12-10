@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+6 Ern Florence Crescent, Theodore ACT 2905 ~Offers Over $599,000~3~1~House~4.0~409~96~$282,000~

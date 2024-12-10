@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+6/51 Sandover Circuit, Amaroo ACT 2914 ~$799,000~3~2~House~5.5~155~200~N/A~
+7 Isis Close, Amaroo ACT 2914 ~$849,000~3~2~House~4.5~541~N/A~$540,000~
+(no street name provided), Amaroo ACT 2914 ~$1050000~4~2~House~4.0~842~283~$642,000~
+35 Proserpine Circuit, Amaroo ACT 2914 ~$1,150,000~3~2~House~6.0~563~154~$590,000~
+1 Lennard Street, Amaroo ACT 2914 ~$1,155,000~4~2~House~3.0~829~N/A~N/A~

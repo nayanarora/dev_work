@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+26 Davis Street, Weetangera ACT 2614 ~$1,550,000~4~2~House~3.0~N/A~N/A~$576,000~

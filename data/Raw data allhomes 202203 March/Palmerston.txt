@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+4/21 Namadgi Circuit, Palmerston ACT 2913 ~$690,000~3~1~Townhouse~4.0~250~137~N/A~

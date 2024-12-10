@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+G+ - 1 bedroom, Giralang ACT 2617 ~$489000~1~1~Apartment~7.7~N/A~N/A~N/A~
+G+ - 2 bedrooms, Giralang ACT 2617 ~$657000~2~1~Other~8.2~N/A~N/A~N/A~
+G+ - Rare two-bedroom lofted apartments, Giralang ACT 2617 ~$804000~2~1~Other~8.3~N/A~N/A~N/A~
+12 Antares Crescent, Giralang ACT 2617 ~$790,000~3~1~House~3.0~725~N/A~$560,000~
+G+ - 3 bedrooms, Giralang ACT 2617 ~$899000~3~1~Other~7.9~N/A~N/A~N/A~

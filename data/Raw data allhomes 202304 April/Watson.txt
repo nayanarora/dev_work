@@ -1,0 +1,28 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+12C/6 Irvine Street, Watson ACT 2602 ~  $240,000~1~1~Apartment~N/A~N/A~N/A~N/A~
+Norrebro - Norrebro - Final stage - now selling, Watson ACT 2602 ~$389,900~1~1~Apartment~6.0~N/A~N/A~N/A~
+Norrebro - Norrebro - Final stage - now selling, Watson ACT 2602 ~$389,900~1~1~Apartment~6.0~N/A~N/A~N/A~
+32/35 Tay Street, Watson ACT 2602 ~$390,000~1~1~Apartment~6.0~9584~N/A~N/A~
+13/20 Federal Highway, Watson ACT 2602 ~$455,000~2~2~Apartment~5.0~20500.0~106~$58,800~
+137/20 Federal Highway, Watson ACT 2602 ~$465,000 ~2~2~Unit / Apartment~2.0~20500.0~N/A~$58,800~
+10/20 Federal Highway, Watson ACT 2602 ~$470K ~2~2~Apartment~4.0~20500.0~N/A~$58,800~
+Norrebro - Norrebro - Final stage - now selling, Watson ACT 2602 ~$479,900~1~1~Apartment~6.0~N/A~N/A~N/A~
+Norrebro - Final stage - now selling, Watson ACT 2602 ~$519,900~1~1~Apartment~6.0~N/A~N/A~N/A~
+Norrebro - Norrebro - Final stage - now selling, Watson ACT 2602 ~$519,900~1~1~Apartment~6.0~N/A~N/A~N/A~
+50/23 Aspinall Street, Watson ACT 2602 ~$570,000~2~2~Apartment~6.0~11700.0~119~$106,240~
+Norrebro - Norrebro - Final stage - now selling, Watson ACT 2602 ~$599,900~2~1~Apartment~6.0~N/A~N/A~N/A~
+177/395 Antill Street, Watson ACT 2602 ~$630,000~2~2~Apartment~4.5~66100.0~N/A~N/A~
+16 Whitmore Crescent, Watson ACT 2602 ~$669,990~2~1~House~5.0~217~N/A~N/A~
+12/14 Federal Highway, Watson ACT 2602 ~$0~3~2~Townhouse~3.0~162~N/A~N/A~
+Norrebro - Final stage - now selling, Watson ACT 2602 ~$689,900~2~1~Apartment~6.0~N/A~N/A~N/A~
+Norrebro - Norrebro - Final stage - now selling, Watson ACT 2602 ~$689,900~2~1~Apartment~6.0~N/A~N/A~N/A~
+89/215 Aspinall Street, Watson ACT 2602 ~  $789,000~3~2~Apartment~4.0~66100.0~191~N/A~
+6 Beechworth Street, Watson ACT 2602 ~$819,000~3~2~Townhouse~6.0~1303~N/A~$209,600~
+13/215 Aspinall Street, Watson ACT 2602 ~$849,000~3~2~Townhouse~6.0~66100.0~N/A~N/A~
+125/395 Antill Street, Watson ACT 2602 ~$859,000~3~2~Townhouse~6.0~66100.0~137~N/A~
+22/215 Aspinall Street, Watson ACT 2602 ~$875,000~3~2~Townhouse~5.0~66100.0~160~N/A~
+35/67 Negus Crescent, Watson ACT 2602 ~$974000~4~2~Townhouse~6.0~153~179~N/A~
+12 Dickinson Street, Watson ACT 2602 ~$1,050,000~3~1~House~0.5~882~N/A~$927,000~
+20 Ehrlich Circuit, Watson ACT 2602 ~$1,100,000 ~4~2~Townhouse~6.5~249~N/A~$425,000~
+39 Flos Greig Street, Watson ACT 2602 ~$1,200,000~4~2~House~5.0~457~182~$700,000~
+3 Darley Place, Watson ACT 2602 ~$1,349,000~3~2~House~2.0~1028~N/A~$1,012,000~

@@ -1,0 +1,9 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+6/181 McBryde Crescent, Wanniassa ACT 2903 ~$420,000~2~1~Apartment~3.5~11000.0~67~$134,250~
+40/50 Embling Street, Wanniassa ACT 2903 ~$610,000~2~1~Townhouse~1.0~264~N/A~N/A~
+37/50 Embling Street, Wanniassa ACT 2903 ~$660,000~3~1~Townhouse~2.0~288~108~N/A~
+4 Bailes Court, Wanniassa ACT 2903 ~Offers over $699,000~3~1~House~N/A~689~N/A~$443,000~
+8 Michie Street, Wanniassa ACT 2903 ~$750,000~3~1~House~1.0~720~108~$473,000~
+8 Phelan Place, Wanniassa ACT 2903 ~$799,000~3~1~House~0.5~848~118~$494,000~
+142 Langdon Avenue, Wanniassa ACT 2903 ~$820,000~3~1~House~1.0~1179~180~$595,000~
+202 Longmore Crescent, Wanniassa ACT 2903 ~$849,000~3~1~House~0.5~797~124~$506,000~

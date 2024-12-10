@@ -1,0 +1,10 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+30/41 Hampton Circuit, Yarralumla ACT 2600 ~$469,000~1~1~Apartment~6.0~2910~64~$220,500~
+14/43 Hampton Circuit, Yarralumla ACT 2600 ~$485,000~1~1~Apartment~6.0~1936~64~$105,600~
+11/43 Hampton Circuit, Yarralumla ACT 2600 ~$825,000~2~2~Apartment~6.0~1936~90~$105,600~
+64 Schlich Street, Yarralumla ACT 2600 ~$1,565,000~3~1~Duplex~3.0~557~86~$1,450,000~
+10/49 Hampton Circuit, Yarralumla ACT 2600 ~$1,665,000~3~3~Apartment~6.0~1607~198~$258,000~
+8 Schomburgk Street, Yarralumla ACT 2600 ~$1,750,000~3~2~House~N/A~698~112~$1,700,000~
+7 Broome Crescent, Yarralumla ACT 2600 ~$1,990,000~3~1~House~2.5~732~130~$1,840,000~
+27 Musgrave Street, Yarralumla ACT 2600 ~$2,400,000~3~2~House~4.0~867~203~$2,010,000~
+3 Ewart Street, Yarralumla ACT 2600 ~$3,200,000~5~3~House~2.5~975~358~$1,790,000~

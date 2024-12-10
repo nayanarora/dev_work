@@ -1,0 +1,22 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+Aspen Village - Greenway's Newest Community, Greenway ACT 2900 ~$305,900~1~1~Apartment~5.0~N/A~N/A~N/A~
+Aspen Village - On the Edge of Lake Tuggeranong, Greenway ACT 2900 ~$308,900~1~1~Apartment~5.0~N/A~N/A~N/A~
+52/142 Anketell Street, Greenway ACT 2900 ~$325,000~1~1~Apartment~6.0~N/A~N/A~$5,416,000~
+296/325 Anketell Street, Greenway ACT 2900 ~$339,000~1~1~Apartment~6.0~N/A~50~N/A~
+181/142 Anketell Street, Greenway ACT 2900 ~$350,000 ~1~1~Apartment~6.0~N/A~67~N/A~
+80/140 Anketell Street, Greenway ACT 2900 ~$350,000~1~1~Apartment~6.0~N/A~77~N/A~
+222/142 Anketell Street, Greenway ACT 2900 ~$370,000~1~1~Unit / Apartment~5.0~N/A~49~N/A~
+227/142 Anketell Street, Greenway ACT 2900 ~$380,000~1~1~Unit / Apartment~6.0~N/A~55~N/A~
+Aspen Village - Resort Style Amenity, Greenway ACT 2900 ~$466,900~2~2~Apartment~5.0~N/A~N/A~N/A~
+Aspen Village - Construction Underway, Greenway ACT 2900 ~$468,900~2~2~Apartment~5.0~N/A~N/A~N/A~
+Aspen Village - Greenway's Newest Community, Greenway ACT 2900 ~$468,900~2~2~Apartment~5.0~N/A~N/A~N/A~
+265/325 Anketell Street, Greenway ACT 2900 ~$469,000 ~2~2~Apartment~6.0~82~73~N/A~
+Aspen Village - Gateway to Adventure, Greenway ACT 2900 ~$479,900~2~2~Apartment~5.0~N/A~N/A~N/A~
+Door 921 Unit 281, Greenway ACT 2900 ~$499,999~2~2~Unit / Apartment~6.0~N/A~N/A~N/A~
+41/1 Limburg Way, Greenway ACT 2900 ~$669,000~3~2~Apartment~5.5~N/A~138~N/A~
+75/1 Limburg Way, Greenway ACT 2900 ~$669,000~3~2~Apartment~6.0~N/A~125~N/A~
+93/1 Limburg Way, Greenway ACT 2900 ~Offers Over $695,000~4~2~Apartment~6.0~N/A~156~N/A~
+115/161 Mortimer Lewis Drive, Greenway ACT 2900 ~$739,000 ~3~2~Townhouse~6.0~N/A~N/A~N/A~
+21 Cynthea Teague Crescent, Greenway ACT 2900 ~$779,900~3~3~Townhouse~6.5~N/A~N/A~N/A~
+20/167 Mortimer Lewis Drive, Greenway ACT 2900 ~Offers Over $839,000~4~2~Townhouse~6.0~N/A~155~N/A~
+1/1 Rowland Rees Crescent, Greenway ACT 2900 ~$1,200,000~5~3~Townhouse~4.0~415~248~N/A~

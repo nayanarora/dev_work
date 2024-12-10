@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+27/7 Elvire Place, Palmerston ACT 2913 ~$699,000~3~1~Townhouse~5.5~341~N/A~N/A~
+12/25 Namadgi Circuit, Palmerston ACT 2913 ~$700,000~3~2~Townhouse~0.5~253~N/A~N/A~
+14 Grampians Street, Palmerston ACT 2913 ~$1,070,000~4~2~House~4.5~722~211~$531,000~
+10 Ariah Place, Palmerston ACT 2913 ~$1,200,000~5~3~House~3.0~1051~243~$531,000~

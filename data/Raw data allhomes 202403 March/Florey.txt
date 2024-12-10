@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+87/15 John Cleland Crescent, Florey ACT 2615 ~$695,000~3~2~Townhouse~6.0~42900.0~N/A~$15,554,000~
+10 St John Crescent, Florey ACT 2615 ~$899,000~4~1~House~4.0~1088~N/A~$630,000~
+13 Edman Close, Florey ACT 2615 ~$1,080,000~4~2~House~5.0~736~229~$586,000~
+5 Belfield Crescent, Florey ACT 2615 ~$1,300,000~6~2~House~4.0~764~235~$669,000~

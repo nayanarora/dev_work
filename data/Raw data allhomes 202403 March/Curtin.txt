@@ -1,0 +1,14 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+11/143 Carruthers Street, Curtin ACT 2605 ~$399,000~2~1~Apartment~4.0~6417~N/A~$5,000,000~
+10/89 Allan Street, Curtin ACT 2605 ~$460,000~1~1~Unit / Apartment~6.0~990~N/A~$1,500,000~
+8/89 Allan Street, Curtin ACT 2605 ~$565,000~2~2~Unit / Apartment~6.0~990~N/A~$1,500,000~
+6 Mair Place, Curtin ACT 2605 ~$1,175,000~3~1~House~3.0~361~134~$816,000~
+4 Cockburn Street, Curtin ACT 2605 ~$1,350,000~3~2~House~2.0~803~179~$1,022,000~
+36 Collier Street, Curtin ACT 2605 ~$1,365,000~4~2~House~4.0~859~152~$965,000~
+62 Holman Street, Curtin ACT 2605 ~$1,500,000~5~2~House~3.0~654~N/A~$777,000~
+15B Reynolds Street, Curtin ACT 2605 ~$1,599,000 ~4~2~House~5.5~N/A~174~N/A~
+13 Storey Street, Curtin ACT 2605 ~$1,650,000 ~5~2~House~6.0~724~269~$879,000~
+3 Sladen Place, Curtin ACT 2605 ~$1,670,000~4~2~House~2.0~810~173~$932,000~
+47 McCormack Street, Curtin ACT 2605 ~Offers Above $1,750,000~5~3~House~1.5~846~N/A~$1,000,000~
+4 Champ Place, Curtin ACT 2605 ~$1,975,000~4~2~House~4.0~649~215~$825,000~
+9 McPhee Place, Curtin ACT 2605 ~$2,675,000~4~2~House~6.0~669~224~$795,000~

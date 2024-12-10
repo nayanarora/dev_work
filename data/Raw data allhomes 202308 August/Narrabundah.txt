@@ -1,0 +1,18 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+21/41 Leahy Close, Narrabundah ACT 2604 ~$299,000~1~1~Apartment~5.0~5009~N/A~$6,400,000~
+46/39 McIntyre Street, Narrabundah ACT 2604 ~  $549,000~1~1~Unit / Apartment~6.0~13799.999999999998~N/A~$20,600,000~
+3/27 Leahy Close, Narrabundah ACT 2604 ~$575,000~2~2~Apartment~6.0~4865~N/A~$5,400,000~
+54/34 Leahy Close, Narrabundah ACT 2604 ~$615,000~2~2~Apartment~6.0~12200.0~N/A~$12,400,000~
+14/34 Leahy Close, Narrabundah ACT 2604 ~$632500~2~2~Apartment~4.5~12200.0~N/A~$12,400,000~
+28/34 Leahy Close, Narrabundah ACT 2604 ~$630,000~2~2~Apartment~6.0~12200.0~N/A~$12,400,000~
+28/41 Leahy Close, Narrabundah ACT 2604 ~$699,000~3~2~Townhouse~5.0~5009~N/A~$6,400,000~
+127/39 McIntyre Street, Narrabundah ACT 2604 ~$749,000~2~2~Apartment~6.0~13799.999999999998~N/A~$20,600,000~
+114/39 McIntyre Street, Narrabundah ACT 2604 ~$765,000~2~2~Unit / Apartment~6.0~13799.999999999998~N/A~$20,600,000~
+6 Bungonia Street, Narrabundah ACT 2604 ~  $995,000~3~1~House~2.5~464~N/A~$650,000~
+74 Tallara Parkway, Narrabundah ACT 2604 ~$1,200,000~4~1~House~3.0~852~137~$870,000~
+4/14 Narambi Street, Narrabundah ACT 2604 ~$1,395,000~4~2~Townhouse~5.0~1848~N/A~$2,500,000~
+2/4B Lumeah Street, Narrabundah ACT 2604 ~$1,450,000~4~3~Townhouse~5.5~N/A~N/A~N/A~
+54 Tallara Parkway, Narrabundah ACT 2604 ~$1,650,000~4~2~House~4.0~799~N/A~$870,000~
+3/13 Lindsay Street, Narrabundah ACT 2604 ~$1845000~3~3~Townhouse~6.0~1031~N/A~$1,500,000~
+107 Walker Crescent, Narrabundah ACT 2604 ~$2,100,000~5~3~House~5.0~768~305~$938,000~
+48 Finniss Crescent, Narrabundah ACT 2604 ~$2,850,000~4~3~House~6.0~600~301~$1,020,000~

@@ -1,0 +1,8 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+19/122 Henderson Road, Crestwood NSW 2620 ~$220000~1~1~Unit / Apartment~N/A~N/A~34~N/A~
+Unit 8/12 Federal Ave, Crestwood NSW 2620 ~$313000~2~1~Unit / Apartment~N/A~2275~N/A~N/A~
+14/83 Derrima Road, Crestwood NSW 2620 ~$312500~2~1~Apartment~N/A~N/A~60~N/A~
+11/9 Crest Road, Crestwood NSW 2620 ~$315000~2~1~Unit / Apartment~N/A~N/A~90~N/A~
+40/85 Derrima Road, Crestwood NSW 2620 ~$315000~2~1~Unit / Apartment~N/A~N/A~N/A~N/A~
+9/161 Uriarra Road, Crestwood NSW 2620 ~$349000~1~1~Apartment~N/A~N/A~N/A~N/A~
+3/136 Morton Street, Crestwood NSW 2620 ~$719500~3~2~Townhouse~N/A~N/A~N/A~N/A~

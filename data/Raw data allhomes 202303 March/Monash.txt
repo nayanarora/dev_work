@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+183 Clive Steele Avenue, Monash ACT 2904 ~$699,000~3~1~House~0.5~410~134~$377,000~
+25 Charleston Street, Monash ACT 2904 ~$738,000~3~1~House~1.0~481~94~$420,000~
+5/174 Clive Steele Avenue, Monash ACT 2904 ~$739,000 ~3~2~Townhouse~4.0~258~176~N/A~
+32/156 Clive Steele Avenue, Monash ACT 2904 ~$799,000 ~3~2~Townhouse~1.5~319~N/A~N/A~
+38 Wheadon Street, Monash ACT 2904 ~$820,000~3~1~House~1.5~869~N/A~$509,000~

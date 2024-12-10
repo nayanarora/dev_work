@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+29 Croton Street, Rivett ACT 2611 ~$775,000~3~1~House~1.0~711~106~$632,000~
+40 Nelumbo Street, Rivett ACT 2611 ~$810,000~3~1~House~1.0~743~N/A~$666,000~
+5 Geebung Place, Rivett ACT 2611 ~  $1,049,000~4~3~House~1.5~841~159~$675,000~
+123 Darwinia Terrace, Rivett ACT 2611 ~$1,495,000~4~2~House~2.0~1130~N/A~$696,000~

@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+3 Vale Place, Wanniassa ACT 2903 ~  $825,000~3~2~House~2.0~633~146~$520,000~
+43 Degraves Crescent, Wanniassa ACT 2903 ~$949,000~5~2~House~1.5~961~180~$521,000~
+58 Holden Crescent, Wanniassa ACT 2903 ~$1,099,000~4~2~House~2.5~864~262~$539,000~
+14 Adamson Crescent, Wanniassa ACT 2903 ~$1,300,000~4~2~House~1.0~931~N/A~$551,000~

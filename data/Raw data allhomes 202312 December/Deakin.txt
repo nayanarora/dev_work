@@ -1,0 +1,10 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+67 MacGregor Street, Deakin ACT 2600 ~$675,000~2~1~Retirement Village~N/A~19600.0~N/A~$17,266,000~
+307/2 Grose Street, Deakin ACT 2600 ~$999,000~2~1~Apartment~5.0~8789~N/A~$13,100,000~
+220/2 Grose Street, Deakin ACT 2600 ~  $1,195,000~2~2~Unit / Apartment~6.0~8789~N/A~$13,100,000~
+41 Norman Street, Deakin ACT 2600 ~$1,795,000~4~2~House~2.5~747~N/A~$1,160,000~
+1 Carmichael Street, Deakin ACT 2600 ~$1,800,000~4~2~House~1.5~861~160~$1,320,000~
+21/6 Grose Street, Deakin ACT 2600 ~$1,895,000~4~2~Townhouse~6.0~219~N/A~N/A~
+25 Grey Street, Deakin ACT 2600 ~$2,990,000~4~3~House~2.0~1048~255~$1,900,000~
+5 Normanby Crescent, Deakin ACT 2600 ~$3,400,000~4~3~House~6.0~909~N/A~N/A~
+74 National Circuit, Deakin ACT 2600 ~$4,280,000~3~1~House~1.0~2104~115~$3,500,000~

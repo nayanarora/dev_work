@@ -1,0 +1,14 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+38/329 Flemington Road, Franklin ACT 2913 ~Offers over $360,000~1~1~Apartment~6.0~11600.0~N/A~$70,380~
+(no street name provided), Franklin ACT 2913 ~$365,000~1~1~House~6.0~12000.0~N/A~$79,560~
+32/2 Manning Clark Crescent, Franklin ACT 2913 ~Offers over $380,000~1~1~Unit / Apartment~6.0~6220~61~$62,370~
+25/297 Flemington Road, Franklin ACT 2913 ~$395,000~1~1~Apartment~6.0~9629~50~$51,112~
+68/75 Elizabeth Jolley Crescent, Franklin ACT 2913 ~$498,000~2~2~Apartment~6.0~9025~N/A~$2,650,000~
+94/75 Elizabeth Jolley Crescent, Franklin ACT 2913 ~Offers Above $499,000~2~2~Unit / Apartment~6.0~9025~72~$2,650,000~
+92/75 Elizabeth Jolley Crescent, Franklin ACT 2913 ~$500,000~2~2~Apartment~4.5~9025~86~$2,650,000~
+108/49 Nullabor Avenue, Franklin ACT 2913 ~$565,000~2~2~Apartment~6.0~N/A~N/A~N/A~
+73/299 Flemington Road, Franklin ACT 2913 ~$690,000~3~2~Townhouse~5.0~9629~114~$51,112~
+7/2 Clare Burton Crescent, Franklin ACT 2913 ~$699,000~3~2~Townhouse~6.0~96~N/A~N/A~
+27/2 Clare Burton Crescent, Franklin ACT 2913 ~$747,500~3~2~House~4.0~121~N/A~N/A~
+(no street name provided), Franklin ACT 2913 ~$755,000~3~1~Townhouse~5.5~103~N/A~N/A~
+57 Hesba Brinsmead Street, Franklin ACT 2913 ~$915,000~3~2~House~4.0~350~153~N/A~

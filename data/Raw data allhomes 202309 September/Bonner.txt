@@ -1,0 +1,11 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+7 Margaret Tucker Street, Bonner ACT 2914 ~$630,000~2~1~House~6.0~180~N/A~$286,000~
+7 Murrjinelle Circuit, Bonner ACT 2914 ~ $699,000~3~1~House~6.0~248~N/A~$308,000~
+1 Deucem Smith Street, Bonner ACT 2914 ~$699,000~3~1~House~6.0~240~125~$308,000~
+8/17 Margaret Tucker Street, Bonner ACT 2914 ~$730,000 ~3~2~Townhouse~6.0~6922~N/A~$3,675,000~
+5 Anna Morgan Circuit, Bonner ACT 2914 ~$739,000~3~2~House~6.0~293~N/A~$336,000~
+6/147 Bill Ferguson Circuit, Bonner ACT 2914 ~$770,000~4~2~Townhouse~6.0~140~N/A~N/A~
+11 Rob Riley Circuit, Bonner ACT 2914 ~$840,000~3~2~House~6.0~319~131~$415,000~
+20 Len Barratt Street, Bonner ACT 2914 ~$995,000~4~2~House~6.0~433~176~$475,000~
+162 Ida West Street, Bonner ACT 2914 ~$1050000~4~2~House~5.0~540~N/A~$540,000~
+8 Mabo Boulevard, Bonner ACT 2914 ~$1,050,000~4~2~House~5.0~583~246~$562,000~

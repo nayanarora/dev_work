@@ -1,0 +1,9 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+63/44 Jerrabomberra Avenue, Narrabundah ACT 2604 ~$595,000~2~2~Unit / Apartment~6.0~N/A~N/A~$13,000,000~
+1/51 Leahy Close, Narrabundah ACT 2604 ~$805000~3~1~Apartment~5.5~3928~N/A~$4,000,000~
+15 Arinya Street, Narrabundah ACT 2604 ~$990,000~2~1~House~2.5~N/A~N/A~$580,000~
+23/21 Keira Street, Narrabundah ACT 2604 ~$1,000,000~3~2~Townhouse~5.0~N/A~185~N/A~
+45 Matina Street, Narrabundah ACT 2604 ~$1,000,000~3~1~House~1.0~N/A~N/A~$550,000~
+15 Bungonia Street, Narrabundah ACT 2604 ~$1,175,000~3~3~House~2.0~588~N/A~$513,000~
+52 Caley Crescent, Narrabundah ACT 2604 ~$1,890,000~3~1~House~1.5~N/A~N/A~$837,000~
+3 Johnston Street, Narrabundah ACT 2604 ~$1,895,000~5~3~House~3.0~N/A~N/A~$750,000~

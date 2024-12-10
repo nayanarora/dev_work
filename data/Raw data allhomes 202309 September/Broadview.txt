@@ -1,0 +1,17 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+2/21 Noongale Court, Ngunnawal ACT 2913 ~$558,000~3~1~Townhouse~6.0~147~N/A~N/A~
+5/3 Dyara Close, Ngunnawal ACT 2913 ~$585,000~2~1~Townhouse~1.5~211~N/A~N/A~
+95/36 Paul Coe Crescent, Ngunnawal ACT 2913 ~$619,000~3~2~Townhouse~4.5~171~N/A~N/A~
+13/60 Paul Coe Crescent, Ngunnawal ACT 2913 ~$645,000~3~1~Townhouse~5.5~141~N/A~N/A~
+8/137 Jabanungga Avenue, Ngunnawal ACT 2913 ~$664000~3~1~Townhouse~3.5~207~N/A~N/A~
+43 Yarrawonga Street, Ngunnawal ACT 2913 ~$700000~3~2~House~5.0~307~147~$319,000~
+33 Bargang Street, Ngunnawal ACT 2913 ~$699,000~2~1~House~5.0~481~106~N/A~
+20 Gubbity Street, Ngunnawal ACT 2913 ~$725,000~3~1~House~6.0~240~N/A~$349,000~
+8 Yagan Place, Ngunnawal ACT 2913 ~$725,000~3~1~House~4.5~333~N/A~$386,000~
+68 Burrumarra Avenue, Ngunnawal ACT 2913 ~$800000~3~2~Duplex~6.0~248~N/A~$367,000~
+10 Taylor Street, Ngunnawal ACT 2913 ~$799,000~3~1~House~3.0~613~183~$462,000~
+5 Gelane Street, Ngunnawal ACT 2913 ~$799,000~3~1~House~6.0~527~121~$447,000~
+(no street name provided), Ngunnawal ACT 2913 ~$899,000~4~2~House~6.0~405~N/A~$397,000~
+2 Waddhir Place, Ngunnawal ACT 2913 ~$919,000~4~2~House~5.5~481~183~$470,000~
+29 Paul Coe Crescent, Ngunnawal ACT 2913 ~$920,000~4~2~House~3.0~657~140~$630,000~
+21 Gurrit Place, Ngunnawal ACT 2913 ~$1,585,000~5~2~House~3.0~643~294~$540,000~

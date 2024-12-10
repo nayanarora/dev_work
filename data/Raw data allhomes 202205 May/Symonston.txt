@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+30/250 Canberra Avenue, Symonston ACT 2609 ~$350,000~2~1~Villa~5.0~N/A~88~N/A~

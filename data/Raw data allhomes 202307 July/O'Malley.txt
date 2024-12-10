@@ -1,0 +1,7 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+10/3 Cabarita Terrace, O'Malley ACT 2606 ~$1,699,000~4~2~House~2.0~786~175~N/A~
+7 Callemonda Rise, O'Malley ACT 2606 ~$2,900,000~6~3~House~2.0~2548~484~$1,342,000~
+12 Keyar Street, O'Malley ACT 2606 ~$3,200,000~5~4~House~4.5~1201~550~$1,228,000~
+11 Gerogery Place, O'Malley ACT 2606 ~$3,350,000~7~4~House~1.5~1576~748~$1,658,000~
+23 Dalman Crescent, O'Malley ACT 2606 ~$3,450,000~5~4~House~3.5~2055~N/A~$1,724,000~
+15 Timbarra Crescent, O'Malley ACT 2606 ~$5,650,000~6~8~House~4.0~2044~816~$1,666,000~

@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+49 Vagabond Crescent, McKellar ACT 2617 ~$1,100,000~4~2~House~2.0~710~261~$525,000~
+1 Tipping Place, McKellar ACT 2617 ~$1,695,000 ~4~3~House~6.0~750~N/A~$645,000~
+68 Dumas Street, McKellar ACT 2617 ~$1,795,000~5~3~House~2.0~768~N/A~$735,000~

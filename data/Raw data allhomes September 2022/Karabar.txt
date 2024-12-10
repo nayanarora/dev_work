@@ -1,0 +1,12 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+4/88a Fergus Road, Karabar NSW 2620 ~$305000~2~1~Unit / Apartment~N/A~64~49~N/A~
+6 Karri Cres, Karabar NSW 2620 ~$615000~3~1~House~N/A~600~N/A~N/A~
+35 Oleria St, Karabar NSW 2620 ~$710000~4~2~House~N/A~632~N/A~N/A~
+10 Eugenia Street, Karabar NSW 2620 ~$764000~3~1~House~N/A~604~N/A~N/A~
+29 Oleria Street, Karabar NSW 2620 ~$830000~3~1~House~N/A~626~N/A~N/A~
+7 Atholbar Way, Karabar NSW 2620 ~$829000~4~2~House~N/A~583~N/A~N/A~
+9 Kenny Place, Karabar NSW 2620 ~$829,000~3~2~House~N/A~467~157~N/A~
+4 Webber Place, Karabar NSW 2620 ~$920000~3~2~House~N/A~676~N/A~N/A~
+27 Rusten Street, Karabar NSW 2620 ~$899,000~4~3~House~N/A~806~N/A~N/A~
+1A Wilgabar Way, Karabar NSW 2620 ~$1105000~4~2~House~N/A~544~N/A~N/A~
+27 Dane Street, Karabar NSW 2620 ~$1239500~4~2~House~N/A~1164~N/A~N/A~

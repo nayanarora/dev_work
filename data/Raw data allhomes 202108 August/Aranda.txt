@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+27B Arabana Street, Aranda ACT 2614 ~$798,000~3~1~Duplex~3.5~N/A~117~$667,000~

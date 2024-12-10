@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+9 Frost Place, Page ACT 2614 ~$880,000~3~1~House~0.5~862~111~$500,000~

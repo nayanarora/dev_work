@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+19 De Graaff Street, Holder ACT 2611 ~$850,000~3~1~House~1.0~892~N/A~$616,000~
+2 Frankland Street, Holder ACT 2611 ~$900,000~4~1~House~2.0~700~126~$544,000~
+15 Foxall Street, Holder ACT 2611 ~$1,280,000~4~2~House~6.0~780~N/A~$584,000~

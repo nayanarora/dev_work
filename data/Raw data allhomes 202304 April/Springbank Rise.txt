@@ -1,0 +1,18 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+36/16 David Miller Crescent, Casey ACT 2913 ~$450,000~2~1~Apartment~6.0~5281~N/A~$71,162~
+31A Annie Douglas Street, Casey ACT 2913 ~$560,000~2~1~Duplex~6.0~318~86~$234,600~
+43 Patrick Shaw Street, Casey ACT 2913 ~Offers above $639,000~2~1~House~6.0~234~N/A~$375,000~
+45 McGovern Street, Casey ACT 2913 ~$688,000~3~2~Townhouse~6.0~143~112~$304,000~
+102 Greg Urwin Circuit, Casey ACT 2913 ~$715,000~2~1~House~6.0~279~140~$386,000~
+71 Dalkin Crescent, Casey ACT 2913 ~$725,000~3~2~House~6.0~216~125~$399,000~
+9/100 Plimsoll Drive, Casey ACT 2913 ~$729,000~3~2~Townhouse~5.5~4347~132~N/A~
+65 Dalkin Crescent, Casey ACT 2913 ~$739,000~3~2~Duplex~6.0~216~130~$399,000~
+31 Rockwood Street, Casey ACT 2913 ~$745,000~3~2~Duplex~5.5~214~145~$399,000~
+10 Macandie Street, Springbank Rise ACT 2913 ~$780,000~3~2~Townhouse~6.0~N/A~N/A~N/A~
+99 Plimsoll Drive, Casey ACT 2913 ~$819,000~4~2~Townhouse~5.5~235~203~$360,000~
+93 Plimsoll Drive, Casey ACT 2913 ~$820,000~4~2~House~6.0~231~N/A~$360,000~
+59 David Miller Crescent, Casey ACT 2913 ~Offers over $989,000~4~2~House~5.0~502~164~$529,000~
+14 Carmody Street, Casey ACT 2913 ~$1,020,000~4~2~House~4.5~460~N/A~$513,000~
+14 Wighton Terrace, Casey ACT 2913 ~$1150000~4~2~House~5.5~529~247~$540,000~
+34 Maris Kings Street, Casey ACT 2913 ~$1,200,000~4~2~House~5.5~516~277~N/A~
+1 Housley Street, Casey ACT 2913 ~$1,280,000~6~2~House~6.0~526~288~$540,000~

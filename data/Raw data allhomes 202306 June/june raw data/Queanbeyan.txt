@@ -1,0 +1,60 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+17/5 Mowatt Street, Queanbeyan East NSW 2620 ~$205000~1~1~Unit / Apartment~N/A~1509~56~N/A~
+16/9 Macquoid Street, Queanbeyan NSW 2620 ~$230000~1~1~House~N/A~N/A~N/A~N/A~
+2/56 Henderson Road, Queanbeyan NSW 2620 ~$225,000~1~1~Unit / Apartment~N/A~2551~38~N/A~
+17/18 Booth Street, Queanbeyan NSW 2620 ~$310,000~2~1~Unit / Apartment~N/A~N/A~N/A~N/A~
+3/34 Uriarra Road, Queanbeyan NSW 2620 ~$340000~2~1~Unit / Apartment~N/A~1048~N/A~N/A~
+2/53 Morton Street, Queanbeyan NSW 2620 ~$350,000~2~1~House~N/A~N/A~N/A~N/A~
+2/39 Thurralilly Street, Queanbeyan NSW 2620 ~$350,000 to $370,000~2~1~Apartment~N/A~N/A~54~N/A~
+4/17 Carinya Street, Queanbeyan NSW 2620 ~$389,000~3~1~House~N/A~2649~N/A~N/A~
+13/56 Morisset Street, Queanbeyan NSW 2620 ~$395,000~2~1~Apartment~N/A~1006~N/A~N/A~
+13D/17 Uriarra Road, Queanbeyan NSW 2620 ~$449,000~2~1~Unit / Apartment~N/A~7305~93~N/A~
+3/6 High Street, Queanbeyan NSW 2620 ~$450,000~1~1~Unit / Apartment~N/A~N/A~91~N/A~
+6/7-11 Broughton Place, Queanbeyan NSW 2620 ~$465,000~2~1~Townhouse~N/A~96~N/A~N/A~
+35/39-43 Crawford Street, Queanbeyan NSW 2620 ~$479000~2~2~Unit / Apartment~N/A~4611~99~N/A~
+5/8 Nimmitabel Street, Queanbeyan NSW 2620 ~$494000~2~1~Townhouse~N/A~N/A~110~N/A~
+6/4 Booth Street, Queanbeyan East NSW 2620 ~$510000~2~1~Townhouse~N/A~1011~136~N/A~
+45/161 Uriarra Road, Queanbeyan NSW 2620 ~$499,000~2~1~House~N/A~N/A~N/A~N/A~
+4/4 Booth Street, Queanbeyan East NSW 2620 ~$519000~2~1~Townhouse~N/A~1011~N/A~N/A~
+4/29 High Street, Queanbeyan East NSW 2620 ~$525000~2~1~Townhouse~N/A~2992~166~N/A~
+36/47 Mowatt Street, Queanbeyan East NSW 2620 ~$539000~2~2~Unit / Apartment~N/A~17000.0~N/A~N/A~
+2/8B Booth Street, Queanbeyan NSW 2620 ~$535,000 to $565,000~2~1~Townhouse~N/A~181~95~N/A~
+(no street name provided), Queanbeyan NSW 2620 ~$549,000~2~2~Apartment~N/A~1325~N/A~N/A~
+3/49 Uriarra Road, Crestwood NSW 2620 ~$574000~2~2~Unit / Apartment~N/A~2419~N/A~N/A~
+8/83 Tharwa Road, Queanbeyan NSW 2620 ~$594000~2~2~Townhouse~N/A~N/A~N/A~N/A~
+31/47 Mowatt Street, Queanbeyan NSW 2620 ~$602000~2~2~Unit / Apartment~N/A~N/A~N/A~N/A~
+2/122 Fergus Road, Karabar NSW 2620 ~$600000~3~2~Townhouse~N/A~1326~176~N/A~
+2/1 Doyle Place, Karabar NSW 2620 ~$604000~2~2~Unit / Apartment~N/A~1095~119~N/A~
+1/18 Mowatt Street, Queanbeyan East NSW 2620 ~$595,000~3~1~Townhouse~N/A~1370~N/A~N/A~
+6/7 Arthur Street, Queanbeyan NSW 2620 ~$595,000~3~1~House~N/A~N/A~119~N/A~
+8/7 Bungendore Road, Queanbeyan East NSW 2620 ~$619,000~2~2~Townhouse~N/A~119~84~N/A~
+1 Mallee Crescent, Karabar NSW 2620 ~$645000~3~1~House~N/A~617~N/A~N/A~
+8/7-9 Blackall Avenue, Crestwood NSW 2620 ~$660000~3~2~House~N/A~2787~N/A~N/A~
+4/7A O'Hanlon Road, Queanbeyan NSW 2620 ~$660000~3~1~House~N/A~1465~124~N/A~
+6/6 Doeberl Place, Queanbeyan NSW 2620 ~$660000~3~2~Apartment~N/A~N/A~N/A~N/A~
+4/32 Macquoid Street, Queanbeyan NSW 2620 ~$694000~3~2~Townhouse~N/A~N/A~N/A~N/A~
+2/35 Ernest Street, Queanbeyan NSW 2620 ~$704000~3~2~Townhouse~N/A~N/A~N/A~N/A~
+4/11 Yass Road, Queanbeyan NSW 2620 ~$700000~3~2~House~N/A~N/A~N/A~N/A~
+37 McIntosh Street, Queanbeyan NSW 2620 ~$695,000~3~1~House~N/A~623~117~N/A~
+3/6 O'Neill Street, Queanbeyan NSW 2620 ~$724000~3~2~Townhouse~N/A~N/A~N/A~N/A~
+4 Southwell Place, Karabar NSW 2620 ~$724000~3~1~House~N/A~651~N/A~N/A~
+6 Lillipilli Street, Queanbeyan NSW 2620 ~$745000~4~1~House~N/A~680~140~N/A~
+136 Barracks Flat Drive, Karabar NSW 2620 ~$755000~3~2~House~N/A~404~N/A~N/A~
+70 Cameron Road, Karabar NSW 2620 ~$745000~3~1~House~N/A~582~N/A~N/A~
+3/29 Morton Street, Queanbeyan NSW 2620 ~$755000~3~2~Townhouse~N/A~2461~N/A~N/A~
+3 Mark Place, Queanbeyan NSW 2620 ~$772500~3~1~House~N/A~885~100~N/A~
+3 Grevillea Place, Karabar NSW 2620 ~$750,000~3~2~House~N/A~601~N/A~N/A~
+59 Cameron Road, Queanbeyan NSW 2620 ~$765000~3~1~House~N/A~670~N/A~N/A~
+18 Noonan Street, Karabar NSW 2620 ~$784000~3~1~House~N/A~651~N/A~N/A~
+15 Bungendore Road, Queanbeyan NSW 2620 ~$800000~3~1~House~N/A~846~N/A~N/A~
+10 Telopea Place, Queanbeyan NSW 2620 ~$834000~3~2~House~N/A~500~150~N/A~
+57 Crest Park Parade, Queanbeyan NSW 2620 ~$844000~3~2~House~N/A~722~N/A~N/A~
+13 Hillbar Rise, Karabar NSW 2620 ~$834000~5~2~House~N/A~696~N/A~N/A~
+21 Lazarus Crescent, Queanbeyan NSW 2620 ~$855000~4~2~House~N/A~689~N/A~N/A~
+59 Barracks Flat Drive, Karabar NSW 2620 ~$850,000~4~2~House~N/A~699~N/A~N/A~
+18 Urila Street, Queanbeyan NSW 2620 ~$999000~5~3~House~N/A~610~N/A~N/A~
+15 Pooley Street, Queanbeyan NSW 2620 ~$950,000~4~2~House~N/A~615~180~N/A~
+7 Temora Place, Queanbeyan NSW 2620 ~$1,095,000~4~2~House~N/A~668~N/A~N/A~
+24 Gilmore Place, Queanbeyan NSW 2620 ~$1272500~4~2~House~N/A~1287~195~N/A~
+47 Stornaway Road, Queanbeyan NSW 2620 ~$1525000~4~2~House~N/A~1565~N/A~N/A~
+28/19 Charles Street, Queanbeyan NSW 2620 ~$146450~1~1~Unit / Apartment~N/A~4909~N/A~N/A~

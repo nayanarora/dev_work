@@ -1,0 +1,13 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+29/54 Paul Coe Crescent, Ngunnawal ACT 2913 ~$515,000~2~1~Townhouse~6.0~191~93~N/A~
+6/80 Paul Coe Crescent, Ngunnawal ACT 2913 ~$593,000~3~1~Townhouse~5.0~197~113~N/A~
+20 Yerra Court, Ngunnawal ACT 2913 ~$599,000~3~1~House~5.5~291~121~$351,000~
+53 Daramoolen Street, Ngunnawal ACT 2913 ~$625,000~2~1~House~5.0~234~N/A~$349,000~
+21 Yuranigh Court, Ngunnawal ACT 2913 ~$629,000~3~1~House~4.0~293~115~$351,000~
+4/15 Jabanungga Avenue, Ngunnawal ACT 2913 ~$639,000~3~1~Townhouse~6.0~424~120~N/A~
+53 Bunduluk Crescent, Ngunnawal ACT 2913 ~$779,000~4~2~House~2.0~422~164~$447,000~
+10 Bamir Square, Ngunnawal ACT 2913 ~$799,000~3~1~House~4.5~369~222~$400,000~
+77 Paul Coe Crescent, Ngunnawal ACT 2913 ~$799,000~3~2~House~6.0~479~158~$352,000~
+15 Bungaree Crescent, Ngunnawal ACT 2913 ~$950,000~4~2~House~3.0~652~260~$483,000~
+14 Mokare Street, Ngunnawal ACT 2913 ~$1,699,000~4~3~House~3.0~796~437~$732,000~
+16 Deumonga Court, Ngunnawal ACT 2913 ~$1,900,000~5~4~House~5.5~841~508~$743,000~

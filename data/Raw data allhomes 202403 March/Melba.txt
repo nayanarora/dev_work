@@ -1,0 +1,3 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+12 Saville Close, Melba ACT 2615 ~$1,099,000~5~2~House~2.5~985~367~$489,000~
+73 Alfred Hill Drive, Melba ACT 2615 ~$1,175,000~5~3~House~0.5~1020~323~$392,000~

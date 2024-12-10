@@ -1,0 +1,3 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+11 Meston Place, Fadden ACT 2904 ~$1,050,000~4~2~House~2.5~725~197~$560,000~
+323 Bugden Avenue, Fadden ACT 2904 ~Offers over $1,075,000~5~2~House~2.0~748~180~$644,000~

@@ -1,0 +1,9 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+8/39 Mornington Street, Amaroo ACT 2914 ~$795,000~3~1~Townhouse~4.5~378~136~N/A~
+36 Proserpine Circuit, Amaroo ACT 2914 ~$799,000~3~2~House~5.0~300~174~N/A~
+2/33 Bywaters Street, Amaroo ACT 2914 ~$799,000~3~2~House~4.0~368~165~N/A~
+58 Wanderer Court, Amaroo ACT 2914 ~$799,000~3~2~House~5.0~397~164~$437,000~
+2 Wenlock Street, Amaroo ACT 2914 ~$969,000~4~2~House~4.0~500~248~$559,000~
+(no street name provided), Amaroo ACT 2914 ~$995,000~4~2~House~4.0~700~155~$598,000~
+92 Katherine Avenue, Amaroo ACT 2914 ~$1,370,000~4~2~House~5.0~827~333~$611,000~
+26 Tarrabool Street, Amaroo ACT 2914 ~$1,780,000~5~2~House~4.0~653~507~$709,000~

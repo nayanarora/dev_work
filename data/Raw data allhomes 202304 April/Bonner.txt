@@ -1,0 +1,12 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+13/147 Bill Ferguson Circuit, Bonner ACT 2914 ~$599,000~3~2~Townhouse~6.0~N/A~N/A~N/A~
+7 Abdullah Street, Bonner ACT 2914 ~$699,000~3~2~House~6.0~224~116~$306,000~
+3 Stanner Circuit, Bonner ACT 2914 ~  $720k~3~2~House~6.0~215~149~$293,000~
+9 Secretary Street, Bonner ACT 2914 ~$739,000~3~1~House~6.0~250~N/A~$308,000~
+8 Roy Marika Street, Bonner ACT 2914 ~$939,000~4~2~House~4.5~405~197~$444,000~
+79 Bieundurry Street, Bonner ACT 2914 ~$950,000~4~2~House~4.5~432~145~$475,000~
+69 Essie Coffey Street, Bonner ACT 2914 ~$1048000~4~2~House~5.5~452~194~$475,000~
+18 Dundalli Street, Bonner ACT 2914 ~$1,000,000~4~2~House~4.5~N/A~N/A~N/A~
+32 Ben Blakeney Street, Bonner ACT 2914 ~$1,050,000~4~2~House~5.5~540~N/A~$540,000~
+8 Mabo Boulevard, Bonner ACT 2914 ~$1,070,000~4~2~House~5.0~583~246~$562,000~
+26 Ben Blakeney Street, Bonner ACT 2914 ~$1,210,000~4~3~House~4.0~496~210~$500,000~

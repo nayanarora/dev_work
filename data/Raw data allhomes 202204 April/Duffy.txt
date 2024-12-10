@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+39 Jemalong Street, Duffy ACT 2611 ~$1,100,000~4~1~House~4.5~727~N/A~$484,000~

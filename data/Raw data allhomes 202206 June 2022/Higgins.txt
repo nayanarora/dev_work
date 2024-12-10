@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+8/42 Fullagar Crescent, Higgins ACT 2615 ~$790,000~4~2~Townhouse~6.0~N/A~121~N/A~

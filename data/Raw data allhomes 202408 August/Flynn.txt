@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+2 Pattinson Crescent, Flynn ACT 2615 ~$899,000~3~1~House~1.5~969~141~$455,000~
+20B Wilkinson Street, Flynn ACT 2615 ~$949,900~4~2~House~3.0~423~204~N/A~
+1/6 Barber Crescent, Flynn ACT 2615 ~$950,000~4~3~House~4.0~418~N/A~N/A~
+79 Companion Crescent, Flynn ACT 2615 ~$1,400,000~6~3~House~4.0~835~N/A~$526,000~

@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+14 Kaeppel Place, Isaacs ACT 2607 ~$1,695,000~4~2~House~1.0~773~N/A~$853,000~

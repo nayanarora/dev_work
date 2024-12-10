@@ -1,0 +1,3 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+18 Bindaga Place, Aranda ACT 2614 ~$1,350,000~4~2~House~N/A~740~N/A~$899,000~
+41 Banambila Street, Aranda ACT 2614 ~$1,649,000~3~2~House~2.5~721~N/A~$899,000~

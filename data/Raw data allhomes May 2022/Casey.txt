@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+40/16 David Miller Crescent, Casey ACT 2913 ~$458,888~2~2~Unit / Apartment~6.0~5282~100~$2,475,000~
+22 Mick Shann Terrace, Casey ACT 2913 ~Offers over $720,000~3~1~House~6.0~N/A~N/A~$342,000~
+2/3 Deasey Close, Casey ACT 2913 ~$789,000~3~2~Townhouse~6.0~N/A~N/A~N/A~

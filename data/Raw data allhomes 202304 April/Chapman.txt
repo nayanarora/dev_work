@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+94 Darwinia Terrace, Chapman ACT 2611 ~$990,000~3~2~House~1.0~930~139~$743,000~
+12 Perry Drive, Chapman ACT 2611 ~  $999,000~4~2~House~1.0~879~183~$800,000~
+26 Bertel Crescent, Chapman ACT 2611 ~$2,850,000~4~3~House~3.0~1145~550~$851,000~

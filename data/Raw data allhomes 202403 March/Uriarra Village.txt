@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+31 Jim Bradley Crescent, Uriarra Village ACT 2611 ~Offers Above $1,300,000~4~3~House~3.0~3110~218~$579,000~

@@ -1,0 +1,3 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+38 House Circuit, Banks ACT 2906 ~Offers Over $699,000~3~1~House~4.5~504~112~$319,000~
+48 Olive Pink Crescent, Banks ACT 2906 ~$1,185,000~4~2~House~5.0~637~201~$369,000~

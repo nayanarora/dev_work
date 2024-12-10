@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+83 Springvale Drive, Weetangera ACT 2614 ~$1,399,000~5~3~House~1.5~1142~N/A~$806,000~

@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+10 McGhie Place, Latham ACT 2615 ~$775,000~3~1~House~2.0~450~98~$387,000~
+19 Chubb Street, Latham ACT 2615 ~$800,000~3~1~House~1.5~801~103~$464,000~
+31 Dalley Crescent, Latham ACT 2615 ~$875,000 ~4~2~House~3.5~786~152~$401,000~

@@ -1,0 +1,7 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+21 Shortland Crescent, Ainslie ACT 2602 ~$1,400,000~4~2~House~0.5~724~N/A~$995,000~
+40 Raymond Street, Ainslie ACT 2602 ~$1,475,000~3~1~House~2.0~641~124~$1,239,000~
+186 Duffy Street, Ainslie ACT 2602 ~$1,550,000~4~2~House~N/A~816~179~$1,200,000~
+6/19 Chisholm Street, Ainslie ACT 2602 ~$1,650,000~3~2~House~6.0~540~217~N/A~
+70 Paterson Street, Ainslie ACT 2602 ~$1,785,000~4~2~House~2.5~838~171~$1,175,000~
+11 Bonney Street, Ainslie ACT 2602 ~$3,500,000~5~3~House~6.0~1053~N/A~$1,301,000~

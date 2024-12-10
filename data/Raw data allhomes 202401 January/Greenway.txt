@@ -1,0 +1,39 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+22/56 Cowlishaw Street, Greenway ACT 2900 ~  $329,000.-~1~1~Apartment~6.0~6739~N/A~$5,855,000~
+VUE Residences - 1 Bedroom Apartment VUE 95, Greenway ACT 2900 ~$347,905~1~1~Other~5.0~6739~N/A~$5,855,000~
+150 Anketell Street, Greenway ACT 2900 ~$349,900~1~1~Apartment~6.0~6739~N/A~$5,855,000~
+267/325 Anketell Street, Greenway ACT 2900 ~$350,000~1~1~Apartment~6.0~7282~N/A~$5,400,000~
+Level 2/215/335 Anketell Street, Greenway ACT 2900 ~  $379,000~1~1~Apartment~6.0~N/A~N/A~N/A~
+306/335 Anketell Street, Greenway ACT 2900 ~$384,999~2~1~Apartment~6.0~11000.0~N/A~$12,440,000~
+150 Anketell Street, Greenway ACT 2900 ~$429,900~1~1~Apartment~5.8~6739~N/A~$5,855,000~
+131/35 Oakden Street, Greenway ACT 2900 ~$449,000~2~2~Apartment~6.0~7282~N/A~$5,400,000~
+207/335 Anketell Street, Greenway ACT 2900 ~  $468,000~2~2~Apartment~6.0~11000.0~N/A~$12,440,000~
+217/38 Oakden St, Greenway ACT 2900 ~$470,000 Priced To Sell!~2~2~Unit / Apartment~6.0~11000.0~N/A~$12,440,000~
+624/335 Anketell Street, Greenway ACT 2900 ~$470,000~2~2~Apartment~6.0~11000.0~N/A~$12,440,000~
+186/142 Anketell Street, Greenway ACT 2900 ~$479,000~2~2~Apartment~6.0~6739~N/A~$5,855,000~
+514/335 Anketell Street, Greenway ACT 2900 ~$480,000~2~2~Apartment~6.0~11000.0~N/A~$12,440,000~
+124/35 Oakden Street, Greenway ACT 2900 ~$489,000~2~2~Unit / Apartment~6.0~7282~N/A~$5,400,000~
+425/335 Anketell Street, Greenway ACT 2900 ~$489,000~2~2~Apartment~6.0~11000.0~N/A~$12,440,000~
+627/335 Anketell Street, Greenway ACT 2900 ~$499,000~2~2~Apartment~6.0~11000.0~N/A~$12,440,000~
+913/335 Anketell Street, Greenway ACT 2900 ~$509,000~2~2~Unit / Apartment~6.0~11000.0~N/A~$12,440,000~
+281/325 Anketell Street, Greenway ACT 2900 ~$530,000~2~2~Apartment~6.0~7282~N/A~$5,400,000~
+17/2 Eileen Good Street, Greenway ACT 2900 ~$545000~2~2~Unit / Apartment~6.0~3122~N/A~$2,400,000~
+107/35 Oakden Street, Greenway ACT 2900 ~$536,000~2~2~Apartment~6.0~7282~N/A~$5,400,000~
+718/335 Anketell Street, Greenway ACT 2900 ~$539,000~2~2~Unit / Apartment~5.0~11000.0~N/A~$12,440,000~
+VUE Residences - Fully Furnished 2 Bedroom Apartment, Greenway ACT 2900 ~$566,405~2~1~Other~5.0~6739~N/A~$5,855,000~
+25/6 Ellison Harvie Close, Greenway ACT 2900 ~$589,000~3~2~Townhouse~4.0~5999~N/A~$4,950,000~
+14/120 Athllon Drive, Greenway ACT 2900 ~$610,000~2~2~Apartment~6.0~1299~N/A~$1,350,000~
+8/16 Blackett Crescent, Greenway ACT 2900 ~$625,000~3~1~Apartment~5.0~232~N/A~N/A~
+227/325 Anketell Street, Greenway ACT 2900 ~$650,000~3~2~Apartment~6.0~7282~N/A~$5,400,000~
+351/325 Anketell Street, Greenway ACT 2900 ~  $679,000~3~2~Unit / Apartment~6.0~7282~N/A~$5,400,000~
+58/163 Mortimer Lewis Drive, Greenway ACT 2900 ~$695,000~3~2~Townhouse~6.0~29300.0~N/A~$18,000,000~
+1001/335 Anketell Street, Greenway ACT 2900 ~$699,000~3~2~Unit / Apartment~6.0~11000.0~N/A~$12,440,000~
+131/161 Mortimer Lewis Drive, Greenway ACT 2900 ~$699,000~3~2~Townhouse~6.0~29300.0~N/A~$18,000,000~
+34/45 Athllon Drive, Greenway ACT 2900 ~$735,000~3~2~Townhouse~6.0~26000.0~N/A~$15,400,000~
+7/57 Cynthea Teague Crescent, Greenway ACT 2900 ~$775,000~3~2~Townhouse~6.0~N/A~N/A~N/A~
+Aspen Village - Black Diamond Final Release - New Precinct in Tuggeranong, Greenway ACT 2900 ~$775,900~3~2~Apartment~5.0~11000.0~N/A~$12,440,000~
+3/12 Ellison Harvie Close, Greenway ACT 2900 ~$787,000~3~1~Townhouse~6.4~N/A~N/A~N/A~
+36/12 Ellison Harvey Close, Greenway ACT 2900 ~$844000~3~2~Townhouse~6.0~N/A~N/A~N/A~
+23/12 Ellison Harvie Close, Greenway ACT 2900 ~$830,000~3~1~Apartment~7.6~N/A~N/A~N/A~
+56/163 Mortimer Lewis Drive, Greenway ACT 2900 ~  $879,000~4~2~Townhouse~5.5~29300.0~N/A~$18,000,000~
+34/12 Ellison Harvey Close, Greenway ACT 2900 ~  $930,000~4~2~Townhouse~5.0~N/A~N/A~N/A~

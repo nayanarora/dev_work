@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+3 Gouger Street, Torrens ACT 2607 ~$1,300,000~4~2~House~1.0~1464~212~$564,000~

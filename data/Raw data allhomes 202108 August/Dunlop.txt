@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+228 Kerrigan Street, Dunlop ACT 2615 ~$589,000~3~1~House~6.0~217~102~$169,000~

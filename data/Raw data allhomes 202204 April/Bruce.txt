@@ -1,0 +1,12 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+131/1 Braybrooke Street, Bruce ACT 2617 ~$349,000~1~1~Apartment~6.0~N/A~N/A~$4,997,000~
+The Brooke - G20/39 Braybrooke Street, Bruce ACT 2617 ~$399,900~1~1~Apartment~6.0~N/A~N/A~$950,000~
+407/39 Braybrook Street, Bruce ACT 2617 ~$409,900~1~1~Apartment~6.0~N/A~N/A~N/A~
+32/21 Braybrooke Street, Bruce ACT 2617 ~$429,000~2~1~Apartment~6.0~N/A~86~$1,069,000~
+92/140 Thynne Street, Bruce ACT 2617 ~$547,000~2~1~Unit / Apartment~5.0~N/A~81~$7,300,000~
+5/50 Lampard Circuit, Bruce ACT 2617 ~$790000~3~2~Townhouse~4.0~N/A~122~$4,900,000~
+18/125 Thynne Street, Bruce ACT 2617 ~$799,900~3~3~Townhouse~6.0~N/A~150~N/A~
+(no street name provided), Bruce ACT 2617 ~$975,000~4~2~Townhouse~4.5~N/A~N/A~N/A~
+IVES - Unit 4B-1, Bruce ACT 2617 ~$1,085,000~4~3~Townhouse~6.4~N/A~N/A~N/A~
+17 Lange Place, Bruce ACT 2617 ~$1,090,000~3~2~House~5.0~359~145~$417,000~
+RISE - Four bedrooms townhouse 4A (With private lift), Bruce ACT 2617 ~$1,268,000~4~2~Townhouse~6.1~N/A~251~N/A~

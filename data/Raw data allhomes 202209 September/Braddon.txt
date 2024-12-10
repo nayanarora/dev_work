@@ -1,0 +1,30 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+77/10 Ipima Street, Braddon ACT 2612 ~Offers Over $390,000~1~1~Unit / Apartment~6.0~4624~N/A~$76,840~
+310/17 Dooring Street, Braddon ACT 2612 ~$390,000~1~1~Apartment~6.0~5898~67~$87,975~
+29/10 Ipima Street, Braddon ACT 2612 ~$399,000~1~1~Apartment~6.0~4624~N/A~$76,840~
+134/10 Ipima Street, Braddon ACT 2612 ~$429,000~1~1~Apartment~6.0~4624~N/A~$76,840~
+426/1 Eloura, Braddon ACT 2612 ~$430,000~1~1~Apartment~6.0~N/A~N/A~N/A~
+67/84 Northbourne Avenue, Braddon ACT 2612 ~$439,777~2~2~Investment Property~6.0~2151~N/A~$62,707~
+29/28 Mort Street, Braddon ACT 2612 ~$440,000~1~1~Unit / Apartment~6.0~1533~N/A~$86,250~
+705/2 Batman Street, Braddon ACT 2612 ~$495,000~1~1~House~6.0~9706~N/A~$71,550~
+35/10 Ipima Street, Braddon ACT 2612 ~$500,000~2~2~Apartment~6.0~4624~N/A~$76,840~
+414/65 Currong Street North, Braddon ACT 2612 ~$510,000~1~1~Apartment~6.0~2482~64~N/A~
+406/53 Mort Street, Braddon ACT 2612 ~Offers over $510,000~1~1~Apartment~6.0~2090~N/A~$69,000~
+106/104 Northbourne Avenue, Braddon ACT 2612 ~$539,000~2~1~Apartment~6.0~2090~63~$69,000~
+605/102 Northbourne Avenue, Braddon ACT 2612 ~$0~2~1~Apartment~6.0~2090~N/A~$69,000~
+103/53 Mort Street, Braddon ACT 2612 ~New Price $549,000 !!~1~1~Apartment~6.0~2090~74~$69,000~
+602/104 Northbourne Avenue, Braddon ACT 2612 ~$579,000~2~1~Apartment~6.0~2090~81~$69,000~
+Dawn Founders Lane, Braddon ACT 2612 ~$580,000~2~1~Apartment~6.7~N/A~N/A~N/A~
+708/74-76 Northbourne Avenue, Braddon ACT 2612 ~$595,000~2~2~Apartment~6.0~4171~82~$15,576~
+34/17 Helemon Street, Braddon ACT 2612 ~$650,000~3~1~House~6.0~3104~N/A~$178,776~
+10/90 Lowanna Street, Braddon ACT 2612 ~Offers Over $688,000~2~1~Apartment~6.0~14~N/A~N/A~
+407/16 Lonsdale Street, Braddon ACT 2612 ~$695,000~2~2~Apartment~6.0~1254~63~$92,190~
+628/45 Ainslie Avenue, Braddon ACT 2612 ~$748,888~2~2~Apartment~5.0~9706~N/A~$71,550~
+214/43 Currong Street, Braddon ACT 2612 ~$750,000~2~2~Apartment~6.0~N/A~N/A~N/A~
+9/32 Gooreen Street, Braddon ACT 2612 ~$890,000~2~2~House~6.0~168~127~N/A~
+4/70 Henty Street, Braddon ACT 2612 ~$1,275,000~3~2~Townhouse~4.0~2626~N/A~$145,920~
+1/4-6 Coolac Place, Braddon ACT 2612 ~Offers over $1,399,900~3~2~Townhouse~6.0~N/A~N/A~N/A~
+INDUSTRY - Inner-North 3 bedroom terrace home with lift access, Braddon ACT 2612 ~$1,429,000~3~1~Townhouse~N/A~N/A~N/A~N/A~
+INDUSTRY - North Corner 3 bedroom terrace home, Braddon ACT 2612 ~$1,449,000~3~1~Townhouse~N/A~N/A~N/A~N/A~
+Unit 4/59 Torrens Street, Braddon ACT 2612 ~$1,500,000~3~1~Townhouse~5.5~1532~155~N/A~
+1/78 Torrens Street, Braddon ACT 2612 ~$1,500,000 ~4~2~Townhouse~2.5~3729~17~$347,760~

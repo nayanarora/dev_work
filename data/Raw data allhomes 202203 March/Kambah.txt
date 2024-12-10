@@ -1,0 +1,8 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+21 Snodgrass Crescent, Kambah ACT 2902 ~$680,000~3~1~Retirement Village~N/A~N/A~N/A~$6,300,000~
+85 Morrison Street, Kambah ACT 2902 ~$700,000~3~1~House~2.5~484~106~$264,000~
+49 Bosworth Circuit, Kambah ACT 2902 ~$765,000~3~1~House~0.5~402~101~$253,000~
+3 Hallett Place, Kambah ACT 2902 ~$775,000~3~1~House~1.0~727~139~$373,000~
+4 Keeling Place, Kambah ACT 2902 ~$870,000~3~1~House~1.5~775~149~$386,000~
+5 Magarey Place, Kambah ACT 2902 ~$1224000~5~2~House~3.0~N/A~N/A~$386,000~
+24 Mt Vernon Drive, Kambah ACT 2902 ~$1,390,000~4~2~House~3.0~1047~236~$493,000~

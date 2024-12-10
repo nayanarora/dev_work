@@ -1,0 +1,10 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+10 Dobikin Street, Crace ACT 2911 ~$679,000~2~1~Townhouse~5.5~180~106~$321,000~
+19 Zanci Street, Crace ACT 2911 ~$704000~2~1~Townhouse~6.0~135~112~$290,000~
+6 Nuleri Street, Crace ACT 2911 ~$779,000~3~2~House~6.0~189~118~$394,000~
+16 Parilla Street, Crace ACT 2911 ~$850,000~3~2~House~4.0~240~184~$418,000~
+80 Cocoparra Crescent, Crace ACT 2911 ~$999,000~3~2~House~4.0~417~142~$529,000~
+4 Drooka Crescent, Crace ACT 2911 ~$1,090,000~4~2~House~5.5~418~150~$529,000~
+12 Fingal Street, Crace ACT 2911 ~$1,559,000~4~3~House~6.0~498~277~$634,000~
+26 Drooka Crescent, Crace ACT 2911 ~$1,699,000~5~3~House~5.5~672~319~$766,000~
+8 Ettrick Street, Crace ACT 2911 ~$2,549,000~5~4~House~6.0~555~N/A~$675,000~

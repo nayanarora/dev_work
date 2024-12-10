@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+44 Sherwood Place, Royalla NSW 2620 ~$1,975,000 ONO~4~2~House~N/A~30299.999999999996~325~N/A~
+102 Southfork Place, Royalla NSW 2620 ~$2350000~5~1~House~N/A~55300.0~N/A~N/A~
+182 Valley Drive, Royalla NSW 2620 ~$2,499,000 to $2,595,000~6~3~House~N/A~57500.0~N/A~N/A~
+11 Valley Drive, Royalla NSW 2620 ~$2,899,000 ONO~5~3~House~N/A~31400.0~N/A~N/A~

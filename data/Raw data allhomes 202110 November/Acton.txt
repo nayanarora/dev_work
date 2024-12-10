@@ -1,0 +1,7 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+23/3 Gordon Street, City ACT 2601 ~$470,000~1~1~Apartment~4.0~6923~80~N/A~
+315/25 Edinburgh Avenue, City ACT 2601 ~Offers Over $485,000~1~1~Unit / Apartment~6.0~N/A~72~N/A~
+403/25 Edinburgh Avenue, Acton ACT 2601 ~$499,000~1~1~Apartment~6.0~N/A~N/A~N/A~
+614/25 Edinburgh Avenue, Acton ACT 2601 ~$499,000~1~1~Apartment~6.0~N/A~N/A~N/A~
+1411/25 Edinburgh Avenue, Acton ACT 2601 ~$840,000~2~2~Apartment~6.0~N/A~93~N/A~
+1602/19 Marcus Clarke Street, City ACT 2601 ~$2,900,000~3~3~Apartment~4.0~N/A~N/A~N/A~

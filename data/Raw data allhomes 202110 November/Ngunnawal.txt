@@ -1,0 +1,3 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+53 Windradyne Street, Ngunnawal ACT 2913 ~$629,000 ~3~1~Duplex~6.0~N/A~88~$240,000~
+3 Taggerty Street, Ngunnawal ACT 2913 ~$719,000~3~2~House~5.0~254~120~$240,000~

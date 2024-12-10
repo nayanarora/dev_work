@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+6/4 Heard Street, Mawson ACT 2607 ~$459,000~2~1~Apartment~4.5~6206~N/A~$4,800,000~
+6/25 MacRobertson Street, Mawson ACT 2607 ~$510,000~1~1~Townhouse~4.0~2165~N/A~$2,400,000~
+21 Rymill Place, Mawson ACT 2607 ~Offers over $900,000~3~2~House~1.5~447~153~$599,000~
+37B Enderby Street, Mawson ACT 2607 ~$1,040,000~4~2~House~4.0~429~161~N/A~
+25A Wilkins Street, Mawson ACT 2607 ~$1,175,000~4~2~House~4.0~799~190~N/A~

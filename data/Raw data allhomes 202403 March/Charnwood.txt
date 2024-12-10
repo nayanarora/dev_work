@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+16 Rumker Place, Charnwood ACT 2615 ~$680,000~3~1~House~1.0~585~99~$440,000~
+1 Yabsley Place, Charnwood ACT 2615 ~$695,000~4~1~House~N/A~741~108~$380,000~
+11 Clambe Place, Charnwood ACT 2615 ~Offers Over $700,000~4~2~House~1.5~631~N/A~$380,000~
+8 Holtermann Place, Charnwood ACT 2615 ~$839,000~6~3~House~1.5~670~N/A~$405,000~

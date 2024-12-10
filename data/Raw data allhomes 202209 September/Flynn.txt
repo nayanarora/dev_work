@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+42 Crawford Crescent, Flynn ACT 2615 ~$920,000~4~2~House~1.0~806~175~$543,000~
+47 Hedland Circuit, Flynn ACT 2615 ~$1,150,000~3~1~House~2.0~1049~109~$476,000~
+28 Schwarz Place, Flynn ACT 2615 ~$1,790,000~5~3~House~3.5~1505~370~$819,000~

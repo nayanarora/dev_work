@@ -1,0 +1,14 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+73 Hibberd Crescent, Forde ACT 2914 ~  $645,000~2~1~House~N/A~220~116~$354,000~
+49 Helen Leonard Crescent, Forde ACT 2914 ~$768000~2~1~House~6.0~300~126~$446,000~
+66 Francis Forde Boulevard, Forde ACT 2914 ~$775,000~3~2~Townhouse~5.5~168~N/A~N/A~
+39 Leslie Dwyer Street, Forde ACT 2914 ~$800,000~3~2~House~4.5~286~137~$444,000~
+31 Volpato Street, Forde ACT 2914 ~$835,000~4~2~Townhouse~5.5~182~N/A~$344,000~
+27 Volpato Street, Forde ACT 2914 ~$870,000~N/A~N/A~House~6.0~210~N/A~$354,000~
+31 Leslie Dwyer Street, Forde ACT 2914 ~$899,000~4~2~Townhouse~4.0~142~N/A~N/A~
+10 Cleggett Street, Forde ACT 2914 ~$1,078,000~4~2~House~3.0~325~225~$470,000~
+19 Blizzard Circuit, Forde ACT 2914 ~$1,129,000~4~1~House~5.0~465~N/A~$583,000~
+29 Buchan Crescent, Forde ACT 2914 ~$1250000~5~2~House~6.0~540~N/A~$629,000~
+50 Aida Ball Circuit, Forde ACT 2914 ~$1,499,000~4~2~House~6.0~556~242~$762,000~
+30 Bruce Dittmar Street, Forde ACT 2914 ~$1,700,000~5~2~House~4.0~481~360~$592,000~
+8 Retz Crescent, Forde ACT 2914 ~$2200000~6~4~House~4.5~899~525~$936,000~

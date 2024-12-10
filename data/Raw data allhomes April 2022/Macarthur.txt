@@ -1,0 +1,3 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+8 Body Place, Macarthur ACT 2904 ~$920,000~3~1~House~1.0~N/A~112~$365,000~
+54 Jackie Howe Crescent, Macarthur ACT 2904 ~$1,000,000~3~2~House~4.5~899~N/A~$432,000~

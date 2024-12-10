@@ -1,0 +1,10 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+29/6 High Street, Queanbeyan East NSW 2620 ~$339000~1~1~Apartment~N/A~N/A~66~N/A~
+6/54 Atkinson Street, Queanbeyan East NSW 2620 ~$355000~2~1~Unit / Apartment~N/A~N/A~N/A~N/A~
+1/17 Mowatt Street, Queanbeyan East NSW 2620 ~$365000~2~1~Unit / Apartment~N/A~N/A~66~N/A~
+2/4 Waterloo Street, Queanbeyan East NSW 2620 ~$360,000~1~1~Townhouse~N/A~N/A~46~N/A~
+14/17 Mowatt Street, Queanbeyan East NSW 2620 ~$375000~2~1~Unit / Apartment~N/A~N/A~82~N/A~
+30/39 Thurralilly Street, Queanbeyan East NSW 2620 ~$385,000 to $415,000~3~2~Apartment~N/A~N/A~N/A~N/A~
+7/12 Waniassa Street, Queanbeyan East NSW 2620 ~$459500~2~2~Unit / Apartment~N/A~N/A~120~N/A~
+7/43-45 Booth Street, Queanbeyan East NSW 2620 ~$499000~2~1~Townhouse~N/A~N/A~N/A~N/A~
+95 Thomas Royal Gardens, Queanbeyan East NSW 2620 ~$925000~4~2~House~N/A~466~161~N/A~

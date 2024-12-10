@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+2/17 Smith Street, Weetangera ACT 2614 ~$1,299,000~4~3~Townhouse~5.0~253~193~N/A~

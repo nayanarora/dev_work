@@ -1,0 +1,8 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+6/26 Scratchley Place, Monash ACT 2904 ~Offers Over $749,000~3~2~Townhouse~3.0~476~135~N/A~
+21 Charleston Street, Monash ACT 2904 ~$800,000~3~2~House~N/A~488~N/A~$420,000~
+9/156 Clive Steele Avenue, Monash ACT 2904 ~$820,000~3~1~Townhouse~0.5~313~N/A~N/A~
+2 Stein Place, Monash ACT 2904 ~$859,000~3~1~House~1.0~995~N/A~$508,000~
+23 Axon Street, Monash ACT 2904 ~$925,000~4~2~House~1.5~1124~172~$463,000~
+66 Sturdee Crescent, Monash ACT 2904 ~$995,000~4~2~House~2.0~709~210~$495,000~
+10 Thompson Place, Monash ACT 2904 ~$1,269,000~5~4~House~0.5~1099~322~$689,000~

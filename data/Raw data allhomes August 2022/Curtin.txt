@@ -1,0 +1,7 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+3/6 Walsh Place, Curtin ACT 2605 ~$220,000~1~1~Apartment~2.0~2952~35~$208,000~
+73/3 Waddell Place, Curtin ACT 2605 ~$245,000~1~1~Unit / Apartment~6.0~13100.0~32~$188,480~
+13/3 Waddell Place, Curtin ACT 2605 ~$360,000 ~2~1~Unit / Apartment~4.0~13100.0~53~$188,480~
+4/3 Waddell Place, Curtin ACT 2605 ~$379,000~2~1~Apartment~6.0~13100.0~N/A~$188,480~
+60 Throssell Street, Curtin ACT 2605 ~$1,249,000~3~1~House~2.5~747~110~$889,000~
+3 Parker Street, Curtin ACT 2605 ~$1,600,000 ~5~1~House~3.5~699~174~$901,000~

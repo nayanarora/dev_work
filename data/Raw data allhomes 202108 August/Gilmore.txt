@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+12 Aronson Crescent, Gilmore ACT 2905 ~$849,000~4~1~House~4.0~878~N/A~$317,000~

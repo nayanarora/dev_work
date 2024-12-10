@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+7/39 Gardiner Street, Downer ACT 2602 ~$400,000~2~1~Unit / Apartment~6.0~1465~N/A~$182,000~
+1/26 Frencham Street, Downer ACT 2602 ~$410,000~2~1~Unit / Apartment~2.0~1304~N/A~$206,500~
+10/39 Gardiner Street, Downer ACT 2602 ~$430,000~2~1~Apartment~N/A~1465~N/A~$182,000~
+131 Antill Street, Downer ACT 2602 ~$1,050,000~4~2~House~5.0~595~N/A~N/A~
+522 Northbourne Avenue, Downer ACT 2602 ~$2,900,000~7~7~House~N/A~832~N/A~$595,000~

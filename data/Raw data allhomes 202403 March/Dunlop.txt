@@ -1,0 +1,11 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+3/4 Jeff Snell Crescent, Dunlop ACT 2615 ~Offers over $460,000~2~1~Unit / Apartment~5.5~1554~N/A~$880,000~
+3 Randall Close, Dunlop ACT 2615 ~$664000~3~1~House~2.5~360~94~$375,000~
+4 Toft Street, Dunlop ACT 2615 ~$715,000~3~1~House~4.0~329~N/A~$280,000~
+16 Berkeley Street, Dunlop ACT 2615 ~$779,000~3~2~House~3.0~496~142~$415,000~
+80 Shoobridge Circuit, Dunlop ACT 2615 ~Offers over $820,000~3~2~House~6.0~502~113~$421,000~
+77 Marchant Circuit, Dunlop ACT 2615 ~$895,000~4~2~House~4.0~578~149~$432,000~
+42 Courtneidge Street, Dunlop ACT 2615 ~$949,000~4~2~House~6.0~462~213~$380,000~
+12 Simonetti Street, Dunlop ACT 2615 ~$980,000~4~2~House~4.0~593~238~$443,000~
+75 Polwarth Circuit, Dunlop ACT 2615 ~$995,000~4~2~House~5.0~650~N/A~$480,000~
+5 Morrow Street, Dunlop ACT 2615 ~$1,000,000~4~2~House~5.0~782~N/A~$476,000~

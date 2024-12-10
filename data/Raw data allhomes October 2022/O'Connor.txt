@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+13/15 Berrigan Crescent, O'Connor ACT 2602 ~$450,000 New Price~1~1~Apartment~6.0~1794~54~$198,450~
+2/4 Hardman Street, O'Connor ACT 2602 ~$560,000~1~1~Apartment~6.0~1661~N/A~$202,950~
+104 Scrivener Street, O'Connor ACT 2602 ~$1,800,000~4~3~House~3.5~843~183~$1,149,000~
+12 Tate Street, O'Connor ACT 2602 ~$1,995,000~4~3~House~6.0~643~N/A~N/A~

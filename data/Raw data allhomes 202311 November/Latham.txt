@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+21 Faucett, Latham ACT 2615 ~$790,000 ~5~3~House~1.5~N/A~N/A~N/A~
+38 Dalley Crescent, Latham ACT 2615 ~  $825,000~3~1~House~2.0~877~153~$465,000~
+20 Chubb Place, Latham ACT 2615 ~$919,000~4~2~House~0.5~847~202~$412,000~
+1 Meymott Place, Latham ACT 2615 ~$1,150,000~4~1~House~6.0~416~255~$458,000~

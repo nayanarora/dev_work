@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+39 House Circuit, Banks ACT 2906 ~$620,000~3~1~House~4.0~543~N/A~$420,000~
+35 McLuckie Crescent, Banks ACT 2906 ~$729,000~3~1~House~1.0~964~120~$488,000~
+2 Adcock Place, Banks ACT 2906 ~$850,000~4~1~House~4.5~831~N/A~$451,000~
+15 Smeaton Circuit, Banks ACT 2906 ~$939,000~4~3~House~4.0~753~N/A~$425,000~
+6 Galbraith Close, Banks ACT 2906 ~$1,050,000~4~2~House~3.5~636~N/A~$450,000~

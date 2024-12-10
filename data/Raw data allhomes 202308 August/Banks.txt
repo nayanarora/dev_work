@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+8 Luckman Place, Banks ACT 2906 ~$670,000~3~1~House~0.5~401~110~$397,000~
+21 Chalker Circuit, Banks ACT 2906 ~$700,000~3~1~House~3.5~557~101~$378,000~
+4 McLuckie Crescent, Banks ACT 2906 ~$800,000~4~2~House~3.0~869~133~$451,000~
+2 Adcock Place, Banks ACT 2906 ~$850,000~4~1~House~4.5~831~N/A~$451,000~
+15 Smeaton Circuit, Banks ACT 2906 ~$939,000~4~3~House~4.0~753~N/A~$425,000~

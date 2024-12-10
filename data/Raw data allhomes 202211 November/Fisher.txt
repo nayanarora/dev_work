@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+4H/3 Avoca Place, Fisher ACT 2611 ~$499,000~3~2~Unit / Apartment~3.5~773~N/A~$187,200~

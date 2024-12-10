@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+10 Bambridge Street, Weetangera ACT 2614 ~$1,250,000~5~3~House~1.0~880~263~$525,000~
+6 Morton Street, Weetangera ACT 2614 ~$1,300,000~4~2~House~3.0~892~161~$522,000~
+14 Mayo Street, Weetangera ACT 2614 ~$1,400,000 ~4~2~House~1.0~1044~256~$552,000~

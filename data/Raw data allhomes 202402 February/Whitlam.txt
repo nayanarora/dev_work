@@ -1,0 +1,55 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+EKKO - 1 Bedroom Courtyard Apartment, Whitlam ACT 2611 ~$475,000~N/A~N/A~N/A~N/A~N/A~N/A~N/A~
+1 Lois Simpson Crescent, Whitlam ACT 2611 ~$899000~N/A~N/A~N/A~N/A~609~N/A~N/A~
+(no street name provided), Whitlam ACT 2611 ~$1049999~N/A~N/A~N/A~N/A~N/A~N/A~N/A~
+15 Olive Cotton View, Whitlam ACT 2611 ~$549,000~N/A~N/A~N/A~N/A~350~N/A~N/A~
+6 Malcolm Cole Terrace, Whitlam ACT 2611 ~$559,000~N/A~N/A~N/A~N/A~342~N/A~N/A~
+23 Malcolm Cole Terrace, Whitlam ACT 2611 ~$559,000~N/A~N/A~N/A~N/A~350~N/A~N/A~
+13 Inge King Crescent, Whitlam ACT 2611 ~$569,000~N/A~N/A~N/A~N/A~364~N/A~N/A~
+EKKO - 2 Bedroom Apartment DA Approved!, Whitlam ACT 2611 ~$585,000~N/A~N/A~N/A~N/A~N/A~N/A~N/A~
+143 Sculthorpe Avenue, Whitlam ACT 2611 ~$599,000~N/A~N/A~N/A~N/A~450~N/A~N/A~
+20 Tingwell Street, Whitlam ACT 2611 ~$618,000~N/A~N/A~N/A~N/A~419~N/A~N/A~
+30 Pat Lovell Crescent, Whitlam ACT 2611 ~$620,000~N/A~N/A~N/A~N/A~425~N/A~N/A~
+EKKO - 2 Bedroom + Study DA Approved!, Whitlam ACT 2611 ~$639,000~N/A~N/A~N/A~N/A~N/A~N/A~N/A~
+44 Hazel Hawke Avenue, Whitlam ACT 2611 ~$649,000~N/A~N/A~N/A~N/A~597~N/A~N/A~
+24 Pat Lovell Crescent, Whitlam ACT 2611 ~$649,900~N/A~N/A~N/A~N/A~450~N/A~N/A~
+106 Hazel Hawke Avenue, Whitlam ACT 2611 ~$665,000~N/A~N/A~N/A~N/A~450~N/A~N/A~
+9 Inge King Crescent, Whitlam ACT 2611 ~$668,000~N/A~N/A~N/A~N/A~501~N/A~N/A~
+9 Keith Bain Crest, Whitlam ACT 2611 ~$669,000~N/A~N/A~N/A~N/A~495~N/A~N/A~
+4 Hazel Hawke Avenue, Whitlam ACT 2611 ~  $675,000~N/A~N/A~N/A~N/A~578~N/A~N/A~
+Whitlam - Feels like home - Block 15 Section 46 - 449m2, Whitlam ACT 2611 ~$682,500~N/A~N/A~N/A~N/A~N/A~N/A~N/A~
+Whitlam - Feels like home - Block 9 Section 93 - 450m2, Whitlam ACT 2611 ~$685,000~N/A~N/A~N/A~N/A~N/A~N/A~N/A~
+Whitlam - Feels like home - Block 12 Section 93 - 450m2, Whitlam ACT 2611 ~$685,000~N/A~N/A~N/A~N/A~N/A~N/A~N/A~
+(no street name provided), Whitlam ACT 2611 ~$1075000~N/A~N/A~N/A~N/A~N/A~239~N/A~
+Whitlam - Feels like home - Block 10 Section 92 - 493m2, Whitlam ACT 2611 ~$700,000~N/A~N/A~N/A~N/A~N/A~N/A~N/A~
+EKKO - 2 bedroom townhouse DA Approved!, Whitlam ACT 2611 ~$720,000~N/A~N/A~N/A~N/A~N/A~N/A~N/A~
+Whitlam - Feels like home - Block 17 Section 87 - 369m2, Whitlam ACT 2611 ~$746,000~N/A~N/A~N/A~N/A~N/A~N/A~N/A~
+31 Malcolm Cole Terrace, Whitlam ACT 2611 ~$795,000~N/A~N/A~N/A~N/A~625~N/A~N/A~
+Acacia - UNIT 4/ Maymuru Way WHITLAM, ACT 2611, Whitlam ACT 2611 ~$799,900~N/A~N/A~N/A~N/A~N/A~N/A~N/A~
+1/100 Hazel Hawke Avenue, Whitlam ACT 2611 ~$999,000~N/A~N/A~N/A~N/A~400~N/A~N/A~
+Unit 1/Block 6 Section 30, Whitlam ACT 2611 ~$999,000~N/A~N/A~N/A~N/A~400~N/A~N/A~
+EKKO - 3 Bedroom Townhouse, Whitlam ACT 2611 ~$999,000~N/A~N/A~N/A~N/A~N/A~N/A~N/A~
+Argonaut Street, Whitlam ACT 2611 ~$1,150,000~N/A~N/A~N/A~N/A~375~220~N/A~
+53 Keith Bain Crescent, Whitlam ACT 2611 ~$1,199,000~N/A~N/A~N/A~N/A~320~261~N/A~
+9 Klaus Moje Street, Whitlam ACT 2611 ~$1342500~N/A~N/A~N/A~N/A~451~N/A~N/A~
+4/4 Lucy Cassidy Lane, Whitlam ACT 2611 ~$1,200,000~N/A~N/A~N/A~N/A~321~N/A~N/A~
+(no street name provided), Whitlam ACT 2611 ~$1,290,000~N/A~N/A~N/A~N/A~419~N/A~N/A~
+14 Redpath Terrace, Whitlam ACT 2611 ~$1,300,000~N/A~N/A~N/A~N/A~263~N/A~N/A~
+(no street name provided), Whitlam ACT 2611 ~$1,300,000~N/A~N/A~N/A~N/A~429~N/A~N/A~
+(no street name provided), Whitlam ACT 2611 ~$1,300,000~N/A~N/A~N/A~N/A~N/A~N/A~N/A~
+Acacia - UNIT 21/ Maymuru Way WHITLAM, ACT 2611, Whitlam ACT 2611 ~$1,320,900~N/A~N/A~N/A~N/A~N/A~N/A~N/A~
+4 Patkin Street, Whitlam ACT 2611 ~$1,375,000~N/A~N/A~N/A~N/A~617~280~N/A~
+9 Chaloupka Street, Whitlam ACT 2611 ~$1,410,000~N/A~N/A~N/A~N/A~525~N/A~N/A~
+6 Rajah Lane, Whitlam ACT 2611 ~$1,425,990~N/A~N/A~N/A~N/A~487~N/A~N/A~
+6 Arkwookerum Street, Whitlam ACT 2611 ~$1464000~N/A~N/A~N/A~N/A~472~274~N/A~
+22 Maggie Scott Terrace, Whitlam ACT 2611 ~$1,450,000~N/A~N/A~N/A~N/A~306~261~N/A~
+17 Olive Cotton View, Whitlam ACT 2611 ~$1,499,000~N/A~N/A~N/A~N/A~350~275~N/A~
+11 Patkin Street, Whitlam ACT 2611 ~$1,499,990~N/A~N/A~N/A~N/A~480~266~N/A~
+34 Churcher Crescent, Whitlam ACT 2611 ~$1,500,000~N/A~N/A~N/A~N/A~510~250~N/A~
+Acacia - UNIT 10/ Maymuru Way WHITLAM, ACT 2611, Whitlam ACT 2611 ~$1,510,000~N/A~N/A~N/A~N/A~N/A~N/A~N/A~
+(no street name provided), Whitlam ACT 2611 ~$1,585,000~N/A~N/A~N/A~N/A~494~N/A~N/A~
+17 Arkwookerum Street, Whitlam ACT 2611 ~$1,645,000~N/A~N/A~N/A~N/A~523~310~N/A~
+67 Keith Bain Crescent, Whitlam ACT 2611 ~$1,748,000~N/A~N/A~N/A~N/A~434~357~N/A~
+(no street name provided), Whitlam ACT 2611 ~$1,799,000~N/A~N/A~N/A~N/A~592~N/A~N/A~
+78 Churcher Crescent, Whitlam ACT 2611 ~$2,050,000~N/A~N/A~N/A~N/A~600~N/A~N/A~
+3 St Leon Street, Whitlam ACT 2611 ~$2,150,000~N/A~N/A~N/A~N/A~540~390~N/A~

@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+21 Hawkesworth Place, Macarthur ACT 2904 ~$979,000~4~2~House~2.5~1119~180~$542,000~

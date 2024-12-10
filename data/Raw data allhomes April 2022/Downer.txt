@@ -1,0 +1,3 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+37 Durack Street, Downer ACT 2602 ~$1,480,000~4~1~House~2.0~694~165~$624,000~
+14 Giblin Place, Downer ACT 2602 ~$1,600,000~4~2~House~4.5~904~133~$716,000~

@@ -1,0 +1,8 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+10/17 Ashley Drive, Wanniassa ACT 2903 ~$585,000~2~2~Townhouse~N/A~1887~N/A~$1,350,000~
+32 Wheeler Crescent, Wanniassa ACT 2903 ~$795,000~3~1~House~0.5~802~103~$458,000~
+1 McKean Place, Wanniassa ACT 2903 ~$799,000~3~1~House~1.5~1093~N/A~$528,000~
+17 McBryde Crescent, Wanniassa ACT 2903 ~$799,000~3~1~House~1.0~853~116~$511,000~
+5 Hervey Place, Wanniassa ACT 2903 ~$810,000~4~1~House~1.5~878~126~$511,000~
+10 Morrissey Street, Wanniassa ACT 2903 ~$820,000~3~2~House~0.5~713~N/A~$483,000~
+60 Holden Crescent, Wanniassa ACT 2903 ~$830,000~4~1~House~0.5~874~118~$526,000~

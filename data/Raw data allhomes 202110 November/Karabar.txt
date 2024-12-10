@@ -1,0 +1,7 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+16 Eugenia Street, Karabar NSW 2620 ~$620000~3~1~House~N/A~617~N/A~N/A~
+2/11 Doeberl Place, Karabar NSW 2620 ~$715000~3~2~Townhouse~N/A~N/A~N/A~N/A~
+37 Christopher Crescent, Karabar NSW 2620 ~$750,000~3~1~House~N/A~607~N/A~N/A~
+90 Cameron Road, Karabar NSW 2620 ~$840000~3~2~House~N/A~N/A~N/A~N/A~
+31 Hayley Crescent, Karabar NSW 2620 ~$900,000~3~1~House~N/A~700~104~N/A~
+10 Morrison Place, Karabar NSW 2620 ~$1150000~4~2~House~N/A~696~N/A~N/A~

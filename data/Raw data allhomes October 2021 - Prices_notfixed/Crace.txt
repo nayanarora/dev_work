@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+11/21 Samaria Street, Crace ACT 2911 ~$799,000~3~2~Townhouse~6.0~N/A~162~N/A~
+8 Benalla Street, Crace ACT 2911 ~$1,199,000~4~3~House~5.5~450~185~$390,000~
+2 Keewong Street, Crace ACT 2911 ~$1,380,000~4~2~House~4.5~535~232~$419,000~
+15/48 Abena Avenue, Crace ACT 2911 ~Offers Over $329,00~1~1~Apartment~6.0~N/A~N/A~N/A~

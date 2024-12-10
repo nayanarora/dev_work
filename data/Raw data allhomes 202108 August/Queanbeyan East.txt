@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+11/9 Macquoid Street, Queanbeyan East NSW 2620 ~$184000~1~1~Unit / Apartment~N/A~49~N/A~N/A~

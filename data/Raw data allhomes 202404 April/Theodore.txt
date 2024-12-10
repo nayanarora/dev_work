@@ -1,0 +1,9 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+3/19 Brigden Crescent, Theodore ACT 2905 ~Offers Over $535,000~2~1~Townhouse~2.5~1426~N/A~$870,000~
+151 Lawrence Wackett Crescent, Theodore ACT 2905 ~$750,000~3~1~House~3.0~748~N/A~$435,000~
+79 Freda Gibson Circuit, Theodore ACT 2905 ~$765,000~3~1~House~2.5~700~193~$420,000~
+58 Tewksbury Circuit, Theodore ACT 2905 ~Offers Over $770,000~3~2~House~1.0~774~125~$444,000~
+16 Porteous Crescent, Theodore ACT 2905 ~$795,000~3~1~House~0.0~925~N/A~$445,000~
+57 Goldfinch Circuit, Theodore ACT 2905 ~$849,999~5~2~House~3.0~882~N/A~$482,000~
+3 Lienhop Street, Theodore ACT 2905 ~Offers Over $975,000~4~2~House~1.5~885~168~$459,000~
+44 Louis Loder Street, Theodore ACT 2905 ~$1,100,000~4~2~House~2.0~1226~N/A~$550,000~

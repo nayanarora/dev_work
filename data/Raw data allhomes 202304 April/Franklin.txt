@@ -1,0 +1,14 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+51/21 Christina Stead Street, Franklin ACT 2913 ~$385,000~1~1~Apartment~6.0~7982~N/A~$38,253~
+92/75 Elizabeth Jolley Crescent, Franklin ACT 2913 ~$489,000~2~2~Apartment~4.5~9025~86~$2,650,000~
+94/75 Elizabeth Jolley Crescent, Franklin ACT 2913 ~  $499,000~2~2~Unit / Apartment~6.0~9025~72~$2,650,000~
+38/311 Flemington Road, Franklin ACT 2913 ~$550,000 ~3~2~Apartment~1.5~12000.0~N/A~$79,560~
+95/235 Flemington Road, Franklin ACT 2913 ~$599,000~3~2~Apartment~6.0~N/A~N/A~$49,500~
+29/1 Christina Stead Street, Franklin ACT 2913 ~$659,000~3~2~Townhouse~6.0~7611~104~$49,500~
+1/8 Henry Kendall Street, Franklin ACT 2913 ~$700,000~3~3~Townhouse~5.5~142~169~N/A~
+47/8 Herny Kendall Street, Franklin ACT 2913 ~$725,000~3~2~Townhouse~6.0~N/A~147~N/A~
+(no street name provided), Franklin ACT 2913 ~$755,000~3~1~Townhouse~5.5~103~N/A~N/A~
+15/20 Clare Burton Crescent, Franklin ACT 2913 ~$800,000~3~2~Townhouse~6.0~6712~168~$178,500~
+6 Hinde Street, Franklin ACT 2913 ~$825,000~3~2~House~6.0~249~N/A~$284,000~
+1 Charlotte Barton Street, Franklin ACT 2913 ~$995,000~4~2~House~6.0~393~188~$529,000~
+12 Nina Murdoch Crescent, Franklin ACT 2913 ~$1,499,000~5~3~House~3.0~570~269~$580,000~

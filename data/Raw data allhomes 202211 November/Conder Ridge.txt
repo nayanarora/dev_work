@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+11/23 Heidelberg Street, Conder ACT 2906 ~Offers Over $599,000~3~1~Unit / Apartment~1.5~245~98~N/A~
+13/11 Florence Fuller Crescent, Conder ACT 2906 ~Offers Over $895,000~5~3~House~3.0~325~196~N/A~
+9 Veal Place, Conder ACT 2906 ~$899,000~4~2~House~2.0~828~N/A~$469,000~
+62 Jane Sutherland Street, Conder ACT 2906 ~$1,170,000~5~1~House~3.5~824~N/A~$439,000~
+6 Aldor Green, Conder ACT 2906 ~$1,225,000~5~2~House~4.5~900~239~$543,000~

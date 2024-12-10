@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+6/3 Brockway Circuit, Banks ACT 2906 ~$629,000~3~1~Townhouse~1.0~275~N/A~N/A~
+19 Adcock Place, Banks ACT 2906 ~$1,100,000~5~3~House~2.0~818~179~$451,000~
+19 Kettlewell Crescent, Banks ACT 2906 ~$1,180,000~5~2~House~4.0~889~N/A~$566,000~

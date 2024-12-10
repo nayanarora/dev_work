@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+14 Sheehy Street, Evatt ACT 2617 ~$779,000~3~2~House~0.5~907~100~$567,000~
+19 Clancy Street, Evatt ACT 2617 ~$875,000~4~2~House~2.0~708~122~$567,000~
+45 Pitcairn Street, Evatt ACT 2617 ~$975,000~4~2~House~1.0~664~N/A~$620,000~

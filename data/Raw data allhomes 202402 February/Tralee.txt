@@ -1,0 +1,40 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+96 Oxalis Crescent, South Jerrabomberra NSW 2620 ~$437500~N/A~N/A~N/A~N/A~435~N/A~N/A~
+(no street name provided), South Jerrabomberra NSW 2620 ~$425,000~N/A~N/A~N/A~N/A~350~N/A~N/A~
+3 Zornia Street, Tralee NSW 2620 ~$445,000~N/A~N/A~N/A~N/A~439~N/A~N/A~
+46 Alpine Ash Way, Tralee NSW 2620 ~$460,000~N/A~N/A~N/A~N/A~397~N/A~N/A~
+South Jerrabomberra - Lot A43, Tralee NSW 2620 ~$494,900~N/A~N/A~N/A~N/A~479~N/A~N/A~
+22 Wiry Dock Road, Tralee NSW 2620 ~$495,000~N/A~N/A~N/A~N/A~448~N/A~N/A~
+South Jerrabomberra - Lot A42, Tralee NSW 2620 ~$517,900~N/A~N/A~N/A~N/A~479~N/A~N/A~
+South Jerrabomberra - Lot A45, Tralee NSW 2620 ~$588,900~N/A~N/A~N/A~N/A~479~N/A~N/A~
+13 Wiry Dock Road, Tralee NSW 2620 ~$624000~N/A~N/A~N/A~N/A~610~N/A~N/A~
+7 Maidenhair Road, Tralee NSW 2620 ~$600,000~N/A~N/A~N/A~N/A~499~N/A~N/A~
+South Jerrabomberra - Lot 723, Tralee NSW 2620 ~$607,900~N/A~N/A~N/A~N/A~N/A~N/A~N/A~
+South Jerrabomberra - Lot 832, Tralee NSW 2620 ~$623,900~N/A~N/A~N/A~N/A~N/A~N/A~N/A~
+7 Wiry Dock Road, Tralee NSW 2620 ~$694000~N/A~N/A~N/A~N/A~609~N/A~N/A~
+ZHURI TERRACES - 27 Madenhair Road, Tralee NSW 2620 ~$724000~N/A~N/A~N/A~N/A~226~N/A~N/A~
+57 Tassel Terrace, Tralee NSW 2620 ~$735000~N/A~N/A~N/A~N/A~160~107~N/A~
+Lot 310 Section Am, Tralee NSW 2620 ~$740,000~N/A~N/A~N/A~N/A~257~180~N/A~
+30 Tassel Terrace, Tralee NSW 2620 ~$759,000~N/A~N/A~N/A~N/A~134~N/A~N/A~
+(no street name provided), South Jerrabomberra NSW 2620 ~$777,500~N/A~N/A~N/A~N/A~357~N/A~N/A~
+(no street name provided), South Jerrabomberra NSW 2620 ~$790,290~N/A~N/A~N/A~N/A~382~N/A~N/A~
+(no street name provided), Tralee NSW 2620 ~$799,000~N/A~N/A~N/A~N/A~305~210~N/A~
+40 Violet Terrace, Tralee NSW 2620 ~$810000~N/A~N/A~N/A~N/A~303~126~N/A~
+38 Speargrass Road, Tralee NSW 2620 ~$810,000~N/A~N/A~N/A~N/A~752~N/A~N/A~
+VIVA - 12 Storksbill Terrace, South Jerrabomberra NSW 2620 ~$820,000~N/A~N/A~N/A~N/A~N/A~N/A~N/A~
+VIVA - 8 Storksbill Terrace, South Jerrabomberra NSW 2620 ~$820,000~N/A~N/A~N/A~N/A~N/A~N/A~N/A~
+(no street name provided), South Jerrabomberra NSW 2620 ~$855,000~N/A~N/A~N/A~N/A~350~N/A~N/A~
+32 Tassel Terrace, Tralee NSW 2620 ~$859,000~N/A~N/A~N/A~N/A~171~N/A~N/A~
+22 Violet Terrace, Tralee NSW 2620 ~$877500~N/A~N/A~N/A~N/A~425~N/A~N/A~
+VIVA - 18 Storksbill Terrace, South Jerrabomberra NSW 2620 ~$875,000~N/A~N/A~N/A~N/A~N/A~N/A~N/A~
+7 Appleberry Road, Tralee NSW 2620 ~$889,000~N/A~N/A~N/A~N/A~348~N/A~N/A~
+(no street name provided), South Jerrabomberra NSW 2620 ~$889,900~N/A~N/A~N/A~N/A~357~N/A~N/A~
+20 Melicope St, South Jerrabomberra NSW 2620 ~$895,900~N/A~N/A~N/A~N/A~350~N/A~N/A~
+VIVA - 16 Storksbill Terrace, South Jerrabomberra NSW 2620 ~$900,000~N/A~N/A~N/A~N/A~N/A~N/A~N/A~
+(no street name provided), South Jerrabomberra NSW 2620 ~$905,000~N/A~N/A~N/A~N/A~369~N/A~N/A~
+(no street name provided), South Jerrabomberra NSW 2620 ~$923350~N/A~N/A~N/A~N/A~417~N/A~N/A~
+12 Melicope Street, Tralee NSW 2620 ~$949,000~N/A~N/A~N/A~N/A~350~N/A~N/A~
+(no street name provided), South Jerrabomberra NSW 2620 ~$985,000~N/A~N/A~N/A~N/A~350~N/A~N/A~
+(no street name provided), South Jerrabomberra NSW 2620 ~$999,000~N/A~N/A~N/A~N/A~616~N/A~N/A~
+15 Maidenhair Road, Tralee NSW 2620 ~$1,040,000~N/A~N/A~N/A~N/A~295~N/A~N/A~
+(no street name provided), South Jerrabomberra NSW 2620 ~$1,061,500~N/A~N/A~N/A~N/A~630~N/A~N/A~

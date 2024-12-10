@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+23 Stacy Street, Gowrie ACT 2904 ~$800,000~3~1~House~4.0~793~134~$529,000~

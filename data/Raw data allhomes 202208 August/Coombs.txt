@@ -1,0 +1,25 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+3/60 John Gorton Drive, Coombs ACT 2611 ~$449,000~2~1~Apartment~6.0~8044~N/A~$43,200~
+Del-Rey - 50/43 Arthur Blakeley Way, Coombs ACT 2611 ~$495,000~2~1~Apartment~7.4~N/A~N/A~N/A~
+Del-Rey - 84/43 Arthur Blakeley Way, Coombs ACT 2611 ~$520,000~2~1~Apartment~7.1~N/A~N/A~N/A~
+Telfer Street, Coombs ACT 2611 ~$589,900~2~2~Apartment~7.8~808~N/A~$697,000~
+Del-Rey - 89/43 Arthur Blakeley Way, Coombs ACT 2611 ~$620,000~2~2~Apartment~7.7~N/A~N/A~N/A~
+The Crossing - Unit 65, Coombs ACT 2611 ~$665,000~2~3~Other~6.6~N/A~172~N/A~
+The Crossing - Unit 61, Coombs ACT 2611 ~$670,000~2~3~Other~6.6~N/A~172~N/A~
+The Crossing - Unit 78, Coombs ACT 2611 ~$680,000~2~3~Other~6.6~N/A~172~N/A~
+Del-Rey - 37/43 Arthur Blakeley Way, Coombs ACT 2611 ~$680,000~2~2~Apartment~6.7~N/A~N/A~N/A~
+The Crossing - Unit 66, Coombs ACT 2611 ~$680,000~2~3~Other~6.6~N/A~172~N/A~
+27/40 Pearlman Street, Coombs ACT 2611 ~$699,000~3~2~Townhouse~6.0~6179~107~$109,600~
+39/18 Cornelius Street, Coombs ACT 2611 ~$729,000~3~2~Townhouse~6.0~N/A~96~N/A~
+22B Castan Street, Coombs ACT 2611 ~$749000~3~2~Townhouse~6.0~14900.0~N/A~$78,300~
+FORM - Brand New Large open plan living 2 bedroom, Coombs ACT 2611 ~$749,900~2~1~Other~8.0~N/A~N/A~N/A~
+FORM - Light filled, 2 bed, 2 bath, Coombs ACT 2611 ~$749,900~2~1~Other~8.0~N/A~128~N/A~
+8D Harold White Avenue, Coombs ACT 2611 ~$750,000 offers encouraged~3~2~Townhouse~6.0~9829~123~$95,900~
+2D Harold White Avenue, Coombs ACT 2611 ~$760,000~3~2~Townhouse~6.0~9829~123~$95,900~
+33 Chanter Terrace, Coombs ACT 2611 ~$769,000~3~1~House~6.0~200~N/A~$304,000~
+FORM - 3 bedroom 2 bathroom with single car garage, Coombs ACT 2611 ~$799,900~3~1~Townhouse~7.9~N/A~118~N/A~
+FORM - 3 bedroom 2 bathroom with double car garage, Coombs ACT 2611 ~$849,900~3~1~Townhouse~7.7~N/A~134~N/A~
+FORM - North-facing 3 bedroom with double garage, Coombs ACT 2611 ~$869,900~3~1~Other~7.0~N/A~165~N/A~
+42/1 Gifford Street, Coombs ACT 2611 ~Offers above $880,000.00~4~3~Townhouse~N/A~14900.0~N/A~$99,090~
+FORM - Huge 3 bedroom townhome, Coombs ACT 2611 ~$1,150,000~3~1~Other~8.2~N/A~218~N/A~
+(no street name provided), Coombs ACT 2611 ~$1,650,000~3~2~House~6.0~450~263~$586,000~

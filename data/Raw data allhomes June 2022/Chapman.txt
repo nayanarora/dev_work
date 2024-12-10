@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+128 Darwinia Terrace, Chapman ACT 2611 ~$1,250,000~4~1~House~2.0~827~N/A~$462,000~

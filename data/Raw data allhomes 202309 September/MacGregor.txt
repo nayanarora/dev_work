@@ -1,0 +1,10 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+44 Refshauge Crescent, MacGregor ACT 2615 ~$659,000~3~1~House~5.5~227~91~$291,000~
+1A Victor Chang Street, MacGregor ACT 2615 ~$695,000~2~1~House~6.0~329~84~$376,000~
+56 Refshauge Crescent, MacGregor ACT 2615 ~$735000~3~1~House~6.0~226~113~$291,000~
+16 Heighway Street, MacGregor ACT 2615 ~$769,000~3~1~House~4.0~450~104~$415,000~
+52 John Holt Street, MacGregor ACT 2615 ~$779,000~3~1~House~6.0~374~151~$376,000~
+124 Hollows Circuit, MacGregor ACT 2615 ~$779,000~3~1~House~5.5~450~103~$406,000~
+36 Audrey Cahn Street, MacGregor ACT 2615 ~$849,000~3~2~House~5.0~428~N/A~$392,000~
+133 Eccles Circuit, MacGregor ACT 2615 ~$1,075,000~4~2~House~5.0~676~N/A~$518,000~
+7 Lawrence Close, MacGregor ACT 2615 ~$1,439,000~7~5~House~5.0~1072~276~$396,000~

@@ -1,0 +1,13 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+30/6 Lady Nelson Place, Red Hill ACT 2603 ~$755,000~1~1~Apartment~6.0~N/A~N/A~N/A~
+137 Monaro Crescent, Red Hill ACT 2603 ~$1,050,000~3~1~House~4.0~329~N/A~N/A~
+24a Dalrymple Street, Red Hill ACT 2603 ~$1,250,000~3~2~House~1.0~538~103~$1,200,000~
+1/9 Lady Nelson Place, Red Hill ACT 2603 ~$1,300,000 ~3~2~Apartment~6.0~1509~N/A~$8,500,000~
+28 Pelsart Street, Red Hill ACT 2603 ~$1,689,000~3~2~House~1.0~702~98~$1,600,000~
+39 Esperance Street, Red Hill ACT 2603 ~$1,699,000~4~2~House~4.5~778~182~N/A~
+195A La Perouse Street, Red Hill ACT 2603 ~$1,730,000~3~2~Townhouse~8.0~186~N/A~$668,000~
+29 Cygnet Crescent, Red Hill ACT 2603 ~$1,800,000~4~2~House~6.0~393~N/A~$1,132,000~
+24 Astrolabe Street, Red Hill ACT 2603 ~$1,995,000~4~2~House~0.5~714~146~$1,270,000~
+89 Investigator Street, Red Hill ACT 2603 ~$2,100,000~4~2~House~3.5~754~N/A~$1,437,000~
+9 Hicks Street, Red Hill ACT 2603 ~$2,395,000~4~2~House~6.0~692~N/A~$1,500,000~
+41A Quiros Street, Red Hill ACT 2603 ~$2,950,000~4~3~House~6.0~550~N/A~N/A~

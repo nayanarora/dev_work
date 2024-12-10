@@ -1,0 +1,11 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+6/47 McMillan Crescent, Griffith ACT 2603 ~Offers over $250,000~1~1~Unit / Apartment~3.0~N/A~N/A~$8,500,000~
+47 McMillan Crescent, Griffith ACT 2603 ~$315,000~1~1~Apartment~1.0~N/A~40~$8,500,000~
+2/17-19 Oxley Street, Griffith ACT 2603 ~$350,000~1~1~Apartment~1.0~N/A~55~$11,350,000~
+74/6-10 Eyre Street, Griffith ACT 2603 ~$398,000~1~1~Apartment~5.0~5010~69~N/A~
+29/13 Sturt Avenue, Griffith ACT 2603 ~Offers Over $485,000~2~1~Unit / Apartment~5.5~N/A~N/A~$14,700,000~
+19/16 Eyre Street, Griffith ACT 2603 ~$668500~2~2~Apartment~5.5~N/A~N/A~$12,500,000~
+8/55 Stuart Street, Griffith ACT 2603 ~$699000~2~2~Apartment~6.0~N/A~N/A~$2,250,000~
+405/107 Canberra Avenue, Griffith ACT 2603 ~Offers Over $695,000~2~2~Unit / Apartment~6.0~N/A~122~$3,750,000~
+7/115 Canberra Avenue, Griffith ACT 2603 ~$749,999~2~2~Apartment~6.0~N/A~108~$3,800,000~
+64/11 Light Street, Griffith ACT 2603 ~Offers Over $2,750,000~3~3~Unit / Apartment~6.0~N/A~260~N/A~

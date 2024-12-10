@@ -1,0 +1,11 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+24 Meeson Street, Chisholm ACT 2905 ~Offers Over $745,500~3~1~House~1.5~743~122~$450,000~
+26 Glencross Street, Chisholm ACT 2905 ~$795,000~3~1~House~2.0~685~N/A~$434,000~
+49 Kirkcaldie Circuit, Chisholm ACT 2905 ~$820,000~3~1~House~2.5~668~126~$434,000~
+5 Scotney Place, Chisholm ACT 2905 ~Offers Over $869,000~4~2~House~3.5~857~N/A~$506,000~
+35 Kirkcaldie Circuit, Chisholm ACT 2905 ~$930,000~3~1~House~4.0~798~N/A~$434,000~
+27 Enid Lorimer Circuit, Chisholm ACT 2905 ~Offers Over $949,000~4~2~House~3.5~777~155~$421,000~
+9 Pidgeon Place, Chisholm ACT 2905 ~$950,000~4~1~House~1.0~1334~N/A~$399,000~
+12 Lucy Gullett Circuit, Chisholm ACT 2905 ~$1,100,000~4~2~House~2.0~928~300~$524,000~
+6 Macnamara Street, Chisholm ACT 2905 ~$1,195,000~5~2~House~3.0~850~191~N/A~
+61 Couchman Crescent, Chisholm ACT 2905 ~$1,330,000~5~2~House~5.0~1445~215~$460,000~

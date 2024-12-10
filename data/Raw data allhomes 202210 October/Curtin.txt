@@ -1,0 +1,11 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+13/3 Waddell Place, Curtin ACT 2605 ~$350,000 ~2~1~Unit / Apartment~4.0~13100.0~53~$188,480~
+4/3 Waddell Place, Curtin ACT 2605 ~$360,000~2~1~Apartment~6.0~13100.0~N/A~$188,480~
+60 Throssell Street, Curtin ACT 2605 ~$1,249,000~3~1~House~2.5~747~110~$889,000~
+109 Theodore Street, Curtin ACT 2605 ~$1,300,000~4~2~House~1.0~812~190~$792,000~
+127 Theodore Street, Curtin ACT 2605 ~$1,395,000~4~2~House~1.0~781~N/A~$785,000~
+49 Jennings Street, Curtin ACT 2605 ~$1,495,000 ~4~2~House~1.5~799~178~$1,204,000~
+11 Ryan Street, Curtin ACT 2605 ~$1,500,000~4~3~House~2.5~718~234~$975,000~
+52 Throssell Street, Curtin ACT 2605 ~$1,550,000~4~2~House~3.0~734~167~$871,000~
+3 Parker Street, Curtin ACT 2605 ~$1,600,000 ~4~2~House~3.5~699~174~$901,000~
+4 Robertson Street, Curtin ACT 2605 ~$1,675,000~4~2~House~3.0~1096~220~$950,000~

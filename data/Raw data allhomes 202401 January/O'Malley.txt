@@ -1,0 +1,9 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+19/5 Taronga Place, O'Malley ACT 2606 ~$1,300,000~4~1~Townhouse~3.0~610~N/A~N/A~
+28/10 Taronga Place, O'Malley ACT 2606 ~$1,730,000~4~2~House~2.5~533~N/A~N/A~
+31 Pindari Crescent, O'Malley ACT 2606 ~  $2,300,000~5~3~House~4.0~1015~358~$1,171,000~
+7 Callemonda Rise, O'Malley ACT 2606 ~$2,750,000~6~3~House~2.0~2548~484~$1,409,000~
+25 Dalman Crescent, O'Malley ACT 2606 ~$3,150,000~7~5~House~5.0~2097~688~$1,810,000~
+11 Gerogery Place, O'Malley ACT 2606 ~$3,295,000~7~4~House~1.5~1576~748~$1,741,000~
+19 Timbarra Crescent, O'Malley ACT 2606 ~$3,800,000~5~3~House~4.0~1907~N/A~$1,783,000~
+7 Timbarra Crescent, O'Malley ACT 2606 ~$4,895,000~5~4~House~4.5~2627~N/A~$1,776,000~

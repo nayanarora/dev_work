@@ -1,0 +1,20 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+12/41 Leahy Close, Narrabundah ACT 2604 ~$335,000~1~1~Apartment~4.0~5009~N/A~$204,800~
+34/39 Jerrabomberra Avenue, Narrabundah ACT 2604 ~$429,000~1~1~Apartment~3.5~8999~55~$180,600~
+27/40 Leahy Close, Narrabundah ACT 2604 ~$449,000~2~1~Apartment~2.5~4783~79~$191,520~
+91/39 McIntyre Street, Narrabundah ACT 2604 ~$649,000~2~1~Unit / Apartment~6.0~13799.999999999998~N/A~$20,600,000~
+25/51 Leahy Close, Narrabundah ACT 2604 ~$799000~3~2~Apartment~1.5~3928~108~$197,600~
+45 Tallara Parkway, Narrabundah ACT 2604 ~$900,000~2~1~House~5.0~461~N/A~$910,000~
+50 McIntyre Street, Narrabundah ACT 2604 ~$1,050,000~2~1~House~2.0~567~93~$1,000,000~
+111 Matina Street, Narrabundah ACT 2604 ~$1,150,000~3~2~House~1.5~570~N/A~$770,000~
+68 Walker Crescent, Narrabundah ACT 2604 ~$1,175,000~3~1~House~1.0~556~103~$950,000~
+19/34 Leahy Close, Narrabundah ACT 2604 ~$1,195,000~3~2~Townhouse~2.5~12200.0~139~$218,240~
+9A Hacking Crescent, Narrabundah ACT 2604 ~$1,200,000~3~2~House~2.5~N/A~117~N/A~
+38 Tallara Parkway, Narrabundah ACT 2604 ~$1,250,000~3~2~House~1.0~1002~117~$940,000~
+161/39 McIntyre Street, Narrabundah ACT 2604 ~$1,299,000~3~2~Townhouse~6.0~13799.999999999998~168~$20,600,000~
+126 Goyder Street, Narrabundah ACT 2604 ~$1,395,000~4~1~House~1.0~1030~N/A~$1,020,000~
+52 Caley Crescent, Narrabundah ACT 2604 ~$1,890,000~3~1~House~1.5~717~N/A~$1,200,000~
+310 Goyder Street, Narrabundah ACT 2604 ~$2,100,000~4~3~House~4.0~702~N/A~$940,000~
+81 Stuart Street, Narrabundah ACT 2604 ~$2,650,000~4~3~House~5.5~633~281~$1,060,000~
+4 Johnston Street, Narrabundah ACT 2604 ~$3,195,000~4~2~House~4.0~974~N/A~$1,060,000~
+13 Finniss Crescent, Narrabundah ACT 2604 ~$3,995,000~5~3~House~4.0~772~349~$1,060,000~

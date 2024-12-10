@@ -1,0 +1,11 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+61 Barangaroo Street, Chisholm ACT 2905 ~$799,000~3~1~House~1.5~876~N/A~$479,000~
+16 Main Close, Chisholm ACT 2905 ~$810,000~3~1~House~1.5~1109~N/A~$506,000~
+35 Kirkcaldie Circuit, Chisholm ACT 2905 ~$930,000~3~1~House~4.0~798~N/A~$434,000~
+5 Geach Place, Chisholm ACT 2905 ~$949,000~5~2~House~2.0~872~N/A~$506,000~
+9 Pidgeon Place, Chisholm ACT 2905 ~$950,000~4~1~House~1.0~1334~N/A~$399,000~
+29 Baskerville Street, Chisholm ACT 2905 ~$1,000,000~4~1~House~1.0~1025~233~$506,000~
+6 Macnamara Place, Chisholm ACT 2905 ~$1125000~5~2~House~3.0~850~191~$518,000~
+70 Heagney Crescent, Chisholm ACT 2905 ~Offers Over $1,150,000~5~3~House~3.5~910~323~$506,000~
+1 Chase Place, Chisholm ACT 2905 ~$1,210,000~4~2~House~4.5~897~157~$542,000~
+61 Couchman Crescent, Chisholm ACT 2905 ~$1,330,000~5~2~House~5.0~1445~215~$460,000~

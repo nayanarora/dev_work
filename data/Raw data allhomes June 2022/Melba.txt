@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+17 Boult Place, Melba ACT 2615 ~$558,000~2~1~Townhouse~N/A~N/A~N/A~N/A~

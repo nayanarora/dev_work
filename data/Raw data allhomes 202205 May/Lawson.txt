@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+28/2 Pipeclay Street, Lawson ACT 2617 ~$630,000~2~2~Townhouse~6.0~6678~87~$3,600,000~
+31/15 Stockman Avenue, Lawson ACT 2617 ~Offers Over $639,900~2~2~Apartment~6.0~N/A~84~$4,674,000~
+63/2 Rouseabout Street, Lawson ACT 2617 ~$699,000~3~3~House~6.0~N/A~N/A~N/A~

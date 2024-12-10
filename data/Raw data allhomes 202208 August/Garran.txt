@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+22/15 Eldridge Crescent, Garran ACT 2605 ~$665,000~2~2~Apartment~N/A~8386~N/A~$119,250~
+12/7 Hopegood Place, Garran ACT 2605 ~Offer Over $779,000~3~2~Apartment~6.0~6187~120~$261,800~
+27 Fitchett Street, Garran ACT 2605 ~$2,300,000~5~3~House~4.5~730~235~$793,000~

@@ -1,0 +1,22 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+(no street name provided), South Jerrabomberra NSW 2620 ~$333,000~3~1~House~N/A~N/A~N/A~N/A~
+(no street name provided), South Jerrabomberra NSW 2620 ~$545,000~2~1~House and Land Package~N/A~170~114~N/A~
+Road, South Jerrabomberra NSW 2620 ~$725000~3~2~House~N/A~N/A~129~N/A~
+(no street name provided), South Jerrabomberra NSW 2620 ~$727500~3~1~House and Land Package~N/A~370~181~N/A~
+(no street name provided), South Jerrabomberra NSW 2620 ~$760000~4~1~House and Land Package~N/A~366~209~N/A~
+(no street name provided), South Jerrabomberra NSW 2620 ~$750000~4~1~House and Land Package~N/A~370~209~N/A~
+(no street name provided), Tralee NSW 2620 ~$759900~3~2~House~6.0~257~180~N/A~
+(no street name provided), South Jerrabomberra NSW 2620 ~$799950~4~1~House~N/A~250~165~N/A~
+(no street name provided), South Jerrabomberra NSW 2620 ~$749,950~4~2~House~N/A~170~160~N/A~
+(no street name provided), South Jerrabomberra NSW 2620 ~$772500~3~1~House and Land Package~N/A~350~181~N/A~
+(no street name provided), South Jerrabomberra NSW 2620 ~$770000~4~1~House and Land Package~N/A~350~218~N/A~
+(no street name provided), South Jerrabomberra NSW 2620 ~$774000~4~1~House and Land Package~N/A~372~218~N/A~
+(no street name provided), South Jerrabomberra NSW 2620 ~$774,900~3~1~House and Land Package~N/A~372~180~N/A~
+(no street name provided), South Jerrabomberra NSW 2620 ~$780,000~4~1~House and Land Package~N/A~350~198~N/A~
+(no street name provided), South Jerrabomberra NSW 2620 ~$805450~4~1~House and Land Package~N/A~372~212~N/A~
+(no street name provided), South Jerrabomberra NSW 2620 ~$797,900~4~1~House and Land Package~N/A~372~194~N/A~
+Sunray Street, South Jerrabomberra NSW 2620 ~$799,900~4~2~House~N/A~370~N/A~N/A~
+(no street name provided), South Jerrabomberra NSW 2620 ~$822,900~4~1~House and Land Package~N/A~372~214~N/A~
+(no street name provided), South Jerrabomberra NSW 2620 ~$824,400~4~1~House and Land Package~N/A~379~212~N/A~
+(no street name provided), South Jerrabomberra NSW 2620 ~$853,900~4~1~House and Land Package~N/A~448~225~N/A~
+(no street name provided), South Jerrabomberra NSW 2620 ~$940,000~4~1~House and Land Package~N/A~475~217~N/A~

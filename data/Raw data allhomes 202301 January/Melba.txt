@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+20 Saville Close, Melba ACT 2615 ~$949,000~3~2~House~2.0~848~N/A~$478,000~
+22 Bainton Crescent, Melba ACT 2615 ~$1,450,000~6~2~House~1.0~1236~280~$726,000~
+3 Bainton Place, Melba ACT 2615 ~$1,690,000~4~2~House~2.0~1662~176~$907,000~

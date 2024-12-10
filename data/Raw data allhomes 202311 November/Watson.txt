@@ -1,0 +1,24 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+4/156 Knox Street, Watson ACT 2602 ~$350,000~2~1~Apartment~1.0~3173~N/A~$3,300,000~
+Norrebro - Norrebro - Final stage - now selling, Watson ACT 2602 ~$429,900~1~1~Apartment~6.0~N/A~N/A~N/A~
+Norrebro - Norrebro - Final Stage - now selling, Watson ACT 2602 ~$429,900~1~1~Apartment~6.0~N/A~N/A~N/A~
+13/20 Federal Highway, Watson ACT 2602 ~$455,000~2~2~Apartment~5.0~20500.0~N/A~$8,400,000~
+39/20 Federal Highway, Watson ACT 2602 ~$459,999~2~2~Apartment~5.0~20500.0~N/A~$8,400,000~
+Norrebro - Norrebro - Final stage - now selling, Watson ACT 2602 ~$479,900~1~1~Apartment~6.0~N/A~N/A~N/A~
+57/21 Aspinall Street, Watson ACT 2602 ~$499,000~2~2~Apartment~5.5~17200.0~N/A~$7,500,000~
+Norrebro - Final stage - now selling, Watson ACT 2602 ~$519,900~1~1~Apartment~6.0~N/A~N/A~N/A~
+Norrebro - Norrebro - Final stage - now selling, Watson ACT 2602 ~$519,900~1~1~Apartment~6.0~N/A~N/A~N/A~
+Norrebro - Norrebro - Final stage - now selling, Watson ACT 2602 ~$519,900~1~1~Apartment~6.0~N/A~N/A~N/A~
+31/14 Federal Highway, Watson ACT 2602 ~$645,000~3~2~Townhouse~4.0~166~N/A~N/A~
+20/14 Federal Highway, Watson ACT 2602 ~$668,000~3~2~Townhouse~4.0~200~N/A~N/A~
+37/14 Federal Highway, Watson ACT 2602 ~$679,000~3~2~Townhouse~4.5~172~N/A~N/A~
+15/7 Shewcroft Street, Watson ACT 2602 ~$685,000~2~2~Townhouse~6.0~8974~N/A~$5,775,000~
+Norrebro - Norrebro - Final stage - now selling, Watson ACT 2602 ~$689,900~2~1~Apartment~6.0~N/A~N/A~N/A~
+Norrebro - Final stage - now selling, Watson ACT 2602 ~$689,900~2~1~Apartment~6.0~N/A~N/A~N/A~
+Norrebro - Norrebro - Final stage - now selling, Watson ACT 2602 ~$689,900~2~1~Apartment~6.0~N/A~N/A~N/A~
+80/45 Negus Crescent, Watson ACT 2602 ~$795,000~3~2~Townhouse~6.0~122~N/A~N/A~
+52/67 Negus Crescent, Watson ACT 2602 ~  $860,000~3~2~Townhouse~6.0~135~N/A~N/A~
+8 Beechworth Street, Watson ACT 2602 ~$869,000~3~2~Townhouse~6.0~1302~N/A~$1,600,000~
+26/215 Aspinall Street, Watson ACT 2602 ~$950,000 to $1,000,000~3~2~Townhouse~4.0~66100.0~N/A~N/A~
+20/45 Negus Crescent, Watson ACT 2602 ~  $950,000~3~2~Townhouse~6.0~169~N/A~N/A~
+59 Ehrlich Circuit, Watson ACT 2602 ~$995,000~3~2~House~6.0~157~162~$273,000~

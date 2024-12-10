@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+44 Shillington Avenue, Googong NSW 2620 ~$4450000~5~2~House~N/A~N/A~N/A~N/A~

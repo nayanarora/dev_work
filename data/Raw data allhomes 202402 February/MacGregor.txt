@@ -1,0 +1,12 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+12/43 Kirkland Circuit, MacGregor ACT 2615 ~$539,000~N/A~N/A~N/A~N/A~238~N/A~N/A~
+14 Lipscomb Place, MacGregor ACT 2615 ~  $649,000~N/A~N/A~N/A~N/A~786~118~$396,000~
+5 Davy Place, MacGregor ACT 2615 ~  $720,000~N/A~N/A~N/A~N/A~803~N/A~$396,000~
+29 Clyde Finlay Street, MacGregor ACT 2615 ~$750000~N/A~N/A~N/A~N/A~450~100~$406,000~
+78 Hollows Circuit, MacGregor ACT 2615 ~$750,000~N/A~N/A~N/A~N/A~350~105~$361,000~
+31 Lawrence Close, MacGregor ACT 2615 ~$775,000~N/A~N/A~N/A~N/A~892~112~$415,000~
+7 Constance Stone Street, MacGregor ACT 2615 ~$805,000 ~N/A~N/A~N/A~N/A~462~160~$416,000~
+44 Osburn Drive, MacGregor ACT 2615 ~$849,000~N/A~N/A~N/A~N/A~927~N/A~$482,000~
+7 O'Reilly Street, MacGregor ACT 2615 ~$879,000~N/A~N/A~N/A~N/A~1313~133~$440,000~
+29 Isbister Street, MacGregor ACT 2615 ~$899,000~N/A~N/A~N/A~N/A~418~N/A~$384,000~
+7 Lawrence Close, MacGregor ACT 2615 ~$1,365,000~N/A~N/A~N/A~N/A~1072~276~$396,000~

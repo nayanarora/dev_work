@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+8/30 River Street, Oaks Estate ACT 2620 ~$240,000 ~1~1~Apartment~4.5~N/A~48~N/A~
+27a William Street, Oaks Estate ACT 2620 ~$650,000~3~2~House~2.5~N/A~N/A~N/A~
+6A & 6B George Street, Oaks Estate ACT 2620 ~$1,600,000 ~6~5~House~3.0~2024~N/A~N/A~

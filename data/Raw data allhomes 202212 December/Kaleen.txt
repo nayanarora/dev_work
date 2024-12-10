@@ -1,0 +1,9 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+16 Glenelg Street, Kaleen ACT 2617 ~$876,500~3~1~House~0.5~741~114~$664,000~
+119 Maribyrnong Avenue, Kaleen ACT 2617 ~Offers over $950,000~4~1~House~1.0~864~N/A~$664,000~
+13 Blythe Close, Kaleen ACT 2617 ~$989,000~3~1~House~1.5~724~N/A~$604,000~
+10 Bingham Circuit, Kaleen ACT 2617 ~$1,099,950~4~2~House~1.5~816~177~$683,000~
+24 Darby Street, Kaleen ACT 2617 ~Offers over $1,150,000~3~2~House~2.0~921~172~$695,000~
+41 Pokana Circuit, Kaleen ACT 2617 ~$1,199,000~5~2~House~2.0~772~N/A~$683,000~
+37 Onkaparinga Crescent, Kaleen ACT 2617 ~$1,390,000~4~1~House~1.0~988~330~$788,000~
+19 Glenelg Street, Kaleen ACT 2617 ~$1,800,000~4~3~House~6.0~839~232~$689,000~

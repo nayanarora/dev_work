@@ -1,0 +1,24 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+108/21 Battye Street, Bruce ACT 2617 ~$355,000~1~1~Apartment~6.0~13500.0~N/A~$40,068~
+73/8 Baudinette Circuit, Bruce ACT 2617 ~Offers Over $380,000~1~1~Apartment~6.0~8025~N/A~$72,420~
+78/10 Thynne Street, Bruce ACT 2617 ~$385,000~2~2~Apartment~6.0~16000.0~83~$78,343~
+133/1 Braybrooke Street, Bruce ACT 2617 ~$395,000~1~1~Unit / Apartment~6.0~13500.0~N/A~$40,068~
+401/82 Thynne Street, Bruce ACT 2617 ~$419,000~1~1~Apartment~6.0~340~N/A~N/A~
+105/9 Watkin Street, Bruce ACT 2617 ~$419,000~1~1~Apartment~6.0~2400~N/A~N/A~
+73/10 Thynne Street, Bruce ACT 2617 ~Offers over $420,000~3~2~Unit / Apartment~2.0~16000.0~102~$78,343~
+108/10 Thynne Street, Bruce ACT 2617 ~$420,000~3~2~Apartment~5.0~16000.0~99~$78,343~
+74/10 Thynne Street, Bruce ACT 2617 ~$429,000~3~2~Apartment~6.0~16000.0~N/A~$78,343~
+22/21 Battye Street, Bruce ACT 2617 ~$435,000~2~1~Apartment~6.0~13500.0~87~$40,068~
+68/15 Braybrooke Street, Bruce ACT 2617 ~$445,000~2~1~Unit / Apartment~6.0~7199~N/A~$18,700~
+407/39 Braybrook Street, Bruce ACT 2617 ~$449,900~1~1~Apartment~6.0~N/A~N/A~N/A~
+The Brooke - G20/39 Braybrooke Street, Bruce ACT 2617 ~$454,900~1~1~Apartment~6.0~3161~N/A~$950,000~
+35/126 Thynne Street, Bruce ACT 2617 ~$468,000 ~2~1~Apartment~4.5~5563~63~$41,674~
+82/31 Thynne Street, Bruce ACT 2617 ~$550,000~2~2~Apartment~6.0~12600.0~88~$62,400~
+7/115 Lampard Circuit, Bruce ACT 2617 ~$599,900~2~1~Townhouse~5.0~237~N/A~N/A~
+177/140 Thynne Street, Bruce ACT 2617 ~$710,000~3~2~Apartment~5.5~21600.0~132~$40,425~
+20/21 Thynne Street, Bruce ACT 2617 ~$835,000~3~2~Unit / Apartment~6.0~N/A~N/A~N/A~
+27/9 Thynne Street, Bruce ACT 2617 ~Offers Over $949,000~4~2~House~6.0~7393~N/A~N/A~
+(no street name provided), Bruce ACT 2617 ~$1,040,000~4~2~House~4.0~504~166~$605,000~
+IVES - Unit 4B-1, Bruce ACT 2617 ~$1,085,000~4~3~Townhouse~6.4~N/A~N/A~N/A~
+65 Lampard Circuit, Bruce ACT 2617 ~Offers over $1.1mil~5~2~Other~6.0~N/A~N/A~N/A~
+RISE - Four bedrooms townhouse 4A (With private lift), Bruce ACT 2617 ~$1,268,000~4~2~Townhouse~6.1~N/A~251~N/A~

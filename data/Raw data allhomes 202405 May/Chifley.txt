@@ -1,0 +1,8 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+43/17 Medley Street, Chifley ACT 2606 ~$480,000 ~2~1~Apartment~6.0~N/A~N/A~$11,250,000~
+7/101 Eggleston Crescent, Chifley ACT 2606 ~$550000~1~1~Townhouse~6.0~N/A~N/A~$3,080,000~
+26A Eggleston Crescent, Chifley ACT 2606 ~$950,000~3~2~House~4.5~466~134~N/A~
+1 MacLaurin Crescent, Chifley ACT 2606 ~$1,100,000 ~4~2~House~5.0~534~200~N/A~
+17 Thomson Street, Chifley ACT 2606 ~$1,220,000~4~1~House~6.0~682~N/A~$820,000~
+19 Charteris Crescent, Chifley ACT 2606 ~$1387500~4~1~Townhouse~6.0~330~N/A~$942,000~
+2/3 Charteris Crescent, Chifley ACT 2606 ~$1,480,000~4~2~Townhouse~6.0~N/A~N/A~N/A~

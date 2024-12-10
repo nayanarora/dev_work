@@ -1,0 +1,8 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+34/25 Macquoid Street, Queanbeyan East NSW 2620 ~$162500~1~1~Studio~N/A~N/A~N/A~N/A~
+16/46 Trinculo Place, Queanbeyan East NSW 2620 ~$254500~1~1~Unit / Apartment~N/A~N/A~48~N/A~
+19/48-50 Trinculo Place, Queanbeyan East NSW 2620 ~$300,000~2~1~Apartment~N/A~N/A~N/A~N/A~
+7/56 Trinculo Place, Queanbeyan East NSW 2620 ~$324500~2~1~Unit / Apartment~N/A~N/A~N/A~N/A~
+29/6 High Street, Queanbeyan East NSW 2620 ~$339000~1~1~Apartment~N/A~N/A~66~N/A~
+8/47 Booth Street, Queanbeyan East NSW 2620 ~$462500~2~1~Unit / Apartment~N/A~N/A~122~N/A~
+4/20 Mulloon Street, Queanbeyan East NSW 2620 ~$690000~3~2~Townhouse~N/A~N/A~N/A~N/A~

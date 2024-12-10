@@ -1,0 +1,3 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+9 Donnan Street, Nicholls ACT 2913 ~$1,380,000~5~3~House~2.0~796~335~$653,000~
+1 Barclay Place, Nicholls ACT 2913 ~$1,750,000~6~3~House~4.5~821~429~$754,000~

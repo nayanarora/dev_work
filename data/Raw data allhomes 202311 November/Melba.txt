@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+19 Boult Place, Melba ACT 2615 ~$520,000 ~2~1~House~1.0~226~N/A~N/A~
+27 Boult Place, Melba ACT 2615 ~$550,000~2~1~Townhouse~3.0~216~N/A~N/A~
+6 Charvin Court, Melba ACT 2615 ~$570,000~2~1~House~5.0~232~N/A~$359,000~
+12 Clifford Crescent, Melba ACT 2615 ~  $919,000~4~2~House~1.5~709~128~$564,000~
+18 Alpen Street, Melba ACT 2615 ~$1,200,000~5~3~House~2.0~840~230~$549,000~

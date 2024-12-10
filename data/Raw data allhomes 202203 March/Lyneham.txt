@@ -1,0 +1,8 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+17/58 Wattle Street, Lyneham ACT 2602 ~$370,000~2~1~Apartment~1.5~11200.000000000002~N/A~N/A~
+The Sullivan at Northbourne Village - Type 15, Lyneham ACT 2602 ~$417,000~1~1~Apartment~6.4~N/A~N/A~N/A~
+The Sullivan at Northbourne Village - Type 10, Lyneham ACT 2602 ~$455,000~1~1~Apartment~6.4~N/A~N/A~N/A~
+253 Northbourne Avenue, Lyneham ACT 2602 ~$545,000~2~2~Apartment~6.0~N/A~85~$6,948,000~
+The Sullivan at Northbourne Village - Type 7, Lyneham ACT 2602 ~$580,000~2~1~Other~6.4~N/A~N/A~N/A~
+18/15 Fox Place, Lyneham ACT 2602 ~$739,000~3~2~Apartment~6.0~N/A~100~$2,730,000~
+The Sullivan at Northbourne Village - Type 1, Lyneham ACT 2602 ~$860,000~3~2~Other~6.4~N/A~N/A~N/A~

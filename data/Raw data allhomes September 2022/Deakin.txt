@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+4 Barron Street, Deakin ACT 2600 ~$1,785,000~3~1~House~N/A~654~N/A~$1,110,000~
+12 Newdegate Street, Deakin ACT 2600 ~$2,200,000~4~2~House~4.0~777~N/A~$1,220,000~
+71 Kent Street, Deakin ACT 2600 ~$0~4~2~House~1.5~831~N/A~$1,200,000~
+39 Norman Street, Deakin ACT 2600 ~$2,599,000~5~2~House~3.5~814~N/A~$1,270,000~
+32 Rawson Street, Deakin ACT 2600 ~$3850000~5~3~House~6.0~763~297~$1,190,000~

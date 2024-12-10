@@ -1,0 +1,17 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+36/25 Pinkerton Circuit, Kambah ACT 2902 ~$539,000~2~1~Townhouse~1.0~162~N/A~N/A~
+Unit 18/25 Pinkerton Circuit, Kambah ACT 2902 ~$559,800~2~1~Townhouse~4.0~163~N/A~N/A~
+60 Boddington Crescent, Kambah ACT 2902 ~$649,000~3~1~House~1.0~388~107~N/A~
+21 Snodgrass Crescent, Kambah ACT 2902 ~$650,000~2~1~Retirement Village~N/A~36800.0~N/A~$6,300,000~
+4 Brimage Place, Kambah ACT 2902 ~  $750,000~4~2~House~N/A~900~N/A~$510,000~
+10 McBeath Place, Kambah ACT 2902 ~$750,000~3~1~House~1.5~678~N/A~$448,000~
+21 Chirnside Circuit, Kambah ACT 2902 ~$795,000~3~2~House~2.0~836~108~$485,000~
+9 Hardwicke Place, Kambah ACT 2902 ~$799,000~3~1~House~1.5~850~117~$524,000~
+12 Yaldwyn Place, Kambah ACT 2902 ~ $819,000~3~2~House~5.5~772~106~$498,000~
+8 Habgood Place, Kambah ACT 2902 ~$840,000~4~2~House~4.0~902~138~$530,000~
+21 Snodgrass Crescent, Kambah ACT 2902 ~$845,000~3~1~Retirement Village~N/A~36800.0~N/A~$6,300,000~
+11 Gleeson Place, Kambah ACT 2902 ~$850,000~3~2~House~2.0~670~127~$448,000~
+29 Faithfull Circuit, Kambah ACT 2902 ~$895,000~3~1~House~1.0~683~N/A~$472,000~
+51 Sinclair Street, Kambah ACT 2902 ~$899,000~4~2~House~0.5~806~151~$542,000~
+25 Broad Place, Kambah ACT 2902 ~$950,000~4~1~House~2.0~811~158~$510,000~
+99 Learmonth Drive, Kambah ACT 2902 ~$1,500,000~6~2~House~1.5~2095~421~$710,000~

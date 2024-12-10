@@ -1,0 +1,3 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+11 Doughty Place, Gilmore ACT 2905 ~$850,000~4~2~House~1.0~794~145~$429,000~
+29 Willoughby Crescent, Gilmore ACT 2905 ~$1,100,000~4~3~House~3.0~881~N/A~$580,000~

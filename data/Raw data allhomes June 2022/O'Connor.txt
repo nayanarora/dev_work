@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+28 Hakea Crescent, O'Connor ACT 2602 ~$1,400,000~4~2~House~0.5~747~N/A~$712,000~
+9 Fairfax Street, O'Connor ACT 2602 ~Offers Over $1,499,000~4~2~House~4.0~526~172~N/A~
+88 Dryandra Street, O'Connor ACT 2602 ~$2,075,000~4~3~House~1.5~751~N/A~$793,000~

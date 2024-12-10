@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+154 Ridgeway Road, The Ridgeway NSW 2620 ~$2362500~9~4~Rural~N/A~31600.0~550~N/A~

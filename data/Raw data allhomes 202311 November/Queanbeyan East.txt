@@ -1,0 +1,13 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+16/39 Thurralilly Street, Queanbeyan East NSW 2620 ~$197000~1~1~Unit / Apartment~N/A~3056~N/A~N/A~
+13/67 Macquoid Street, Queanbeyan East NSW 2620 ~$315000~2~1~Unit / Apartment~N/A~2020~N/A~N/A~
+13/2 Booth Street, Queanbeyan East NSW 2620 ~$367500~2~1~Unit / Apartment~N/A~1748~N/A~N/A~
+1/51 Erin Street, Queanbeyan East NSW 2620 ~$464000~1~1~Unit / Apartment~N/A~N/A~N/A~N/A~
+6/24 Bungendore Road, Queanbeyan East NSW 2620 ~$487500~2~1~Townhouse~N/A~2057~N/A~N/A~
+29/12 Waniassa Street, Queanbeyan East NSW 2620 ~$529,000~2~2~Apartment~N/A~3067~N/A~N/A~
+22/47 Mowatt Street, Queanbeyan East NSW 2620 ~$545000~2~2~Apartment~N/A~17000.0~N/A~N/A~
+8/7 Bungendore Road, Queanbeyan East NSW 2620 ~$595,000~2~2~Townhouse~N/A~119~N/A~N/A~
+17 Buttle Street, Queanbeyan East NSW 2620 ~$629500~2~1~House~N/A~675~N/A~N/A~
+7/7-9 Waterloo Street, Queanbeyan East NSW 2620 ~$704000~3~2~Townhouse~N/A~4092~N/A~N/A~
+48 High Street, Queanbeyan East NSW 2620 ~$690,000~4~1~House~N/A~641~N/A~N/A~
+22 Donoghoe Crescent, Queanbeyan East NSW 2620 ~$949000~4~2~House~N/A~603~200~N/A~

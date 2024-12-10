@@ -1,0 +1,3 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+2 Adcock Place, Banks ACT 2906 ~$850,000~4~1~House~4.5~831~N/A~$451,000~
+15 Smeaton Circuit, Banks ACT 2906 ~$939,000~4~3~House~4.0~753~N/A~$425,000~

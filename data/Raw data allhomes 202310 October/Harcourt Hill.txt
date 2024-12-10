@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+53 Kelleway Avenue, Nicholls ACT 2913 ~$1,350,000~5~2~House~3.5~705~323~$570,000~

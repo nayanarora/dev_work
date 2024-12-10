@@ -1,0 +1,13 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+Marian @ Manuka - 37/55 Franklin Street, Forrest ACT 2603 ~$495,000~1~1~Retirement Village~N/A~5040~74~$2,465,000~
+6/16 New South Wales Crescent, Forrest ACT 2603 ~$510,000~1~1~House~5.5~3920~54~$127,890~
+19/14-16 New South Wales Crescent, Forrest ACT 2603 ~$535,000~1~1~Apartment~6.0~N/A~74~N/A~
+7/17 State Circle, Forrest ACT 2603 ~$595,000~1~1~Apartment~6.0~8527~N/A~$240,210~
+Marian @ Manuka - 8/55 Franklin Street - 2 bedroom, Forrest ACT 2603 ~$690,000~2~1~Retirement Village~6.0~5040~N/A~$2,465,000~
+4/14-18 New South Wales Crescent, Forrest ACT 2603 ~$769,000~2~2~Apartment~6.0~N/A~N/A~N/A~
+18/15 Fitzroy Street, Forrest ACT 2603 ~$869,000~2~2~Apartment~5.5~2229~87~$223,440~
+13/20 New South Wales Crescent, Forrest ACT 2603 ~$1,380,000~3~2~Apartment~6.0~1114~N/A~$254,100~
+13/7 State Circle, Forrest ACT 2603 ~$1,699,000~3~3~Apartment~8.5~13300.0~175~$264,000~
+27/22 Canberra Avenue, Forrest ACT 2603 ~$2,100,000~3~3~Apartment~6.0~2274~171~$180,000~
+20/7 State Circle, Forrest ACT 2603 ~$2,559,000~4~3~Apartment~8.5~13300.0~N/A~$264,000~
+9 Melbourne Avenue, Forrest ACT 2603 ~$7,500,000~6~3~House~1.0~3832~N/A~$4,650,000~

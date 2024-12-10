@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+6/65 Kambalda Crescent, Fisher ACT 2611 ~$1,000,000~4~2~House~3.5~N/A~187~N/A~

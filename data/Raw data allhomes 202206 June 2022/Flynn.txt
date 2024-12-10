@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+2 Sanderson Close, Flynn ACT 2615 ~$1,015,000 ~4~2~House~3.0~856~N/A~$355,000~
+2 Flierl Place, Flynn ACT 2615 ~$1,295,000~5~2~House~0.5~N/A~N/A~$337,000~
+47 Hedland Circuit, Flynn ACT 2615 ~$1,299,000~3~1~House~2.0~1049~109~$335,000~

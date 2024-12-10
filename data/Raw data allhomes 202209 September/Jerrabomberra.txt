@@ -1,0 +1,19 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+9/103 Bicentennial Drive, Jerrabomberra NSW 2619 ~$615000~2~1~Townhouse~N/A~3483~N/A~N/A~
+5/1-7 Torpy Place, Jerrabomberra NSW 2619 ~$665000~3~1~Townhouse~N/A~2949~N/A~N/A~
+3/68-70 Bicentennial Drive, Jerrabomberra NSW 2619 ~$707500~3~2~Townhouse~N/A~4138~N/A~N/A~
+6/4 Redwood Avenue, Jerrabomberra NSW 2619 ~$719000~3~1~Townhouse~N/A~12400.0~103~N/A~
+37 Unwin Avenue, Jerrabomberra NSW 2619 ~$779,000~3~2~House~N/A~266~N/A~N/A~
+30 Pannamena Crescent, Jerrabomberra NSW 2619 ~$927500~3~2~House~N/A~511~124~N/A~
+16 Kinlyside Avenue, Jerrabomberra NSW 2619 ~$1022500~3~2~House~N/A~800~191~N/A~
+1 Stringybark Drive, Jerrabomberra NSW 2619 ~$1075000~4~2~House~N/A~753~210~N/A~
+44 Brudenell Drive, Jerrabomberra NSW 2619 ~$1,095,000~4~2~House~N/A~755~212~N/A~
+9 Tennant Place, Jerrabomberra NSW 2619 ~$1150000~4~3~House~N/A~800~N/A~N/A~
+7 Hudson Place, Jerrabomberra NSW 2619 ~$1245000~5~2~House~N/A~858~205~N/A~
+5 Bluebell Glen, Jerrabomberra NSW 2619 ~$1249000~4~2~House~N/A~680~N/A~N/A~
+7 Uralba Court, Jerrabomberra NSW 2619 ~$1,349,000~4~2~House~N/A~1061~N/A~N/A~
+4 Dixon Place, Jerrabomberra NSW 2619 ~$1,400,000~6~2~House~N/A~906~N/A~N/A~
+156 Waterfall Drive, Jerrabomberra NSW 2619 ~$1,495,000~5~3~House~N/A~833~N/A~N/A~
+5 Grady Place, Jerrabomberra NSW 2619 ~$1600000~4~3~House~N/A~1005~N/A~N/A~
+5 Hickory Place, Jerrabomberra NSW 2619 ~$1,775,000~4~3~House~N/A~900~N/A~N/A~
+22 Nicholii Loop, Jerrabomberra NSW 2619 ~$1900000~5~3~House~N/A~842~N/A~N/A~

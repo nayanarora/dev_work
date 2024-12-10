@@ -1,0 +1,18 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+3/79 Crozier Circuit, Kambah ACT 2902 ~$600,000~2~1~Townhouse~N/A~124~N/A~N/A~
+21 Snodgrass Crescent, Kambah ACT 2902 ~$625,000~2~1~Retirement Village~N/A~36800.0~N/A~$6,300,000~
+35A Livingston Avenue, Kambah ACT 2902 ~$740,000~3~1~Dual Occupancy~1.0~N/A~N/A~N/A~
+30 Lascelles Circuit, Kambah ACT 2902 ~$750,000~3~1~House~1.0~862~N/A~$524,000~
+18 Oldfield Circuit, Kambah ACT 2902 ~$779,000~3~1~House~1.0~772~N/A~$449,000~
+4 Symers Street, Kambah ACT 2902 ~$780,000~3~1~House~1.5~726~114~$476,000~
+21 Snodgrass Crescent, Kambah ACT 2902 ~$795,000~3~1~Retirement Village~N/A~36800.0~N/A~$6,300,000~
+35B Livingston Avenue, Kambah ACT 2902 ~$795,000~3~1~Dual Occupancy~6.0~775~N/A~$449,000~
+16 Chirnside Circuit, Kambah ACT 2902 ~  $849,000~4~2~House~1.0~705~143~$483,000~
+39 Lee-Steere Crescent, Kambah ACT 2902 ~$950,000 ~3~2~House~1.5~1209~N/A~$614,000~
+11 Gleeson Place, Kambah ACT 2902 ~$950,000~4~2~House~2.0~670~N/A~$448,000~
+17 Crozier Circuit, Kambah ACT 2902 ~$950,000~3~2~House~0.5~782~139~$508,000~
+3 Rounsevell Street, Kambah ACT 2902 ~$1240000~3~3~Dual Occupancy~6.0~502~N/A~$700,000~
+2 Apperly Close, Kambah ACT 2902 ~  $1,200,000~4~2~House~3.0~1292~N/A~$635,000~
+10 Armytage Circuit, Kambah ACT 2902 ~$1,400,000~6~3~House~0.5~1003~215~$582,000~
+7 Naismith Place, Kambah ACT 2902 ~$1500000~5~2~House~6.0~1008~232~$623,000~
+123 Mt Vernon Drive, Kambah ACT 2902 ~$1,995,000~4~2~House~2.5~928~N/A~$725,000~

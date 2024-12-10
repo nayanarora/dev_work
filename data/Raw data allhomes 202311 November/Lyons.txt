@@ -1,0 +1,12 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+62/179 Melrose Drive, Lyons ACT 2606 ~$290,000~1~1~Unit / Apartment~0.5~12900.0~N/A~$9,513,000~
+53/179 Melrose Drive, Lyons ACT 2606 ~$370,000 ~2~1~Unit / Apartment~6.0~12900.0~N/A~$9,513,000~
+84/179 Melrose Drive, Lyons ACT 2606 ~  $395,000~2~1~Unit / Apartment~6.0~12900.0~N/A~$9,513,000~
+72/5 Burnie Street, Lyons ACT 2606 ~  $430,000~1~1~Apartment~6.0~10200.0~N/A~$10,500,000~
+(no street name provided), Lyons ACT 2606 ~$437500~1~1~House~5.0~1626~N/A~$1,560,000~
+1/26 Longford Street, Lyons ACT 2606 ~$999,000~3~1~House~2.5~N/A~120~N/A~
+17 Glenorchy Street, Lyons ACT 2606 ~  $1,199,000~3~1~House~4.0~716~N/A~$800,000~
+19 Longford Street, Lyons ACT 2606 ~$1,295,000~4~2~House~1.0~712~N/A~$815,000~
+19A Olympus Way, Lyons ACT 2606 ~$1,399,000~4~2~Duplex~6.0~223~N/A~N/A~
+9 Brid Place, Lyons ACT 2606 ~$1,850,000~5~3~House~3.5~1183~316~$997,000~
+1 Scottsdale Street, Lyons ACT 2606 ~$1,950,000~4~2~House~5.0~815~N/A~$815,000~

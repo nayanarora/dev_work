@@ -1,0 +1,11 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+21/41 Leahy Close, Narrabundah ACT 2604 ~$299,000~1~1~Apartment~6.0~N/A~659~N/A~
+61/39 Jerrabomberra Avenue, Narrabundah ACT 2604 ~$339,000~1~1~Apartment~5.0~N/A~N/A~N/A~
+28/51 Leahy Close, Narrabundah ACT 2604 ~$450,000~2~2~Apartment~4.0~N/A~98~N/A~
+66/39 Jerrabomberra Ave, Narrabundah ACT 2604 ~$639,000~3~2~Townhouse~4.0~151~86~N/A~
+The Aerie - The Kookaburra - 2 bed, 2 bath 2 car, Narrabundah ACT 2604 ~$835000~2~2~Villa~5.0~N/A~N/A~N/A~
+Kiara - U116 | 39 McIntyre Street, Narrabundah ACT 2604 ~$1,075,000~3~2~Apartment~8.5~N/A~N/A~$20,000,000~
+Kiara - U9 | 39 McIntyre Street, Narrabundah ACT 2604 ~$1,279,000~3~2~Apartment~8.4~N/A~151~$20,000,000~
+Kiara - U18 | 39 McIntyre Street, Narrabundah ACT 2604 ~$1,299,000~3~1~Apartment~8.3~N/A~151~$20,000,000~
+Lumeah - Unit 2, Narrabundah ACT 2604 ~$1,350,000~4~3~Townhouse~6.2~N/A~N/A~$574,000~
+18 Green Street, Narrabundah ACT 2604 ~$2,795,000~4~4~House~5.0~N/A~319~$715,000~

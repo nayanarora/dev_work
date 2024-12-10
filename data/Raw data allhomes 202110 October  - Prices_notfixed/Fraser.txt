@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+13 Bazley Street, Fraser ACT 2615 ~$1,300,000~5~3~House~2.5~1104~234~$358,000~

@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+9/60 Marr Street, Pearce ACT 2607 ~$649,000~2~1~Townhouse~3.5~235~90~N/A~
+24 Beasley Street, Pearce ACT 2607 ~Offers Over $1,195,000~4~2~House~0.5~936~209~$747,000~
+19 Anstey Street, Pearce ACT 2607 ~$1,300,000~5~2~House~1.0~946~N/A~$1,086,000~
+5 McNamara Street, Pearce ACT 2607 ~$2,149,000~4~2~House~4.0~776~224~$860,000~

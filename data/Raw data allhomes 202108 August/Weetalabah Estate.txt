@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+96 Weetalabah Drive, Carwoola NSW 2620 ~$2,299,000~4~2~House~N/A~N/A~368~N/A~

@@ -1,0 +1,13 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+22/124 Henderson Road, Crestwood NSW 2620 ~$225,000~1~1~Unit / Apartment~N/A~1987~N/A~N/A~
+30/5 Crest Road, Crestwood NSW 2620 ~$279,000~2~1~Unit / Apartment~N/A~4830~N/A~N/A~
+42/85 Derrima Road, Crestwood NSW 2620 ~$317000~2~1~Apartment~N/A~4774~N/A~N/A~
+9/9 Crest Road, Crestwood NSW 2620 ~$329000~2~1~Unit / Apartment~N/A~2150~N/A~N/A~
+3/2 Velacia Place, Crestwood NSW 2620 ~$344000~2~1~Unit / Apartment~N/A~N/A~N/A~N/A~
+2/5 Young Street, Crestwood NSW 2620 ~$362000~2~1~Unit / Apartment~N/A~2248~N/A~N/A~
+11/106 Henderson Road, Crestwood NSW 2620 ~$384000~2~1~Unit / Apartment~N/A~1706~N/A~N/A~
+66/3 Young Street, Crestwood NSW 2620 ~$489000~2~2~Apartment~N/A~762~N/A~N/A~
+2/3 Ross Road, Crestwood NSW 2620 ~$664000~3~2~Townhouse~N/A~1814~N/A~N/A~
+14 Young Street, Crestwood NSW 2620 ~$680000~1~1~House~N/A~852~N/A~N/A~
+5 Hunt Place, Crestwood NSW 2620 ~$745000~3~2~House~N/A~693~N/A~N/A~
+12 Cassinia Street, Crestwood NSW 2620 ~$839,999~3~1~House~N/A~613~134~N/A~

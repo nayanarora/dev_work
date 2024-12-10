@@ -1,0 +1,13 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+118/1 Mouatt Street, Lyneham ACT 2602 ~$399,000~1~1~Apartment~6.0~N/A~59~N/A~
+260/1 Mouat Street, Lyneham ACT 2602 ~$430,000~1~1~Unit / Apartment~5.5~N/A~57~$19,950,000~
+7/16 De Burgh Street, Lyneham ACT 2602 ~$435,000~1~1~Unit / Apartment~6.0~682~62~$740,000~
+157/1 Mouat Street, Lyneham ACT 2602 ~$440,000~1~1~Apartment~5.5~N/A~N/A~$19,950,000~
+319/1 Mouat Street, Lyneham ACT 2602 ~$460,000~1~1~Apartment~6.0~11200.000000000002~N/A~$19,950,000~
+24/1 Mouat Street, Lyneham ACT 2602 ~Offers over $640,000~2~2~Unit / Apartment~6.0~N/A~94~$19,950,000~
+3/7 Owen Crescent, Lyneham ACT 2602 ~$649,000~2~2~Unit / Apartment~N/A~N/A~N/A~$850,000~
+The Sullivan at Northbourne Village - Type 17, Lyneham ACT 2602 ~$670,000~2~2~Apartment~6.0~N/A~N/A~N/A~
+501/253 Northbourne Avenue, Lyneham ACT 2602 ~Offers over $709,000~3~2~Apartment~6.0~N/A~N/A~$10,620,000~
+401/253 Northbourne Avenue, Lyneham ACT 2602 ~$710,000~3~2~Apartment~6.0~4404~105~$10,620,000~
+11 Medworth Crescent, Lyneham ACT 2602 ~$1,245,000~3~2~House~N/A~521~200~$516,000~
+5/9 Oliver Street, Lyneham ACT 2602 ~$1,550,000~4~2~Townhouse~6.0~N/A~188~$2,200,000~

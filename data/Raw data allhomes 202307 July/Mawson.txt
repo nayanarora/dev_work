@@ -1,0 +1,8 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+44/6 Heard Street, Mawson ACT 2607 ~   $269,000~1~1~Unit / Apartment~3.5~8702~57~$168,000~
+56/4 Wilkins Street, Mawson ACT 2607 ~$399,000~2~1~Unit / Apartment~5.5~9340~66~$137,756~
+37/10 Wilkins Street, Mawson ACT 2607 ~$460,000~2~1~Unit / Apartment~N/A~9990~N/A~$182,000~
+The Ainsworth - 3 Bedroom Townhouse, Mawson ACT 2607 ~$1,195,000~3~2~Townhouse~6.0~N/A~137~N/A~
+The Ainsworth - 4 Bedroom Townhouse, Mawson ACT 2607 ~$1,415,000~4~2~Townhouse~6.0~N/A~N/A~N/A~
+22A & 22B Enderby Street, Mawson ACT 2607 ~$1,899,000~6~2~House~N/A~1159~N/A~N/A~
+36 Enderby Street, Mawson ACT 2607 ~$1,995,000~4~2~House~4.5~883~N/A~$904,000~

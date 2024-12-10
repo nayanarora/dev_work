@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+2 & 2A Brahe Place, Melba ACT 2615 ~$1,049,000~5~2~House~1.0~798~N/A~$544,000~

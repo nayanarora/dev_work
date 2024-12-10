@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+5/5 Florence Fuller Crescent, Conder ACT 2906 ~$720,000~3~2~Townhouse~4.5~419~124~N/A~
+9/11 Florence Fuller Crescent, Conder ACT 2906 ~$810,000~3~2~Townhouse~5.0~414~N/A~N/A~
+15 Llewellyn Loop, Conder ACT 2906 ~$895,000~4~2~House~4.5~614~N/A~$451,000~
+(no street name provided), Conder ACT 2906 ~$1,000,000~4~2~House~4.5~762~268~$583,000~

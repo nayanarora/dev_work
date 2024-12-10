@@ -1,0 +1,8 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+8/9 Chipperfield Circuit, Gordon ACT 2906 ~$590,000~3~1~Townhouse~4.0~4577~N/A~N/A~
+12/40 Sid Barnes Crescent, Gordon ACT 2906 ~$599,900~3~1~Townhouse~4.5~N/A~113~N/A~
+3 Popplewell Place, Gordon ACT 2906 ~Offer over $699,000~3~1~House~5.5~495~102~$253,000~
+3 Hazlitt Glade, Gordon ACT 2906 ~$970,000~4~1~House~3.5~889~N/A~$399,000~
+208 Knoke Avenue, Gordon ACT 2906 ~Offers Over $980,000~5~2~House~4.0~694~210~$315,000~
+27 Clem Hill Street, Gordon ACT 2906 ~$1,179,000~4~2~House~4.0~753~251~$447,000~
+6 Dempsey Place, Gordon ACT 2906 ~Offers over $1,385,000~4~2~House~3.5~1053~206~$447,000~

@@ -1,0 +1,3 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+7 Naismith Place, Kambah ACT 2902 ~$1500000~5~2~House~6.0~1008~232~$623,000~
+123 Mt Vernon Drive, Kambah ACT 2902 ~$1,995,000~4~2~House~2.5~928~N/A~$725,000~

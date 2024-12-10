@@ -1,0 +1,21 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+17/27 Elm Way, Jerrabomberra NSW 2619 ~$590,000~2~1~Townhouse~N/A~9624~N/A~N/A~
+1/39 Walker Crescent, Jerrabomberra NSW 2619 ~$630000~2~1~Townhouse~N/A~231~N/A~N/A~
+6/9-15 Torpy Place, Jerrabomberra NSW 2619 ~$649000~3~1~House~N/A~2707~N/A~N/A~
+7/4 Redwood Avenue, Jerrabomberra NSW 2619 ~$639000~2~1~Townhouse~N/A~12400.0~N/A~N/A~
+38 Dora Street, Jerrabomberra NSW 2619 ~$849000~3~2~House~N/A~460~N/A~N/A~
+41 Bluestone Gardens, Jerrabomberra NSW 2619 ~$895000~3~2~House~N/A~563~N/A~N/A~
+84 Brudenell Drive, Jerrabomberra NSW 2619 ~$960000~4~2~House~N/A~882~N/A~N/A~
+18 Elm Way, Jerrabomberra NSW 2619 ~$1015000~4~2~House~N/A~864~864~N/A~
+(no street name provided), Jerrabomberra NSW 2619 ~$1045000~4~2~House~N/A~602~N/A~N/A~
+136 Oxalis Street, Jerrabomberra NSW 2619 ~$1125000~4~2~House~N/A~391~210~N/A~
+246B Bicentennial Drive, Jerrabomberra NSW 2619 ~$1300000~3~2~House~N/A~1039~N/A~N/A~
+18 Allambee Street, Jerrabomberra NSW 2619 ~$1500000~4~2~House~N/A~828~323~N/A~
+10 Kavanagh Street, Jerrabomberra NSW 2619 ~$1527500~4~2~House~N/A~1073~240~N/A~
+38 Freestone Crescent, Jerrabomberra NSW 2619 ~$1600000~5~2~House~N/A~852~368~N/A~
+39 Woodhill Link, Jerrabomberra NSW 2619 ~$1645000~4~3~House~N/A~810~N/A~N/A~
+228 Bicentennial Drive, Jerrabomberra NSW 2619 ~$1,670,000~5~3~House~N/A~923~N/A~N/A~
+7 Bellbush Close, Jerrabomberra NSW 2619 ~$1745000~5~3~House~N/A~1375~338~N/A~
+24 Waterfall Drive, Jerrabomberra NSW 2619 ~$1,700,000~5~2~House~N/A~1039~331~N/A~
+23 Myrtle Close, Jerrabomberra NSW 2619 ~$1,895,000~4~2~House~N/A~1105~338~N/A~
+5 Aspen Rise, Jerrabomberra NSW 2619 ~$2299000~7~3~House~N/A~2283~N/A~N/A~

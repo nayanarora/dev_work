@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+35 Nulsen Circuit, Flynn ACT 2615 ~$775,000~3~1~House~1.5~889~147~$526,000~
+59 Vickers Crescent, Flynn ACT 2615 ~$849,000~3~1~House~1.5~838~N/A~$526,000~
+12 Rossell Place, Flynn ACT 2615 ~$890,000~4~2~House~0.5~960~N/A~$476,000~

@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+11 McGowen Close, Spence ACT 2615 ~Offers Over $765,000~3~1~House~1.0~374~116~$416,000~
+3 Magrath Crescent, Spence ACT 2615 ~$989,000~4~2~House~1.0~1058~N/A~$535,000~
+201 Owen Dixon Drive, Spence ACT 2615 ~$1,050,000~4~2~House~2.0~1078~N/A~$540,000~

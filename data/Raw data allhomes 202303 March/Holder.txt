@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+2 Camm Street, Holder ACT 2611 ~$940,000~3~2~House~2.0~740~109~$599,000~
+13 Sheaffe Street, Holder ACT 2611 ~$950,000~3~1~House~4.0~901~133~$687,000~
+45 De Graaf Street, Holder ACT 2611 ~$989,000~4~2~House~2.0~723~138~N/A~

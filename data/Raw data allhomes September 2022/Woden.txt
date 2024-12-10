@@ -1,0 +1,61 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+18/12 Albermarle Place, Phillip ACT 2606 ~$355,000 ~1~1~Apartment~6.0~N/A~N/A~N/A~
+23/12 Albermarle Place, Phillip ACT 2606 ~$360,000~1~1~Unit / Apartment~6.0~N/A~N/A~N/A~
+237/37 Byron Court, Phillip ACT 2606 ~$365,000~1~1~Apartment~6.0~N/A~N/A~N/A~
+The Melrose - The Charlotte (Stage 2) - 1 Bedroom Apartment, Phillip ACT 2606 ~$381,900~1~1~Apartment~N/A~N/A~64~N/A~
+149/116 Easty Street, Phillip ACT 2606 ~$395,000~1~1~Apartment~6.0~14100.0~56~$71,685~
+65/116 Easty Street, Phillip ACT 2606 ~Offers Over $399,000~1~1~Unit / Apartment~6.0~14100.0~56~$71,685~
+154/116 Easty Street, Phillip ACT 2606 ~$419,000~1~1~Apartment~6.0~14100.0~54~$71,685~
+The Shard - Coming Soon to Woden Town Centre, Phillip ACT 2606 ~$439,900~1~1~Other~6.0~690~N/A~$950,000~
+WOVA - Final Release - A Rising Mixed-Use Community in Woden, Woden ACT 2606 ~$454,900~1~1~Apartment~5.0~10200.0~58~N/A~
+Woden Green - Type G - 1 Bedroom, Phillip ACT 2606 ~$458,000~1~1~Apartment~5.5~N/A~N/A~N/A~
+The Melrose - The Charlotte (Stage 2) - 1 Bedroom Apartment, Phillip ACT 2606 ~$462,900~1~1~Apartment~N/A~N/A~66~N/A~
+The Melrose - 1 Bedroom Apartment | Type 1C, Phillip ACT 2606 ~$465,900~1~1~Apartment~6.0~N/A~N/A~N/A~
+The Melrose - 1 Bedroom Apartment | Type 1D, Phillip ACT 2606 ~$466,900~1~1~Apartment~6.0~N/A~N/A~N/A~
+Woden Green - Type D - 1 Bedroom + Study nook, Phillip ACT 2606 ~$483,000~1~1~Apartment~5.2~N/A~N/A~N/A~
+99/1 Surprize Place, Phillip ACT 2606 ~Offers over $499,000~2~1~Unit / Apartment~6.0~6314~79~$61,950~
+The Shard - Coming Soon to Woden Town Centre, Phillip ACT 2606 ~$539,900~1~1~Other~6.0~690~N/A~$950,000~
+1409/15 Bowes Street, Phillip ACT 2606 ~$549,000~2~2~Apartment~6.0~22~N/A~N/A~
+WOVA - Final Release - Woden. Revamped, Woden ACT 2606 ~$577,900~2~1~Other~5.0~10200.0~82~N/A~
+73/9-11 Irving Street, Phillip ACT 2606 ~Offers over $580,000~2~2~Unit / Apartment~6.0~3685~N/A~N/A~
+67/121 Easty Street, Phillip ACT 2606 ~Offers Over $585,000~2~2~Unit / Apartment~6.0~16500.0~N/A~$60,000~
+W2 - 2 Bedroom Apartment | 1706, Phillip ACT 2606 ~$585,000~2~1~Other~7.0~83~N/A~N/A~
+W2 - 2 Bedroom Apartment | Unit 1809, Phillip ACT 2606 ~$595,000~2~1~Apartment~6.0~1673~N/A~$2,370,000~
+146/15 Irving Street, Phillip ACT 2606 ~Offers Over $599,000~2~2~Unit / Apartment~6.0~9678~81~$30,770~
+26/9 Irving Street, Phillip ACT 2606 ~$599,000~2~2~Apartment~6.0~N/A~N/A~N/A~
+158/15 Irving St, Phillip ACT 2606 ~$619000~2~2~Apartment~5.0~9678~81~$30,770~
+WOVA - Final Release - A vibrant New Urban Community in Woden, Woden ACT 2606 ~$600,900~2~2~Apartment~5.0~10200.0~81~N/A~
+W2 - 2 Bedroom Apartment | 1906, Phillip ACT 2606 ~$605,000~2~1~Apartment~7.0~83~N/A~$2,370,000~
+706/15 Bowes Street, Phillip ACT 2606 ~Offers Over $619,000~2~2~Unit / Apartment~6.0~3377~85~$19,432~
+The Shard - Coming Soon to Woden Town Centre, Phillip ACT 2606 ~$629,900~2~2~Other~6.0~690~N/A~$950,000~
+The Melrose - The Charlotte (Stage 2) - 2 Bedroom Apartment, Phillip ACT 2606 ~$634,900~2~2~Apartment~N/A~N/A~89~N/A~
+Woden Green - Type I - 2 Bedroom, Phillip ACT 2606 ~$636,500~2~2~Apartment~5.3~N/A~N/A~N/A~
+3 Rowe Place, Phillip ACT 2606 ~Offers above $639,000~2~1~Townhouse~N/A~162~N/A~N/A~
+407/15 Bowes Street, Phillip ACT 2606 ~$639,000~3~2~Apartment~6.0~3377~N/A~$19,432~
+6/85 Port Jackson Circuit, Phillip ACT 2606 ~$650,000~3~2~Unit / Apartment~4.0~1154~117~$151,200~
+2202/15 Bowes Street, Phillip ACT 2606 ~$650,000~2~2~Apartment~6.0~22~N/A~N/A~
+W2 - 2 Bedroom, 2 Bathroom apartment | Unit 1303, Phillip ACT 2606 ~$675,000~2~1~Apartment~6.0~1673~N/A~$2,370,000~
+The Melrose - The Charlotte (Stage 2) - 2 Bedroom Apartment, Phillip ACT 2606 ~$679,900~2~2~Apartment~N/A~N/A~86~N/A~
+W2 - 2 Bedroom, 2 Bathroom apartment | Unit 1403, Phillip ACT 2606 ~$685,000~2~1~Other~7.0~1673~93~$2,370,000~
+Woden Green - Type A - 2 Bedroom, Phillip ACT 2606 ~$687,000~2~2~Apartment~5.3~N/A~N/A~N/A~
+LF 173/15 Mower Place, Phillip ACT 2606 ~$700,000~3~2~Unit / Apartment~6.0~N/A~N/A~N/A~
+Woden Green - Type H - 2 Bedroom + Office/Media, Phillip ACT 2606 ~$735,500~2~2~Apartment~5.9~N/A~N/A~N/A~
+Woden Green - Type E - 2 Bedroom, Phillip ACT 2606 ~$739,500~2~2~Apartment~5.3~N/A~N/A~N/A~
+Woden Green - Type C - 2 Bedroom + Office/Media, Phillip ACT 2606 ~$755,000~2~2~Apartment~6.3~N/A~N/A~N/A~
+The Melrose - The Charlotte (Stage 2)- 3 Bedroom Apartment, Phillip ACT 2606 ~$759,900~3~2~Apartment~N/A~N/A~106~N/A~
+The Shard - Coming Soon to Woden Town Centre, Phillip ACT 2606 ~$799,900~3~2~Other~6.0~690~N/A~$950,000~
+WOVA - Final Release - Most Exciting New Precinct in Woden, Woden ACT 2606 ~$808,900~3~2~Apartment~5.0~10200.0~112~N/A~
+The Shard - Coming Soon to Woden Town Centre, Phillip ACT 2606 ~$819,900~3~2~Other~6.0~690~N/A~$950,000~
+The Melrose - The Charlotte (Stage 2) - 3 Bedroom Apartment, Phillip ACT 2606 ~$823,900~3~2~Apartment~N/A~N/A~109~N/A~
+13/11 Irving Street, Phillip ACT 2606 ~$825,000~3~2~Apartment~6.5~N/A~N/A~N/A~
+The Melrose - 3 Bedroom Apartment | Type 3B, Phillip ACT 2606 ~$829,900~3~2~Apartment~6.0~N/A~N/A~N/A~
+121/9 Irving Street, Phillip ACT 2606 ~$839,000~3~1~Apartment~6.5~3685~N/A~N/A~
+268/15 Irving Street, Phillip ACT 2606 ~Offers Over $1,049,000~3~2~Unit / Apartment~6.0~9678~123~$30,770~
+The Shard - Coming Soon to Woden Town Centre, Phillip ACT 2606 ~$1,175,000~3~2~Other~6.0~690~N/A~$950,000~
+The Melrose - 3 Bedroom Apartment | Type 3A, Phillip ACT 2606 ~$1,219,900~3~2~Apartment~6.0~N/A~N/A~N/A~
+W2 - Life Multiplied - Penthouse Apartment | 2201, Phillip ACT 2606 ~$1,335,000~3~1~Other~7.0~1673~N/A~$2,370,000~
+WOVA - WOVA Building 2 - Type 3B, Woden ACT 2606 ~$1,493,900~3~2~Apartment~5.0~10200.0~179~N/A~
+Woden Green - Unit 1502 - 3 Bedroom 'Signature Collection', Phillip ACT 2606 ~$1,595,000~3~2~Apartment~5.2~N/A~N/A~N/A~
+W2 - Penthouse Apartment | Unit 2303, Phillip ACT 2606 ~$1,595,000~3~1~Apartment~7.0~1673~144~$2,370,000~
+The Shard - Coming Soon to Woden Town Centre, Phillip ACT 2606 ~$1,850,000~3~3~Other~6.0~690~N/A~$950,000~
+The Shard - Coming Soon to Woden Town Centre, Phillip ACT 2606 ~$2,775,000~4~3~Other~6.0~690~N/A~$950,000~

@@ -1,0 +1,7 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+22 Delegate Street, Kaleen ACT 2617 ~$899,000~3~1~House~5.5~794~112~$643,000~
+13 Blythe Close, Kaleen ACT 2617 ~$929,000~3~1~House~1.5~724~N/A~$604,000~
+26 Liffey Circuit, Kaleen ACT 2617 ~$980000~3~1~House~3.0~762~N/A~$695,000~
+3 Darby Street, Kaleen ACT 2617 ~$959,000~3~2~House~1.5~820~N/A~$664,000~
+25 Murchison Street, Kaleen ACT 2617 ~$992,000~4~1~House~1.0~866~134~$695,000~
+37 Onkaparinga Crescent, Kaleen ACT 2617 ~$1,320,000~4~1~House~1.0~988~330~$788,000~

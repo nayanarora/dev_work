@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+1/24 Hugh McKay Crescent, Dunlop ACT 2615 ~$649,000~3~1~Townhouse~3.5~388~103~N/A~
+44 Hugh McKay Crescent, Dunlop ACT 2615 ~$699,000~3~2~House~4.5~402~N/A~$391,000~
+33 Lance Hill Avenue, Dunlop ACT 2615 ~$780,000~3~2~House~4.0~401~102~$412,000~
+8 Simonetti Street, Dunlop ACT 2615 ~   $899,000~4~2~House~4.5~488~177~$382,000~
+22 Branson Street, Dunlop ACT 2615 ~   $950,000~4~2~House~5.0~463~N/A~$372,000~

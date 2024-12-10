@@ -1,0 +1,7 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+30 Rohan Street, Richardson ACT 2905 ~$695,000~3~1~House~1.0~565~87~$439,000~
+4 Pogney Place, Richardson ACT 2905 ~$700,000~3~1~House~0.5~366~86~$380,000~
+5 Rohan Street, Richardson ACT 2905 ~$700,000~3~1~House~3.0~618~N/A~$483,000~
+7 Chauncy Crescent, Richardson ACT 2905 ~$720,000~3~1~House~1.5~692~N/A~$431,000~
+2 Morduant Place, Richardson ACT 2905 ~  $760,000~3~1~House~1.5~970~141~$418,000~
+40 Deamer Crescent, Richardson ACT 2905 ~$775,000~3~1~House~2.0~751~N/A~$477,000~

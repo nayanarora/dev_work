@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+8 Kirby Place, Oxley ACT 2903 ~$1,090,000~4~2~House~4.0~991~207~$620,000~

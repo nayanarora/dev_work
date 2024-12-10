@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+42 Wynn Street, Fraser ACT 2615 ~$850,000~3~1~House~2.0~1179~109~$344,000~

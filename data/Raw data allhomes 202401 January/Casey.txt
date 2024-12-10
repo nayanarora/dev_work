@@ -1,0 +1,9 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+40/16 David Miller Crescent, Casey ACT 2913 ~$479,000~2~2~Unit / Apartment~6.0~5282~N/A~$3,094,000~
+71/60 Kingsland Parade, Casey ACT 2913 ~$620,000~2~2~Townhouse~6.0~80~N/A~N/A~
+34 John Crawford Cres, Casey ACT 2913 ~$739,000 ~3~1~House~5.5~210~N/A~$399,000~
+67 Dalkin Crescent, Casey ACT 2913 ~  $739,000~3~2~Duplex~5.0~216~N/A~$399,000~
+10 Macandie Street, Springbank Rise ACT 2913 ~$745,000~3~2~Townhouse~6.0~N/A~N/A~N/A~
+23/60 Kingsland Parade, Casey ACT 2913 ~  $765,000~3~2~Townhouse~6.0~93~N/A~N/A~
+41 Plimsoll Drive, Casey ACT 2913 ~$1,000,000~4~2~House~6.0~388~N/A~$500,000~
+228 Plimsoll Drive, Casey ACT 2913 ~$1,050,000~4~1~House~5.5~451~213~$529,000~

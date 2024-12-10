@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+3/10 Zeitz Court, Banks ACT 2906 ~Offers Over $599,000~3~1~Townhouse~4.0~201~N/A~N/A~
+1/32 Smeaton Circuit, Banks ACT 2906 ~$600,000~3~1~Duplex~4.0~339~N/A~N/A~
+6/8 Patton Place, Banks ACT 2906 ~$655000~3~1~Townhouse~5.5~259~N/A~N/A~
+28 Bastow Circuit, Banks ACT 2906 ~$765,000~4~2~House~4.0~472~134~$400,000~
+9 Kaleski Place, Banks ACT 2906 ~$910,000~4~2~House~4.0~817~155~$485,000~

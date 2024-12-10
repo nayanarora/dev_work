@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+3 Granville Close, Greenleigh NSW 2620 ~$1600000~5~2~House~N/A~5099~279~N/A~

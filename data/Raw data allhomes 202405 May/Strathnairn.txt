@@ -1,0 +1,38 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+38/14 Grace Munro Crescent, Strathnairn ACT 2615 ~$495,000~2~1~Townhouse~6.0~11100.000000000002~N/A~N/A~
+1/52 Speldewinde Street, Strathnairn ACT 2615 ~$580,000~2~1~Townhouse~6.0~111~N/A~N/A~
+136 Pro Hart Avenue, Strathnairn ACT 2615 ~$670,000~3~1~House~6.0~126~115~N/A~
+The Brosnan - 27 Wahlquist Street, Strathnairn ACT 2615 ~$699,000~3~2~Other~6.9~N/A~N/A~N/A~
+2 Ferrari Court, Strathnairn ACT 2615 ~$700,000~3~2~House~6.0~116~N/A~N/A~
+57 Speldewinde Street, Strathnairn ACT 2615 ~$725,000 ~3~2~Townhouse~6.0~170~N/A~N/A~
+44 Tredwell Street, Strathnairn ACT 2615 ~$729,000~3~2~House~6.0~140~182~N/A~
+19 Tranter Street, Strathnairn ACT 2615 ~$729,000~2~2~House~6.0~126~N/A~N/A~
+VIVERE - Unit 12 - 48 Speldewinde Street, Strathnairn ACT 2615 ~$750,000~3~2~Townhouse~6.0~4111~N/A~N/A~
+ASHTON - Unit 16, Strathnairn ACT 2615 ~$750,000~3~1~Townhouse~6.0~N/A~N/A~N/A~
+ASHTON - Unit 8, Strathnairn ACT 2615 ~$765,000~3~1~Townhouse~6.0~N/A~N/A~N/A~
+ASHTON - Unit 9, Strathnairn ACT 2615 ~$765,000~3~1~Townhouse~6.0~N/A~N/A~N/A~
+The Lazenby - Townhouse 3, Strathnairn ACT 2615 ~$769,000~2~1~Townhouse~6.0~N/A~N/A~N/A~
+VIVERE - Unit 4 - 48 Speldewinde Street, Strathnairn ACT 2615 ~$775,000~3~2~Townhouse~6.0~4111~N/A~N/A~
+VIVERE - Unit 2 - 48 Speldewinde Street, Strathnairn ACT 2615 ~$775,000~3~2~Townhouse~6.0~4111~N/A~N/A~
+The Lazenby - Townhouse 1, Strathnairn ACT 2615 ~$799,000~2~2~Townhouse~6.0~N/A~N/A~N/A~
+The Lazenby - Townhouse 10, Strathnairn ACT 2615 ~$829,000~2~1~Townhouse~6.0~N/A~N/A~N/A~
+33 Speldewinde Street, Strathnairn ACT 2615 ~$849,000~4~1~House and Land Package~6.0~250~N/A~N/A~
+ASHTON - Unit 12, Strathnairn ACT 2615 ~$850,000~3~1~Other~6.0~N/A~N/A~N/A~
+VIVERE - Unit 10 - 48 Speldewinde Street, Strathnairn ACT 2615 ~$850,000~3~2~Townhouse~6.0~4111~N/A~N/A~
+(no street name provided), Strathnairn ACT 2615 ~$855,000~3~2~House~N/A~325~162~N/A~
+61 Jill Landsberg Terrace, Strathnairn ACT 2615 ~$865,000~4~2~House~6.0~310~176~N/A~
+37 Cameleer Lane, Strathnairn ACT 2615 ~$875,000~4~2~House~6.0~240~N/A~N/A~
+(no street name provided), Strathnairn ACT 2615 ~$899,000~3~2~House~6.0~455~151~N/A~
+(no street name provided), Strathnairn ACT 2615 ~$925,000~3~2~House and Land Package~6.0~335~N/A~N/A~
+34 Ilma Stone Way, Macnamara ACT 2615 ~$940,000~4~2~House~7.0~350~210~N/A~
+Block M Section Bj, Strathnairn ACT 2615 ~$990,000~N/A~N/A~House and Land Package~N/A~N/A~N/A~N/A~
+166 Pro Hart Avenue, Strathnairn ACT 2615 ~$999,999~4~3~House~6.0~493~N/A~N/A~
+24 Ariotti Street, Strathnairn ACT 2615 ~$1,049,000~4~2~House~6.0~350~N/A~N/A~
+(no street name provided), Strathnairn ACT 2615 ~$1,050,000~4~2~House~6.0~465~194~N/A~
+(no street name provided), Macnamara ACT 2615 ~$1,075,000~4~2~House and Land Package~6.0~439~N/A~N/A~
+44 Joan Tully Court, Strathnairn ACT 2615 ~$1,150,000~4~2~House~6.0~450~227~N/A~
+(no street name provided), Macnamara ACT 2615 ~$1,199,000~4~1~House and Land Package~7.0~439~N/A~N/A~
+46 Joan Tully Court, Strathnairn ACT 2615 ~$1,199,000~5~4~House~5.5~350~250~N/A~
+17 Frearson Street, Strathnairn ACT 2615 ~$1,200,000~4~2~House~6.0~528~235~N/A~
+5, 7 & 9 Bonthrone Street, Strathnairn ACT 2615 ~$1,250,000~4~3~House~7.0~384~202~N/A~
+253 Pro Hart Avenue, Strathnairn ACT 2615 ~$1,350,000~5~4~House~5.5~527~250~N/A~

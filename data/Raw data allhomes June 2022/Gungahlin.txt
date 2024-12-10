@@ -1,0 +1,44 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+The Establishment - 1-bed, Functional Layout, Gungahlin ACT 2912 ~$355,845~1~1~Apartment~5.0~3333~54~$6,750,000~
+334/4 Gribble Street, Gungahlin ACT 2912 ~$359,000~1~1~Apartment~6.0~N/A~N/A~N/A~
+70/77 Gozzard Street, Gungahlin ACT 2912 ~$360,000~1~1~Unit / Apartment~6.0~N/A~58~$4,450,000~
+The Establishment - 1-bed, Great Investment Opportunity, Gungahlin ACT 2912 ~$366,345~1~1~Apartment~5.0~3333~60~$6,750,000~
+49/6 Gungahlin Place, Gungahlin ACT 2912 ~$369,900~1~1~Apartment~4.0~2550~50~$3,000,000~
+The Establishment - 1-bed, Light-Filled Living Area & Bedroom, Gungahlin ACT 2912 ~$374,745~1~1~Apartment~5.0~3333~57~$6,750,000~
+Sierra Gungahlin - Live the Lifestyle, Gungahlin ACT 2912 ~$389,900~1~1~Other~6.0~N/A~N/A~N/A~
+385/1 Anthony Rolfe Avenue, Gungahlin ACT 2912 ~$405,000~1~1~Apartment~6.0~N/A~60~$12,750,000~
+Nue - A Brand Nue Gungahlin, Gungahlin ACT 2912 ~$410,000~1~1~Other~5.1~N/A~N/A~N/A~
+Sierra Gungahlin - 1 bedroom, Gungahlin ACT 2912 ~$499900~1~1~Apartment~5.3~N/A~N/A~N/A~
+The Establishment - 2-bed, Dual Balconies, Gungahlin ACT 2912 ~$442,995~2~1~Apartment~5.0~3333~73~$6,750,000~
+41/43 Hibberson Street, Gungahlin ACT 2912 ~$445,000~2~1~House~6.0~17200.0~N/A~$8,150,000~
+38/43 Hibberson Street, Gungahlin ACT 2912 ~$445,000~2~1~Unit / Apartment~6.0~N/A~79~$8,150,000~
+505/8 Gribble Street, Gungahlin ACT 2912 ~$458,000~2~1~Apartment~6.0~N/A~68~$4,475,000~
+79/1 Anthony Rolfe Avenue, Gungahlin ACT 2912 ~$459,000~2~1~Apartment~6.0~7379~N/A~$12,750,000~
+Nue - A Brand Nue Gungahlin, Gungahlin ACT 2912 ~$460,000~1~1~Other~5.1~N/A~N/A~N/A~
+607/8 Gribble Street, Gungahlin ACT 2912 ~$460,000~2~1~Apartment~6.0~N/A~58~$4,475,000~
+272/1 Anthony Rolfe Avenue, Gungahlin ACT 2912 ~$468,000~2~1~Apartment~6.0~7379~76~$12,750,000~
+269/1 Anthony Rolfe Avenue, Gungahlin ACT 2912 ~$475,000~2~2~House~6.0~7380~N/A~$12,750,000~
+347/1 Anthony Rolfe Avenue, Gungahlin ACT 2912 ~$479,999~2~2~Apartment~6.0~N/A~N/A~$12,750,000~
+320/1 Anthony Rolfe Avenue, Gungahlin ACT 2912 ~Offers Over $495,000~2~2~Apartment~6.0~N/A~74~$12,750,000~
+Level 5/71/1 Anthony Rolfe Avenue, Gungahlin ACT 2912 ~$495,000~2~2~Apartment~6.0~N/A~N/A~N/A~
+20/77 Gozzard Street, Gungahlin ACT 2912 ~$499,000~2~2~Apartment~6.0~N/A~89~$4,450,000~
+115/1 Anthony Rolfe Avenue, Gungahlin ACT 2912 ~$499,000~2~2~Apartment~6.0~N/A~84~$12,750,000~
+357/1 Anthony Rolfe Avenue, Gungahlin ACT 2912 ~Offers Over $499,900~2~2~Apartment~6.0~N/A~84~$12,750,000~
+161/1 Anthony Rolfe Avenue, Gungahlin ACT 2912 ~$500,000~2~2~Apartment~6.0~7379~N/A~$12,750,000~
+1 Anthony Avenue, Gungahlin ACT 2912 ~$500,000~2~2~Apartment~6.0~N/A~N/A~N/A~
+94/77 Gozzard Street, Gungahlin ACT 2912 ~$519,000~2~2~Apartment~6.0~N/A~93~$4,450,000~
+225/1 Anthony Rolfe Avenue, Gungahlin ACT 2912 ~$525,000~2~2~Apartment~6.0~7380~84~$12,750,000~
+Nue - A Brand Nue Gungahlin, Gungahlin ACT 2912 ~$529,900~2~1~Other~5.1~N/A~N/A~N/A~
+The Establishment - 2-bed, Convenience in Gungahlin Town Centre, Gungahlin ACT 2912 ~$543,795~2~2~Apartment~5.0~3333~88~$6,750,000~
+102/1 Anthony Rolfe Avenue, Gungahlin ACT 2912 ~$545,000 ~2~2~Unit / Apartment~6.0~N/A~88~$12,750,000~
+Sierra Gungahlin - 2 bedroom, Gungahlin ACT 2912 ~$559,900~2~1~Apartment~5.3~N/A~N/A~N/A~
+G6 - LARGE 2 BEDROOM ENSUITE APARTMENT WITH COURTYARD & BALCONY, Gungahlin ACT 2912 ~$594,900~2~1~Other~6.0~N/A~N/A~N/A~
+The Establishment - 2-bed, Generously Sized Apartment, Gungahlin ACT 2912 ~$623,895~2~2~Apartment~5.0~3333~90~$6,750,000~
+Nue - A Brand Nue Gungahlin, Gungahlin ACT 2912 ~$629,900~2~2~Other~5.1~N/A~N/A~N/A~
+Sierra Gungahlin - 2 Bedroom Dual Income, Gungahlin ACT 2912 ~$639,900~2~2~Other~6.0~N/A~N/A~N/A~
+G6 - EXCLUSIVE 2 BEDROOM ENSUITE TERRACES WITH 2 LIVING AREAS, Gungahlin ACT 2912 ~$649,900~2~1~Other~6.0~N/A~N/A~N/A~
+G6 - UPMARKET 3 BEDROOM ENSUITE TERRACES WITH COURTYARDS, Gungahlin ACT 2912 ~$739,900~3~1~Other~6.0~N/A~N/A~N/A~
+Nue - A Brand Nue Gungahlin, Gungahlin ACT 2912 ~$759,900~2~2~Other~5.0~N/A~N/A~N/A~
+5/21 Tea Gardens, Gungahlin ACT 2912 ~$795,000~3~2~Townhouse~4.0~317~130~N/A~
+Nue - A Brand Nue Gungahlin, Gungahlin ACT 2912 ~$849,900~3~2~Other~5.1~N/A~N/A~N/A~
+12 Eckley Street, Gungahlin ACT 2912 ~Offers Above $1,350,000~8~4~Other~5.0~220~250~$280,000~

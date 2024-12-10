@@ -1,0 +1,17 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+50/60 Kingsland Parade, Casey ACT 2913 ~$495,000~1~1~Townhouse~6.0~63~N/A~N/A~
+2/2 Keith Waller Rise, Casey ACT 2913 ~$499,000~2~1~House~6.0~N/A~94~N/A~
+32B Scholtens Street, Casey ACT 2913 ~Offers over $575,000~2~1~Townhouse~4.0~320~N/A~$460,000~
+6 Plimsoll Drive, Casey ACT 2913 ~$595,000~2~1~Townhouse~6.0~343~N/A~$475,000~
+35/68 Dalkin Crescent, Casey ACT 2913 ~$595,000~2~2~Townhouse~5.5~99~N/A~N/A~
+29/15 Andersch Street, Casey ACT 2913 ~$595,000~2~1~Townhouse~6.0~70~N/A~N/A~
+12 Mick Shann Terrace, Casey ACT 2913 ~$700,000~3~1~House~5.0~249~127~$415,000~
+6/106 Plimsoll Drive, Casey ACT 2913 ~$739,000~3~1~Townhouse~4.5~138~N/A~N/A~
+14/21 Pickup Close, Casey ACT 2913 ~$785,000~4~2~Townhouse~3.5~228~N/A~N/A~
+79 Rockwood Street, Casey ACT 2913 ~$800,000~3~2~House~5.0~240~99~$424,000~
+15 Liz O'Neill Street, Casey ACT 2913 ~$850,000~3~2~House~5.5~387~N/A~$497,000~
+(no street name provided), Casey ACT 2913 ~$949,000~4~2~House~5.0~465~193~$529,000~
+(no street name provided), Casey ACT 2913 ~$1,000,000~4~2~House~4.5~486~231~$539,000~
+103 Plimsoll Drive, Casey ACT 2913 ~$1,050,000~4~2~Dual Occupancy~5.0~387~N/A~$521,000~
+109 Overall Avenue, Casey ACT 2913 ~$1,300,000~5~5~House~4.5~556~400~$554,000~
+47 Hyslop Crescent, Casey ACT 2913 ~$1,350,000~4~2~House~4.0~604~298~$611,000~

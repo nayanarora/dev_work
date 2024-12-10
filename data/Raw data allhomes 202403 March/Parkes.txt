@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+248/44 Constitution Avenue, Parkes ACT 2600 ~$614,900~1~1~Apartment~6.0~12100.0~N/A~N/A~
+197/44 Constitution Avenue, Parkes ACT 2600 ~Offers Over $799,900~2~2~Apartment~6.0~12100.0~N/A~N/A~
+25/44 Constitution Avenue, Parkes ACT 2600 ~$849,000~2~2~Apartment~6.0~12100.0~N/A~N/A~

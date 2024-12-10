@@ -1,0 +1,8 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+40/16 David Miller Crescent, Casey ACT 2913 ~$458,888~2~2~Unit / Apartment~6.0~5281~100~$2,475,000~
+22 Mick Shann Terrace, Casey ACT 2913 ~$735,000~3~1~House~6.0~N/A~N/A~$342,000~
+28 Whitrod Avenue, Casey ACT 2913 ~$749,000~3~2~House~6.0~188~146~$238,000~
+14 Skermer Street, Casey ACT 2913 ~$979,000~4~2~House~6.0~390~191~$370,000~
+9 Forace Street, Casey ACT 2913 ~$999,000~4~2~House~4.0~405~159~$368,000~
+25 Hyslop Crescent, Casey ACT 2913 ~$1,199,999~5~3~House~4.5~429~214~$397,000~
+41 Victoria Owen Circuit, Casey ACT 2913 ~$1,450,000~4~3~House~6.0~N/A~N/A~$410,000~

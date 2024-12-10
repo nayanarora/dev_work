@@ -1,0 +1,8 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+Renaissance - R3, The Final Stage- Type 1B, Griffith ACT 2603 ~$539,900~1~1~Apartment~N/A~N/A~65~N/A~
+Renaissance - R3, The Final Stage - Type 1L, Griffith ACT 2603 ~$579,900~1~1~Other~N/A~N/A~72~N/A~
+Renaissance - R3,The Final Stage - Type 2X, Griffith ACT 2603 ~$609,900~2~1~Apartment~N/A~N/A~72~N/A~
+Renaissance - R3, The Final Stage - Type 2C, Griffith ACT 2603 ~$765,900~2~1~Apartment~N/A~N/A~93~N/A~
+Renaissance - R3, The Final Stage- Type 2D, Griffith ACT 2603 ~$929,900~2~1~Apartment~N/A~N/A~105~N/A~
+Renaissance - R3, The Final Stage - Type 2K, Griffith ACT 2603 ~$1,029,900~2~1~Other~N/A~N/A~105~N/A~
+Renaissance - R3, The Final Stage - Type 4A, Griffith ACT 2603 ~$1,199,900~4~1~Apartment~6.1~N/A~142~N/A~

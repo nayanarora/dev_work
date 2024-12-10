@@ -1,0 +1,16 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+3/174 Clive Steele Avenue, Monash ACT 2904 ~$630,000 NEW PRICE vacant ready to move into~N/A~N/A~N/A~N/A~174~N/A~N/A~
+3/18 Kenyon Circuit, Monash ACT 2904 ~$649,000~N/A~N/A~N/A~N/A~350~N/A~N/A~
+8/38 Kenyon Circuit, Monash ACT 2904 ~  $650,000~N/A~N/A~N/A~N/A~310~N/A~N/A~
+11/26 William Hudson Crescent, Monash ACT 2904 ~$699,000~N/A~N/A~N/A~N/A~325~N/A~N/A~
+22/67 Barraclough Crescent, Monash ACT 2904 ~$715,000~N/A~N/A~N/A~N/A~227~N/A~N/A~
+The Gardens at Monash - Type F - Age Qualified Single Level Villas, Monash ACT 2904 ~$725,000~N/A~N/A~N/A~N/A~10500.0~N/A~N/A~
+The Gardens at Monash - Type G - Age Qualified Single Level Villas, Monash ACT 2904 ~$730,000~N/A~N/A~N/A~N/A~10500.0~N/A~N/A~
+34 Barraclough Crescent, Monash ACT 2904 ~$780,000~N/A~N/A~N/A~N/A~766~105~$467,000~
+The Gardens at Monash - Type D - Age Qualified Single Level Villas, Monash ACT 2904 ~$785,000~N/A~N/A~N/A~N/A~10500.0~N/A~N/A~
+53/67 Barraclough Crescent, Monash ACT 2904 ~$820,000~N/A~N/A~N/A~N/A~292~N/A~N/A~
+The Gardens at Monash - Type A - Age Qualified Single Level Villas, Monash ACT 2904 ~$860,000~N/A~N/A~N/A~N/A~10500.0~N/A~N/A~
+The Gardens at Monash - Type C - Age Qualified Single Level Villas, Monash ACT 2904 ~$895,000~N/A~N/A~N/A~N/A~10500.0~N/A~N/A~
+The Gardens at Monash - Type B - Age Qualified Single Level Villas, Monash ACT 2904 ~$899,000~N/A~N/A~N/A~N/A~10500.0~N/A~N/A~
+17 & 17A Balsillie Crescent, Monash ACT 2904 ~$1,350,000~N/A~N/A~N/A~N/A~1323~330~N/A~
+1 Hawken Street, Monash ACT 2904 ~$2,250,000~N/A~N/A~N/A~N/A~1267~N/A~$621,000~

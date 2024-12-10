@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+10/1 Goldner Circuit, Melba ACT 2615 ~$720,000~3~2~Townhouse~4.0~263~N/A~N/A~
+12 Saville Close, Melba ACT 2615 ~$1,049,000~5~2~House~2.5~985~367~$489,000~
+73 Alfred Hill Drive, Melba ACT 2615 ~$1,189,000~5~3~House~0.5~1020~323~$392,000~
+18 Alpen Street, Melba ACT 2615 ~$1250000~5~3~House~2.0~840~N/A~$549,000~

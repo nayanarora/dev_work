@@ -1,0 +1,9 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+5/39 Brigalow Street, O'Connor ACT 2602 ~$329,000~N/A~N/A~N/A~N/A~8466~N/A~$8,400,000~
+18/41 David Street, O'Connor ACT 2602 ~$389,000~N/A~N/A~N/A~N/A~4433~N/A~$4,590,000~
+16/19 Moorhouse Street, O'Connor ACT 2602 ~$415,000~N/A~N/A~N/A~N/A~4126~N/A~$4,900,000~
+1/5 David Street, O'Connor ACT 2602 ~  $899,000~N/A~N/A~N/A~N/A~126~N/A~N/A~
+MADE - Unit 1, 31 Berrigan Street, O'Connor ACT 2602 ~$1,390,000~N/A~N/A~N/A~N/A~N/A~N/A~N/A~
+5 MacPherson Street, O'Connor ACT 2602 ~Offer Over $1,650,000~N/A~N/A~N/A~N/A~766~124~$1,134,000~
+26 Westgarth Street, O'Connor ACT 2602 ~$3,490,000~N/A~N/A~N/A~N/A~808~358~$1,200,000~
+12 Tate Street, O'Connor ACT 2602 ~$1.800,000~N/A~N/A~N/A~N/A~643~N/A~N/A~

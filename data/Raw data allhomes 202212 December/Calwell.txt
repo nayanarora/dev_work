@@ -1,0 +1,10 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+15 Hammill Close, Calwell ACT 2905 ~$715,000~3~1~House~4.5~578~104~$417,000~
+34 Burtt Crescent, Calwell ACT 2905 ~$750,000~3~1~House~2.0~686~N/A~$391,000~
+61 Downard Street, Calwell ACT 2905 ~$770,000~3~2~House~1.0~682~114~$392,000~
+76 Outtrim Avenue, Calwell ACT 2905 ~$859,900~4~2~House~3.0~815~181~$444,000~
+9/7 Purnell Place, Calwell ACT 2905 ~$868,000~4~2~Townhouse~2.5~417~N/A~N/A~
+36 Martley Circuit, Calwell ACT 2905 ~$875,000~4~2~House~3.0~796~153~$397,000~
+49 O'Connor Circuit, Calwell ACT 2905 ~$920,000~3~2~House~3.0~898~171~$382,000~
+43 Martley Circuit, Calwell ACT 2905 ~Offers Over $950,000~4~2~House~1.5~845~276~$557,000~
+41 Zox Circuit, Calwell ACT 2905 ~$995,000~4~1~House~2.5~674~N/A~$521,000~

@@ -1,0 +1,3 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+5/10 Hopegood Place, Garran ACT 2605 ~$690,000~3~2~Apartment~6.0~N/A~122~N/A~
+29B Tompson Street, Garran ACT 2605 ~$1,350,000~3~2~House~6.0~N/A~155~N/A~

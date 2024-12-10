@@ -1,0 +1,29 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+2/79 Northbourne Avenue, Turner ACT 2612 ~Offers over $350,000~1~1~Apartment~5.5~N/A~N/A~$8,250,000~
+35/77 Northbourne Avenue, Turner ACT 2612 ~$399,000~1~1~Apartment~6.0~N/A~N/A~$11,250,000~
+6/11 Forbes Street, Turner ACT 2612 ~$429,000~1~1~Apartment~6.0~N/A~N/A~$2,250,000~
+501/2 Masson Street, Turner ACT 2612 ~$479,000~1~1~Apartment~4.5~N/A~N/A~N/A~
+101/217 Northbourne Avenue, Turner ACT 2612 ~$485,000 ~1~1~House~6.0~5046~64~$13,000,000~
+2/72-74 MacLeay Street, Turner ACT 2612 ~$500000~1~1~Apartment~6.0~N/A~N/A~N/A~
+81/122 Macarthur Avenue, Turner ACT 2612 ~$519,000~1~1~Apartment~8.0~N/A~N/A~N/A~
+107/77 Northbourne Avenue, Turner ACT 2612 ~$530,000~2~1~Apartment~6.0~N/A~N/A~$11,250,000~
+1/17 MacLeay Street, Turner ACT 2612 ~$530,000~1~1~Apartment~6.0~N/A~N/A~$2,400,000~
+4/12 Condamine Street, Turner ACT 2612 ~$549,000~1~1~Apartment~6.0~N/A~N/A~$2,520,000~
+art.haus - One Bedroom, Turner ACT 2612 ~$559,900~1~1~Apartment~6.0~N/A~N/A~N/A~
+5/54 MacLeay Street, Turner ACT 2612 ~$595,000~2~1~Unit / Apartment~6.0~N/A~N/A~$2,400,000~
+25/77 Northbourne Avenue, Turner ACT 2612 ~$625,000~2~1~Apartment~6.0~N/A~N/A~$11,250,000~
+80/77 Northbourne Avenue, Turner ACT 2612 ~Offers Over $649,000~2~2~Unit / Apartment~6.0~N/A~N/A~$11,250,000~
+162/217 Northbourne Avenue, Turner ACT 2612 ~$730,000 ~3~3~Apartment~6.0~N/A~N/A~N/A~
+1/6 MacLeay Street, Turner ACT 2612 ~$749,000~2~2~Apartment~5.0~N/A~N/A~$4,800,000~
+1/28 Watson Street, Turner ACT 2612 ~$765,000~3~2~Apartment~6.0~N/A~N/A~$5,400,000~
+7/17 MacLeay Street, Turner ACT 2612 ~$785,000~2~2~Apartment~6.0~N/A~N/A~$2,400,000~
+19/30 Watson Street, Turner ACT 2612 ~$799,000~2~2~Apartment~5.5~N/A~N/A~$5,250,000~
+art.haus - Two Bedroom, Turner ACT 2612 ~$799,900~2~1~Apartment~6.0~N/A~N/A~N/A~
+art.haus - Two Bedroom with Double Lock Up Garage, Turner ACT 2612 ~$979,000~2~1~Apartment~6.0~N/A~N/A~N/A~
+3/2 David Street, Turner ACT 2612 ~$1,129,000~4~3~Townhouse~6.0~1827~N/A~N/A~
+59 Forbes Street, Turner ACT 2612 ~$1,499,000~3~2~Townhouse~6.0~3530~N/A~$4,750,000~
+art.haus - 3 Bedroom with Double Lock Up Garage, Turner ACT 2612 ~$1,519,900~3~1~Apartment~6.0~N/A~N/A~N/A~
+Zarah - Unit 8, Turner ACT 2612 ~$1,750,000~3~3~Townhouse~6.0~1053~N/A~$1,924,000~
+Zarah - Unit 3, Turner ACT 2612 ~$1,750,000~3~3~Townhouse~6.0~1053~N/A~$1,924,000~
+58 MacLeay Street, Turner ACT 2612 ~$1,900,000~3~1~House~4.5~767~N/A~N/A~
+art.haus - 3 Bedroom Penthouse, Turner ACT 2612 ~$2,329,000~3~1~Apartment~6.0~N/A~N/A~N/A~

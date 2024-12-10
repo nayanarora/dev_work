@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+8C/124 Ross Smith Crescent, Scullin ACT 2614 ~Offers Over $299,000~2~1~Unit / Apartment~4.0~N/A~65~N/A~

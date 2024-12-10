@@ -1,0 +1,20 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+21/4 Thadoona Street, Crace ACT 2911 ~Offers over $380,000~1~1~Apartment~6.0~5420~53~$74,841~
+10 Dobikin Street, Crace ACT 2911 ~$679,000~2~1~Townhouse~5.5~180~106~$321,000~
+19 Zanci Street, Crace ACT 2911 ~$704000~2~1~Townhouse~6.0~135~112~$290,000~
+2A Avenal Street, Crace ACT 2911 ~$749,000~3~2~Townhouse~6.0~219~135~N/A~
+3/21 Samaria Street, Crace ACT 2911 ~$749,000~2~2~House~6.0~138~N/A~N/A~
+7 Kappakoola Street, Crace ACT 2911 ~$799,000~3~2~House~6.0~239~139~$359,000~
+16 Parilla Street, Crace ACT 2911 ~$825000~3~2~House~4.0~240~184~$418,000~
+17 Dobikin Street, Crace ACT 2911 ~$855,000~3~2~House~4.5~307~149~$469,000~
+80 Cocoparra Crescent, Crace ACT 2911 ~$999,000~3~2~House~4.0~417~142~$529,000~
+7 Junee Street, Crace ACT 2911 ~$1,175,000~4~2~House~5.5~468~236~$574,000~
+13 Lanaba Street, Crace ACT 2911 ~$1,410,000~4~3~House~6.0~564~268~$664,000~
+97 Drooka Crescent, Crace ACT 2911 ~$1,480,000~4~2~House~4.5~539~297~$666,000~
+11 Abena Avenue, Crace ACT 2911 ~$1,550,000~4~2~House~4.0~846~N/A~$835,000~
+12 Fingal Street, Crace ACT 2911 ~$1,559,000~4~3~House~6.0~498~277~$634,000~
+98 Drooka Crescent, Crace ACT 2911 ~$1700000~4~3~House~5.5~526~290~$634,000~
+40 Ivory Street, Crace ACT 2911 ~Offers above $1,650,000~4~3~House~5.5~542~300~$666,000~
+26 Drooka Crescent, Crace ACT 2911 ~$1,749,000~5~3~House~5.5~672~319~$766,000~
+76 Drooka Crescent, Crace ACT 2911 ~$2,100,000~4~2~House~5.0~801~364~$849,000~
+8 Ettrick Street, Crace ACT 2911 ~$2,549,000~5~4~House~6.0~555~N/A~$675,000~

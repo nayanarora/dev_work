@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+182 Majura Avenue, Ainslie ACT 2602 ~$1,380,000~3~1~House~1.0~664~N/A~$858,000~
+19 Canning Street, Ainslie ACT 2602 ~$1,900,000~5~3~House~1.5~789~209~$1,260,000~
+240 Duffy Street, Ainslie ACT 2602 ~$2,000,000~4~2~House~6.0~1085~N/A~$1,318,000~
+10 Calvert Street, Ainslie ACT 2602 ~$2900000~5~3~House~4.5~867~332~$1,164,000~

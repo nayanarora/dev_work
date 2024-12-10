@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+12 Alice Jackson Crescent, Gilmore ACT 2905 ~$749,000~3~2~House~3.0~703~131~$449,000~
+4 Budd Place, Gilmore ACT 2905 ~Offers Over $920,000~4~2~House~4.0~862~190~$500,000~
+37 Pankhurst Crescent, Gilmore ACT 2905 ~$925,000~5~2~House~3.5~1173~N/A~$528,000~
+3 Alice Jackson Crescent, Gilmore ACT 2905 ~$960,000~3~2~House~2.0~763~130~$449,000~

@@ -1,0 +1,36 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+VUE Residences - 1 Bedroom Apartment - VUE 128, Greenway ACT 2900 ~$319,900~1~1~Other~N/A~6739~N/A~$5,855,000~
+VUE Residences - 1 Bedroom Apartment - VUE 109, Greenway ACT 2900 ~$349,900~1~1~Other~N/A~6739~N/A~$5,855,000~
+150 Anketell Street, Greenway ACT 2900 ~$349,900~1~1~Apartment~6.0~6739~N/A~$5,855,000~
+187/142 Anketell Street, Greenway ACT 2900 ~$379,500~1~1~Apartment~6.0~6739~N/A~$5,855,000~
+278/325 Anketell Street, Greenway ACT 2900 ~$389,000~1~1~Apartment~6.0~7284~N/A~$5,400,000~
+VUE Residences - 1 Bedroom Apartment VUE 95, Greenway ACT 2900 ~$389,900~1~1~Other~N/A~6739~N/A~$5,855,000~
+76/35 Oakden Street, Greenway ACT 2900 ~  $390,000~1~1~Unit / Apartment~6.0~7284~N/A~$5,400,000~
+G10/34 Oakden Street, Greenway ACT 2900 ~$395,000~1~1~Apartment~6.0~11000.0~N/A~$12,440,000~
+306/335 Anketell Street, Greenway ACT 2900 ~$399,999~2~1~Apartment~6.0~11000.0~N/A~$12,440,000~
+150 Anketell Street, Greenway ACT 2900 ~$429,900~1~1~Apartment~5.8~6739~N/A~$5,855,000~
+Aspen Village - Black Diamond - 1 Bedroom Apartment in the Tuggeranong CBD, Greenway ACT 2900 ~$451,900~1~1~Other~N/A~11000.0~N/A~$12,440,000~
+105/335 Anketell Street, Greenway ACT 2900 ~$479,000~2~2~Apartment~6.0~11000.0~N/A~$12,440,000~
+Aspen Village - Black Diamond - 2 Bedroom Apartment in the Tuggeranong CBD, Greenway ACT 2900 ~$480,900~2~1~Other~N/A~11000.0~N/A~$12,440,000~
+29/311 Anketell Street, Greenway ACT 2900 ~$489,000~2~2~Apartment~6.0~9728~N/A~$6,620,000~
+217/38 Oakden St, Greenway ACT 2900 ~$495,000~2~2~Unit / Apartment~6.0~11000.0~N/A~$12,440,000~
+Aspen Village - 2 Bedroom in the Tuggeranong CBD, Greenway ACT 2900 ~$495,900~2~1~Other~N/A~11000.0~N/A~$12,440,000~
+315/335 Anketell Street, Greenway ACT 2900 ~$519,000~2~2~Apartment~6.0~11000.0~N/A~$12,440,000~
+36/58 Cowlishaw Street, Greenway ACT 2900 ~$525,000~2~2~Apartment~6.0~6739~N/A~$5,855,000~
+37/58 Cowlishaw Street, Greenway ACT 2900 ~$529,500~2~2~Unit / Apartment~6.0~6739~N/A~$5,855,000~
+509/335 Anketell Street, Greenway ACT 2900 ~$535,000~2~2~Apartment~6.0~11000.0~N/A~$12,440,000~
+131/35 Oakden Street, Greenway ACT 2900 ~$549,000~2~2~Apartment~6.0~7284~N/A~$5,400,000~
+VUE Residences - Fully Furnished 2 Bedroom Apartment, Greenway ACT 2900 ~$549,900~2~1~Other~N/A~6739~N/A~$5,855,000~
+229/12 Limburg Way, Greenway ACT 2900 ~$559,000~2~2~Unit / Apartment~N/A~9728~N/A~$6,620,000~
+Aspen Village - 2 Bedroom in the Tuggeranong CBD, Greenway ACT 2900 ~$559,900~2~1~Other~N/A~11000.0~N/A~$12,440,000~
+VUE Residences - Fully Furnished 2 Bedroom Apartment, Greenway ACT 2900 ~$559,900~2~2~Other~N/A~6739~N/A~$5,855,000~
+25/6 Ellison Harvie Close, Greenway ACT 2900 ~$639,000~3~2~Townhouse~4.0~5999~N/A~$4,950,000~
+95/1 Limburg Way, Greenway ACT 2900 ~$655,000~3~2~Apartment~4.0~8218~N/A~$4,500,000~
+78/167 Mortimer Lewis Drive, Greenway ACT 2900 ~$679,000~3~2~Townhouse~6.0~29300.0~N/A~$18,000,000~
+21/58 Eileen Good Street, Greenway ACT 2900 ~$690,000~3~1~Unit / Apartment~5.5~5828~N/A~$3,740,000~
+18/1 Drew Street, Greenway ACT 2900 ~$699,000~3~2~Apartment~5.5~3988~N/A~$3,060,000~
+17/15 Cynthea Teague Crescent, Greenway ACT 2900 ~$699,000~3~2~Unit / Apartment~6.0~2236~N/A~$2,500,000~
+133/161 Mortimer Lewis Drive, Greenway ACT 2900 ~  $720,000~3~2~Townhouse~6.0~29300.0~N/A~$18,000,000~
+Aspen Village - Black Diamond Final Release - New Precinct in Tuggeranong, Greenway ACT 2900 ~$833,900~3~2~Apartment~5.0~11000.0~N/A~$12,440,000~
+33/165 Mortimer Lewis Drive, Greenway ACT 2900 ~$899,000~4~2~Townhouse~6.0~29300.0~N/A~$18,000,000~
+53 Florence Taylor Street, Greenway ACT 2900 ~$1,195,000~3~2~Townhouse~6.0~229~N/A~N/A~

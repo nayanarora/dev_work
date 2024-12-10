@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+2/41 Nott Street, Fraser ACT 2615 ~$799,000~3~2~House~5.5~316~126~N/A~
+17 Carrodus Street, Fraser ACT 2615 ~$875,000~4~2~House~1.0~1205~N/A~$499,000~
+9 Bingley Crescent, Fraser ACT 2615 ~$1,210,000~6~3~House~1.5~1255~N/A~$578,000~

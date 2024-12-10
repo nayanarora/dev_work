@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+89 Dixon Drive, Duffy ACT 2611 ~$925,000~4~2~House~1.5~964~149~$713,000~
+33 Eppalock Street, Duffy ACT 2611 ~ $1,049,000~4~2~House~2.0~804~255~$713,000~
+15 Wyangala Street, Duffy ACT 2611 ~$1,199,000~4~2~House~5.0~780~175~$588,000~
+60 Serpentine Street, Duffy ACT 2611 ~$1,299,000~4~2~House~4.5~1050~N/A~$629,000~
+135B Burrinjuck Crescent, Duffy ACT 2611 ~$1,300,000~3~2~Townhouse~6.0~409~N/A~N/A~

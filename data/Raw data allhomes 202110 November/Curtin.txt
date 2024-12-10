@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+6 Morgan Crescent, Curtin ACT 2605 ~$1,140,000 ~3~1~Duplex~2.5~570~92~$518,000~
+44 Haines Street, Curtin ACT 2605 ~$1,475,000 ~3~3~House~3.5~927~129~$601,000~
+30 Gillies Street, Curtin ACT 2605 ~$1,700,000 ~3~2~House~1.5~986~177~$674,000~

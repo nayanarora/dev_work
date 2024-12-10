@@ -1,0 +1,3 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+67 Downard Street, Calwell ACT 2905 ~$900,000~4~1~House~2.0~792~138~$431,000~
+53 Johnstone Circuit, Calwell ACT 2905 ~$959,000~5~3~House~2.5~793~N/A~$470,000~

@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+9 Burhop Close, Theodore ACT 2905 ~$699,000~3~1~House~1.0~412~N/A~$407,000~
+143 Lawrence Wackett Crescent, Theodore ACT 2905 ~$810,000~3~2~House~4.5~795~N/A~$452,000~
+171 Lawrence Wackett Crescent, Theodore ACT 2905 ~$820,000~3~1~House~1.0~716~129~$379,000~

@@ -1,0 +1,28 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+Horizon Hill - Lot A2, Strathnairn ACT 2615 ~$655,500~2~2~House and Land Package~N/A~N/A~N/A~N/A~
+4 Clegg Lane, Strathnairn ACT 2615 ~$670,000~2~N/A~Unit / Apartment~6.0~175~171~N/A~
+The Brosnan - Townhouse 2, Strathnairn ACT 2615 ~$734,900~3~2~Other~6.9~N/A~N/A~N/A~
+The Brosnan - Townhouse 3, Strathnairn ACT 2615 ~$734,900~3~2~Townhouse~6.9~N/A~N/A~N/A~
+Horizon Hill - Lot H2, Strathnairn ACT 2615 ~$746,700~2~2~House and Land Package~N/A~N/A~N/A~N/A~
+The Brosnan - Townhouse 4, Strathnairn ACT 2615 ~$754,900~3~2~Townhouse~6.9~N/A~N/A~N/A~
+(no street name provided), Strathnairn ACT 2615 ~$825,000~4~2~House and Land Package~6.0~252~170~N/A~
+23 Tranter Street, Strathnairn ACT 2615 ~$870,000~4~3~House~6.0~165~172~N/A~
+Horizon Hill - Lot E, Strathnairn ACT 2615 ~$874,000~4~2~House and Land Package~N/A~N/A~N/A~N/A~
+7 Tranter Street, Strathnairn ACT 2615 ~$920,000~4~3~House~6.0~223~189~N/A~
+Motto - 256 Pro Hart Avenue, Strathnairn ACT 2615 ~$925,000~4~2~Townhouse~7.3~168~187~N/A~
+25 Cameleer Lane, Strathnairn ACT 2615 ~$945,000~4~2~House~6.0~240~N/A~N/A~
+4 Pinkas Street, Strathnairn ACT 2615 ~$949,000~4~2~House~7.0~374~N/A~N/A~
+Horizon Hill - Lot D, Strathnairn ACT 2615 ~$949,050~4~3~House and Land Package~N/A~N/A~N/A~N/A~
+(no street name provided), Strathnairn ACT 2615 ~$950,000~4~2~House~6.0~250~215~N/A~
+(no street name provided), Strathnairn ACT 2615 ~$980,000~4~2~House~N/A~325~213~N/A~
+82 Pro Hart Avenue, Strathnairn ACT 2615 ~$1,025,000~4~3~House~6.0~449~206~N/A~
+Horizon Hill - Lot A1, Strathnairn ACT 2615 ~$1,090,000~4~2~House and Land Package~N/A~N/A~N/A~N/A~
+63 Lionel Rose Street, Strathnairn ACT 2615 ~$1,095,000~4~1~House~3.5~N/A~N/A~N/A~
+10 Ariotti Street, Strathnairn ACT 2615 ~$1,100,000~4~N/A~House~6.0~440~285~N/A~
+(no street name provided), Strathnairn ACT 2615 ~$1225000~4~2~House~6.0~447~227~N/A~
+(no street name provided), Strathnairn ACT 2615 ~$1275000~4~2~House~6.0~447~227~N/A~
+100 Pro Hart Avenue, Strathnairn ACT 2615 ~$1,200,000~4~3~House~6.0~465~184~N/A~
+(no street name provided), Strathnairn ACT 2615 ~$1275000~5~2~House~6.0~604~251~N/A~
+13 Frearson Street, Strathnairn ACT 2615 ~$1,299,000~5~2~House~5.0~569~180~N/A~
+(no street name provided), Strathnairn ACT 2615 ~$1,300,000~5~3~House~6.0~604~240~N/A~
+11 Clothier Street, Strathnairn ACT 2615 ~$1,388,000~5~3~House~6.0~457~321~N/A~

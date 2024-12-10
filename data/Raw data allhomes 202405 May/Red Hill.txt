@@ -1,0 +1,16 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+2/14 Discovery Street, Red Hill ACT 2603 ~$460,000~2~1~Apartment~3.0~N/A~N/A~N/A~
+5/78 Hicks Street, Red Hill ACT 2603 ~$579,000~2~1~Apartment~1.0~N/A~N/A~$1,800,000~
+30/6 Lady Nelson Place, Red Hill ACT 2603 ~$755,000~1~1~Apartment~6.0~N/A~N/A~N/A~
+3/9 Lady Nelson Place, Red Hill ACT 2603 ~$1,275,000~2~2~Apartment~6.0~N/A~N/A~$8,500,000~
+195A La Perouse Street, Red Hill ACT 2603 ~$1710000~3~2~Townhouse~8.0~186~N/A~$668,000~
+39 Esperance Street, Red Hill ACT 2603 ~$1,699,000~4~2~House~4.5~778~182~N/A~
+12 Cutty Sark Lane, Red Hill ACT 2603 ~$1,799,000~3~1~Townhouse~7.0~192~N/A~$668,000~
+29 Cygnet Crescent, Red Hill ACT 2603 ~$1,800,000~4~2~House~6.0~393~N/A~$1,132,000~
+24 Astrolabe Street, Red Hill ACT 2603 ~$1,995,000~4~2~House~0.5~714~146~$1,270,000~
+89 Investigator Street, Red Hill ACT 2603 ~$2,100,000~4~2~House~3.5~754~N/A~$1,437,000~
+9 Hicks Street, Red Hill ACT 2603 ~$2230000~4~2~House~6.0~693~252~$1,500,000~
+34 Roebuck Street, Red Hill ACT 2603 ~$2,899,000~5~3~House~3.0~884~N/A~$1,456,000~
+41A Quiros Street, Red Hill ACT 2603 ~$2,950,000~4~3~House~6.0~550~N/A~N/A~
+231 La Perouse Street, Red Hill ACT 2603 ~$3350000~7~3~House~2.0~900~273~$1,400,000~
+59 Mugga Way, Red Hill ACT 2603 ~$6,295,000~4~4~House~2.0~2008~N/A~$2,750,000~

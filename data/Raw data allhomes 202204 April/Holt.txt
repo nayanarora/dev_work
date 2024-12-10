@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+10/131 Britten-Jones Drive, Holt ACT 2615 ~$709,000~3~2~Townhouse~3.0~366~107~N/A~
+19 Bannerman Place, Holt ACT 2615 ~$845000~4~2~House~0.5~696~162~$390,000~
+32/131 Britten-Jones Drive, Holt ACT 2615 ~$840,000~3~2~Villa~5.0~N/A~201~N/A~
+(no street name provided), Ginninderra Estate ACT 2615 ~$950,000~4~2~House and Land Package~6.0~604~230~N/A~

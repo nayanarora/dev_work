@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+22 Blacket Street, Downer ACT 2602 ~$1,390,000~3~2~House~0.5~N/A~N/A~$649,000~

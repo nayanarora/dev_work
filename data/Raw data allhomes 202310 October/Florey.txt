@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+24 Barnard Circuit, Florey ACT 2615 ~$690,000~3~2~House~1.5~684~N/A~$502,000~
+5 Tovey Place, Florey ACT 2615 ~  $769,000~3~1~House~4.5~543~119~$483,000~
+70 Barnard Circuit, Florey ACT 2615 ~$799,000~3~2~House~4.0~675~N/A~$502,000~

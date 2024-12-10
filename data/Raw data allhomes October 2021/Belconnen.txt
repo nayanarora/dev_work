@@ -1,0 +1,58 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+67-13 Chandler Street, Belconnen ACT 2617 ~$320,000~1~1~Apartment~4.0~N/A~N/A~N/A~
+1213/120 Eastern Valley Way, Belconnen ACT 2617 ~Offers Over $330,000~1~1~Unit / Apartment~6.0~N/A~51~N/A~
+45/60-68 College Street, Belconnen ACT 2617 ~$340,000~1~1~Apartment~6.0~21900.0~N/A~N/A~
+200/41 Chandler Street, Belconnen ACT 2617 ~Offers over $340,000~1~1~Apartment~6.0~N/A~N/A~N/A~
+912/120 Eastern Valley Way, Belconnen ACT 2617 ~$340,000 ~1~1~Unit / Apartment~6.0~N/A~50~N/A~
+1110/3 Grazier Lane, Belconnen ACT 2617 ~$349,000 ~1~1~Unit / Apartment~6.0~N/A~51~N/A~
+44/41 Chandler Street, Belconnen ACT 2617 ~$359,000 ~1~1~Apartment~6.0~N/A~70~N/A~
+78/41 Chandler Street, Belconnen ACT 2617 ~$365,000~1~1~Unit / Apartment~6.0~7709~55~N/A~
+The Chandler - Everything You Need, Nothing You Don't, Belconnen ACT 2617 ~$369,900~1~1~Other~6.0~N/A~N/A~N/A~
+103/99 Eastern Valley Way, Belconnen ACT 2617 ~$369,950~1~1~Unit / Apartment~6.0~N/A~62~N/A~
+24/13 Thurlow Place, Belconnen ACT 2617 ~$374,000 ~2~1~Apartment~N/A~N/A~N/A~N/A~
+5/31 Disney Court, Belconnen ACT 2617 ~Offers over $375,000~2~1~Apartment~6.0~N/A~69~N/A~
+Nightfall - Stylish Interiors, Make it your Own!, Belconnen ACT 2617 ~$384,900~1~1~Apartment~5.0~N/A~N/A~N/A~
+Nightfall - Last Chance to Purchase in the Republic Precinct!, Belconnen ACT 2617 ~$387,900~1~1~Apartment~5.0~N/A~N/A~N/A~
+Nightfall - 1710/2 Grazier Lane, Belconnen ACT 2617 ~$397,900~1~1~Apartment~5.0~N/A~N/A~N/A~
+The Chandler - Everything You Need, Nothing You Don't, Belconnen ACT 2617 ~$399,900~1~1~Other~6.0~N/A~N/A~N/A~
+Nightfall - 1810/2 Grazier Lane, Belconnen ACT 2617 ~$400,900~1~1~Apartment~5.0~N/A~N/A~N/A~
+70/41 Chandler Street, Belconnen ACT 2617 ~$405,000~1~1~Unit / Apartment~6.0~N/A~N/A~N/A~
+66/41 Chandler Street, Belconnen ACT 2617 ~Offers over $405,000~1~1~Unit / Apartment~6.0~N/A~56~N/A~
+1605/4 Grazier Lane, Belconnen ACT 2617 ~Offers above $415,000~1~1~Apartment~6.0~N/A~55~N/A~
+1511/161 Emu Bank, Belconnen ACT 2617 ~$449,000~1~1~Apartment~6.5~N/A~67~N/A~
+Level 4/128/57 Benjamin Way, Belconnen ACT 2617 ~$450,000~2~2~Unit / Apartment~6.0~N/A~N/A~N/A~
+405/6 Grazier Lane, Belconnen ACT 2617 ~$461,900~2~2~Apartment~6.0~N/A~70~N/A~
+High Society - 1615/3 Grazier Lane, Belconnen ACT 2617 ~$469,900~2~1~Apartment~5.0~N/A~N/A~N/A~
+1008/1 Grazier Lane, Belconnen ACT 2617 ~$470,000~2~2~Apartment~6.0~N/A~N/A~N/A~
+High Society - 2011/3 Grazier Lane, Belconnen ACT 2617 ~$489,900~2~2~Apartment~5.0~N/A~N/A~N/A~
+Nightfall - Final piece of the Republic Precinct, Belconnen ACT 2617 ~$489,900~2~1~Apartment~5.0~N/A~N/A~N/A~
+The Chandler - Everything You Need, Nothing You Don't, Belconnen ACT 2617 ~$489,900~2~2~Other~6.0~N/A~N/A~N/A~
+High Society - 902/1 Grazier Lane, Belconnen ACT 2617 ~$489,900~2~2~Apartment~5.0~N/A~N/A~N/A~
+High Society - 2111/3 Grazier Lane, Belconnen ACT 2617 ~$494,900~2~2~Apartment~5.0~N/A~N/A~N/A~
+Nightfall - 709/2 Grazier Lane, Belconnen ACT 2617 ~$495,900~2~2~Apartment~5.0~N/A~N/A~N/A~
+1810/120 Eastern Valley Way, Belconnen ACT 2617 ~$499,000~2~2~Apartment~6.0~N/A~N/A~N/A~
+303/6 Grazier Lane, Belconnen ACT 2617 ~$499,999~2~2~Unit / Apartment~6.0~N/A~104~N/A~
+2003/120 Eastern Valley Way, Belconnen ACT 2617 ~$509,000~2~2~Apartment~6.0~N/A~68~N/A~
+Nightfall - 408/2 Grazier Lane, Belconnen ACT 2617 ~$511,900~2~2~Apartment~5.0~N/A~N/A~N/A~
+1513/3 Grazier Lane, Belconnen ACT 2617 ~$520,000~2~2~Apartment~6.0~N/A~70~N/A~
+52/57 Benjamin Way, Belconnen ACT 2617 ~Offers above $529000~2~2~Apartment~6.0~N/A~95~N/A~
+77/99 Eastern Valley Way, Belconnen ACT 2617 ~$540,000~2~1~Apartment~6.0~N/A~90~N/A~
+Nightfall - Canberra's Newest Bustling Precinct, Belconnen ACT 2617 ~$541,900~2~2~Apartment~5.0~N/A~N/A~N/A~
+1904/161 Emu Bank, Belconnen ACT 2617 ~$692500~2~2~Apartment~6.5~N/A~N/A~N/A~
+Cirrus - 1 Bedroom, Belconnen ACT 2617 ~$590,000~1~1~Apartment~6.5~N/A~N/A~N/A~
+The Chandler - Everything You Need, Nothing You Don't, Belconnen ACT 2617 ~$610,000~3~2~Other~6.0~N/A~N/A~N/A~
+502/161 Emu Bank, Belconnen ACT 2617 ~$660,000~2~1~Apartment~6.5~N/A~N/A~N/A~
+Cirrus - 2 Bedroom - 2C, Belconnen ACT 2617 ~$670,000~2~1~Apartment~6.5~N/A~N/A~N/A~
+Cirrus - 2 Bedroom, Belconnen ACT 2617 ~$680,000~2~2~Apartment~6.5~N/A~N/A~N/A~
+Level 11/1113/6 Grazier Lane, Belconnen ACT 2617 ~Offers Over $699,000~3~2~Apartment~6.0~N/A~127~N/A~
+610/1 Grazier Lane, Belconnen ACT 2617 ~Offers Over $699,000~3~2~Unit / Apartment~6.0~N/A~114~N/A~
+Cirrus - 2 Bedroom, Belconnen ACT 2617 ~$715,000~2~1~Apartment~6.5~N/A~N/A~N/A~
+69/57 Benjamin Way, Belconnen ACT 2617 ~Offers Over $719,000~3~2~Unit / Apartment~5.5~N/A~N/A~N/A~
+211/39 Benjamin Way, Belconnen ACT 2617 ~$755,000~3~1~Apartment~6.0~N/A~126~N/A~
+2605/3 Grazier Lane, Belconnen ACT 2617 ~Offers Over $789,000~3~2~Unit / Apartment~6.0~N/A~110~N/A~
+High Society - 2504/1 Grazier Lane, Belconnen ACT 2617 ~$792,900~3~2~Apartment~5.0~N/A~N/A~N/A~
+High Society - 2301/3 Grazier Lane, Belconnen ACT 2617 ~$805,000~3~2~Apartment~5.0~N/A~N/A~N/A~
+2701/1 Grazier Lane, Belconnen ACT 2617 ~$850,000~3~2~Unit / Apartment~5.5~N/A~N/A~N/A~
+2703/1 Grazier Lane, Belconnen ACT 2617 ~$850,000~3~2~Unit / Apartment~6.0~N/A~N/A~N/A~
+2702/3 Grazier Lane, Belconnen ACT 2617 ~$1,250,000~3~3~Apartment~6.0~N/A~N/A~N/A~
+2701/3 Grazier Lane, Belconnen ACT 2617 ~$1,250,000~3~2~Apartment~6.0~N/A~N/A~N/A~

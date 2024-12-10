@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+15 Ebeling Court, Nicholls ACT 2913 ~$1,659,000~7~3~House~4.0~753~376~$760,000~

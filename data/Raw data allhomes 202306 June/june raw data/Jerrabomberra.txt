@@ -1,0 +1,13 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+7/4 Redwood Avenue, Jerrabomberra NSW 2619 ~$639000~2~1~Townhouse~N/A~12400.0~N/A~N/A~
+8/17 Elm Way, Jerrabomberra NSW 2619 ~$645000~2~1~Townhouse~N/A~6136~N/A~N/A~
+1/15 Ironbark Circuit, Jerrabomberra NSW 2619 ~$774000~3~2~House~N/A~3965~N/A~N/A~
+2/15 Kennedy Avenue, Jerrabomberra NSW 2619 ~$799000~3~2~House~N/A~1003~N/A~N/A~
+72A Bicentennial Drive, Jerrabomberra NSW 2619 ~$804000~3~1~House~N/A~532~N/A~N/A~
+1 Uralba Court, Jerrabomberra NSW 2619 ~$980,000 to $1,025,000~4~2~House~N/A~1183~N/A~N/A~
+211 Bicentennial Drive, Jerrabomberra NSW 2619 ~$1304000~5~3~House~N/A~783~N/A~N/A~
+27 Balcombe Street, Jerrabomberra NSW 2619 ~$1400000~4~2~House~N/A~991~227~N/A~
+18 Allambee Street, Jerrabomberra NSW 2619 ~$1,585,000~4~2~House~N/A~828~323~N/A~
+1 Boree Place, Jerrabomberra NSW 2619 ~$1700000~4~3~House~N/A~1156~N/A~N/A~
+228 Bicentennial Drive, Jerrabomberra NSW 2619 ~$1745000~5~3~House~N/A~923~N/A~N/A~
+19 Maple Crescent, Jerrabomberra NSW 2619 ~$1999000~6~4~House~N/A~830~387~N/A~

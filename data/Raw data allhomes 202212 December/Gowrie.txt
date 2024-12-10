@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+59 Bugden Avenue, Gowrie ACT 2904 ~$799,000~3~1~House~2.5~927~N/A~$395,000~
+11 Galleghan Circuit, Gowrie ACT 2904 ~$830,000~3~1~House~1.0~810~94~$498,000~
+76 Bugden Avenue, Gowrie ACT 2904 ~Offers Over $849,000~3~2~House~4.0~824~N/A~$498,000~
+23 Bruxner Close, Gowrie ACT 2904 ~$980,000 ~4~2~House~0.5~1191~200~$453,000~
+142 Castleton Crescent, Gowrie ACT 2904 ~$1,450,000~4~3~House~1.5~739~N/A~$379,000~

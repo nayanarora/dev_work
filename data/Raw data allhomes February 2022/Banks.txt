@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+34 Pockett Avenue, Banks ACT 2906 ~$820,000~3~1~House~1.5~748~N/A~$328,000~

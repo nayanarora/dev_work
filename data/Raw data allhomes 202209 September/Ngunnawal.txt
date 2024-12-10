@@ -1,0 +1,12 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+5/18 Marou Place, Ngunnawal ACT 2913 ~$595,000~2~1~Townhouse~5.5~216~87~N/A~
+5/3 Gurubun Close, Ngunnawal ACT 2913 ~$620,000~3~1~Townhouse~5.0~144~N/A~N/A~
+7 Kaga Place, Ngunnawal ACT 2913 ~$649,000~3~1~House~6.0~338~123~$386,000~
+4/3 Dyara Close, Ngunnawal ACT 2913 ~Offers over $650,000~3~2~Townhouse~2.5~258~N/A~N/A~
+3 Kaga Place, Ngunnawal ACT 2913 ~$670,000~3~1~House~4.5~337~126~$386,000~
+13/60 Paul Coe Crescent, Ngunnawal ACT 2913 ~$675,000~3~1~Townhouse~5.5~141~N/A~N/A~
+67/42 Paul Coe Crescent, Ngunnawal ACT 2913 ~$675,000 ~3~2~Townhouse~6.0~112~111~N/A~
+2 Gurrang Avenue, Ngunnawal ACT 2913 ~$750,000~3~1~House~2.5~474~N/A~$421,000~
+24 Barunga Street, Ngunnawal ACT 2913 ~$790,000~3~2~House~5.0~N/A~N/A~$400,000~
+19 Kurrama Close, Ngunnawal ACT 2913 ~$899,000~3~2~House~5.0~450~170~$479,000~
+38 Burrumarra Avenue, Ngunnawal ACT 2913 ~$950,000~4~2~House~4.0~654~150~$477,000~

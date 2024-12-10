@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+28 Adinda Street, Waramanga ACT 2611 ~Offers Over $899,000~3~2~House~2.0~629~125~$632,000~
+31 Adinda Street, Waramanga ACT 2611 ~$950000~3~2~House~N/A~673~N/A~$654,000~
+35 Damala Street, Waramanga ACT 2611 ~$979,000~4~1~House~1.0~821~143~$717,000~
+153 Nemarang Crescent, Waramanga ACT 2611 ~$1,125,000~4~2~House~1.0~850~N/A~$632,000~
+75 Nangor Street, Waramanga ACT 2611 ~$1,150,000~4~2~House~1.5~905~159~$677,000~

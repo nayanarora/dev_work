@@ -1,0 +1,15 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+12/47 Abena Avenue, Crace ACT 2911 ~$349,000~1~1~Apartment~6.0~N/A~N/A~$1,848,000~
+50/37 Redruth Street, Crace ACT 2911 ~$424000~2~1~Apartment~6.0~N/A~N/A~N/A~
+9/48 Abena Avenue, Crace ACT 2911 ~$550,000~2~2~Unit / Apartment~6.0~N/A~N/A~$1,848,000~
+23 Dobikin Street, Crace ACT 2911 ~$650,000~2~1~House~6.0~140~119~$319,000~
+3/21 Samaria Street, Crace ACT 2911 ~$699,000~2~2~Townhouse~6.0~138~N/A~N/A~
+19 Stowport Avenue, Crace ACT 2911 ~ $855,000~3~2~House~5.5~370~N/A~$540,000~
+9 Fairfield Street, Crace ACT 2911 ~$869,000~3~2~House~4.0~254~195~$431,000~
+21 Quain Street, Crace ACT 2911 ~$875,000~3~2~House~3.0~240~138~$418,000~
+70 Cocoparra Crescent, Crace ACT 2911 ~$899,000~3~2~House~4.5~371~N/A~$528,000~
+34 Stowport Avenue, Crace ACT 2911 ~$1,075,000~4~3~House~6.0~336~203~$508,000~
+14 Cocoparra Crescent, Crace ACT 2911 ~$1,290,000~4~2~House~6.0~449~171~$594,000~
+10 Indi Close, Crace ACT 2911 ~$1,400,000~4~2~House~5.0~498~N/A~$688,000~
+16 Avenal Street, Crace ACT 2911 ~$1,400,000~5~3~House~4.5~490~258~$649,000~
+8 Ettrick Street, Crace ACT 2911 ~$2,275,000~5~3~House~6.0~554~332~$702,000~

@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+25 Verbrugghen Street, Melba ACT 2615 ~$859,000~3~1~House~0.5~754~N/A~$549,000~

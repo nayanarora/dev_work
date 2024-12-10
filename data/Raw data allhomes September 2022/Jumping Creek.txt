@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+(no street name provided), Jumping Creek NSW 2620 ~$835000~N/A~N/A~House and Land Package~N/A~827~N/A~N/A~
+(no street name provided), Jumping Creek NSW 2620 ~$1440000~4~2~House and Land Package~N/A~716~293~N/A~
+(no street name provided), Jumping Creek NSW 2620 ~$1577500~5~3~House and Land Package~N/A~716~460~N/A~

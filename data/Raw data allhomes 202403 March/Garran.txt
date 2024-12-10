@@ -1,0 +1,9 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+5/5 Garran Place, Garran ACT 2605 ~$439,000~2~1~Apartment~2.5~1201~N/A~$2,450,000~
+1/39 Fitchett Street, Garran ACT 2605 ~$599,000~2~1~Townhouse~3.0~167~N/A~N/A~
+2/2 Eldridge Crescent, Garran ACT 2605 ~$749,000 ~3~2~Apartment~5.5~10800.0~N/A~$8,225,000~
+17/10 Hopegood Place, Garran ACT 2605 ~$749,000~3~2~Apartment~6.0~7346~N/A~$8,600,000~
+4/2 Eldridge Crescent, Garran ACT 2605 ~$750,000~3~2~Apartment~6.0~10800.0~N/A~$8,225,000~
+33/17 Eldridge Crescent, Garran ACT 2605 ~$770,000~3~2~Unit / Apartment~6.0~8393~N/A~$7,500,000~
+62 Fitchett Street, Garran ACT 2605 ~$1,500,000~4~2~House~1.0~741~183~$1,063,000~
+14 Curlewis Crescent, Garran ACT 2605 ~$1,690,000~4~3~House~3.0~876~182~$1,109,000~

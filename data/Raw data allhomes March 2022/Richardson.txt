@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+19 Mack Street, Richardson ACT 2905 ~$729,000~3~1~House~N/A~371~115~$281,000~
+1/47 Clift Crescent, Richardson ACT 2905 ~$745,000~3~1~House~1.5~423~121~N/A~
+23 Prichard Circuit, Richardson ACT 2905 ~Offers Over $799,000~3~1~House~2.0~731~107~$285,000~
+63 Fullerton Crescent, Richardson ACT 2905 ~$800,000~3~1~House~0.5~868~N/A~$340,000~

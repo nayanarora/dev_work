@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+25 Summerville Crescent, Florey ACT 2615 ~$645,000~3~1~Townhouse~1.0~241~109~$464,000~
+6 Fawsitt Place, Florey ACT 2615 ~$799,000~3~1~House~1.5~642~107~$577,000~
+14 Whittell Crescent, Florey ACT 2615 ~$800,000~3~1~House~1.0~722~101~$590,000~
+32 Lightfoot Crescent, Florey ACT 2615 ~Offers Over $1,350,000~5~2~House~2.5~717~N/A~$631,000~

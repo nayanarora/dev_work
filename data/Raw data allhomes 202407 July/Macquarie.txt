@@ -1,0 +1,9 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+25/21 Wiseman Street, Macquarie ACT 2614 ~$290,000~1~1~Apartment~6.0~N/A~N/A~$2,420,000~
+30/58 Bennelong Crescent, Macquarie ACT 2614 ~$330,000~1~1~Apartment~0.0~N/A~N/A~$5,760,000~
+65/15 Bowman Street, Macquarie ACT 2614 ~$415,000~2~1~Apartment~6.0~N/A~N/A~$5,250,000~
+2/31 Biraban Place, Macquarie ACT 2614 ~$595,000~2~1~Townhouse~4.0~380~N/A~N/A~
+40/21 Wiseman Street, Macquarie ACT 2614 ~New price! $650,000 Dual purpose opportunity~4~1~Apartment~3.5~N/A~N/A~$2,420,000~
+2/42 Blackman Crescent, Macquarie ACT 2614 ~$675,000~3~1~Townhouse~5.5~275~N/A~N/A~
+3 Bathurst Place, Macquarie ACT 2614 ~$995,000~3~1~House~1.0~719~125~$806,000~
+5 Elizabeth Crescent, Macquarie ACT 2614 ~$1570000~5~4~House~4.0~800~300~$681,000~

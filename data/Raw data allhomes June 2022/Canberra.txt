@@ -1,0 +1,10 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+14/28 West Row, City ACT 2601 ~$309,500~1~1~Apartment~6.0~3246~N/A~$5,559,000~
+106 Akuna Street, City ACT 2601 ~$359,000~1~1~Apartment~6.0~N/A~N/A~N/A~
+229/2 Akuna Street, Canberra ACT 2601 ~$372,500~1~1~Apartment~5.5~N/A~N/A~N/A~
+2 Akuna St, Canberra ACT 2601 ~$385,000~1~1~Apartment~6.0~N/A~N/A~N/A~
+511/222 City Walk, City ACT 2601 ~$425,000~1~1~Apartment~6.0~1137~N/A~$10,294,000~
+98/15 Corinderrk, City ACT 2601 ~$610,000~2~1~Apartment~4.5~10400.0~110~N/A~
+164/45 West Row, City ACT 2601 ~$708,800~2~1~House~6.0~2462~101~N/A~
+145/20 Allara Street, City ACT 2601 ~$729,000~2~1~Apartment~7.0~1380~79~$12,330,000~
+703/240 Bunda Street, City ACT 2601 ~$781,888~2~2~Apartment~6.0~4180~105~$24,750,000~

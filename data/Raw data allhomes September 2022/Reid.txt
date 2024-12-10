@@ -1,0 +1,15 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+115/14 Boolee Street, Reid ACT 2612 ~$425,000~1~1~Apartment~6.0~10500.0~N/A~$103,972~
+230/81 Cooyong Street, Reid ACT 2612 ~$479000~1~1~Apartment~6.0~N/A~N/A~N/A~
+421/81 Cooyong Street, Reid ACT 2612 ~$489,000~1~1~Apartment~7.0~N/A~N/A~N/A~
+215/81 Cooyong Street, Reid ACT 2612 ~$499,000~1~1~Apartment~6.0~588~62~N/A~
+Metropol - 424/81 Cooyong Street, Reid ACT 2612 ~$499,900~1~1~Apartment~5.0~N/A~N/A~N/A~
+213/1 Boolee Street, Reid ACT 2612 ~$529,000~1~1~Apartment~6.0~10600.0~N/A~$46,970~
+62/43 Constitution Avenue, Reid ACT 2612 ~$599,000~2~1~Apartment~6.0~2225~70~$91,447~
+1101/81 Cooyong Street, Reid ACT 2612 ~$685,000~2~2~Apartment~6.0~10600.0~77~$46,970~
+901/81 Cooyong Street, Reid ACT 2612 ~$685,000~2~2~Apartment~6.0~10600.0~79~$46,970~
+G07/1 Boolee Street, Reid ACT 2612 ~Offers Over $729,000~2~2~Unit / Apartment~6.0~293~76~N/A~
+201/1 Boolee Street, Reid ACT 2612 ~$849,000~3~2~Unit / Apartment~6.0~10600.0~98~$46,970~
+302/1 Boolee Street, Reid ACT 2612 ~$929,900~3~2~Unit / Apartment~6.0~10600.0~98~$46,970~
+Metropol - G11/83 Cooyong Street, Reid ACT 2612 ~$1,166,900~3~2~Apartment~5.0~N/A~140~N/A~
+72 Coranderrk Street, Reid ACT 2612 ~$2,099,000~N/A~N/A~House~N/A~1321~N/A~$1,750,000~

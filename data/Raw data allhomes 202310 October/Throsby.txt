@@ -1,0 +1,26 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+Allegro - 3 bed with single car garage plus car space, Throsby ACT 2914 ~$679,900~3~1~Other~7.9~N/A~N/A~N/A~
+(no street name provided), Throsby ACT 2914 ~$699,900~3~2~Townhouse~7.5~N/A~N/A~N/A~
+Allegro - 3 bedroom with single garage plus car space, Throsby ACT 2914 ~$729,900~3~1~Other~7.6~N/A~N/A~N/A~
+Allegro - 3 Bed, 2,5 bath with oversized double garage, Throsby ACT 2914 ~$739,900~3~1~Other~7.7~N/A~N/A~N/A~
+Allegro - 3 bedroom with double side by side garage, Throsby ACT 2914 ~$739,900~3~1~Other~7.7~N/A~N/A~N/A~
+23/25 Seahorse Street, Throsby ACT 2914 ~$759,900~3~2~Townhouse~6.0~N/A~N/A~N/A~
+6B Freshwater Street, Throsby ACT 2914 ~$779,900~3~2~Townhouse~8.7~114~N/A~N/A~
+45/76 Seahorse Street, Throsby ACT 2914 ~$799,900~4~2~Townhouse~8.0~N/A~N/A~N/A~
+Vivace - 3 bedroom with 2.5 bathrooms and oversized tandem garage, Throsby ACT 2914 ~$799,900~3~1~Other~7.8~N/A~N/A~N/A~
+Vivace - 4 bedroom with 2 master bedrooms, Throsby ACT 2914 ~$799,900~4~2~Other~8.1~N/A~N/A~N/A~
+16 A Rosenberg Street, Throsby ACT 2914 ~$829,900~3~1~Townhouse~6.0~205~N/A~N/A~
+1/56 Kunapalari Street, Throsby ACT 2914 ~$839,000~3~2~Townhouse~5.5~161~N/A~N/A~
+Vivace - Oversized 3 bedroom with rumpus room, Throsby ACT 2914 ~$849,900~3~1~Other~7.6~N/A~N/A~N/A~
+77 Barramundi Street, Throsby ACT 2914 ~$850,000~3~2~House~6.6~250~N/A~$399,000~
+Allegro - Oversized 3 bedroom with double garage, Throsby ACT 2914 ~$879,900~3~1~Other~7.9~N/A~N/A~N/A~
+Allegro - Large 3 bedroom townhome with oversized 2 car garage + storage, Throsby ACT 2914 ~$879,900~3~1~Other~7.3~N/A~N/A~N/A~
+(no street name provided), Throsby ACT 2914 ~$899,000~3~2~Townhouse~4.5~201~N/A~$363,000~
+Vivace - Large 4 bedroom 2 storey townhome with double garage, Throsby ACT 2914 ~$899,900~4~1~Other~7.4~N/A~N/A~N/A~
+283 Bettong Avenue, Throsby ACT 2914 ~$920,000~4~1~Townhouse~6.0~181~N/A~N/A~
+29 Quokka Street, Throsby ACT 2914 ~$1,030,000~4~2~House~5.5~363~201~$528,000~
+Vivace - One of a kind - 4 Bedroom with Rumpus corner townhome, Throsby ACT 2914 ~$1,100,000~4~1~Other~8.1~N/A~N/A~N/A~
+39 Pilliga Street, Throsby ACT 2914 ~$1,249,000~4~2~House~7.0~440~251~$610,000~
+146 Bettong Avenue, Throsby ACT 2914 ~$1,250,000~4~2~House~6.0~457~N/A~$618,000~
+8 Brushtail Street, Throsby ACT 2914 ~  $1,300,000~4~3~House~4.0~437~219~N/A~
+56 Barramundi Street, Throsby ACT 2914 ~  $1,499,000~4~3~House~6.0~420~313~$590,000~

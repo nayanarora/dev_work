@@ -1,0 +1,3 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+7/51 Freda Bennett Circuit, Nicholls ACT 2913 ~Offers above $540,000~2~1~Townhouse~5.0~N/A~74~N/A~
+34 Sue Geh Circuit, Nicholls ACT 2913 ~$1,699,000~5~2~House~4.5~816~380~$533,000~

@@ -1,0 +1,26 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+8 Alpine Ash Way, Tralee NSW 2620 ~$498,900~4~2~House~6.0~511~238~N/A~
+(no street name provided), South Jerrabomberra NSW 2620 ~$847450~5~2~House and Land Package~N/A~548~251~N/A~
+25 Maidenhair Road, Tralee NSW 2620 ~$699,000~3~2~House~N/A~147~136~N/A~
+15 Storksbill Terrace, Tralee NSW 2620 ~$719,000~3~2~House~N/A~270~N/A~N/A~
+142 Oxalis Crescent, Tralee NSW 2620 ~$719,000~3~1~House~6.0~270~N/A~N/A~
+Lot 309 Section Am, Tralee NSW 2620 ~$900000~3~2~House~N/A~N/A~N/A~N/A~
+17 Maidenhair Road, Tralee NSW 2620 ~$883,000~3~2~House~N/A~184~149~N/A~
+(no street name provided), South Jerrabomberra NSW 2620 ~$899,000~4~1~House and Land Package~N/A~372~214~N/A~
+(no street name provided), South Jerrabomberra NSW 2620 ~$910,900~4~1~House and Land Package~N/A~350~205~N/A~
+(no street name provided), South Jerrabomberra NSW 2620 ~$937,900~4~1~House and Land Package~N/A~348~210~N/A~
+(no street name provided), South Jerrabomberra NSW 2620 ~$940,900~4~1~House and Land Package~N/A~350~210~N/A~
+27 Maidenhair Road, Tralee NSW 2620 ~$955,000~4~2~House~N/A~226~163~N/A~
+58 Alpine Ash Way, Tralee NSW 2620 ~$977500~4~2~House~N/A~477~209~N/A~
+(no street name provided), South Jerrabomberra NSW 2620 ~$968350~4~1~House and Land Package~N/A~417~211~N/A~
+The Gateway at South Jerrabomberra - The Gateway at South Jerrabomberra - Lot 698, South Jerrabomberra NSW 2620 ~$969,810~4~2~House and Land Package~N/A~N/A~N/A~N/A~
+60 Alpine Ash Way, Tralee NSW 2620 ~$995000~4~2~House~N/A~461~191~N/A~
+The Gateway at South Jerrabomberra - The Gateway at South Jerrabomberra - Lot 693, South Jerrabomberra NSW 2620 ~$977,110~4~2~House and Land Package~N/A~N/A~N/A~N/A~
+(no street name provided), South Jerrabomberra NSW 2620 ~$985,000~4~1~House and Land Package~N/A~350~207~N/A~
+The Gateway at South Jerrabomberra - The Gateway at South Jerrabomberra - Lot 702, South Jerrabomberra NSW 2620 ~$997,690~4~2~House and Land Package~N/A~N/A~N/A~N/A~
+(no street name provided), Tralee NSW 2620 ~$998,000~4~2~House and Land Package~N/A~361~211~N/A~
+The Gateway at South Jerrabomberra - The Gateway at South Jerrabomberra - Lot 700, South Jerrabomberra NSW 2620 ~$1,063,700~4~2~House and Land Package~N/A~N/A~N/A~N/A~
+The Gateway at South Jerrabomberra - The Gateway at South Jerrabomberra - Lot 701, South Jerrabomberra NSW 2620 ~$1,067,345~5~2~House and Land Package~N/A~N/A~N/A~N/A~
+(no street name provided), South Jerrabomberra NSW 2620 ~$1,184,900~4~1~House and Land Package~N/A~576~242~N/A~
+(no street name provided), South Jerrabomberra NSW 2620 ~$1274300~4~1~House and Land Package~N/A~630~248~N/A~
+10 Alpine Ash Way, South Jerrabomberra NSW 2620 ~$1500000~4~2~House~N/A~505~380~N/A~

@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+50 Severne Street, Greenleigh NSW 2620 ~$1,150,000~5~3~House~N/A~24900.000000000004~N/A~N/A~

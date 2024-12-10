@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+2 Higham Place, Dunlop ACT 2615 ~$735,000~3~1~House~6.0~482~99~$415,000~
+18 Quinlivan Crescent, Dunlop ACT 2615 ~$810,000~3~2~House~4.5~510~N/A~$397,000~
+42 Courtneidge Street, Dunlop ACT 2615 ~$949,000~4~2~House~6.0~462~213~$380,000~
+5 Morrow Street, Dunlop ACT 2615 ~$1,035,000~4~2~House~5.0~782~N/A~$476,000~
+12 Simonetti Street, Dunlop ACT 2615 ~$1,050,000~4~2~House~4.0~593~238~$443,000~

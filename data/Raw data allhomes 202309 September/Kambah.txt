@@ -1,0 +1,18 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+11/10 Ashby Circuit, Kambah ACT 2902 ~  $495,000~2~1~Townhouse~3.0~310~N/A~N/A~
+13/17 Pinkerton Circuit, Kambah ACT 2902 ~  $525,000~2~1~Townhouse~1.5~225~N/A~N/A~
+3/79 Crozier Circuit, Kambah ACT 2902 ~$600,000~2~1~Townhouse~N/A~124~N/A~N/A~
+21 Snodgrass Crescent, Kambah ACT 2902 ~$620,000~2~1~Retirement Village~N/A~36800.0~N/A~$6,300,000~
+19/69 Morrison Street, Kambah ACT 2902 ~$660,000~3~1~Townhouse~2.5~268~N/A~N/A~
+84/25 Pinkerton Circuit -'Lakeview Gardens', Kambah ACT 2902 ~$709,000~3~2~Townhouse~1.5~343~N/A~N/A~
+21 Snodgrass Crescent, Kambah ACT 2902 ~$795,000~3~1~Retirement Village~N/A~36800.0~N/A~$6,300,000~
+35B Livingston Avenue, Kambah ACT 2902 ~$820,000~3~1~Dual Occupancy~6.0~775~N/A~$449,000~
+11 Buckley Circuit, Kambah ACT 2902 ~$850,000~4~2~House~1.0~762~169~$508,000~
+12 Maidment Place, Kambah ACT 2902 ~$850,000~3~2~House~2.0~841~163~$539,000~
+35 Barritt Street, Kambah ACT 2902 ~$870,000~3~2~House~1.5~845~129~$547,000~
+36 Morant Circuit, Kambah ACT 2902 ~$879,000~4~2~House~2.0~951~147~$506,000~
+14 Trussell Place, Kambah ACT 2902 ~$900,000~4~2~House~3.0~1221~N/A~$631,000~
+3 Rounsevell Street, Kambah ACT 2902 ~$1240000~3~3~Dual Occupancy~6.0~502~N/A~$700,000~
+10 Armytage Circuit, Kambah ACT 2902 ~$1,400,000~6~1~Dual Occupancy~6.0~1003~N/A~$582,000~
+10 Armytage Circuit, Kambah ACT 2902 ~$1,400,000~6~3~House~0.5~1003~215~$582,000~
+39 Ivo Whitton Circuit, Kambah ACT 2902 ~$1,800,000~5~3~House~4.0~1029~281~$623,000~

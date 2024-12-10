@@ -1,0 +1,3 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+13 Mokoan Place, Duffy ACT 2611 ~Offers Over $1,399,000~4~2~House~3.0~1295~203~$749,000~
+49 Somerset Street, Duffy ACT 2611 ~$1,849,000~6~4~House~4.5~801~N/A~$792,000~

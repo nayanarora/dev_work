@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+211 Phillip Avenue, Hackett ACT 2602 ~$950,000~3~1~House~1.5~694~N/A~$796,000~
+203 Phillip Avenue, Hackett ACT 2602 ~$1,050,000~4~1~House~1.0~694~149~$796,000~
+83 Maitland Street, Hackett ACT 2602 ~$1,180,000~3~1~House~1.5~774~N/A~$943,000~

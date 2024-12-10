@@ -1,0 +1,14 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+43 Mirrormere Road, Burra NSW 2620 ~$530,000~N/A~N/A~Rural~N/A~N/A~N/A~N/A~
+Mount Burra - Lot 306, Burra NSW 2620 ~$710000~N/A~N/A~Rural~N/A~N/A~N/A~N/A~
+Mount Burra - Lot 304, Burra NSW 2620 ~$725000~N/A~N/A~Rural~N/A~N/A~N/A~N/A~
+Mount Burra - Lot 309, Burra NSW 2620 ~$735000~N/A~N/A~Rural~N/A~N/A~N/A~N/A~
+Mount Burra - Lot 301, Burra NSW 2620 ~$755000~N/A~N/A~Rural~N/A~N/A~N/A~N/A~
+Mount Burra - Lot 303, Burra NSW 2620 ~$755000~N/A~N/A~Rural~N/A~N/A~N/A~N/A~
+Mount Burra - Lot 305, Burra NSW 2620 ~$755000~N/A~N/A~Rural~N/A~N/A~N/A~N/A~
+1196 Burra Road, Burra NSW 2620 ~$1010000~2~1~Rural~N/A~10000.0~N/A~N/A~
+Mount Burra - Lot 308, Burra NSW 2620 ~$1,000,000~N/A~N/A~Rural~N/A~N/A~N/A~N/A~
+87 Scott Street, Burra NSW 2620 ~$1,050,000~4~2~House~N/A~32300.0~158~N/A~
+223 Badgery Road, Burra NSW 2620 ~$1200000~4~2~House~N/A~81199.99999999999~N/A~N/A~
+70 Candy Road, Burra NSW 2620 ~$1650000~4~2~Rural~N/A~32400.000000000004~N/A~N/A~
+488 Williamsdale Road, Burra NSW 2620 ~$1825000~4~2~House~N/A~68800.0~399~N/A~

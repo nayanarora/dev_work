@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+4/6 Chermside Street, Deakin ACT 2600 ~$465,000~2~1~Apartment~2.5~1224~N/A~$289,200~
+26 Lawley Place, Deakin ACT 2600 ~$1,500,000~3~1~House~1.0~695~93~$1,250,000~
+4 Barron Street, Deakin ACT 2600 ~$1,950,000~3~1~House~N/A~654~N/A~$1,110,000~
+71 Kent Street, Deakin ACT 2600 ~$0~4~2~House~1.5~831~N/A~$1,200,000~
+25 Lawley Street, Deakin ACT 2600 ~$2,395,000~5~3~House~3.0~811~N/A~$1,450,000~

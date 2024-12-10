@@ -1,0 +1,33 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+412/2 Terry Connolly Street, Coombs ACT 2611 ~$399,000~1~1~Apartment~6.0~N/A~N/A~$3,500,000~
+213/2 Terry Connolly Street, Coombs ACT 2611 ~$419,000~1~1~Apartment~6.0~N/A~N/A~$3,500,000~
+214/2 Terry Connolly Street, Coombs ACT 2611 ~ $469,000~2~1~Apartment~6.0~N/A~N/A~$3,500,000~
+G 17/43 Arthur Blakeley Way, Coombs ACT 2611 ~$499,000~2~1~Apartment~6.0~N/A~N/A~$3,190,000~
+Telfer Street, Coombs ACT 2611 ~$499,900~1~1~Apartment~7.8~N/A~N/A~$731,000~
+Level G/10/43 Arthur Blakeley Way, Coombs ACT 2611 ~$500,000 ~2~1~Unit / Apartment~6.0~N/A~N/A~N/A~
+Level 2/11/120 John Gorton Drive, Coombs ACT 2611 ~$530,000~2~2~Apartment~6.0~N/A~N/A~N/A~
+321/2 Terry Connolly Street, Coombs ACT 2611 ~$539,000~2~2~Apartment~8.5~N/A~N/A~$3,500,000~
+2/1 Taggart Terrace, Coombs ACT 2611 ~ $559,000~2~1~Townhouse~6.0~6179~N/A~$4,000,000~
+121/2 Terry Connolly Street, Coombs ACT 2611 ~$575,000~2~2~Apartment~6.0~N/A~N/A~$3,500,000~
+412/43 Arthur Blakeley Way, Coombs ACT 2611 ~$580,000~2~2~Apartment~6.0~N/A~N/A~$3,190,000~
+201/43 Arthur Blakeley Way, Coombs ACT 2611 ~$589,000~2~2~Apartment~6.0~N/A~N/A~$3,190,000~
+Molonglo Falls - U4.16/2 Terry Connolly Street, Coombs ACT 2611 ~$629,000~2~2~Apartment~6.0~N/A~N/A~$3,500,000~
+33/1 Calaby Street, Coombs ACT 2611 ~$649,000~2~2~Townhouse~6.0~4080~N/A~$3,300,000~
+89/2 Woodberry Avenue, Coombs ACT 2611 ~$649,000~2~2~Townhouse~6.0~12400.0~N/A~$8,970,000~
+G02/2 Terry Connolly Street, Coombs ACT 2611 ~ $654,900~2~2~Unit / Apartment~6.0~N/A~N/A~N/A~
+89 Woodberry Avenue, Coombs ACT 2611 ~ $685,000~3~2~Townhouse~6.0~8151~N/A~$4,860,000~
+36/8 Ken Tribe Street, Coombs ACT 2611 ~$695,000~3~2~Townhouse~6.0~124~N/A~N/A~
+422/2 Terry Connolly Street, Coombs ACT 2611 ~ $709,000~2~2~Unit / Apartment~6.0~N/A~N/A~$3,500,000~
+22 John Gorton Drive, Coombs ACT 2611 ~$710,000~3~2~Townhouse~6.0~9800~N/A~N/A~
+307/43 Arthur Blakeley Way, Coombs ACT 2611 ~ $729,000~3~2~Apartment~6.0~N/A~N/A~$3,190,000~
+Molonglo Falls - U1.10/2 Terry Connelly Street, Coombs ACT 2611 ~$729,000~3~2~Apartment~6.0~N/A~N/A~$3,500,000~
+5B/1 Cornelius Street, Coombs ACT 2611 ~$750000~3~2~Townhouse~6.0~N/A~N/A~N/A~
+Telfer Street, Coombs ACT 2611 ~$740,000~2~2~Townhouse~8.1~808~N/A~$731,000~
+507/2 Terry Connolly Street, Coombs ACT 2611 ~$750,000~3~2~Apartment~6.0~N/A~N/A~$3,500,000~
+36 Taggart Terrace, Coombs ACT 2611 ~$785,000~3~2~House~5.5~200~N/A~$319,000~
+2/2 Ken Tribe Street, Coombs ACT 2611 ~$799,000~4~2~Townhouse~6.0~173~N/A~N/A~
+30/21 Bakewell Street, Coombs ACT 2611 ~$829,000~4~3~Townhouse~6.0~14900.0~N/A~$6,750,000~
+13/33 Arthur Blakeley Way, Coombs ACT 2611 ~$850,000~4~2~Townhouse~6.0~13200.0~N/A~N/A~
+46/8 Ken Tribe Street, Coombs ACT 2611 ~$895,000~4~2~Townhouse~6.0~201~N/A~N/A~
+70 Harold White Avenue, Coombs ACT 2611 ~$1,850,000 ~4~3~House~4.5~620~337~$652,000~
+14 Chipp Street, Coombs ACT 2611 ~$1,950,000~5~3~House~7.0~510~280~$606,000~

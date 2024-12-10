@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+5/38 Kenyon Circuit, Monash ACT 2904 ~$645,000~3~1~Townhouse~2.0~8538~101~N/A~
+50 Harricks Crescent, Monash ACT 2904 ~$920,000~3~1~House~4.0~N/A~N/A~$354,000~
+21 Sturdee Crescent, Monash ACT 2904 ~$1,400,000~4~2~House~2.0~745~N/A~$345,000~

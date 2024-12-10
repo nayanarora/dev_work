@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+6 Ryder Place, Nicholls ACT 2913 ~$1,888,000~5~3~House~3.0~1045~389~$611,000~

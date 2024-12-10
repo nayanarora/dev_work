@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+6 Balanu Place, Giralang ACT 2617 ~$760,000~3~1~House~1.5~864~N/A~$619,000~

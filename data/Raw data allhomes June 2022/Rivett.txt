@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+7 Mentha Place, Rivett ACT 2611 ~$799,000~3~1~House~2.0~734~134~$430,000~
+3 Wirilda Street, Rivett ACT 2611 ~$935,000~3~1~House~1.0~N/A~N/A~N/A~
+60 Carbeen Street, Rivett ACT 2611 ~$1,150,000~4~2~House~1.0~727~158~$420,000~

@@ -1,0 +1,19 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+81/40 Philip Hodgins Street, Wright ACT 2611 ~Offers Over $419,900~1~1~Apartment~6.0~21200.0~68~$32,300~
+56/25 John Gorton Drive, Wright ACT 2611 ~Offers Over $439,000~1~1~Unit / Apartment~6.0~11299.999999999998~67~$37,400~
+175/61 John Gorton Drive, Wright ACT 2611 ~$445,000 ~1~1~Unit / Apartment~6.0~17600.0~N/A~$62,832~
+242/36 Philip Hodgins Street, Wright ACT 2611 ~$449,000~1~1~Apartment~6.0~N/A~N/A~$32,300~
+105/2 Peter Cullen Way, Wright ACT 2611 ~$480,000~2~2~Apartment~6.0~17600.0~N/A~$62,832~
+71/566 Cotter Road, Wright ACT 2611 ~$510,000~1~1~Apartment~6.0~2032~N/A~$21,294~
+87/2 Peter Cullen Way, Wright ACT 2611 ~$530,000~2~1~Apartment~N/A~17600.0~N/A~$62,832~
+217/30 Philip Hodgins Street, Wright ACT 2611 ~$535,000~2~2~Apartment~6.0~21200.0~80~$32,300~
+87/1 Dunphy Street, Wright ACT 2611 ~$550,000~2~2~Unit / Apartment~6.0~11299.999999999998~86~$37,400~
+53 Tishler Street, Wright ACT 2611 ~$695,000~3~1~Unit / Apartment~6.0~5626~N/A~$116,480~
+13/40 Philip Hodgins Street, Wright ACT 2611 ~$785,000~3~2~Apartment~6.0~21200.0~195~$32,300~
+7/221 John Gorton Drive, Wright ACT 2611 ~Offers Over $900,000~4~3~Townhouse~6.0~N/A~189~N/A~
+(no street name provided), Wright ACT 2611 ~$1037500~4~2~House~6.5~206~184~N/A~
+18 Porter Street, Wright ACT 2611 ~$1,350,000~5~2~House~5.5~450~215~$594,000~
+25 Ulysses Circuit, Wright ACT 2611 ~$1,400,000~4~3~House~5.0~491~202~$626,000~
+39 Peter Cullen Way, Wright ACT 2611 ~$1,430,000~4~3~House~5.0~450~202~$593,000~
+6 Amaryllis Street, Wright ACT 2611 ~$1,540,000~4~3~House~6.0~540~N/A~$608,000~
+18 Catalano Street, Wright ACT 2611 ~$1,545,000~4~2~House~5.5~540~314~$637,000~

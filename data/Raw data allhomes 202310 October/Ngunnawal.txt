@@ -1,0 +1,24 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+5/3 Dyara Close, Ngunnawal ACT 2913 ~$550,000~2~1~Townhouse~1.5~211~N/A~N/A~
+15/66 Paul Coe Crescent, Ngunnawal ACT 2913 ~  $550,000~2~1~Townhouse~3.0~171~N/A~N/A~
+60 Amagula Avenue, Ngunnawal ACT 2913 ~$600,000~3~1~House~3.5~366~109~$400,000~
+4/11 Tarra Place, Ngunnawal ACT 2913 ~$635,000~3~1~Townhouse~3.0~291~N/A~N/A~
+13/60 Paul Coe Crescent, Ngunnawal ACT 2913 ~$645,000~3~1~Townhouse~5.5~141~N/A~N/A~
+12 Jandamarra Street, Ngunnawal ACT 2913 ~  $650,000~3~1~House~5.5~286~N/A~$376,000~
+8 Yagan Place, Ngunnawal ACT 2913 ~$680000~3~1~House~4.5~333~N/A~$386,000~
+13 Riley Close, Ngunnawal ACT 2913 ~$685,000 ~3~1~House~3.0~323~119~$398,000~
+2 Karrugang Circuit, Ngunnawal ACT 2913 ~$690,000 MOTIVATED SELLER~3~1~House~3.0~309~100~$322,000~
+4 Tana Place, Ngunnawal ACT 2913 ~$695,000~3~1~House~4.0~301~135~$351,000~
+4/10 Marou Place, Ngunnawal ACT 2913 ~  $699,000~3~2~Townhouse~3.0~188~N/A~N/A~
+13 Patten Street, Ngunnawal ACT 2913 ~$700,000~3~1~House~5.0~364~N/A~$400,000~
+20 Gubbity Street, Ngunnawal ACT 2913 ~$725,000~3~1~House~6.0~240~N/A~$349,000~
+77 Bargang Crescent, Ngunnawal ACT 2913 ~$729,999~3~1~House~5.5~334~N/A~$322,000~
+68 Burrumarra Avenue, Ngunnawal ACT 2913 ~$759000~3~2~Duplex~6.0~248~N/A~$367,000~
+10 Gudamang Street, Ngunnawal ACT 2913 ~$750,000~3~2~Duplex~6.0~237~N/A~$349,000~
+20 Bullala Court, Ngunnawal ACT 2913 ~$765,000~3~2~House~4.0~326~N/A~$400,000~
+5 Gelane Street, Ngunnawal ACT 2913 ~$799,000~3~1~House~6.0~527~121~$447,000~
+(no street name provided), Ngunnawal ACT 2913 ~$899,000~4~2~House~6.0~405~201~$397,000~
+29 Paul Coe Crescent, Ngunnawal ACT 2913 ~$920,000~4~2~House~3.0~657~140~$630,000~
+4 Wallabalooa Street, Ngunnawal ACT 2913 ~$970,000~4~3~House~6.0~420~N/A~$386,000~
+182 Jabanungga Avenue, Ngunnawal ACT 2913 ~$981000~4~2~House~6.0~420~218~$386,000~
+21 Gurrit Place, Ngunnawal ACT 2913 ~$1,440,000~5~2~House~3.0~643~294~$540,000~

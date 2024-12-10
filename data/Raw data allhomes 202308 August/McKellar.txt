@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+12 Sowden Street, McKellar ACT 2617 ~$979,000~4~2~House~2.5~824~166~$482,000~

@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+4/30 Springvale Drive, Hawker ACT 2614 ~$345,000~2~1~Apartment~4.0~4016~N/A~$3,480,000~

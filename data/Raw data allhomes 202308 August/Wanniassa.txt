@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+1 Sullivan Crescent, Wanniassa ACT 2903 ~$785,000~3~2~House~1.5~712~152~N/A~
+23 Leggatt Street, Wanniassa ACT 2903 ~$799,000~3~1~House~1.5~946~103~$494,000~
+83 Sternberg Crescent, Wanniassa ACT 2903 ~$850,000~4~2~House~0.5~712~N/A~$496,000~
+34 Bromell Circuit, Wanniassa ACT 2903 ~$1,000,000~5~2~House~2.0~647~213~$508,000~

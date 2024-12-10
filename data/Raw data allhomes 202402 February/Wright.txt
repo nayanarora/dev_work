@@ -1,0 +1,30 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+Debut - 1 Bedroom Apartments and Studios, Wright ACT 2611 ~$399,900~N/A~N/A~N/A~N/A~N/A~N/A~N/A~
+118/61 John Gorton Drive, Wright ACT 2611 ~$409,000~N/A~N/A~N/A~N/A~17600.0~N/A~$7,480,000~
+60/25 John Gorton Drive, Wright ACT 2611 ~$420,000~N/A~N/A~N/A~N/A~11299.999999999998~N/A~$5,500,000~
+10/2 Serventy Street, Wright ACT 2611 ~$430,000~N/A~N/A~N/A~N/A~11299.999999999998~N/A~$5,500,000~
+145/41 Philip Hodgins Street, Wright ACT 2611 ~$465,000~N/A~N/A~N/A~N/A~17900.0~N/A~$7,200,000~
+19/32 Alex Colley Crescent, Wright ACT 2611 ~$470,000~N/A~N/A~N/A~N/A~3167~N/A~$2,400,000~
+164/41 Philip Hodgins Street, Wright ACT 2611 ~$479,999~N/A~N/A~N/A~N/A~17900.0~N/A~$7,200,000~
+100/2 Peter Cullen Way, Wright ACT 2611 ~$498,000~N/A~N/A~N/A~N/A~17600.0~N/A~$7,480,000~
+22/40 Philip Hodgins Street, Wright ACT 2611 ~$500,000~N/A~N/A~N/A~N/A~21200.0~N/A~$8,500,000~
+142/45 Catalano Street, Wright ACT 2611 ~$519,000~N/A~N/A~N/A~N/A~21200.0~N/A~$8,500,000~
+123/61 John Gorton Drive, Wright ACT 2611 ~$520,000 ~N/A~N/A~N/A~N/A~17600.0~N/A~$7,480,000~
+234/30 Philip Hodgins Street, Wright ACT 2611 ~$530,000~N/A~N/A~N/A~N/A~21200.0~N/A~$8,500,000~
+220/30 Philip Hodgins Street, Wright ACT 2611 ~$565,000~N/A~N/A~N/A~N/A~21200.0~N/A~$8,500,000~
+52/40 Philip Hodgins Street, Wright ACT 2611 ~$565,000~N/A~N/A~N/A~N/A~21200.0~N/A~$8,500,000~
+Debut - 2 Bedroom Apartment, Wright ACT 2611 ~$599,900~N/A~N/A~N/A~N/A~N/A~N/A~N/A~
+513/69 John Gorton Drive, Wright ACT 2611 ~$640,000~N/A~N/A~N/A~N/A~15800.0~N/A~N/A~
+Debut - 3 bedroom with single car garage, Wright ACT 2611 ~$779,900~N/A~N/A~N/A~N/A~N/A~N/A~N/A~
+16/44 Catalano Street, Wright ACT 2611 ~$790,000~N/A~N/A~N/A~N/A~5626~N/A~$3,640,000~
+Debut - 3 Bedroom townhome with north-facing park views, Wright ACT 2611 ~$799,900~N/A~N/A~N/A~N/A~N/A~N/A~N/A~
+Debut - 3 bedroom with 2 car garage, Wright ACT 2611 ~$799,900~N/A~N/A~N/A~N/A~N/A~N/A~N/A~
+12/42 Catalano Street, Wright ACT 2611 ~$819,999~N/A~N/A~N/A~N/A~N/A~N/A~N/A~
+241 John Gorton Drive, Wright ACT 2611 ~$899,000~N/A~N/A~N/A~N/A~3167~N/A~$2,400,000~
+Debut - 4 Bedroom with rumpus, Wright ACT 2611 ~$999,900~N/A~N/A~N/A~N/A~N/A~N/A~N/A~
+7 Chelsworth Street, Wright ACT 2611 ~$1,349,000~N/A~N/A~N/A~N/A~615~258~$683,000~
+42 Harriott Street, Wright ACT 2611 ~$1,450,000~N/A~N/A~N/A~N/A~539~173~$674,000~
+44 Peter Cullen Way, Wright ACT 2611 ~$1,485,000 ~N/A~N/A~N/A~N/A~530~N/A~$575,000~
+5 Dot Butler Street, Wright ACT 2611 ~$1,490,000~N/A~N/A~N/A~N/A~450~N/A~$607,000~
+24 Porter Street, Wright ACT 2611 ~  $1,499,000~N/A~N/A~N/A~N/A~486~192~$638,000~
+6 Amaryllis Street, Wright ACT 2611 ~$1,500,000~N/A~N/A~N/A~N/A~540~208~$623,000~

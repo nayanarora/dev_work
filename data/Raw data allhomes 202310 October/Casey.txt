@@ -1,0 +1,21 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+33/15 Andersch Street, Casey ACT 2913 ~  $550,000~2~1~Townhouse~6.0~67~N/A~N/A~
+46 Whitrod Avenue, Casey ACT 2913 ~$579,000~2~2~Townhouse~6.0~4032~N/A~$3,250,000~
+32 Lansdown Crescent, Casey ACT 2913 ~  $599,000~2~1~House~4.0~180~83~$353,000~
+71/60 Kingsland Parade, Casey ACT 2913 ~$620,000~2~2~Townhouse~6.0~80~N/A~N/A~
+14/5 Keith Waller Rise, Casey ACT 2913 ~$640,000~3~1~Townhouse~5.0~139~N/A~N/A~
+37/60 Kingsland Parade, Casey ACT 2913 ~$655000~2~2~Townhouse~6.0~90~N/A~N/A~
+13 Quealy Street, Casey ACT 2913 ~  $719,000~3~1~House~5.0~338~112~$510,000~
+10 Macandie Street, Springbank Rise ACT 2913 ~$745,000~3~2~Townhouse~6.0~N/A~N/A~N/A~
+7/1 Ronald Walker Street, Casey ACT 2913 ~$749,000~3~2~Townhouse~6.0~251~N/A~N/A~
+91 Plimsoll Drive, Casey ACT 2913 ~$845,000~4~2~Duplex~5.0~300~N/A~N/A~
+30 Neil Currie Street, Casey ACT 2913 ~ $850,000~4~2~Townhouse~4.5~240~N/A~$462,000~
+(no street name provided), Casey ACT 2913 ~  $850,000~3~2~House~5.0~387~N/A~$578,000~
+43 Scholtens Street, Casey ACT 2913 ~$895,000 ~3~2~House~5.5~387~N/A~$578,000~
+39 Scholtens Street, Casey ACT 2913 ~$1010000~4~2~House~6.0~476~N/A~$624,000~
+6 Salcole Street, Casey ACT 2913 ~$1,050,000~4~2~House~4.0~523~237~$529,000~
+15 Swinney Street, Casey ACT 2913 ~$1,095,000 ~4~2~House~5.5~465~178~$529,000~
+1 Cartledge Street, Casey ACT 2913 ~$1,100,000~4~2~House~6.0~531~N/A~$540,000~
+19 Walter Crocker Crescent, Casey ACT 2913 ~$1,109,000~4~2~House~3.0~542~242~$543,000~
+4 Patrick Shaw Street, Casey ACT 2913 ~$1,380,000~5~4~House~5.5~449~331~$529,000~
+16 Alan Watt Crescent, Casey ACT 2913 ~$1,598,000~4~2~House~4.0~482~357~$554,000~

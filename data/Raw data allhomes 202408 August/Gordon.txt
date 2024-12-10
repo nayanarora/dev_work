@@ -1,0 +1,8 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+11/24 Mina Wylie Crescent, Gordon ACT 2906 ~$550,000~2~2~Townhouse~6.0~N/A~N/A~N/A~
+19/15 Scarfe Close, Gordon ACT 2906 ~$629,000~3~2~Townhouse~1.5~300~N/A~N/A~
+14/5 Harry Hopman Circuit, Gordon ACT 2906 ~$665,000~3~2~Townhouse~3.0~216~N/A~N/A~
+12 Schofield Place, Gordon ACT 2906 ~Offers Above $709,000~3~1~House~0.5~422~N/A~$380,000~
+7 Darcy Close, Gordon ACT 2906 ~$750,000~3~1~House~3.5~470~N/A~$372,000~
+8 McGrowdie Place, Gordon ACT 2906 ~$790,000~3~2~House~1.5~428~N/A~$380,000~
+4 Scully Street, Gordon ACT 2906 ~$829,000~3~2~House~4.0~519~N/A~$536,000~

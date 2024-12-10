@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+22/210 Newman-Morris Circuit, Oxley ACT 2903 ~$679,000~3~1~Townhouse~1.5~37800.0~96~N/A~

@@ -1,0 +1,8 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+6/68 Lorraway Street, Holt ACT 2615 ~  $680,000~3~1~Townhouse~6.0~264~N/A~N/A~
+11/73 Lorraway Street, Holt ACT 2615 ~ $695,000~3~1~Townhouse~6.0~269~N/A~N/A~
+2 Watchorn Close, Holt ACT 2615 ~$750,000~3~2~House~5.0~269~N/A~$356,000~
+9/47-49 Lorraway Street, Holt ACT 2615 ~  $719,000~3~2~Townhouse~6.0~292~108~N/A~
+11/47 Lorraway Street, Holt ACT 2615 ~ $729,000~3~2~Townhouse~6.0~237~N/A~N/A~
+28/49 Lorraway Street, Holt ACT 2615 ~$749,000~3~2~Townhouse~5.0~N/A~107~N/A~
+5/97 Lionel Rose Street, Holt ACT 2615 ~$779,000~4~2~House~5.5~384~206~N/A~

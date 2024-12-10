@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+8 Grigg Place, Richardson ACT 2905 ~$944,000~4~2~House~3.5~1105~N/A~$535,000~

@@ -1,0 +1,10 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+3/6 Walsh Place, Curtin ACT 2605 ~$249,000~1~1~Apartment~2.0~N/A~33~$3,000,000~
+71/3 Waddell Place, Curtin ACT 2605 ~$285,000~1~1~Unit / Apartment~6.0~N/A~44~$11,500,000~
+5/89 Allan Street, Curtin ACT 2605 ~$525,000~2~1~Unit / Apartment~4.0~N/A~68~$1,100,000~
+23 Macalister Crescent, Curtin ACT 2605 ~$1,100,000~2~1~House~0.5~592~115~$644,000~
+60 Throssell Street, Curtin ACT 2605 ~$1,299,000~3~1~House~2.5~747~110~$609,000~
+68 Jennings Street, Curtin ACT 2605 ~$1,349,000~3~2~House~N/A~810~146~$664,000~
+49 McCormack Street, Curtin ACT 2605 ~$1,495,000~4~2~House~1.5~947~154~$729,000~
+14 Morgan Crescent, Curtin ACT 2605 ~$1,548,000~3~1~House~1.0~722~102~$728,000~
+15 McCulloch Street, Curtin ACT 2605 ~$1,775,000~3~2~Townhouse~5.0~454~166~N/A~

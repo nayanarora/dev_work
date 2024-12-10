@@ -1,0 +1,7 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+1/40 Callabonna Street, Kaleen ACT 2617 ~$680,000~3~2~Townhouse~5.5~166~N/A~N/A~
+11a Brunswick Circuit, Kaleen ACT 2617 ~$899,000~4~2~House~6.0~319~123~N/A~
+12 Shannon Circuit, Kaleen ACT 2617 ~$925000~4~2~House~1.0~865~N/A~$619,000~
+9 Kiewa Street, Kaleen ACT 2617 ~  $1,199,000~4~3~House~1.0~734~218~$695,000~
+31 Diamantina Crescent, Kaleen ACT 2617 ~$1,299,000~5~2~House~2.0~929~195~$631,000~
+33 Glenelg Street, Kaleen ACT 2617 ~$1,380,000~5~2~House~3.5~872~176~$619,000~

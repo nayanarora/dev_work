@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+5A Brough Place, Chapman ACT 2611 ~$975,000~3~2~House~7.5~N/A~119~N/A~
+7 Doyle Terrace, Chapman ACT 2611 ~$1499000~4~2~House~3.0~1015~N/A~$848,000~
+9 Lincoln Close, Chapman ACT 2611 ~$1,975,000~4~2~House~1.5~1538~N/A~$1,006,000~
+26 Bertel Crescent, Chapman ACT 2611 ~$2,850,000~4~3~House~3.0~1145~550~$851,000~

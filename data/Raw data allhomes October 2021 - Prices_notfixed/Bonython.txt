@@ -1,0 +1,3 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+16/21 Tenison-Woods Circuit, Bonython ACT 2905 ~$395,000~2~1~Apartment~3.5~N/A~87~N/A~
+10 Brooker Street, Bonython ACT 2905 ~$800,000~3~2~Townhouse~5.0~299~N/A~$308,000~

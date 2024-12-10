@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+12 Clifford Crescent, Melba ACT 2615 ~  $919,000~N/A~N/A~N/A~N/A~709~128~$564,000~
+12 Saville Close, Melba ACT 2615 ~$1,099,000~N/A~N/A~N/A~N/A~985~N/A~$489,000~
+18 Alpen Street, Melba ACT 2615 ~$1,200,000~N/A~N/A~N/A~N/A~840~230~$549,000~
+9 Bainton Crescent, Melba ACT 2615 ~$1,950,000~N/A~N/A~N/A~N/A~2190~N/A~$1,000,000~

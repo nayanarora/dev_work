@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+8 Mules Place, Macarthur ACT 2904 ~$935,000~4~2~House~3.5~800~167~$495,000~

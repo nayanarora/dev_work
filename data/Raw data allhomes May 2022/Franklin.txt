@@ -1,0 +1,17 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+87/329 Flemington Road, Franklin ACT 2913 ~$360,000~1~1~Apartment~6.0~N/A~57~$74,175~
+32/297 Flemington Road, Franklin ACT 2913 ~$364,000~1~1~Apartment~6.0~N/A~53~$4,700,000~
+(no street name provided), Franklin ACT 2913 ~$365,000~1~1~House~6.0~N/A~N/A~$6,600,000~
+33/311 Flemington Road, Franklin ACT 2913 ~Offers Over $389,000 ~1~1~Apartment~6.0~N/A~56~$6,600,000~
+19/8 Henry Kendall Street, Franklin ACT 2913 ~$537500~2~1~Townhouse~6.0~N/A~N/A~N/A~
+39/311 Flemington Road, Franklin ACT 2913 ~$525,000~2~2~Apartment~6.0~N/A~N/A~$6,600,000~
+91/329 Flemington Road, Franklin ACT 2913 ~$540,000~2~2~Unit / Apartment~6.0~N/A~68~$74,175~
+2/76B Henry Kendall Street, Franklin ACT 2913 ~$585,000~2~2~Townhouse~6.0~N/A~N/A~N/A~
+35/1 Christina Stead Street, Franklin ACT 2913 ~$600,000~2~1~Townhouse~5.0~N/A~N/A~$4,416,000~
+(no street name provided), Franklin ACT 2913 ~$755,000~3~1~Townhouse~5.5~N/A~N/A~N/A~
+16/20 Clare Burton Crescent, Franklin ACT 2913 ~$789,000~3~2~House~6.0~N/A~166~$4,200,000~
+1 Bright Street, Franklin ACT 2913 ~$965,000~3~2~House~5.0~369~N/A~$333,000~
+10 Oodgeroo Avenue, Franklin ACT 2913 ~$1,000,000~4~2~House~4.5~404~190~$346,000~
+20 Marie Pitt Street, Franklin ACT 2913 ~$1,129,000~4~1~House~4.0~338~N/A~$322,000~
+7 Isaacson Street, Franklin ACT 2913 ~$1,439,000~5~2~House~6.0~540~229~$517,000~
+6 Pownall Street, Franklin ACT 2913 ~$1,800,000~5~2~House~4.5~540~493~$501,000~

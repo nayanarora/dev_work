@@ -1,0 +1,3 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+18 Cowper Street, Ainslie ACT 2602 ~$1,600,000~3~2~House~3.0~980~N/A~$1,200,000~
+6A Chisholm Street, Ainslie ACT 2602 ~$1,699,000~3~2~House~3.0~582~155~N/A~

@@ -1,0 +1,14 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+83/42 Paul Coe Crescent, Ngunnawal ACT 2913 ~$535,000~2~1~Townhouse~5.0~195~84~N/A~
+29/54 Paul Coe Crescent, Ngunnawal ACT 2913 ~$539,000~2~1~Unit / Apartment~6.0~191~93~N/A~
+78 Burrumarra Avenue, Ngunnawal ACT 2913 ~$614,999~2~1~House~6.0~208~87~$349,000~
+6/80 Paul Coe Crescent, Ngunnawal ACT 2913 ~$660,000~3~1~Townhouse~5.0~197~113~N/A~
+26 Gamban Square, Ngunnawal ACT 2913 ~$665,000~3~1~Townhouse~5.0~270~137~$376,000~
+117 Kavangal Circuit, Ngunnawal ACT 2913 ~$739,000~3~2~House~6.0~239~128~$349,000~
+39 Bunduluk Crescent, Ngunnawal ACT 2913 ~$829,000~3~2~House~5.5~350~124~$447,000~
+40 Arabanoo Crescent, Ngunnawal ACT 2913 ~$849,000~3~1~House~3.0~545~N/A~$447,000~
+53 Bunduluk Crescent, Ngunnawal ACT 2913 ~$850,000~4~2~House~2.0~422~164~$447,000~
+57 Gurrang Avenue, Ngunnawal ACT 2913 ~$850,000~4~1~House~3.0~650~144~$462,000~
+26 Warrumbul Street, Ngunnawal ACT 2913 ~$1000000~4~2~House~4.5~650~277~$666,000~
+39 Kurrama Close, Ngunnawal ACT 2913 ~$999,000~4~2~House~4.5~454~N/A~$439,000~
+16 Deumonga Court, Ngunnawal ACT 2913 ~$1,900,000~5~4~House~5.5~841~508~$743,000~

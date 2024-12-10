@@ -1,0 +1,3 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+14/93 Burrinjuck Crescent, Duffy ACT 2611 ~$455,000~2~2~Unit / Apartment~6.0~N/A~70~N/A~
+33 Mirrool Street, Duffy ACT 2611 ~$880,000~3~1~House~1.0~664~N/A~$385,000~

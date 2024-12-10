@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+30 Rohan Street, Richardson ACT 2905 ~  $675,000~3~1~House~1.0~565~87~$439,000~
+5 Rohan Street, Richardson ACT 2905 ~$710,000~3~1~House~3.0~618~N/A~$483,000~
+16 Prichard Circuit, Richardson ACT 2905 ~  $735,000~3~2~House~4.0~816~136~$460,000~
+40 Deamer Crescent, Richardson ACT 2905 ~$775,000~3~1~House~2.0~751~N/A~$477,000~

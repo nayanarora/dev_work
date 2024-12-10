@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+37/27 Coxen Street, Hughes ACT 2605 ~$235000~1~1~Apartment~6.0~15700.0~N/A~$14,500,000~
+84/27 Coxen Street, Hughes ACT 2605 ~$340,000~1~1~Apartment~2.0~15700.0~N/A~$14,500,000~
+75 Carroll Street, Hughes ACT 2605 ~$1,049,000~2~1~Duplex~1.5~612~N/A~$665,000~
+2 Wisdom Place, Hughes ACT 2605 ~$1,695,000~3~2~House~6.0~398~232~$948,000~

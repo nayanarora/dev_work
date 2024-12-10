@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+25 Max Henry Crescent, Macarthur ACT 2904 ~  $950,000~4~2~House~2.5~735~N/A~$571,000~

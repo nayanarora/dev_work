@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+31 Bernallah Road, Carwoola NSW 2620 ~$1345000~4~1~House~N/A~65300.0~N/A~N/A~
+327 Widgiewa Road, Carwoola NSW 2620 ~$1650000~6~2~House~N/A~120000.0~N/A~N/A~
+1153 Captains Flat Road, Carwoola NSW 2620 ~$1662500~4~2~House~N/A~61800.0~N/A~N/A~
+38 Watson Place, Carwoola NSW 2620 ~$1900000~6~4~House~N/A~19000.0~N/A~N/A~
+1063 Captains Flat Road, Carwoola NSW 2620 ~$1980000~3~3~House~N/A~88900.0~N/A~N/A~

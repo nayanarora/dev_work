@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+12/3 Port Arthur Street, Lyons ACT 2606 ~$260,000~1~1~Apartment~N/A~1626~N/A~$140,400~
+87/179 Melrose Drive 'Woden Gardens', Lyons ACT 2606 ~$339,000~2~1~Unit / Apartment~6.0~N/A~N/A~N/A~
+15 Lutana Street, Lyons ACT 2606 ~$1,100,000~3~1~House~1.0~694~113~$923,000~

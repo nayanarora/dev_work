@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+2 Taber Place, Isaacs ACT 2607 ~$1,675,000~4~2~House~5.0~935~203~$623,000~

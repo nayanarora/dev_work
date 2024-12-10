@@ -1,0 +1,8 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+1/12 Samuels Crescent, Ngunnawal ACT 2913 ~$595000~2~1~Townhouse~3.5~337~N/A~N/A~
+31/60 Paul Coe Crescent, Ngunnawal ACT 2913 ~$580,000~2~1~Townhouse~6.0~134~N/A~N/A~
+4/49 Jandamarra Street, Ngunnawal ACT 2913 ~$659,000~3~1~Townhouse~3.5~304~N/A~N/A~
+43 Taylor Street, Ngunnawal ACT 2913 ~Offers Over $749,000~3~2~House~6.0~396~138~$400,000~
+3 Walga Place, Ngunnawal ACT 2913 ~$999,000~4~2~House~3.5~790~190~$555,000~
+2 Milari Street, Ngunnawal ACT 2913 ~$1,100,000~4~2~House~5.0~847~252~$660,000~
+4 Galmarra Street, Ngunnawal ACT 2913 ~$1,195,000~4~2~House~4.5~902~298~$811,000~

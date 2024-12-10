@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+8 Yabsley Place, Charnwood ACT 2615 ~$630,000~3~1~House~1.5~624~142~$380,000~
+1 Yabsley Place, Charnwood ACT 2615 ~$695,000~4~1~House~N/A~741~108~$380,000~
+8 Holtermann Place, Charnwood ACT 2615 ~$899,000~6~3~House~1.5~670~N/A~$405,000~

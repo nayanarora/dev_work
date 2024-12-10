@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+(no street name provided), Ginninderra Estate ACT 2615 ~$950,000~4~2~House and Land Package~6.0~604~230~N/A~

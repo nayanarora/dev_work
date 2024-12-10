@@ -1,0 +1,7 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+41 Arabana Street, Aranda ACT 2614 ~$1199000~3~2~House~1.0~1011~N/A~$791,000~
+18 Bindaga Place, Aranda ACT 2614 ~  $1,299,000~3~2~House~N/A~740~N/A~$818,000~
+109 Bandjalong Crescent, Aranda ACT 2614 ~$1,350,000~3~1~House~5.0~1004~122~$756,000~
+86 Bandjalong Crescent, Aranda ACT 2614 ~$1,400,000~5~4~House~1.0~694~245~$756,000~
+10 Noala Street, Aranda ACT 2614 ~$1,699,000~4~2~House~5.0~694~179~$818,000~
+12 Marulda Street, Aranda ACT 2614 ~$2,800,000~4~2~House~5.0~859~326~$1,000,000~

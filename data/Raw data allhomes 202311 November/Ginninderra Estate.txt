@@ -1,0 +1,7 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+10/3 Fullston Way, Holt ACT 2615 ~$699,000~3~2~Townhouse~6.0~185~N/A~N/A~
+5 De Mestre Place, Holt ACT 2615 ~$730,000~3~1~House~4.0~488~152~$335,000~
+22/47 Lorraway Street, Holt ACT 2615 ~$739,000~3~2~Townhouse~6.0~219~N/A~N/A~
+12/74 Britten-Jones Drive, Holt ACT 2615 ~$750,000~3~2~House~1.5~405~N/A~N/A~
+4 Carlton Place, Holt ACT 2615 ~  $769,000~3~1~House~2.5~695~128~$474,000~
+3/11 Chester Close, Holt ACT 2615 ~$819,000 ~4~2~Townhouse~5.0~250~N/A~N/A~

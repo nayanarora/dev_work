@@ -1,0 +1,36 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+4/14 Hoolihan Street, Denman Prospect ACT 2611 ~$430,000~1~1~Apartment~5.0~5509~N/A~$4,200,000~
+101/2 McMichael Terrace, Denman Prospect ACT 2611 ~$440,000~1~1~Apartment~6.0~9197~N/A~$6,675,000~
+Boulevard - Take A Walk Down The Boulevard, Denman Prospect ACT 2611 ~$460,000~1~1~Apartment~5.1~N/A~N/A~N/A~
+50/112 McMichael Terrace, Denman Prospect ACT 2611 ~$475,000~2~1~Apartment~6.0~7736~N/A~$4,700,000~
+Boulevard - Take A Walk Down The Boulevard, Denman Prospect ACT 2611 ~$504,900~1~1~Apartment~5.1~N/A~N/A~N/A~
+33/112 McMichael Terrace, Denman Prospect ACT 2611 ~$569,000~2~2~Apartment~6.0~7736~N/A~$4,700,000~
+13/112 McMichael Terrace, Denman Prospect ACT 2611 ~$575,000~2~2~Unit / Apartment~6.0~7736~N/A~$4,700,000~
+13/2 McMichael Terrace, Denman Prospect ACT 2611 ~$589,000~2~2~Apartment~6.0~9197~N/A~$6,675,000~
+33/14 Hoolihan Street, Denman Prospect ACT 2611 ~$599,000~2~2~Apartment~6.0~5509~N/A~$4,200,000~
+3/14 Hoolihan Street, Denman Prospect ACT 2611 ~$610,000~2~2~Apartment~6.0~5509~N/A~$4,200,000~
+64/26 Marie Little Crescent, Denman Prospect ACT 2611 ~$610,000~2~2~Apartment~6.0~13300.0~N/A~$7,300,000~
+56/5 Skuta Place, Denman Prospect ACT 2611 ~$639,000~2~2~Apartment~6.0~4360~N/A~$3,200,000~
+79/52 McMichael Terrace, Denman Prospect ACT 2611 ~$649,000~2~2~Townhouse~6.0~9362~N/A~$6,300,000~
+Boulevard - Take A Walk Down The Boulevard, Denman Prospect ACT 2611 ~$661,000~2~2~Apartment~5.1~N/A~N/A~N/A~
+27 Eggins Street, Denman Prospect ACT 2611 ~$699,000~4~3~Other~6.0~432~N/A~$615,000~
+Natura - Display Now Open | U67, Denman Prospect ACT 2611 ~$709,000~2~2~Townhouse~6.0~N/A~N/A~N/A~
+Boulevard - Take A Walk Down The Boulevard, Denman Prospect ACT 2611 ~$714,000~2~2~Apartment~5.1~N/A~N/A~N/A~
+Natura - Display Now Open | U65, Denman Prospect ACT 2611 ~$719,000~2~2~Townhouse~6.0~N/A~N/A~N/A~
+Natura - Display Now Open | U68, Denman Prospect ACT 2611 ~$729,000~2~2~Townhouse~6.0~N/A~N/A~N/A~
+Natura - Display Now Open | U64, Denman Prospect ACT 2611 ~$729,000~2~2~Townhouse~6.0~N/A~N/A~N/A~
+Natura - Display Now Open | U69, Denman Prospect ACT 2611 ~$729,000~2~2~Townhouse~6.0~N/A~N/A~N/A~
+Natura - Display Now Open | U62, Denman Prospect ACT 2611 ~$729,000~2~2~Townhouse~6.0~N/A~N/A~N/A~
+Natura - Display Now Open | U63, Denman Prospect ACT 2611 ~$729,000~2~2~Townhouse~6.0~N/A~N/A~N/A~
+50 Sibosado Street, Denman Prospect ACT 2611 ~$1070000~4~2~House and Land Package~5.0~488~N/A~$660,000~
+28/26 Marie Little Crescent, Denman Prospect ACT 2611 ~$799,000~3~2~House~6.0~13300.0~119~$7,300,000~
+37/1 Greenwood Street, Denman Prospect ACT 2611 ~$890,000~3~2~Townhouse~6.0~12900.0~N/A~$7,750,000~
+Hakea - Type 3, Denman Prospect ACT 2611 ~$955,000~3~2~Townhouse~6.3~N/A~N/A~N/A~
+12 Golgerth Street, Denman Prospect ACT 2611 ~$990,000~4~2~Townhouse~6.0~4918~N/A~$4,000,000~
+Boulevard - Take A Walk Down The Boulevard, Denman Prospect ACT 2611 ~$1,039,000~3~2~Apartment~5.1~N/A~N/A~N/A~
+Hakea - Type 2, Denman Prospect ACT 2611 ~$1,100,000~3~2~Townhouse~6.3~N/A~N/A~N/A~
+2 Kallir Street, Denman Prospect ACT 2611 ~$1,475,990~4~3~House and Land Package~6.0~458~N/A~$645,000~
+74 Coaldrake Avenue, Denman Prospect ACT 2611 ~  $1,600,000~5~3~House~5.0~600~321~$750,000~
+(no street name provided), Denman Prospect ACT 2611 ~$1,699,900~5~3~House~6.0~425~N/A~N/A~
+32 Shapiro Street, Denman Prospect ACT 2611 ~  $1,899,000~5~3~House~5.0~621~310~$780,000~
+6 Hartshorn Crescent, Denman Prospect ACT 2611 ~$2150000~4~2~House and Land Package~7.0~480~N/A~N/A~

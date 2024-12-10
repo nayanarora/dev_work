@@ -1,0 +1,10 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+13/30 William Hudson Crescent, Monash ACT 2904 ~$725,000~3~1~Townhouse~2.5~272~N/A~N/A~
+6/26 Scratchley Place, Monash ACT 2904 ~Offers Over $749,000~3~2~Townhouse~3.0~476~135~N/A~
+21 Charleston Street, Monash ACT 2904 ~$799,999~3~1~House~4.5~488~N/A~$420,000~
+9/156 Clive Steele Avenue, Monash ACT 2904 ~$820,000~3~1~Townhouse~0.5~313~N/A~N/A~
+2 Hickson Place, Monash ACT 2904 ~Offers Over $825,000~3~1~House~3.5~664~N/A~$453,000~
+161 Clive Steele Avenue, Monash ACT 2904 ~$880,000~3~1~House~2.0~455~N/A~$377,000~
+12 Ahern Place, Monash ACT 2904 ~$885,000~3~1~House~3.0~1303~126~$522,000~
+23 Axon Street, Monash ACT 2904 ~$975,000~4~2~House~1.5~1124~172~$463,000~
+66 Sturdee Crescent, Monash ACT 2904 ~$1,069,000~4~2~House~2.0~709~210~$495,000~

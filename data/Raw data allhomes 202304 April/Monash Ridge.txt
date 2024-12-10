@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+12/25 Blakey Close, Monash ACT 2904 ~$700,000~3~1~House~1.5~365~105~N/A~
+25 Charleston Street, Monash ACT 2904 ~$738,000~3~1~House~1.0~481~94~$420,000~
+32/156 Clive Steele Avenue, Monash ACT 2904 ~$799,000 ~3~2~Townhouse~1.5~319~N/A~N/A~
+26 Sturdee Crescent, Monash ACT 2904 ~$1,335,000~4~3~House~3.5~707~N/A~$495,000~

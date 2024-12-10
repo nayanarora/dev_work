@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+27 Galbraith Close, Banks ACT 2906 ~$1,475,000~6~3~House~N/A~N/A~N/A~$373,000~

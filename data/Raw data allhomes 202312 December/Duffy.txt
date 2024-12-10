@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+52 Mirrool Street, Duffy ACT 2611 ~  $760,000~3~2~House~1.0~441~108~N/A~
+97 Dixon Drive, Duffy ACT 2611 ~  $799,000~3~1~House~1.0~798~123~$713,000~
+49 Somerset Street, Duffy ACT 2611 ~$1,995,000~6~4~House~4.5~801~N/A~$792,000~

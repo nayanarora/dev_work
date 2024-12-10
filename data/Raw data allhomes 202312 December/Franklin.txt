@@ -1,0 +1,26 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+56/75 Elizabeth Jolley Crescent, Franklin ACT 2913 ~Offer above $349,000~1~1~Apartment~6.0~9024~N/A~$2,650,000~
+75/51 Nullarbor Avenue, Franklin ACT 2913 ~$389,000~1~1~Apartment~6.0~7075~N/A~$4,770,000~
+32/41 Clare Burton Crescent, Franklin ACT 2913 ~$409,000~1~1~Apartment~6.0~5932~N/A~$4,375,000~
+26/311 Flemington Road, Franklin ACT 2913 ~$439,000~2~1~Apartment~N/A~12000.0~N/A~$7,800,000~
+61/75 Elizabeth Jolley Crescent, Franklin ACT 2913 ~$479,900~2~2~Apartment~5.5~9024~N/A~$2,650,000~
+65/75 Elizabeth Jolley Crescent, Franklin ACT 2913 ~$499,000~2~2~House~6.0~9024~N/A~$2,650,000~
+94/235 Flemington Road, Franklin ACT 2913 ~$500,000~2~2~Apartment~6.0~7611~N/A~$4,500,000~
+92/75 Elizabeth Jolley Crescent, Franklin ACT 2913 ~$509,000~2~2~Apartment~4.5~9024~N/A~$2,650,000~
+76/41 Clare Burton Crescent, Franklin ACT 2913 ~$515,000~2~2~Apartment~6.0~5932~N/A~$4,375,000~
+92/104 Henry Kendall Street, Franklin ACT 2913 ~$525,000~2~2~Apartment~6.0~10400.0~N/A~$6,480,000~
+26/21 Christina Stead Street, Franklin ACT 2913 ~$572,000~2~1~Apartment~7.0~7982~N/A~$5,313,000~
+83/100 Henry Kendall Street, Franklin ACT 2913 ~$599,000~3~2~Apartment~6.0~10400.0~N/A~$6,480,000~
+89/235 Flemington Road, Franklin ACT 2913 ~$629,999~3~2~Townhouse~5.0~7611~N/A~$4,500,000~
+12/3 Trist Street, Franklin ACT 2913 ~$639,000~2~2~Townhouse~6.0~N/A~N/A~N/A~
+6/311 Flemington Road, Franklin ACT 2913 ~$675,000~3~2~Townhouse~4.0~12000.0~N/A~$7,800,000~
+24/22 Henry Kendall Street, Franklin ACT 2913 ~$709,000~3~2~Townhouse~6.0~104~N/A~N/A~
+8/8 Henry Kendall Street, Franklin ACT 2913 ~$720,000~3~3~Townhouse~6.0~99~N/A~N/A~
+1/74 Henry Kendall Street, Franklin ACT 2913 ~$729,000~3~2~Townhouse~5.0~N/A~N/A~N/A~
+17/20 Clare Burton Crescent, Franklin ACT 2913 ~$849,000~4~3~Townhouse~5.0~6712~N/A~$5,250,000~
+39 Henry Kendall Street, Franklin ACT 2913 ~$879,000~3~2~House~5.0~360~140~$437,000~
+8 Whitington Street, Franklin ACT 2913 ~$970,000~4~2~House~4.0~405~172~$496,000~
+79 Gwen Meredith Loop, Franklin ACT 2913 ~$999,000~4~2~House~4.5~405~232~$510,000~
+28 Christina Stead Street, Franklin ACT 2913 ~  $1,299,000~4~3~House~5.0~542~N/A~$542,000~
+5 Poyitt Street, Franklin ACT 2913 ~$1,750,000~7~4~House~5.0~531~N/A~$621,000~
+41 Manning Clark Crescent, Franklin ACT 2913 ~$1,895,000~5~3~House~5.0~1000~386~$952,000~

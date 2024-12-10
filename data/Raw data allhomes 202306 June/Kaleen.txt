@@ -1,0 +1,7 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+34/112 Baldwin Drive, Kaleen ACT 2617 ~$529,000~3~2~Apartment~6.0~10500.0~117~$120,497~
+9 Mersey Place, Kaleen ACT 2617 ~$805000~3~2~House~1.5~768~N/A~$604,000~
+8 Barcoo Place, Kaleen ACT 2617 ~  $900,000~4~2~House~4.0~758~N/A~$664,000~
+98 Maribyrnong Avenue, Kaleen ACT 2617 ~ $1,095,000~4~2~House~3.0~786~221~$664,000~
+53 Callabonna Street, Kaleen ACT 2617 ~$1,175,000~4~2~House~1.0~760~N/A~$719,000~
+7 Neales Street, Kaleen ACT 2617 ~$1267500~4~2~House~2.0~949~N/A~$676,000~

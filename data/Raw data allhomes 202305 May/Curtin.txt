@@ -1,0 +1,12 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+2/3 Walsh Place, Curtin ACT 2605 ~$360,000~2~1~Apartment~3.5~1372~N/A~$150,000~
+47/3 Waddell Place, Curtin ACT 2605 ~$399,000 ~2~1~Townhouse~4.0~13100.0~N/A~$188,480~
+8/89 Allan Street, Curtin ACT 2605 ~$575,000~2~2~Unit / Apartment~6.0~990~78~$145,500~
+9 Cosgrove Street, Curtin ACT 2605 ~Inviting   $800,000~2~1~House~2.0~181~77~$591,000~
+3 Gregson Place, Curtin ACT 2605 ~$1,095,000~3~1~House~0.5~801~102~$980,000~
+95 Morgan Crescent, Curtin ACT 2605 ~$1,195,000~3~2~House~1.0~717~137~$1,049,000~
+13 Parker Street, Curtin ACT 2605 ~$1,200,000~3~1~House~3.5~726~123~$946,000~
+14 Kidston Crescent, Curtin ACT 2605 ~$1,750,000~5~2~House~3.0~827~236~$1,087,000~
+16 Peacock Place, Curtin ACT 2605 ~$1,790,000~5~3~House~2.0~1210~219~$950,000~
+13 Storey Street, Curtin ACT 2605 ~$1,888,000~5~2~House~6.0~724~269~$935,000~
+6 Willcock Place, Curtin ACT 2605 ~$2,750,000~4~3~House~6.0~685~280~$865,000~

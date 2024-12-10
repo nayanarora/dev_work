@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+1 Coyne Street, Fadden ACT 2904 ~$885,000~3~2~House~1.0~794~129~N/A~
+8 Payne Place, Fadden ACT 2904 ~  $990,000~4~2~House~3.0~902~187~$519,000~
+26 Airey Crescent, Fadden ACT 2904 ~$999,000~4~2~House~3.0~707~N/A~$560,000~

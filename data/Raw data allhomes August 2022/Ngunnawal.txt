@@ -1,0 +1,19 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+6/14 Len Waters Street, Ngunnawal ACT 2913 ~$595,000~2~1~Townhouse~4.0~229~112~N/A~
+5/18 Marou Place, Ngunnawal ACT 2913 ~$595,000~2~1~Townhouse~5.5~216~87~N/A~
+3 Nangi Place, Ngunnawal ACT 2913 ~$599,000~3~1~House~4.0~286~101~$376,000~
+10 Yuranigh Court, Ngunnawal ACT 2913 ~$619,000~3~1~House~4.5~226~N/A~$284,000~
+5/3 Gurubun Close, Ngunnawal ACT 2913 ~$620,000~3~1~Townhouse~5.0~144~N/A~N/A~
+13/60 Paul Coe Crescent, Ngunnawal ACT 2913 ~$649,000~3~1~Townhouse~5.5~141~130~N/A~
+3 Kaga Place, Ngunnawal ACT 2913 ~$649,000~3~1~House~4.5~337~126~$386,000~
+67/42 Paul Coe Crescent, Ngunnawal ACT 2913 ~$695,000 ~3~2~Townhouse~6.0~112~111~N/A~
+89 Kavangal Circuit, Ngunnawal ACT 2913 ~$731,000~3~2~Duplex~6.0~246~127~$367,000~
+32 Taylor Street, Ngunnawal ACT 2913 ~Offers above $749,000~3~2~House~4.0~450~139~$421,000~
+34 Honyong Crescent, Ngunnawal ACT 2913 ~$774000~3~2~House~4.5~497~N/A~$421,000~
+8 Gang Gang Court, Ngunnawal ACT 2913 ~$769,900~4~3~House~3.5~288~N/A~$330,000~
+5 Gelane Street, Ngunnawal ACT 2913 ~$795,000~3~1~House~2.5~527~121~$447,000~
+24 Barunga Street, Ngunnawal ACT 2913 ~$820,000~3~2~House~5.0~N/A~N/A~$400,000~
+16 Mawalan Street, Ngunnawal ACT 2913 ~$895,000~4~2~House~4.0~713~192~$515,000~
+38 Burrumarra Avenue, Ngunnawal ACT 2913 ~$950,000~4~2~House~4.0~654~150~$477,000~
+17 Daramoolen Street, Ngunnawal ACT 2913 ~$975,000~3~2~House~4.0~419~N/A~$434,000~
+16 Bungaree Crescent, Ngunnawal ACT 2913 ~$1,695,000~5~3~House~1.0~968~259~$607,000~

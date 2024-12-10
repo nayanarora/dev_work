@@ -1,0 +1,8 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+13/5 Tristania Street, Rivett ACT 2611 ~$579,000~2~1~Townhouse~N/A~209~N/A~N/A~
+3 Themeda Place, Rivett ACT 2611 ~$775,000~2~1~House~2.0~737~N/A~$567,000~
+32B Carbeen Street, Rivett ACT 2611 ~$995,000~4~2~Dual Occupancy~5.5~367~N/A~N/A~
+53 Salsola Street, Rivett ACT 2611 ~$995,000~4~2~House~4.5~694~139~$600,000~
+46 Santalum Street, Rivett ACT 2611 ~$1,000,000~3~1~House~1.0~1103~109~$642,000~
+42 Nelumbo Street, Rivett ACT 2611 ~$1,060,000~7~3~House~2.0~767~278~$634,000~
+123 Darwinia Terrace, Rivett ACT 2611 ~$1,399,000 ~4~2~House~2.0~1130~150~$650,000~

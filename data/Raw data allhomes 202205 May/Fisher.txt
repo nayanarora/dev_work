@@ -1,0 +1,3 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+16 Jarrahdale Street, Fisher ACT 2611 ~$900,000~3~1~House~4.0~664~127~$415,000~
+9 Gulgong Place, Fisher ACT 2611 ~$1,139,000~3~2~House~1.0~685~180~$445,000~

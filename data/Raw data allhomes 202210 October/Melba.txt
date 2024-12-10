@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+2 & 2A Brahe Place, Melba ACT 2615 ~$1,049,000~5~2~House~1.0~798~N/A~$544,000~
+53 Alfred Hill Drive, Melba ACT 2615 ~Offers Over $1,100,000~6~4~House~2.5~848~N/A~$416,000~
+1 Chinner Crescent, Melba ACT 2615 ~$1,350,000~5~3~House~2.0~807~360~$447,000~

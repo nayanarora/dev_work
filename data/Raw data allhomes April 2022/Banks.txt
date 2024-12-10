@@ -1,0 +1,8 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+5/8 Patton Place, Banks ACT 2906 ~$645,000~3~1~Townhouse~2.5~N/A~97~N/A~
+2 Moore Place, Banks ACT 2906 ~  $650,000~3~1~House~3.0~329~116~N/A~
+38 House Circuit, Banks ACT 2906 ~  $699,000~3~1~House~4.5~504~112~$319,000~
+2/30 Betty Maloney Crescent, Banks ACT 2906 ~$760,000~3~2~Townhouse~5.0~N/A~N/A~N/A~
+36 McLuckie Crescent, Banks ACT 2906 ~$795,000~3~1~House~4.5~704~111~$332,000~
+34 Pockett Avenue, Banks ACT 2906 ~$804,000~3~1~House~1.5~748~N/A~$328,000~
+(no street name provided), Banks ACT 2906 ~  $999,000~4~2~House~2.0~882~206~$400,000~

@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+9/51 Blackwood Terrace, Holder ACT 2611 ~$799,000~3~2~Townhouse~6.0~1966~129~$215,673~
+72 Blackwood Terrace, Holder ACT 2611 ~$860,000~3~1~House~3.0~719~122~$723,000~
+108 Dixon Drive, Holder ACT 2611 ~$920,000~4~1~House~1.0~737~143~$608,000~
+25 Pearson Street, Holder ACT 2611 ~$949,000~5~1~House~1.5~1059~N/A~$681,000~

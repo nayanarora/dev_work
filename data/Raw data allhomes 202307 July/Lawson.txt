@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+26/15 Stockman Avenue, Lawson ACT 2617 ~   $425,000~1~1~Apartment~6.0~7026~69~$151,800~
+9/5 Nevertire Street, Lawson ACT 2617 ~$599,000~2~2~Apartment~6.0~9228~132~$84,000~
+9/23 Wanderlight Avenue, Lawson ACT 2617 ~$739,000~3~3~Townhouse~6.0~8953~N/A~$141,128~
+48/2 Rouseabout Street, Lawson ACT 2617 ~$750,000~3~3~Townhouse~6.0~85~N/A~N/A~
+18 Swagman Street, Lawson ACT 2617 ~   $1,989,000~5~3~House~5.5~450~376~$713,000~

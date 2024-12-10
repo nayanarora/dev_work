@@ -1,0 +1,22 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+20/137 Blamey Crescent, Campbell ACT 2612 ~$365,000~1~1~Apartment~2.0~N/A~N/A~$4,650,000~
+39 /116 Blamey Crescent, Campbell ACT 2612 ~$467,000~2~1~Apartment~3.5~N/A~N/A~$3,850,000~
+306/4 Anzac Park, Campbell ACT 2612 ~$525,000~1~1~Apartment~6.0~N/A~N/A~N/A~
+525/2 Anzac Park, Campbell ACT 2612 ~$529,000~1~1~Apartment~6.0~N/A~N/A~N/A~
+87/81 Constitution Avenue, Campbell ACT 2612 ~$550,000~1~1~Apartment~6.0~N/A~N/A~$10,250,000~
+5/44 Constitution Avenue, Campbell ACT 2612 ~$565,000~1~1~Apartment~6.0~N/A~N/A~N/A~
+325/20 Anzac Park, Campbell ACT 2612 ~$615,000~2~2~Apartment~6.0~N/A~N/A~$15,375,000~
+323/20 Anzac Park, Campbell ACT 2612 ~$635,000~2~2~Apartment~6.0~N/A~N/A~$15,375,000~
+211/4 Anzac Park, Campbell ACT 2612 ~  $649,000~2~2~Apartment~6.0~N/A~N/A~N/A~
+319/12 Provan Street, Campbell ACT 2612 ~$759,000~2~2~Unit / Apartment~6.0~N/A~N/A~$15,375,000~
+16/2 Anzac Parade, Campbell ACT 2612 ~$825,000~2~2~Apartment~6.0~N/A~N/A~N/A~
+20 Chauvel Street, Campbell ACT 2612 ~$1,285,000~4~2~Duplex~1.0~771~N/A~$1,329,000~
+327/20 Anzac Park, Campbell ACT 2612 ~  $1,300,000~3~2~House~6.0~7019~N/A~$15,375,000~
+524/20 Anzac Park, Campbell ACT 2612 ~$1,300,000~3~2~Apartment~6.0~N/A~N/A~$15,375,000~
+46/1 Provan Street, Campbell ACT 2612 ~$1,490,000~3~2~Apartment~6.0~N/A~N/A~$9,750,000~
+26 Jacka Crescent, Campbell ACT 2612 ~$1,615,000~3~2~House~2.5~674~147~$1,176,000~
+12 Rosenthal Street, Campbell ACT 2612 ~$1904000~5~2~House~1.0~755~N/A~$1,264,000~
+3 Gellibrand Street, Campbell ACT 2612 ~$1,900,000 Motivated Seller~4~2~House~2.5~951~188~$1,399,000~
+43 Waller Crescent, Campbell ACT 2612 ~$2,300,000 to $2,350,000~5~2~House~2.5~886~N/A~$1,175,000~
+8 Truscott Street, Campbell ACT 2612 ~$2,500,000~4~3~House~6.0~767~245~$1,317,000~
+2 Holmes Crescent, Campbell ACT 2612 ~$3,000,000~5~1~House~4.0~1133~306~$1,399,000~

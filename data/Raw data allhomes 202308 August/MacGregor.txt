@@ -1,0 +1,7 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+3 Heighway Street, MacGregor ACT 2615 ~$660,000~3~1~House~4.5~375~110~$387,000~
+1A Victor Chang Street, MacGregor ACT 2615 ~  $699,000~2~1~House~6.0~329~84~$376,000~
+6 Newmarch Place, MacGregor ACT 2615 ~$700,000~3~1~House~2.0~866~N/A~$396,000~
+16 Heighway Street, MacGregor ACT 2615 ~$769,000~3~1~House~4.0~450~104~$415,000~
+52 John Holt Street, MacGregor ACT 2615 ~$779,000~3~1~House~6.0~374~151~$376,000~
+124 Hollows Circuit, MacGregor ACT 2615 ~$779,000~3~1~House~5.5~450~103~$406,000~

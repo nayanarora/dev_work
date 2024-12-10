@@ -1,0 +1,67 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+276 Gorman Drive, Googong NSW 2620 ~$464000~1~1~Townhouse~N/A~132~N/A~N/A~
+2/11 Aitken Street, Googong NSW 2620 ~$490000~1~1~Townhouse~N/A~68~N/A~N/A~
+(no street name provided), Googong NSW 2620 ~$914750~4~2~House and Land Package~N/A~618~264~N/A~
+202/189 Gorman Drive, Googong NSW 2620 ~$534000~2~2~Unit / Apartment~N/A~166~N/A~N/A~
+Avia - 2 Bedroom Apartments, Googong NSW 2620 ~$580,000~2~1~Apartment~N/A~N/A~N/A~N/A~
+39/67 Mary Street, Googong NSW 2620 ~$585,000~2~1~Townhouse~N/A~N/A~N/A~N/A~
+13 Hopper Walk, Googong NSW 2620 ~$599,000~2~1~House~N/A~172~N/A~N/A~
+Lot 1320/1320 Lambrigg Rd, Googong NSW 2620 ~$599,900~1~N/A~Other~N/A~625~N/A~N/A~
+(no street name provided), Googong NSW 2620 ~$600,000~4~2~House and Land Package~N/A~N/A~250~N/A~
+Kiona - Welcome to Kiona - Corner of Wellsvale Drive and Mary Street, Googong NSW 2620 ~$630,000~2~1~Townhouse~N/A~N/A~N/A~N/A~
+Kiona - Welcome to Kiona - Corner of Wellsvale Drive and Mary Street, Googong NSW 2620 ~$630,000~2~1~Townhouse~N/A~N/A~N/A~N/A~
+Kiona - Welcome to Kiona - Corner of Wellsvale Drive and Mary Street, Googong NSW 2620 ~$660,000~2~1~Townhouse~N/A~N/A~N/A~N/A~
+17/67 Mary Street, Googong NSW 2620 ~$700,000~3~2~Townhouse~N/A~N/A~N/A~N/A~
+Kiona - Welcome to Kiona - Corner of Wellsvale Drive and Mary Street, Googong NSW 2620 ~$709,000~3~1~Townhouse~N/A~N/A~N/A~N/A~
+203/189 Gorman Drive, Googong NSW 2620 ~$769000~3~2~Apartment~N/A~166~155~N/A~
+4/8 Courtney Street, Googong NSW 2620 ~$790,000~3~2~Townhouse~6.0~200~N/A~N/A~
+6 Mowle Street, Googong NSW 2620 ~$820000~3~2~House~N/A~339~142~N/A~
+(no street name provided), Googong NSW 2620 ~$845,000~4~2~House~N/A~335~209~N/A~
+7/67 Mary Street, Googong NSW 2620 ~$850,000~4~2~Townhouse~N/A~N/A~N/A~N/A~
+8 Hearne Street, Googong NSW 2620 ~$875000~3~2~House~N/A~347~185~N/A~
+(no street name provided), Googong NSW 2620 ~$860,000~4~1~House and Land Package~N/A~330~204~N/A~
+5 Hopkins Street, Googong NSW 2620 ~$900000~3~2~House~N/A~337~165~N/A~
+8 Keyte Street, Googong NSW 2620 ~$905000~4~2~House~N/A~400~210~N/A~
+5 Insley Street, Googong NSW 2620 ~$895,000~3~2~House~N/A~344~162~N/A~
+9 Insley Street, Googong NSW 2620 ~$914000~3~2~House~N/A~408~N/A~N/A~
+7 Ridings Road, Googong NSW 2620 ~$925000~3~2~House~N/A~400~174~N/A~
+68 Beltana Avenue, Googong NSW 2620 ~$925000~4~2~House~N/A~540~N/A~N/A~
+(no street name provided), Googong NSW 2620 ~$920,000~4~1~House and Land Package~N/A~330~219~N/A~
+32 Underhill Street, Googong NSW 2620 ~$945000~4~1~House~N/A~402~206~N/A~
+31 Rogers Road, Googong NSW 2620 ~$950000~3~2~House~N/A~347~174~N/A~
+1 McLean Street, Googong NSW 2620 ~$970000~4~2~House~N/A~492~201~N/A~
+(no street name provided), Googong NSW 2620 ~$1035000~4~2~House~N/A~420~315~N/A~
+14 Pollack Street, Googong NSW 2620 ~$975000~4~2~House~N/A~490~N/A~N/A~
+11 Ridings Road, Googong NSW 2620 ~$975000~3~2~House~N/A~450~171~N/A~
+15 Mason Street, Googong NSW 2620 ~$965000~4~2~House~N/A~337~212~N/A~
+70 Mary Street, Googong NSW 2620 ~$974000~4~2~House~N/A~394~179~N/A~
+(no street name provided), Googong NSW 2620 ~$990,000~4~2~House~N/A~508~250~N/A~
+8 Mason Street, Googong NSW 2620 ~$990,000~4~2~House~N/A~480~164~N/A~
+Lot 670 Kythera Street, Googong NSW 2620 ~$995,000~4~1~House~N/A~376~218~N/A~
+5 Bobac Street, Googong NSW 2620 ~$998,000~4~1~House and Land Package~N/A~399~217~N/A~
+37 McGowan Crescent, Googong NSW 2620 ~$1025000~4~2~House~N/A~420~216~N/A~
+190 Glenrock Drive, Googong NSW 2620 ~$1070000~4~3~House~6.0~N/A~N/A~N/A~
+Lot 1062 Horton Street, Googong NSW 2620 ~$1,050,000~4~3~House and Land Package~N/A~480~230~N/A~
+26 Duncan Loop, Googong NSW 2620 ~$1075000~4~2~House~N/A~475~235~N/A~
+14 Hopkins Street, Googong NSW 2620 ~$1,050,000~4~2~House~N/A~480~253~N/A~
+28 Tabrett Street, Googong NSW 2620 ~$1,055,000~4~2~House~N/A~479~219~N/A~
+Lot 666 Kythera Street, Googong NSW 2620 ~$1078000~4~1~House and Land Package~N/A~473~231~N/A~
+(no street name provided), Googong NSW 2620 ~$1,099,000~4~1~House and Land Package~N/A~385~247~N/A~
+13 Pollack Street, Googong NSW 2620 ~$1147500~4~2~House~N/A~555~245~N/A~
+35 Bonarba Link, Googong NSW 2620 ~$1,100,000~5~3~House~N/A~596~279~N/A~
+1 Heazlett Street, Googong NSW 2620 ~$1125000~4~2~House~N/A~536~191~N/A~
+108 Weatherstone Circuit, Googong NSW 2620 ~$1125000~4~3~House~N/A~472~N/A~N/A~
+Lot 1053 Barton Street Street, Googong NSW 2620 ~$1150000~4~3~House~N/A~N/A~N/A~N/A~
+9 Lizzie Street, Googong NSW 2620 ~$1200000~5~2~House~N/A~455~234~N/A~
+56 Beltana Avenue, Googong NSW 2620 ~$1175000~5~3~House~N/A~600~263~N/A~
+17 Bobac Street, Googong NSW 2620 ~$1,150,000~4~2~House~6.0~N/A~N/A~N/A~
+34 Graziers Road, Googong NSW 2620 ~$1,195,000~4~2~House~N/A~428~256~N/A~
+32 Duncan Loop, Googong NSW 2620 ~$1,249,000~4~3~House~N/A~444~278~N/A~
+(no street name provided), Googong NSW 2620 ~$1,270,000~4~1~House and Land Package~N/A~468~296~N/A~
+31 Courtney Street, Googong NSW 2620 ~$1339500~4~1~House~N/A~569~279~N/A~
+(no street name provided), Googong NSW 2620 ~$1593500~4~1~House and Land Package~N/A~580~340~N/A~
+23 Hawke Street, Googong NSW 2620 ~$1425000~4~2~House~6.0~594~275~N/A~
+46 Percival Road, Googong NSW 2620 ~$1,600,000~5~3~House~N/A~715~315~N/A~
+9 Gardiner Street, Googong NSW 2620 ~$1,600,000~4~2~House~N/A~624~403~N/A~
+22 Erskine Loop, Googong NSW 2620 ~$1,600,000~5~2~House~N/A~712~266~N/A~
+Reginald Road, Googong NSW 2620 ~$2,114,500~4~2~House and Land Package~N/A~1140~458~N/A~

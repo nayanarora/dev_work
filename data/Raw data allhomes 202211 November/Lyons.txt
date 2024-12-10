@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+74/5 Burnie Street, Lyons ACT 2606 ~Offers Over $589,000~2~2~Unit / Apartment~6.0~10200.0~N/A~$63,000~
+6 Esk Place, Lyons ACT 2606 ~$995,000~4~1~House~1.5~854~127~N/A~
+28B Lutana Street, Lyons ACT 2606 ~$1,049,000 ~4~2~House~4.5~552~172~N/A~
+1 Eldon Place, Lyons ACT 2606 ~$0~5~2~House~3.5~750~N/A~$1,040,000~

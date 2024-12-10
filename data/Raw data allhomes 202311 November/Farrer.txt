@@ -1,0 +1,7 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+7/9 Farrer Place, Farrer ACT 2607 ~  $349,000~1~1~Unit / Apartment~6.0~1864~N/A~$2,160,000~
+9-11 Drevermann Street, Farrer ACT 2607 ~$565,000~2~2~Unit / Apartment~6.0~18200.0~N/A~N/A~
+5A Marshall Street, Farrer ACT 2607 ~$625000~2~1~Duplex~N/A~313~N/A~N/A~
+104 Lambrigg Street, Farrer ACT 2607 ~  $1,399,000~5~3~House~1.5~1025~285~$818,000~
+18 Muresk Street, Farrer ACT 2607 ~$1,590,000~4~2~House~6.0~1250~156~$954,000~
+36 Drevermann Street, Farrer ACT 2607 ~$1,799,000~5~3~House~4.0~1220~N/A~$1,023,000~

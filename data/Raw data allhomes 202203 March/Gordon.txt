@@ -1,0 +1,9 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+81 Jim Pike Avenue, Gordon ACT 2906 ~$639,000~3~1~Townhouse~3.5~N/A~N/A~N/A~
+8/3 Riddle Place, Gordon ACT 2906 ~$650,000~3~1~Townhouse~1.5~187~129~N/A~
+3 Popplewell Place, Gordon ACT 2906 ~Offer over $699,000~3~1~House~5.5~495~102~$253,000~
+1 Ferry Place, Gordon ACT 2906 ~$749,000~3~1~House~2.5~664~112~$376,000~
+12 Charlton Crescent, Gordon ACT 2906 ~Offers Over $799,000~3~1~House~2.5~430~122~$271,000~
+26 Carslake Loop, Gordon ACT 2906 ~$1,020,000~4~2~House~2.0~1054~N/A~$366,000~
+208 Knoke Avenue, Gordon ACT 2906 ~$1,080,000~5~2~House~4.0~694~210~$315,000~
+6 Dempsey Place, Gordon ACT 2906 ~Offers over $1,385,000~4~2~House~3.5~1053~206~$447,000~

@@ -1,0 +1,16 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+5/13A David Street, O'Connor ACT 2602 ~$535000~1~1~Apartment~6.0~N/A~N/A~$1,200,000~
+25/17 David Street, O'Connor ACT 2602 ~  $609,000~2~2~Apartment~6.0~N/A~N/A~$3,750,000~
+15/15 MacPherson Street, O'Connor ACT 2602 ~$610,000~1~1~Townhouse~4.5~188~N/A~N/A~
+19/52 Bluebell Street, O'Connor ACT 2602 ~$645,000 ~2~2~Apartment~6.0~N/A~N/A~$6,185,000~
+1/16 Berrigan Crescent, O'Connor ACT 2602 ~$649,000~2~2~Apartment~6.0~N/A~N/A~$2,270,000~
+20/27 Berrigan Crescent, O'Connor ACT 2602 ~$700,000~2~2~Apartment~6.0~N/A~N/A~$3,500,000~
+1/5 David Street, O'Connor ACT 2602 ~ $849,000~3~2~Townhouse~5.5~126~N/A~N/A~
+15/8 Berrigan Crescent, O'Connor ACT 2602 ~$1,295,000~4~2~Townhouse~6.5~N/A~N/A~N/A~
+76 Miller Street, O'Connor ACT 2602 ~$1,300,000~2~2~House~0.0~834~115~$958,000~
+5 MacPherson Street, O'Connor ACT 2602 ~Offer Over $1,650,000~3~1~House~0.0~766~124~$1,134,000~
+5 Fairfax Street, O'Connor ACT 2602 ~$1,850,000~5~3~House~0.5~1137~N/A~$1,104,000~
+12b Pedder Street, O'Connor ACT 2602 ~$1,985,000~4~1~Dual Occupancy~6.1~414~N/A~$1,343,000~
+16 Belah Street, O'Connor ACT 2602 ~$2,650,000~6~5~House~6.0~805~287~$1,086,000~
+60 Clianthus Street, O'Connor ACT 2602 ~$2,849,000~4~2~House~4.5~831~N/A~$1,290,000~
+26 Westgarth Street, O'Connor ACT 2602 ~$3,490,000~4~2~House~6.0~808~358~$1,200,000~

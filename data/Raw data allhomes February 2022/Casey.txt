@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+7/2 McGovern Street, Casey ACT 2913 ~$660,000 ~3~2~Townhouse~6.0~N/A~95~N/A~
+34 Tarling Street, Casey ACT 2913 ~$725,000~3~2~House~4.5~214~N/A~$287,000~
+85 Plimsoll Drive, Casey ACT 2913 ~$859000~4~2~Townhouse~6.0~N/A~N/A~$259,000~
+4 Liz O'Neill Street, Casey ACT 2913 ~$985,000~4~1~House~6.0~465~180~$398,000~

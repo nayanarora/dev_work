@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+4/36 Petterd Street, Page ACT 2614 ~$539,999~2~1~Unit / Apartment~6.0~867~N/A~$78,650~
+30 Carron Street, Page ACT 2614 ~Offers over $889,000~4~1~House~0.5~715~181~$586,000~
+7 Krichauff Street, Page ACT 2614 ~Offers Over $929,000~3~1~House~1.0~665~N/A~$719,000~

@@ -1,0 +1,3 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+84 Wakefield Gardens, Ainslie ACT 2602 ~$1300000~3~1~House~N/A~808~90~$1,041,000~
+3 Agnew Street, Ainslie ACT 2602 ~$1,490,000~4~2~House~2.0~671~156~$1,126,000~

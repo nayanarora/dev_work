@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+171 Lawrence Wackett Crescent, Theodore ACT 2905 ~$799,000~3~1~House~1.0~716~129~$388,000~

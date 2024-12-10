@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+14 Whittell Crescent, Florey ACT 2615 ~$800,000~3~1~House~1.0~722~101~$376,000~
+8 Bagster Place, Florey ACT 2615 ~$870,000~3~1~House~4.5~866~N/A~$411,000~
+16 Whitelegge Close, Florey ACT 2615 ~$1,050,000~3~2~House~4.0~800~144~$425,000~
+88 Summerville Crescent, Florey ACT 2615 ~$1,190,000~4~2~House~5.0~979~N/A~$465,000~

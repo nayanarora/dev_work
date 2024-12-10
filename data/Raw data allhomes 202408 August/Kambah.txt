@@ -1,0 +1,14 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+6 Stanfield Close, Kambah ACT 2902 ~Offers over $595,000~3~1~House~3.0~291~97~$330,000~
+6/10 Ashby Circuit, Kambah ACT 2902 ~$670,000~3~1~Townhouse~2.5~233~N/A~N/A~
+10/10 Ashby Circuit, Kambah ACT 2902 ~$689,000~3~1~Townhouse~2.0~234~N/A~N/A~
+41 Morrison Street, Kambah ACT 2902 ~$750,000~3~1~House~2.0~440~N/A~$355,000~
+5/2 Springbett Street, Kambah ACT 2902 ~$750,000~3~2~Townhouse~6.0~222~N/A~N/A~
+15 Kingsmill Street, Kambah ACT 2902 ~$750,000~3~1~House~1.5~778~N/A~$476,000~
+23 Marconi Crescent, Kambah ACT 2902 ~$795,000~3~2~House~0.5~504~N/A~$409,000~
+36 McKenzie Street, Kambah ACT 2902 ~$795,000~3~1~House~1.0~967~N/A~$510,000~
+21 Snodgrass Crescent, Kambah ACT 2902 ~$845,000~3~1~Retirement Village~N/A~36800.0~N/A~$6,300,000~
+4B Bowler Place, Kambah ACT 2902 ~$850,000~4~2~House~5.5~388~129~N/A~
+29 Faithfull Circuit, Kambah ACT 2902 ~$885,000~3~1~House~1.0~683~N/A~$472,000~
+2/92 Crozier Circuit, Kambah ACT 2902 ~$890,000~4~2~Townhouse~2.5~780~N/A~N/A~
+2 Browne Place, Kambah ACT 2902 ~$918,000~4~2~House~5.5~764~185~N/A~

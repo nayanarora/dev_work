@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+105 Azalea Circuit, Isabella Plains ACT 2905 ~$840,000~3~1~Retirement Village~6.0~44700.0~N/A~$5,000,000~

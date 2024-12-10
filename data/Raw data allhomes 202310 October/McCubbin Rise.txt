@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+13/2 Namatjira Drive, Weston ACT 2611 ~$655000~2~2~Apartment~5.5~2616~N/A~$2,221,000~
+50 McInnes Street, Weston ACT 2611 ~  $790,000~3~1~House~1.0~701~97~$651,000~
+30 Sellbach Street, Weston ACT 2611 ~$1,699,000~5~3~House~5.0~547~N/A~$706,000~

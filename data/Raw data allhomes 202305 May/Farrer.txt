@@ -1,0 +1,14 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+9-11 Drevermann Street, Farrer ACT 2607 ~$565,000~2~2~Unit / Apartment~6.0~18200.0~N/A~N/A~
+190A Beasley Street, Farrer ACT 2607 ~$699,000~3~1~Townhouse~5.5~5030~N/A~$214,284~
+1 Aird Place, Farrer ACT 2607 ~$899,000~3~1~House~2.5~837~N/A~$783,000~
+9 Sutton Place, Farrer ACT 2607 ~$900,000~3~1~House~N/A~881~95~$761,000~
+21 Gluyas Street, Farrer ACT 2607 ~$1,050,000~4~2~House~0.5~1116~N/A~$761,000~
+27 Gluyas Street, Farrer ACT 2607 ~$1,099,000~4~2~House~1.0~795~169~$744,000~
+157 Lambrigg Street, Farrer ACT 2607 ~$1,125,000~4~1~House~1.5~933~149~$979,000~
+184 Beasley Street, Farrer ACT 2607 ~$1,149,000~4~2~House~2.0~1045~N/A~$761,000~
+17 Dookie Street, Farrer ACT 2607 ~$1199000~5~2~House~0.5~853~N/A~$834,000~
+7 Werribee Crescent, Farrer ACT 2607 ~$1,450,000~4~2~House~2.0~965~N/A~$834,000~
+10 Custance Street, Farrer ACT 2607 ~$1,495,000~4~3~House~1.5~766~184~$873,000~
+13 Moodie Street, Farrer ACT 2607 ~$1,500,000~4~2~House~2.0~724~235~$761,000~
+2/22 Pridham Street, Farrer ACT 2607 ~$1,600,000~5~3~House~4.5~800~N/A~N/A~

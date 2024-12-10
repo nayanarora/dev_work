@@ -1,0 +1,16 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+3/16 David Miller Crescent, Casey ACT 2913 ~$425,000~2~1~Apartment~5.0~N/A~N/A~$3,094,000~
+2/16 David Miller Crescent, Casey ACT 2913 ~$429,000~2~1~Unit / Apartment~6.0~N/A~N/A~$3,094,000~
+2/2 Keith Waller Rise, Casey ACT 2913 ~$565,000~2~1~House~6.0~N/A~102~N/A~
+2/6 Plimsoll Drive, Casey ACT 2913 ~$595,000~2~1~Townhouse~6.0~343~N/A~$475,000~
+26 Lambrick Lane, Casey ACT 2913 ~  $609,000~2~1~Townhouse~5.5~180~N/A~$353,000~
+6/2 McGovern Street, Casey ACT 2913 ~$690,000~3~2~Unit / Apartment~6.0~N/A~N/A~N/A~
+11/17 Pickup Close, Casey ACT 2913 ~$740,000~3~2~Townhouse~6.0~144~N/A~N/A~
+11/12 Maris King Street, Casey ACT 2913 ~$750,000~3~1~Townhouse~5.0~192~N/A~$2,319,000~
+6/106 Plimsoll Drive, Casey ACT 2913 ~$750,000~3~1~Townhouse~4.5~138~N/A~N/A~
+16 Neil Currie Street, Casey ACT 2913 ~ $819,000~4~2~Villa~6.0~240~N/A~$462,000~
+128 Plimsoll Drive, Casey ACT 2913 ~$950,000~4~3~House~5.0~677~N/A~$520,000~
+2 Powley Street, Casey ACT 2913 ~  $990,000~4~2~House~4.0~349~N/A~$488,000~
+(no street name provided), Casey ACT 2913 ~$1025000~4~2~House~4.5~486~231~$539,000~
+72 Wighton Terrace, Casey ACT 2913 ~$1,288,000~6~2~House~4.5~786~N/A~$682,000~
+109 Overall Avenue, Casey ACT 2913 ~$1,699,000~6~5~House~4.5~556~400~$554,000~

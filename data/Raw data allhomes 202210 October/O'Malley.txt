@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+Culgoa Circuit, O'Malley ACT 2606 ~$3,200,000~5~3~House~N/A~N/A~N/A~N/A~

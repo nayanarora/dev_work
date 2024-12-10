@@ -1,0 +1,21 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+9 /137 Blamey Crescent, Campbell ACT 2612 ~$375,000~1~1~Apartment~5.5~2830~N/A~$4,650,000~
+13/14 Chauvel Street, Campbell ACT 2612 ~$399,000~1~1~Apartment~2.5~3248~N/A~$4,500,000~
+4 /135 Blamey Crescent, Campbell ACT 2612 ~$399,000~1~1~Apartment~4.0~3793~N/A~$5,400,000~
+213/4 Anzac Park, Campbell ACT 2612 ~$499,000~1~1~Apartment~N/A~5705~N/A~N/A~
+84/44 Constitution Avenue, Campbell ACT 2612 ~$599,000~1~1~Apartment~6.0~N/A~N/A~N/A~
+92/44 Constitution Avenue, Parkes ACT 2600 ~$610,000~1~1~Unit / Apartment~6.0~12100.0~N/A~N/A~
+419/12 Provan Street, Campbell ACT 2612 ~  $650000~2~2~Apartment~6.0~7020~N/A~$15,375,000~
+321/2 Anzac Parade, Campbell ACT 2612 ~$710,000~2~2~Apartment~6.0~N/A~N/A~N/A~
+215/4 Anzac Parade, Campbell ACT 2612 ~$715,000~2~2~Apartment~6.0~N/A~N/A~N/A~
+G04/6 Provan Street, Campbell ACT 2612 ~$754000~2~2~Unit / Apartment~6.0~N/A~N/A~N/A~
+107/59 Constitution Avenue, Campbell ACT 2612 ~$820,000~2~2~Apartment~6.0~2382~N/A~$12,450,000~
+520/2 Anzac Park, Campbell ACT 2612 ~$1,195,000~3~2~Apartment~6.0~5705~N/A~N/A~
+212/44 Constitution Avenue, Campbell ACT 2612 ~$1,350,000~3~2~Unit / Apartment~6.0~N/A~N/A~N/A~
+4 /112 Blamey Crescent, Campbell ACT 2612 ~$1,640,000~3~1~Townhouse~6.0~345~N/A~N/A~
+49 Cobby Street, Campbell ACT 2612 ~$1,695,000 ~4~1~House~2.0~743~156~$1,185,000~
+1/28 Chauvel Street, Campbell ACT 2612 ~$1,850,000~3~2~Townhouse~6.0~194~N/A~N/A~
+3/130 Blamey Crescent, Campbell ACT 2612 ~$1,900,000~3~3~Townhouse~5.5~1000~N/A~$1,650,000~
+12 Rosenthal Street, Campbell ACT 2612 ~$1,999,000~5~2~House~1.0~755~N/A~$1,264,000~
+13 Glossop Crescent, Campbell ACT 2612 ~$2,100,000~5~3~House~3.5~664~N/A~$1,105,000~
+2 Holmes Crescent, Campbell ACT 2612 ~$3,000,000~5~1~House~4.0~1133~306~$1,399,000~

@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+5 Elsey Street, Hawker ACT 2614 ~$1,600,000~N/A~N/A~House and Land Package~N/A~1403~N/A~$823,000~

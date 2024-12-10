@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+1/26 Eungella Street, Duffy ACT 2611 ~$875,000~3~1~Townhouse~4.5~290~N/A~N/A~
+33 Eppalock Street, Duffy ACT 2611 ~Offers Over $975,000~4~2~House~2.5~804~204~$765,000~
+9 Cordeaux Street, Duffy ACT 2611 ~$1,190,000~4~2~House~2.0~691~N/A~$752,000~
+49 Somerset Street, Duffy ACT 2611 ~$1,980,000~6~4~House~4.5~801~353~$865,000~

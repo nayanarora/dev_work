@@ -1,0 +1,18 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+3/79 Crozier Circuit, Kambah ACT 2902 ~$600,000~2~1~Townhouse~N/A~124~N/A~N/A~
+21 Snodgrass Crescent, Kambah ACT 2902 ~$620,000~2~1~Retirement Village~N/A~36800.0~N/A~$6,300,000~
+84/25 Pinkerton Circuit -'Lakeview Gardens', Kambah ACT 2902 ~$639,000~3~2~Townhouse~1.5~343~N/A~N/A~
+19/69 Morrison Street, Kambah ACT 2902 ~$639,000~3~1~Townhouse~2.5~268~N/A~N/A~
+35A Livingston Avenue, Kambah ACT 2902 ~$740,000~3~1~Dual Occupancy~1.0~N/A~N/A~N/A~
+30 Lascelles Circuit, Kambah ACT 2902 ~$769,000~3~1~House~1.0~862~N/A~$524,000~
+21 Snodgrass Crescent, Kambah ACT 2902 ~$795,000~3~1~Retirement Village~N/A~36800.0~N/A~$6,300,000~
+35B Livingston Avenue, Kambah ACT 2902 ~$795,000~3~1~Dual Occupancy~6.0~775~N/A~$449,000~
+12 Maidment Place, Kambah ACT 2902 ~$849,000~3~2~House~2.0~841~163~$539,000~
+75 O'Halloran Circuit, Kambah ACT 2902 ~$850,000~4~1~House~1.5~771~N/A~$483,000~
+14 Finnerty Place, Kambah ACT 2902 ~  $899,000~4~2~House~1.0~873~161~$510,000~
+3 Moran Place, Kambah ACT 2902 ~$1,060,000~4~2~House~1.5~801~N/A~$537,000~
+8 Stieglitz Circuit, Kambah ACT 2902 ~$1,100,000~5~2~House~4.4~1162~N/A~$580,000~
+3 Rounsevell Street, Kambah ACT 2902 ~$1240000~3~3~Dual Occupancy~6.0~502~N/A~$700,000~
+14 James Scott Close, Kambah ACT 2902 ~$1,250,000~4~2~House~4.5~917~N/A~$623,000~
+10 Armytage Circuit, Kambah ACT 2902 ~$1,400,000~6~1~Dual Occupancy~6.0~1003~N/A~$582,000~
+10 Armytage Circuit, Kambah ACT 2902 ~$1,400,000~6~3~House~0.5~1003~215~$582,000~

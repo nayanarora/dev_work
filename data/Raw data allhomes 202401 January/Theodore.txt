@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+79 Freda Gibson Circuit, Theodore ACT 2905 ~$760,000~3~1~House~2.5~700~N/A~$420,000~
+10 Fairley Crescent, Theodore ACT 2905 ~$949,000~4~2~House~2.5~858~193~$500,000~
+44 Louis Loder Street, Theodore ACT 2905 ~$1,100,000~4~2~House~2.0~1226~N/A~$550,000~

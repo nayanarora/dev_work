@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+4/36 Petterd Street, Page ACT 2614 ~$539,999~2~1~Unit / Apartment~6.0~867~N/A~$78,650~
+8 Earle Place, Page ACT 2614 ~$619,950~3~1~Townhouse~5.0~148~104~N/A~
+12 Jevons Place, Page ACT 2614 ~$799,000~3~2~House~2.0~559~142~N/A~
+30 Carron Street, Page ACT 2614 ~$920,000 ~4~1~House~0.5~715~181~$586,000~
+3A Hillebrand Street, Page ACT 2614 ~$1,090,000~4~2~House~6.5~476~206~N/A~

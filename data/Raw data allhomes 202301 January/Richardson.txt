@@ -1,0 +1,7 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+12 Mack Street, Richardson ACT 2905 ~$710,000~3~1~House~4.0~510~85~$439,000~
+62 Chauncy Crescent, Richardson ACT 2905 ~$739,000~3~1~House~2.0~755~102~$469,000~
+10 Vidal Place, Richardson ACT 2905 ~$749,000~3~1~House~5.0~926~105~$460,000~
+5 Mack Street, Richardson ACT 2905 ~$770,000~3~2~House~1.0~352~121~$380,000~
+14 Baynton Street, Richardson ACT 2905 ~$779,000~3~1~House~1.5~809~121~$418,000~
+57 Prichard Circuit, Richardson ACT 2905 ~$835,000~4~1~House~1.5~786~120~$469,000~

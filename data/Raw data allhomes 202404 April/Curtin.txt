@@ -1,0 +1,12 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+65/3 Waddell Place, Curtin ACT 2605 ~$285,000 ~1~1~Unit / Apartment~4.5~13100.0~N/A~$11,780,000~
+11/143 Carruthers Street, Curtin ACT 2605 ~$399,000~2~1~Apartment~4.0~6417~N/A~$5,000,000~
+10/89 Allan Street, Curtin ACT 2605 ~$460,000~1~1~Unit / Apartment~6.0~990~N/A~$1,500,000~
+8/89 Allan Street, Curtin ACT 2605 ~$565,000~2~2~Unit / Apartment~6.0~990~N/A~$1,500,000~
+6 Mair Place, Curtin ACT 2605 ~$1,175,000~3~1~House~3.0~361~134~$816,000~
+3 Sladen Place, Curtin ACT 2605 ~$1,645,000 ~4~2~House~2.0~810~173~$932,000~
+47 McCormack Street, Curtin ACT 2605 ~$1,649,000~5~3~House~1.5~846~N/A~$1,000,000~
+13 Storey Street, Curtin ACT 2605 ~$1,650,000 ~5~2~House~6.0~724~269~$879,000~
+46 Dunstan Street, Curtin ACT 2605 ~$1,790,000 ~4~2~House~2.5~811~189~$870,000~
+4 Champ Place, Curtin ACT 2605 ~$1,975,000~4~2~House~4.0~649~215~$825,000~
+9 McPhee Place, Curtin ACT 2605 ~$2,595,000~4~2~House~6.0~669~224~$795,000~

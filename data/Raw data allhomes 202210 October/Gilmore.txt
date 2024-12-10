@@ -1,0 +1,3 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+23 Australie Close, Gilmore ACT 2905 ~$829,000~3~1~House~6.0~847~N/A~$449,000~
+33 Alice Jackson Crescent, Gilmore ACT 2905 ~Offers over $965,000~6~2~House~2.5~799~191~$395,000~

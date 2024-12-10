@@ -1,0 +1,9 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+36/24 Moore Street, Turner ACT 2612 ~$349,000~1~1~Apartment~1.0~N/A~43~$8,250,000~
+5/68 MacLeay Street, Turner ACT 2612 ~$425,000~1~1~Apartment~N/A~N/A~52~N/A~
+141/77 Northbourne Avenue, Turner ACT 2612 ~$440,000~1~1~Apartment~6.0~N/A~N/A~$11,250,000~
+3/20 Moore Street, Turner ACT 2612 ~$449,000~1~1~Apartment~6.0~N/A~69~$11,250,000~
+Hartley Street, Turner ACT 2612 ~$460000~1~1~Apartment~6.0~N/A~N/A~$781,000~
+27/219A Northbourne Avenue, Turner ACT 2612 ~Offers Over $450,000~1~1~Apartment~6.0~N/A~65~$8,060,000~
+124/12 David Street, Turner ACT 2612 ~Offers over $680,000~2~2~Apartment~5.0~N/A~N/A~$8,060,000~
+45/217 Northbourne Avenue, Turner ACT 2612 ~$779000~3~3~Apartment~6.0~N/A~N/A~$13,000,000~

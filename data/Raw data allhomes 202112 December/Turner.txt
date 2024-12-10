@@ -1,0 +1,10 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+5/68 MacLeay Street, Turner ACT 2612 ~$425,000~1~1~Apartment~N/A~N/A~52~N/A~
+6/77 Northbourne Avenue, Turner ACT 2612 ~Offers over $430,000~1~1~Apartment~6.0~N/A~N/A~N/A~
+25/219A Northbourne Avenue, Turner ACT 2612 ~$435,000~1~1~Apartment~6.0~N/A~N/A~N/A~
+14/18 Moore Street, Turner ACT 2612 ~$439,000~1~1~Apartment~6.0~N/A~65~N/A~
+14 Hartley Street, Turner ACT 2612 ~$460000~1~1~Apartment~6.0~813~N/A~$781,000~
+402/2 Masson Street, Turner ACT 2612 ~Offers over $630,000~2~2~Unit / Apartment~6.0~N/A~90~N/A~
+56/219a Northbourne Avenue, Turner ACT 2612 ~$649,000~2~2~Unit / Apartment~6.0~N/A~118~N/A~
+191/56 Forbes Street, Turner ACT 2612 ~$770,000~3~1~Apartment~5.0~N/A~119~N/A~
+41-43 Forbes Street, Turner ACT 2612 ~$1,190,000~3~2~Apartment~6.4~790~N/A~$980,000~

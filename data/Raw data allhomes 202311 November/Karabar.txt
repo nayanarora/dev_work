@@ -1,0 +1,12 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+1/37 Southbar Road, Karabar NSW 2620 ~$567500~2~1~Townhouse~N/A~1205~N/A~N/A~
+2/56 Emery Crescent, Karabar NSW 2620 ~$635,000 to $698,500~3~1~House~N/A~459~110~N/A~
+4/9 Parr Place, Karabar NSW 2620 ~$705000~3~2~Townhouse~N/A~1906~N/A~N/A~
+7 Southwell Place, Karabar NSW 2620 ~$709000~3~2~House~N/A~711~N/A~N/A~
+2 Yuruga Close, Karabar NSW 2620 ~$709000~3~1~House~N/A~636~N/A~N/A~
+18 Noonan Street, Karabar NSW 2620 ~$759000~3~1~House~N/A~651~N/A~N/A~
+12 Ullamulla Crescent, Karabar NSW 2620 ~$760,000~3~2~House~N/A~637~N/A~N/A~
+6 Caroline Place, Karabar NSW 2620 ~$874000~4~2~House~N/A~819~N/A~N/A~
+139 Barracks Flat Drive, Karabar NSW 2620 ~$985000~4~2~House~N/A~678~199~N/A~
+34 Currie Street, Karabar NSW 2620 ~$1,250,000~5~3~House~N/A~934~N/A~N/A~
+23 Hakea Street, Karabar NSW 2620 ~$2,395,000~4~2~House~N/A~2815~N/A~N/A~

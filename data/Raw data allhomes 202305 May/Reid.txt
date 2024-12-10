@@ -1,0 +1,22 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+302/81 Cooyong Street, Reid ACT 2612 ~  $399,900~1~1~Unit / Apartment~6.0~588~47~N/A~
+79/14 Boolee Street, Reid ACT 2612 ~$410,000~1~1~Apartment~4.0~10500.0~56~$103,972~
+43/14 Boolee Street, Reid ACT 2612 ~$410,000~1~1~Apartment~6.0~10500.0~N/A~$103,972~
+115/14 Boolee Street, Reid ACT 2612 ~$420,000~1~1~Apartment~6.0~10500.0~N/A~$103,972~
+219/83 Cooyong Street, Reid ACT 2612 ~  $449,000~1~1~Apartment~7.0~588~N/A~N/A~
+1106/81 Cooyong Street, Reid ACT 2612 ~$475,000 ~1~1~Apartment~6.0~10600.0~N/A~$46,970~
+G10/83 Cooyong Street, Reid ACT 2612 ~$490,000~1~1~Unit / Apartment~6.0~588~63~N/A~
+G13/83 Cooyong Street, Reid ACT 2612 ~$519,000~1~1~Apartment~6.0~10600.0~75~$46,970~
+110/83 Cooyong Street, Reid ACT 2612 ~  $575,000~2~2~Apartment~6.0~588~N/A~N/A~
+326/81 Cooyong Street, Reid ACT 2612 ~$599,900~2~2~Apartment~6.0~10600.0~76~$46,970~
+121/83 Cooyong Street, Reid ACT 2612 ~  $600,000~2~2~Apartment~6.0~588~70~N/A~
+621/81 Cooyong Street, Reid ACT 2612 ~$679,000~2~2~Apartment~6.0~10600.0~83~$46,970~
+201/1 Boolee Street, Reid ACT 2612 ~  $819,900~3~2~Unit / Apartment~6.0~10600.0~87~$46,970~
+Level 3/311/81 Cooyong Street, Reid ACT 2612 ~$878900~3~2~Apartment~5.0~N/A~93~N/A~
+302/1 Boolee Street, Reid ACT 2612 ~  $879,000~3~2~Unit / Apartment~6.0~10600.0~90~$46,970~
+211/81 Cooyong Street, Reid ACT 2612 ~$880,900~3~2~Apartment~6.0~10600.0~95~$46,970~
+629/81 Cooyong Street, Reid ACT 2612 ~$950,000~3~1~Apartment~5.6~10600.0~106~$46,970~
+Level 8/803/83 Cooyong Street, Reid ACT 2612 ~$990,000~3~2~Apartment~5.0~N/A~92~N/A~
+235/81 Cooyong Street, Reid ACT 2612 ~$1,000,000~3~2~Apartment~6.0~10600.0~N/A~$46,970~
+G11/83 Cooyong Street, Reid ACT 2612 ~$1,099,000~3~2~Apartment~5.0~10600.0~N/A~$46,970~
+6 Gooreen Street, Reid ACT 2612 ~$2,600,000~4~3~House~1.0~966~304~$1,450,000~

@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+9/153 Murranji Street, Hawker ACT 2614 ~$235,000~1~1~Unit / Apartment~0.5~5541~44~$149,160~
+21/8 Beetaloo Street, Hawker ACT 2614 ~  $390,000~2~1~Unit / Apartment~5.0~5519~N/A~$189,723~
+6/21 Jinka Street, Hawker ACT 2614 ~$675000~2~1~Townhouse~1.5~191~111~N/A~

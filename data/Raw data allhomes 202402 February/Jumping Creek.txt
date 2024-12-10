@@ -1,0 +1,14 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+LOT 1351, 28 Lonergan Drive, Jumping Creek NSW 2620 ~$495000~N/A~N/A~N/A~N/A~673~N/A~N/A~
+Lot 1302, 28 Lonergan Drive, Jumping Creek NSW 2620 ~$495,000~N/A~N/A~N/A~N/A~632~N/A~N/A~
+Stage 2B/28 Lonergan Drive, Jumping Creek NSW 2620 ~$495,000~N/A~N/A~N/A~N/A~633~N/A~N/A~
+28 Lonergan Drive, Jumping Creek NSW 2620 ~$512500~N/A~N/A~N/A~N/A~615~N/A~N/A~
+Lot 1350, Jumping Creek NSW 2620 ~$575,000~N/A~N/A~N/A~N/A~790~N/A~N/A~
+Lot 1352, Jumping Creek NSW 2620 ~$645,000~N/A~N/A~N/A~N/A~661~N/A~N/A~
+Jumping Creek - Block 1126 - Land Now Selling, Jumping Creek NSW 2620 ~$675,000~N/A~N/A~N/A~N/A~857~N/A~N/A~
+Lot 1102, Jumping Creek NSW 2620 ~$680,000~N/A~N/A~N/A~N/A~N/A~N/A~N/A~
+LOT 1324, 28 Lonergan Drive, Jumping Creek NSW 2620 ~$765000~N/A~N/A~N/A~N/A~831~N/A~N/A~
+LOT 1340, 28 Lonergran Drive, Jumping Creek NSW 2620 ~$784000~N/A~N/A~N/A~N/A~765~N/A~N/A~
+Jumping Creek - Lot 1204 - Gorgeous valley views on 866m2, Jumping Creek NSW 2620 ~$850,000~N/A~N/A~N/A~N/A~N/A~N/A~N/A~
+Jumping Creek - Lot 1209 - Stunning Ridgeline on 801m2, Jumping Creek NSW 2620 ~$900,000~N/A~N/A~N/A~N/A~N/A~N/A~N/A~
+Jumping Creek - Lot 1215 - Elevated 859m2 lot with stunning views, Jumping Creek NSW 2620 ~$1,075,000~N/A~N/A~N/A~N/A~N/A~N/A~N/A~

@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+8/39 Mornington Street, Amaroo ACT 2914 ~$795,000~3~1~Townhouse~4.5~378~136~N/A~
+64 Wanderer Court, Amaroo ACT 2914 ~$899,000~3~2~House~6.0~348~347~$453,000~
+(no street name provided), Amaroo ACT 2914 ~$995,000~4~2~House~4.0~700~155~$598,000~
+4 Mission Street, Amaroo ACT 2914 ~$1,300,000~5~3~House~4.0~653~390~$597,000~

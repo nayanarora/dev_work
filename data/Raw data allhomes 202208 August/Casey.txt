@@ -1,0 +1,13 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+40/16 David Miller Crescent, Casey ACT 2913 ~$449,777~2~2~Unit / Apartment~6.0~5281~100~$71,162~
+46 Whitrod Avenue, Casey ACT 2913 ~$599,000~2~2~House~6.0~4032~122~$117,000~
+24 Mick Shann Terrace, Casey ACT 2913 ~Offers over $675,000~3~1~Townhouse~6.0~247~N/A~$462,000~
+8/73 Dalkin Crescent, Casey ACT 2913 ~$795000~3~3~Townhouse~6.0~236~133~N/A~
+79 Rockwood Street, Casey ACT 2913 ~$780,000~3~2~House~5.0~240~120~$424,000~
+48 Neil Currie Street, Casey ACT 2913 ~$788,000~3~2~House~6.0~250~N/A~$424,000~
+29 Rockwood Street, Casey ACT 2913 ~$790,000~3~2~House~6.0~219~145~$399,000~
+114 Overall Avenue, Casey ACT 2913 ~$799,000~3~2~House~6.0~282~131~$445,000~
+69 Overall Avenue, Casey ACT 2913 ~$1,050,000~4~2~House~5.5~466~215~$517,000~
+17 Walter Crocker Crescent, Casey ACT 2913 ~$1,079,990~4~2~House~5.5~454~N/A~$508,000~
+9 Macandie Street, Casey ACT 2913 ~$1,129,000~4~2~House~4.0~465~184~$529,000~
+19 Edna Thompson Crescent, Casey ACT 2913 ~$1,475,000~6~3~House~5.0~604~N/A~$628,000~

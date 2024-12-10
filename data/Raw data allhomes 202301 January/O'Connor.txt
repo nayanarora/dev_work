@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+22/5 Verdon Street, O'Connor ACT 2602 ~$590,000 ~2~1~Unit / Apartment~6.0~2731~64~$161,700~
+11/2 Berrigan Crescent, O'Connor ACT 2602 ~$999,000~3~3~Townhouse~6.0~2552~121~$192,104~
+8 Pedder Street, O'Connor ACT 2602 ~$1,950,000~4~3~House~4.5~420~N/A~N/A~
+9 Yarrow Place, O'Connor ACT 2602 ~$2,590,000~6~2~House~0.5~1535~201~$1,760,000~

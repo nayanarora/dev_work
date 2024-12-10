@@ -1,0 +1,25 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+34/60 John Gorton Drive, Coombs ACT 2611 ~$435,000~2~1~Apartment~6.0~8044~87~$43,200~
+Del-Rey - 25/43 Arthur Blakeley Way, Coombs ACT 2611 ~$440,000~1~1~Apartment~7.7~N/A~N/A~N/A~
+Del-Rey - 65/43 Arthur Blakeley Way, Coombs ACT 2611 ~$450,000~1~1~Apartment~7.7~N/A~N/A~N/A~
+47/120 John Gorton Drive, Coombs ACT 2611 ~$535,000~2~2~Unit / Apartment~6.0~9283~N/A~$54,282~
+Telfer Street, Coombs ACT 2611 ~$599,900~2~2~Apartment~7.8~808~N/A~$697,000~
+Del-Rey - 87/43 Arthur Blakeley Way, Coombs ACT 2611 ~$620,000~2~2~Apartment~7.7~N/A~N/A~N/A~
+FORM - Brand New Large open plan living 2 bedroom, Coombs ACT 2611 ~$629,900~2~1~Other~8.0~N/A~N/A~N/A~
+FORM - Light filled, 2 bed, 2 bath, Coombs ACT 2611 ~$649,900~2~1~Other~8.0~N/A~128~N/A~
+88/2 Terry Connolly Street, Coombs ACT 2611 ~$650,000~2~2~Unit / Apartment~6.0~N/A~100~N/A~
+5/33 Arthur Blakeley Way, Coombs ACT 2611 ~$685,000~3~2~Townhouse~6.0~13200.0~114~N/A~
+FORM - 3 bedroom 2 bathroom with single car garage, Coombs ACT 2611 ~$699,900~3~1~Townhouse~7.9~N/A~118~N/A~
+FORM - 3 bedroom 2 bathroom with single car garage, Coombs ACT 2611 ~$699,900~3~1~Other~7.9~N/A~118~N/A~
+15/1 Calaby Street, Coombs ACT 2611 ~$735,000~3~2~Townhouse~5.0~4080~143~$71,940~
+33 Chanter Terrace, Coombs ACT 2611 ~$739,000~3~1~House~6.0~200~N/A~$304,000~
+FORM - 3 bedroom 2 bathroom with double car garage, Coombs ACT 2611 ~$749,900~3~1~Townhouse~7.7~N/A~134~N/A~
+40/18 Cornelius Street, Coombs ACT 2611 ~$749,900~3~2~Townhouse~6.0~142~99~N/A~
+22/21 Bakewell Street, Coombs ACT 2611 ~$750,000~3~2~Townhouse~6.0~14900.0~N/A~$78,300~
+2D Harold White Avenue, Coombs ACT 2611 ~$760,000~3~2~Townhouse~6.0~9829~123~$95,900~
+25/11 Castan Street, Coombs ACT 2611 ~$800,000~4~3~House~6.0~188~N/A~N/A~
+30/11 Castan Street, Coombs ACT 2611 ~$800,000~4~3~Townhouse~5.0~197~N/A~N/A~
+5A Woodberry Avenue, Coombs ACT 2611 ~$949,900~3~1~Townhouse~8.2~9303~224~N/A~
+FORM - Huge 3 bedroom townhome, Coombs ACT 2611 ~$949,900~3~1~Other~8.2~N/A~218~N/A~
+6 Willesee Rise, Coombs ACT 2611 ~$1,385,000~5~2~House~4.0~494~242~$572,000~
+(no street name provided), Coombs ACT 2611 ~$1,650,000~3~2~House~6.0~450~263~$586,000~

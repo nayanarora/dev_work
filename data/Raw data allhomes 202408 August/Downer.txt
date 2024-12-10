@@ -1,0 +1,3 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+3 Shirley Street, Downer ACT 2602 ~$1,195,000~3~1~House~0.5~712~N/A~$849,000~
+13 Banfield Street, Downer ACT 2602 ~$1,295,000~3~2~House~1.0~801~120~$892,000~

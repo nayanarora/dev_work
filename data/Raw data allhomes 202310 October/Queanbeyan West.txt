@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+1/4 Cassidy Street, Queanbeyan West NSW 2620 ~$605000~2~1~Townhouse~N/A~112~N/A~N/A~
+37 Gilmore Place, Queanbeyan West NSW 2620 ~$715000~3~1~House~N/A~746~97~N/A~
+34 Nimmitabel Street, Queanbeyan West NSW 2620 ~$825,000~3~2~House~N/A~719~180~N/A~
+4 Lee Place, Queanbeyan West NSW 2620 ~$969000~3~2~House~N/A~819~N/A~N/A~
+20 Bilkurra Street, Queanbeyan West NSW 2620 ~$1012000~4~2~House~N/A~796~238~N/A~

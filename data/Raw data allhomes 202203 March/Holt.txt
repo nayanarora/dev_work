@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+27/47-49 Lorraway Street, Holt ACT 2615 ~Offers Over $650,000~3~2~House~7.5~N/A~N/A~N/A~
+5 O'Dea Place, Holt ACT 2615 ~$765,000~3~1~House~2.0~254~104~$285,000~
+96A Spofforth Street, Holt ACT 2615 ~$780,000~4~2~House~6.0~N/A~N/A~$360,000~
+14 Mockridge Crescent, Holt ACT 2615 ~$899,000~4~1~House~0.5~689~N/A~$356,000~
+(no street name provided), Ginninderra Estate ACT 2615 ~$950,000~4~2~House and Land Package~6.0~604~230~N/A~

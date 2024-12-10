@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+6 Frew Close, Nicholls ACT 2913 ~$1,130,000~4~1~House~3.5~767~107~$717,000~
+40 Westbury Circuit, Nicholls ACT 2913 ~$1250000~4~2~House~3.5~777~204~$623,000~
+13 Lindwall Place, Nicholls ACT 2913 ~$1425000~5~2~House~6.0~835~262~$775,000~
+17 Fitzsimmons Street, Nicholls ACT 2913 ~Offers over $1,450,000~5~2~House~4.0~805~264~$921,000~
+19 Wendy Ey Place, Nicholls ACT 2913 ~$1,649,000~4~2~House~5.0~804~330~$673,000~

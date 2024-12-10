@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+9-11 Drevermann Street, Farrer ACT 2607 ~$565,000~2~2~Unit / Apartment~6.0~18200.0~N/A~N/A~
+157 Lambrigg Street, Farrer ACT 2607 ~$1,125,000~4~1~House~1.5~933~149~$920,000~
+16 Gluyas Street, Farrer ACT 2607 ~$1,190,000~4~2~House~0.5~941~195~$729,000~
+15 Roseworthy Crescent, Farrer ACT 2607 ~$1,450,000~4~2~House~2.5~1376~148~$954,000~
+104 Lambrigg Street, Farrer ACT 2607 ~  $1,499,000~5~3~House~1.5~1025~285~$818,000~

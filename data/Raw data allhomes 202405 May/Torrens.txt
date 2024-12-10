@@ -1,0 +1,3 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+17 Parsons Street, Torrens ACT 2607 ~$1,475,000~4~2~House~0.5~1066~N/A~$938,000~
+90 Beasley Street, Torrens ACT 2607 ~$1,565,000~4~2~House~6.0~552~190~N/A~

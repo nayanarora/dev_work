@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+34 Sue Geh Circuit, Nicholls ACT 2913 ~$1,699,000~5~2~House~4.5~816~380~$533,000~

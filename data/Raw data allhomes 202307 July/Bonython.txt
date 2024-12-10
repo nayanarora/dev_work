@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+51 Bardolph Street, Bonython ACT 2905 ~$639,000~3~1~House~3.5~382~93~N/A~
+13/70 Hurtle Avenue, Bonython ACT 2905 ~   $690,000~3~2~Unit / Apartment~6.0~5017~N/A~$3,600,000~
+6 Morice Place, Bonython ACT 2905 ~$950,000~4~2~House~4.0~659~N/A~$523,000~
+28 Mary Lee Street, Bonython ACT 2905 ~$1,000,000 to $1,050,000~4~2~House~4.0~475~211~$469,000~

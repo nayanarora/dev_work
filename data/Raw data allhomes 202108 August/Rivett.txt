@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+3 Wirilda Street, Rivett ACT 2611 ~$985,000~3~1~House~1.0~1010~100~$429,000~

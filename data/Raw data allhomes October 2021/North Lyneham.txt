@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+72D/58 Wattle Street, Lyneham ACT 2602 ~$380,000~2~1~Unit / Apartment~3.0~11200.000000000002~52~N/A~

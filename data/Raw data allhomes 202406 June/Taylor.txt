@@ -1,0 +1,51 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+(no street name provided), Taylor ACT 2913 ~$849500~4~2~House and Land Package~7.0~N/A~N/A~N/A~
+17/10 Margules Crescent, Taylor ACT 2913 ~$539,000~2~1~Townhouse~6.0~N/A~N/A~N/A~
+SkyHaus - Display Apartment Now Open, Taylor ACT 2913 ~$549,900~2~2~Apartment~6.0~N/A~N/A~N/A~
+25 Grenfell Avenue, Taylor ACT 2913 ~$579,000~2~2~Townhouse~6.0~95~N/A~N/A~
+49/119 Sutherland Crescent, Taylor ACT 2913 ~$585,000~2~2~Townhouse~6.0~8072~N/A~$6,400,000~
+9/2 Trevor Gibson Way, Taylor ACT 2913 ~$599,000~2~1~Townhouse~6.0~7667~N/A~$6,050,000~
+107 Sutherland Crescent, Taylor ACT 2913 ~$599,900~2~2~Townhouse~6.0~5845~N/A~$5,100,000~
+144 Skyhaus, Taylor ACT 2913 ~$625,000~2~2~Unit / Apartment~6.0~N/A~N/A~N/A~
+SkyHaus - Display Apartment Now Open, Taylor ACT 2913 ~$625,000~2~2~Other~7.0~N/A~N/A~N/A~
+SkyHaus - Display Apartment Now Open, Taylor ACT 2913 ~$625,000~2~2~Other~6.0~N/A~N/A~N/A~
+SkyHaus - Display Apartment Now Open, Taylor ACT 2913 ~$654,000~2~2~Other~6.0~N/A~N/A~N/A~
+22/20 Pumpurs Crescent, Taylor ACT 2913 ~$659,000~3~2~Townhouse~6.0~4267~N/A~$3,295,000~
+8/18 Shugg Street, Taylor ACT 2913 ~$668,000~3~2~Townhouse~6.0~5542~N/A~N/A~
+75 Skyhaus, Taylor ACT 2913 ~$670,000~3~2~Apartment~5.5~N/A~N/A~N/A~
+10/16 Ussher Street, Taylor ACT 2913 ~$709,000~3~2~Townhouse~6.0~N/A~N/A~N/A~
+SkyHaus - Display Apartment Now Open, Taylor ACT 2913 ~$715,000~2~2~Apartment~6.0~N/A~N/A~N/A~
+10/24 Shugg Street, Taylor ACT 2913 ~$719,000~2~1~Townhouse~7.1~N/A~N/A~N/A~
+7 Extra, Taylor ACT 2913 ~$720,000~3~2~Townhouse~6.5~N/A~N/A~N/A~
+SkyHaus - Display Apartment Now Open, Taylor ACT 2913 ~$764,000~2~2~Apartment~6.0~N/A~N/A~N/A~
+7/68 Corkery Crescent, Taylor ACT 2913 ~$779,000~3~2~Townhouse~6.0~5945~N/A~$4,255,000~
+SHINE - Limited time offer to buy off the plan and pay zero stamp duty, Taylor ACT 2913 ~$779,000~3~2~Townhouse~6.0~N/A~N/A~N/A~
+35/42 Briger Street, Taylor ACT 2913 ~$799,000~3~1~Townhouse~7.6~N/A~N/A~N/A~
+48 McCredie Street, Taylor ACT 2913 ~$829,000~3~2~House~6.0~250~N/A~N/A~
+1/6 Grenfell Avenue, Taylor ACT 2913 ~$849,000~4~2~Townhouse~5.5~4106~N/A~$2,580,000~
+66 Everist Street, Taylor ACT 2913 ~$849,000~4~2~House~6.0~198~N/A~$284,000~
+(no street name provided), Taylor ACT 2913 ~$865,000~4~2~House~6.0~250~150~N/A~
+(no street name provided), Taylor ACT 2913 ~From $897,000~3~2~House~6.0~250~N/A~$326,000~
+41 Corkery Crescent, Taylor ACT 2913 ~$899,000~4~2~House~6.0~317~154~$382,000~
+41 Devenish Street, Taylor ACT 2913 ~$919,000~4~1~House~6.0~250~157~$326,000~
+SHINE - Limited time offer to buy off the plan and pay zero stamp duty, Taylor ACT 2913 ~$925,000~4~3~Townhouse~6.0~N/A~N/A~N/A~
+3 Cobden Street, Taylor ACT 2913 ~$949000~3~3~House~6.0~249~165~$326,000~
+36 Esplin Street, Taylor ACT 2913 ~$980,000~4~1~House and Land Package~7.0~331~N/A~$418,000~
+13 Pegg Wilks Street, Taylor ACT 2913 ~$1,029,000~4~2~House~6.0~584~188~$569,000~
+5 Ambler View, Taylor ACT 2913 ~$1,179,000~4~2~House~6.0~574~259~$590,000~
+40 Romberg Way, Taylor ACT 2913 ~$1,199,000~4~3~House~6.0~572~N/A~$542,000~
+22 Ina Higgins Street, Taylor ACT 2913 ~$1,239,999~5~2~House~6.0~570~295~$563,000~
+8 Scorer Street, Taylor ACT 2913 ~$1,245,000 ~4~2~Other~6.0~471~N/A~$501,000~
+60 Vahland Street, Taylor ACT 2913 ~ $1,249,000~4~2~House~6.0~482~281~$521,000~
+16 Chadwick Street, Taylor ACT 2913 ~$1,250,000~5~3~House~6.0~499~N/A~$521,000~
+6 Spooner Street, Taylor ACT 2913 ~$1,250,000 Motivated Seller!~4~2~House~6.0~488~301~N/A~
+2 Harry Seidler Crescent, Taylor ACT 2913 ~ $1,270,000~5~3~House~6.0~437~278~$496,000~
+40 Sunnyman Street, Taylor ACT 2913 ~$1,290,000~4~3~House~6.0~552~N/A~$575,000~
+30 Ledgar Rise, Taylor ACT 2913 ~$1,379,000~4~3~House~7.0~550~322~$565,000~
+6 Bea Hutton Close, Taylor ACT 2913 ~$1,395,000~5~1~House and Land Package~7.1~540~N/A~N/A~
+4 Bolot Close, Taylor ACT 2913 ~$1,399,000~4~2~House~6.0~599~273~$582,000~
+(no street name provided), Taylor ACT 2913 ~$1,400,000~5~1~House and Land Package~6.0~570~N/A~$510,000~
+14 Don Gazzard View, Taylor ACT 2913 ~$1,449,000~5~4~House~6.0~713~N/A~$620,000~
+10 Gruzman View, Taylor ACT 2913 ~$1,450,000~4~3~House~5.5~622~216~$563,000~
+4 Lidbury Street, Taylor ACT 2913 ~$1,550,000~5~3~House~6.0~624~305~$577,000~
+65 Proudfoot Rise, Taylor ACT 2913 ~$1,650,000~5~3~House~5.5~680~347~$580,000~

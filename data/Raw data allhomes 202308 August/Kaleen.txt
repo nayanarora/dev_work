@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+60 Bingham Circuit, Kaleen ACT 2617 ~$800,000~3~1~House~1.5~862~102~$631,000~
+41 Nambucca Street, Kaleen ACT 2617 ~$800,000~3~2~House~1.5~644~113~$582,000~
+9 Kiewa Street, Kaleen ACT 2617 ~  $1,199,000~4~3~House~1.0~734~218~$695,000~
+33 Glenelg Street, Kaleen ACT 2617 ~$1,400,000~5~2~House~3.5~872~176~$619,000~

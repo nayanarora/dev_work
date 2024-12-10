@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+Wova 2210/2 Furzer Street, Phillip ACT 2606 ~$499,500~1~1~Apartment~5.0~N/A~N/A~N/A~

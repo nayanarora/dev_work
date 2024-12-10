@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+2 Cooney Court, Charnwood ACT 2615 ~$705000~3~1~House~1.5~887~112~$469,000~
+26 Garrad Court, Charnwood ACT 2615 ~$730,000~3~1~House~1.0~N/A~N/A~N/A~
+4 McDougall Street, Charnwood ACT 2615 ~$765000~3~1~House~1.0~613~N/A~$469,000~

@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+7/81 Kelleway Avenue, Nicholls ACT 2913 ~$839,000~3~2~Townhouse~4.0~373~198~N/A~
+6/21 Krantzcke Circuit, Nicholls ACT 2913 ~$925,000~4~2~Townhouse~4.0~292~219~N/A~
+28 Dooland Court, Nicholls ACT 2913 ~$1200000~4~2~House~4.0~692~225~$583,000~

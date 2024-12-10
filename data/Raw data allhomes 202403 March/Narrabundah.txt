@@ -1,0 +1,18 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+9/39 Jerrabomberra Avenue, Narrabundah ACT 2604 ~$425,000~1~1~Apartment~6.0~8994~N/A~$10,500,000~
+54/39 Jerrabomberra Avenue, Narrabundah ACT 2604 ~Offers Over $460,000~1~1~Unit / Apartment~4.0~8994~N/A~$10,500,000~
+10/51 Leahy Close, Narrabundah ACT 2604 ~$515,000~2~2~Apartment~5.5~3928~N/A~$5,200,000~
+21/51 Leahy Close, Narrabundah ACT 2604 ~$665,000~3~2~Apartment~6.0~3928~N/A~$5,200,000~
+66/44 Jerrabomberra Avenue, Narrabundah ACT 2604 ~$675,000~3~2~Apartment~1.0~13899.999999999998~N/A~$14,700,000~
+21/44 Jerrabomberra Avenue, Narrabundah ACT 2604 ~$687,500~3~2~Apartment~3.0~13899.999999999998~N/A~$14,700,000~
+6/27 Leahy Close, Narrabundah ACT 2604 ~$695,000~3~2~Apartment~5.0~4864~N/A~$5,400,000~
+67/39 McIntyre Street, Narrabundah ACT 2604 ~$695,000~2~2~Apartment~6.0~N/A~N/A~N/A~
+10/50 Leahy Close, Narrabundah ACT 2604 ~$700,000~3~2~Apartment~2.0~2191~N/A~$2,800,000~
+127/39 McIntyre Street, Narrabundah ACT 2604 ~$729,000~2~2~Apartment~6.0~13799.999999999998~N/A~$20,600,000~
+18/49 Leahy Close, Narrabundah ACT 2604 ~$749,000~3~2~Townhouse~4.0~2889~N/A~$4,700,000~
+23/39 McIntyre Street, Narrabundah ACT 2604 ~$759,000~2~2~Apartment~6.0~13799.999999999998~N/A~$20,600,000~
+96/39 McIntyre Street, Narrabundah ACT 2604 ~$770,000~2~2~Apartment~6.0~13799.999999999998~N/A~$20,600,000~
+109/39 McIntyre Street, Narrabundah ACT 2604 ~$810000~2~2~Apartment~6.0~13799.999999999998~N/A~$20,600,000~
+25 Keira Street, Narrabundah ACT 2604 ~$1,150,000~3~2~Townhouse~5.0~145~N/A~N/A~
+8B Lumeah Street, Narrabundah ACT 2604 ~$1,495,000~4~3~Townhouse~5.5~2834~N/A~N/A~
+29 Carnegie Crescent, Narrabundah ACT 2604 ~$1,595,000~4~2~House~0.0~650~N/A~$950,000~

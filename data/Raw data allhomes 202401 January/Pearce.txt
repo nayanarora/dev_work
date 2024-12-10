@@ -1,0 +1,7 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+10/78 Hodgson Crescent, Pearce ACT 2607 ~$380,000~2~1~Apartment~4.5~3982~N/A~$3,000,000~
+4/7 McGee Place, Pearce ACT 2607 ~$399,000~2~1~Apartment~2.5~1680~N/A~$1,800,000~
+11/3 Shepherd Street, Pearce ACT 2607 ~$755,000~3~2~Townhouse~3.5~158~N/A~N/A~
+2 Collings Street, Pearce ACT 2607 ~$1,149,000~4~1~House~1.0~870~141~$760,000~
+32B Hodgson Crescent, Pearce ACT 2607 ~$1,370,000~4~3~Townhouse~6.0~779~N/A~$707,000~
+14 McNamara Street, Pearce ACT 2607 ~$2225000~4~3~House~4.5~465~231~$463,000~

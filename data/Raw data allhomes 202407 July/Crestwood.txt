@@ -1,0 +1,21 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+14/124 Henderson Road, Crestwood NSW 2620 ~$209500~1~1~Unit / Apartment~N/A~N/A~N/A~N/A~
+11/70 Uriarra Road, Crestwood NSW 2620 ~$240000~1~1~Unit / Apartment~N/A~N/A~N/A~N/A~
+23/10 Arthur Street, Crestwood NSW 2620 ~$239,900~1~1~Apartment~N/A~N/A~N/A~N/A~
+6/22 Blackall Avenue, Crestwood NSW 2620 ~$310000~2~1~Unit / Apartment~N/A~N/A~N/A~N/A~
+3/126 Henderson Road, Crestwood NSW 2620 ~$324500~2~1~Unit / Apartment~N/A~N/A~N/A~N/A~
+20/9 Crest Road, Crestwood NSW 2620 ~$334000~2~1~Unit / Apartment~N/A~N/A~N/A~N/A~
+13B/17 Uriarra Road, Crestwood NSW 2620 ~$335,000~1~1~Apartment~N/A~N/A~N/A~N/A~
+17/161 Uriarra Road, Crestwood NSW 2620 ~$355000~1~1~Apartment~N/A~N/A~N/A~N/A~
+Unit 19/6 King Street, Crestwood NSW 2620 ~$350,000~2~1~Unit / Apartment~N/A~N/A~N/A~N/A~
+7/9 Crest Road, Crestwood NSW 2620 ~$360000~2~1~Unit / Apartment~N/A~N/A~N/A~N/A~
+4/11 Crest Road, Crestwood NSW 2620 ~$360000~2~1~Unit / Apartment~N/A~N/A~N/A~N/A~
+1/74 Uriarra Road, Crestwood NSW 2620 ~$649,000~3~2~Townhouse~N/A~1072~N/A~N/A~
+McKeahnie Gardens - Townhouse 2, Crestwood NSW 2620 ~$789,000~3~2~Townhouse~N/A~1054~N/A~N/A~
+McKeahnie Gardens - Townhouse 1, Crestwood NSW 2620 ~$809,000~3~2~Townhouse~N/A~1054~N/A~N/A~
+McKeahnie Gardens - Townhouse 9, Crestwood NSW 2620 ~$829,000~3~2~Townhouse~N/A~1054~N/A~N/A~
+McKeahnie Gardens - Townhouse 10, Crestwood NSW 2620 ~$839,000~3~2~Townhouse~N/A~1054~N/A~N/A~
+McKeahnie Gardens - Townhouse 7, Crestwood NSW 2620 ~$849,000~3~2~Other~N/A~1054~N/A~N/A~
+19 Early Street, Crestwood NSW 2620 ~$870,000~3~1~House~N/A~759~N/A~N/A~
+McKeahnie Gardens - Townhouse 8, Crestwood NSW 2620 ~$899,000~4~3~Townhouse~N/A~1054~N/A~N/A~
+9 Camellia Place, Crestwood NSW 2620 ~$982000~4~2~House~N/A~746~N/A~N/A~

@@ -1,0 +1,3 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+1/150 Belconnen Way, Scullin ACT 2614 ~$749,000~2~2~Townhouse~6.5~979~N/A~$800,000~
+24 Duigan Street, Scullin ACT 2614 ~Offers Over $900,000~3~2~Duplex~3.0~688~N/A~$499,000~

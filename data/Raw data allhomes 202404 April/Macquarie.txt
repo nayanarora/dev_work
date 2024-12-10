@@ -1,0 +1,10 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+4/21 Wiseman Street, Macquarie ACT 2614 ~$250,000~1~1~Apartment~6.0~2286~N/A~$2,420,000~
+25/21 Wiseman Street, Macquarie ACT 2614 ~$320,000~1~1~Apartment~6.0~2286~N/A~$2,420,000~
+42/119 Redfern Street, Macquarie ACT 2614 ~$380,000~1~1~Apartment~6.0~3412~N/A~$2,772,000~
+56/15 Bowman Street, Macquarie ACT 2614 ~$395,000 ~1~1~Apartment~6.0~3759~N/A~$5,250,000~
+6/15 Bowman Street, Macquarie ACT 2614 ~$645,000~2~2~Apartment~4.5~3759~N/A~$5,250,000~
+40/21 Wiseman Street, Macquarie ACT 2614 ~$690,000 Dual purpose opportunity~4~1~Apartment~3.5~2286~N/A~$2,420,000~
+43/15 Bowman Street, Macquarie ACT 2614 ~$760,000~3~2~Apartment~6.0~3759~N/A~$5,250,000~
+42A Arndell Street, Macquarie ACT 2614 ~$875,000~3~2~House~3.5~271~N/A~N/A~
+7/35 Lochbuy Street, Macquarie ACT 2614 ~$899,999~3~1~Townhouse~2.0~435~N/A~N/A~

@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+25/21 Wiseman Street, Macquarie ACT 2614 ~$270,000~1~1~Apartment~6.0~N/A~N/A~N/A~
+65/27 Wiseman Street, Macquarie ACT 2614 ~$349,000 ~1~1~Apartment~6.0~N/A~N/A~$2,650,000~
+51/4 Henshall Way, Macquarie ACT 2614 ~$0~1~1~House~6.0~9784~N/A~N/A~
+61/4 Henshall Way, Macquarie ACT 2614 ~$595,000~2~2~Apartment~6.0~N/A~N/A~N/A~
+6A Arndell Street, Macquarie ACT 2614 ~$899,000~3~2~Duplex~5.0~431~N/A~N/A~

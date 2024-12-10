@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+22/78 Pennington Crescent, Calwell ACT 2905 ~Offers above $580,000~2~1~Townhouse~1.5~N/A~92~N/A~
+24 Carpenter Close, Calwell ACT 2905 ~Offers Over $749,000~3~1~House~3.5~540~103~$335,000~
+58 Costello Circuit, Calwell ACT 2905 ~$950,000~4~2~House~2.0~N/A~157~$360,000~
+47 Fidge Street, Calwell ACT 2905 ~Offers over $950,000~4~2~House~2.5~923~N/A~$368,000~

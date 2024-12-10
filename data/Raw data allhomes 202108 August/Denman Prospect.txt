@@ -1,0 +1,23 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+Natura - Apartment I73, Denman Prospect ACT 2611 ~$299,000~1~1~Apartment~6.0~N/A~56~N/A~
+(no street name provided), Denman Prospect ACT 2611 ~$401250~4~1~House and Land Package~6.0~N/A~N/A~N/A~
+Essential - 1 Bedroom Courtyard Apartment, Denman Prospect ACT 2611 ~$330,000~1~1~Apartment~6.0~N/A~50~N/A~
+Limited Edition Denman - 1 bed 1 bath 1 car apartment, Denman Prospect ACT 2611 ~$350,000~1~1~Apartment~7.0~N/A~N/A~N/A~
+Limited Edition Denman - 2 beds 1 bath 1 car apartment, Denman Prospect ACT 2611 ~$365,000~2~1~Apartment~7.0~N/A~N/A~N/A~
+Limited Edition Denman - 2 beds 1 bath 2 cars apartment, Denman Prospect ACT 2611 ~$410,000~2~1~Apartment~7.0~N/A~N/A~N/A~
+Limited Edition Denman - 2 beds 2 baths 2 cars apartment, Denman Prospect ACT 2611 ~$450,000~2~2~Apartment~7.0~N/A~N/A~N/A~
+HighGround - 2 Bedroom Apartment, Denman Prospect ACT 2611 ~$540,000~2~2~Other~6.0~N/A~N/A~N/A~
+(no street name provided), Denman Prospect ACT 2611 ~$615,800~4~2~Other~6.5~N/A~N/A~$510,000~
+Limited Edition Denman - 3 beds 2.5 baths 3 car garage townhouse, Denman Prospect ACT 2611 ~$750,000~3~2~Townhouse~7.0~N/A~N/A~N/A~
+Limited Edition Denman - 4 beds 2.5 baths 2 car garage townhouse, Denman Prospect ACT 2611 ~$800,000~4~2~Townhouse~7.0~N/A~N/A~N/A~
+Bacon Street, Denman Prospect ACT 2611 ~$869,900~4~2~House and Land Package~7.0~573~210~$470,000~
+51 Leontine Loop, Denman Prospect ACT 2611 ~$930000~4~2~House~6.0~240~220~N/A~
+Altura - Type D - Premium Position 4 Bedroom, Denman Prospect ACT 2611 ~$929,000~4~2~Townhouse~6.0~N/A~245~N/A~
+Altura - Large scale 4 Bed + Study/Nursery, Denman Prospect ACT 2611 ~$949,900~4~2~Townhouse~6.0~N/A~N/A~N/A~
+Block SS Section 40, Denman Prospect ACT 2611 ~$1,099,900~4~3~Other~6.0~N/A~N/A~N/A~
+(no street name provided), Denman Prospect ACT 2611 ~$1175000~4~2~House and Land Package~N/A~N/A~N/A~$520,000~
+4 Kallir Street, Denman Prospect ACT 2611 ~$1,255,000~4~1~House and Land Package~6.0~432~236~N/A~
+(no street name provided), Denman Prospect ACT 2611 ~$1,300,000~4~1~House and Land Package~6.0~521~253~N/A~
+Block Ff Section 40, Denman Prospect ACT 2611 ~$1,350,000~4~3~House~6.0~N/A~N/A~N/A~
+Block Ee Section 40, Denman Prospect ACT 2611 ~$1,350,000~4~3~House~6.0~N/A~N/A~N/A~
+Block AC Section 40, Denman Prospect ACT 2611 ~$1,499,900~4~3~House~6.0~480~N/A~N/A~

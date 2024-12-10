@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+18/27 Coxen Street, Hughes ACT 2605 ~Offers Over $330,000~1~1~Apartment~5.5~N/A~54~$14,500,000~
+29/27 Coxen Street, Hughes ACT 2605 ~$335,000 ~1~1~Unit / Apartment~3.0~N/A~N/A~$14,500,000~
+46 Kitchener Street, Hughes ACT 2605 ~$1,160,000~3~1~House~1.0~737~93~$537,000~

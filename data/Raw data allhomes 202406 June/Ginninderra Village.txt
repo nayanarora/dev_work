@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+30 Candlebark Close, Nicholls ACT 2913 ~$820,000~3~2~House~6.0~426~N/A~$558,000~
+19 Fleetwood Smith Street, Nicholls ACT 2913 ~$1,590,000~5~3~House~1.5~1115~N/A~$944,000~
+13 Pellew Street, Nicholls ACT 2913 ~$2,175,000~5~3~House~2.5~947~426~$847,000~

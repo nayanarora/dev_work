@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+66 Couchman Crescent, Chisholm ACT 2905 ~$785,000~3~1~House~2.0~707~N/A~$448,000~
+18 Truganini Place, Chisholm ACT 2905 ~$800,000~3~1~House~1.5~880~N/A~$441,000~
+9 Pidgeon Place, Chisholm ACT 2905 ~$950,000~4~1~House~1.0~1334~N/A~$399,000~
+6 Southern Close, Chisholm ACT 2905 ~$975,000~4~1~House~4.0~838~N/A~$479,000~
+118 Heagney Crescent, Chisholm ACT 2905 ~$1,080,000~5~3~House~3.0~801~236~$479,000~

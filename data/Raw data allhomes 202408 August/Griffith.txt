@@ -1,0 +1,37 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+16/1 Oxley Street, Griffith ACT 2603 ~$439,000~1~1~Apartment~3.0~N/A~N/A~N/A~
+63/5 Hely Street, Griffith ACT 2603 ~$479,000~1~1~Apartment~6.0~N/A~N/A~$7,700,000~
+122/11 Giles Street, Griffith ACT 2603 ~$490,000~2~1~Apartment~6.0~N/A~N/A~N/A~
+55/18 Captain Cook Crescent, Griffith ACT 2603 ~$495,000~1~1~Apartment~6.0~N/A~N/A~$8,227,000~
+7/76 Leichhardt Street, Griffith ACT 2603 ~$555,000 First home buyer special!~2~1~Apartment~6.0~N/A~N/A~$6,700,000~
+59/9 Oxley Street, Griffith ACT 2603 ~$585,000~2~2~Apartment~6.0~N/A~N/A~$9,000,000~
+31/111 Canberra Avenue, Griffith ACT 2603 ~$599,000~2~2~Apartment~6.0~N/A~N/A~$4,500,000~
+110/10 Currie Crescent, Griffith ACT 2603 ~$599,000~2~1~Apartment~5.0~N/A~N/A~$8,600,000~
+Walter & Whitley - Generous One Bedroom with Courtyard Views, Griffith ACT 2603 ~$599,900~1~1~Apartment~6.5~N/A~N/A~N/A~
+Renaissance - 84/5 Light Street, Griffith ACT 2603 ~$599,900~1~1~Apartment~6.5~N/A~N/A~N/A~
+74/18 Leichhardt Street, Griffith ACT 2603 ~$629,000~2~1~Apartment~4.0~N/A~N/A~$16,600,000~
+402/107 Canberra Avenue, Griffith ACT 2603 ~$640,000~2~2~Unit / Apartment~6.0~N/A~N/A~$4,400,000~
+33/17 Captain Cook Crescent, Griffith ACT 2603 ~$649,990~2~1~Apartment~6.0~N/A~N/A~N/A~
+14/55 Stuart Street, Griffith ACT 2603 ~$650,000~2~2~Apartment~6.0~N/A~N/A~$3,000,000~
+Renaissance - 49/17 Captain Cook Crescent, Griffith ACT 2603 ~$679,900~2~1~Apartment~6.5~N/A~N/A~N/A~
+15/74 Leichhardt Street, Griffith ACT 2603 ~$699,000~2~2~Apartment~6.0~N/A~N/A~$6,500,000~
+3/111 Canberra Avenue, Griffith ACT 2603 ~Offers over $699,000~2~2~Unit / Apartment~6.0~N/A~N/A~$4,500,000~
+30/115 Canberra Avenue, Griffith ACT 2603 ~$740,000~2~2~Apartment~6.0~N/A~N/A~$4,900,000~
+13/115 Canberra Avenue, Griffith ACT 2603 ~$745,000 ~2~2~Townhouse~0.0~2275~N/A~$4,900,000~
+35/7 Light Street, Griffith ACT 2603 ~$820000~2~2~Apartment~6.0~N/A~N/A~$12,500,000~
+Renaissance - 71/5 Light Street Griffith, Griffith ACT 2603 ~$799,900~2~2~Apartment~6.5~N/A~N/A~N/A~
+Renaissance - 170/3 Light Street, Griffith ACT 2603 ~$819,900~2~2~Chalet~N/A~2641~N/A~N/A~
+50/111 Canberra Avenue, Griffith ACT 2603 ~$825,000 top floor 2 bedroom plus large study!~2~2~Apartment~6.0~N/A~N/A~$4,500,000~
+22/111 Canberra Avenue, Griffith ACT 2603 ~$829,000~3~2~Apartment~4.0~N/A~N/A~$4,500,000~
+Walter & Whitley - Functional Two Bedroom with Garden Views, Griffith ACT 2603 ~$849,900~2~2~Other~6.5~3621~N/A~N/A~
+Renaissance - 231/1 Light Street, Griffith ACT 2603 ~$869,900~2~2~Other~N/A~2641~N/A~N/A~
+52/18 Leichhardt Street, Griffith ACT 2603 ~$885,000~3~2~Apartment~6.0~N/A~N/A~$16,600,000~
+13/18 Austin Street, Griffith ACT 2603 ~$899,000~2~2~Apartment~6.0~N/A~N/A~$26,200,000~
+Walter & Whitley - Split Bedroom | West Aspect, Griffith ACT 2603 ~$919,900~2~2~Other~6.5~3621~N/A~N/A~
+Walter & Whitley - Two-bedroom, Two-bathroom Oasis, Griffith ACT 2603 ~$929,900~2~2~Other~6.5~3621~N/A~N/A~
+Renaissance - 228/1 Light Street, Griffith ACT 2603 ~$999,900~2~2~Other~N/A~2641~N/A~N/A~
+Walter & Whitley - Three Bedroom, Private and Portioned Living, Griffith ACT 2603 ~$1,439,900~3~2~Other~6.5~3621~N/A~N/A~
+Walter & Whitley - 3 Bedroom + MPR | North Facing, Griffith ACT 2603 ~$1,649,900~3~2~Other~6.5~3621~N/A~N/A~
+Walter & Whitley - Three Bedroom With Generous 132m2 Outdoor Area, Griffith ACT 2603 ~$1,649,900~3~2~Other~6.5~3621~N/A~N/A~
+Renaissance - 147/19 Captain Cook Crescent Griffith, Griffith ACT 2603 ~$1,649,900~3~2~Apartment~6.5~N/A~N/A~N/A~
+25 Barrallier Street, Griffith ACT 2603 ~$2,000,000~3~1~House~0.0~1333~N/A~$1,890,000~

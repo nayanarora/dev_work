@@ -1,0 +1,7 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+11/23 Heidelberg Street, Conder ACT 2906 ~$649,000~3~1~Townhouse~1.5~N/A~N/A~N/A~
+25/75 Box Hill Avenue, Conder ACT 2906 ~Offers over $680k~3~1~Townhouse~2.5~N/A~N/A~N/A~
+Unit 12/5 Florence Fuller Crescent, Conder ACT 2906 ~$840,000~3~2~Townhouse~4.5~N/A~N/A~N/A~
+1/1 Templestowe Avenue, Conder ACT 2906 ~$899,000~4~3~Townhouse~5.0~353~186~N/A~
+(no street name provided), Conder ACT 2906 ~$949,000~4~2~House~4.0~797~192~$394,000~
+19 Darebin Place, Conder ACT 2906 ~$950,000~5~2~House~2.5~742~N/A~$306,000~

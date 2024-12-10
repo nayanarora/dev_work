@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+8 Holtermann Place, Charnwood ACT 2615 ~$839,000~6~3~House~1.5~670~N/A~$405,000~

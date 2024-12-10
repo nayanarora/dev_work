@@ -1,0 +1,23 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+Metropol - 408/81 Cooyong Street, Reid ACT 2612 ~$389,900~1~1~Apartment~5.0~N/A~N/A~N/A~
+281/0 Cooyong Street, Reid ACT 2612 ~$395,000~1~1~Apartment~6.0~N/A~50~N/A~
+281/ Cooyong Street, Reid ACT 2612 ~$395,000~1~1~Unit / Apartment~6.0~N/A~N/A~N/A~
+283/1 Cooyong Street, Reid ACT 2612 ~$420,000~1~1~Apartment~5.0~N/A~56~N/A~
+G07/Metropol Cooyong Street, Reid ACT 2612 ~$429,000~1~1~Apartment~8.0~N/A~N/A~N/A~
+Unit 290 Cooyong Street, Reid ACT 2612 ~$445,000~1~1~Apartment~7.0~N/A~N/A~N/A~
+113/1 Cooyong Street, Reid ACT 2612 ~$449,000~1~1~Apartment~6.0~N/A~N/A~N/A~
+Metropol - 115/83 Cooyong Street, Reid ACT 2612 ~$454,900~1~1~Apartment~5.0~N/A~N/A~N/A~
+Unit 324 Cooyong Street, Reid ACT 2612 ~$455,000~1~1~Apartment~7.0~N/A~N/A~N/A~
+18/43 Constitution Avenue, Reid ACT 2612 ~$459,000~1~1~Apartment~6.0~N/A~73~N/A~
+Metropol - G18/81 Cooyong Street, Reid ACT 2612 ~$502,900~2~1~Apartment~5.0~N/A~N/A~N/A~
+Metropol - 209/81 Cooyong Street, Reid ACT 2612 ~$523,900~1~2~Apartment~5.0~N/A~N/A~N/A~
+310/15 Cooyong Street, Reid ACT 2612 ~$555,000~2~1~Apartment~6.4~N/A~N/A~N/A~
+525/15 Cooyong Street, Reid ACT 2612 ~$565,000~2~2~Unit / Apartment~5.8~N/A~N/A~N/A~
+226/15 Cooyong Street, Reid ACT 2612 ~$609000~2~2~Unit / Apartment~6.9~N/A~N/A~N/A~
+U321 Cooyong Street, Reid ACT 2612 ~$589,000 ~2~2~Apartment~6.0~N/A~72~N/A~
+818/2 Cooyong Street, Reid ACT 2612 ~$599,000~2~2~Apartment~6.0~N/A~N/A~N/A~
+905/15 Cooyong Street, Reid ACT 2612 ~$650,000~2~2~Unit / Apartment~6.0~N/A~71~N/A~
+40/1 Allambee Street, Reid ACT 2612 ~$750,000~3~2~Apartment~5.5~4649~N/A~N/A~
+Metropol - 111/1 Boolee Street, Reid ACT 2612 ~$753,900~3~2~Apartment~5.0~N/A~N/A~N/A~
+Metropol - G10/81 Cooyong Street, Reid ACT 2612 ~$908,900~3~2~Apartment~5.0~N/A~N/A~N/A~
+809 Metropol, Reid ACT 2612 ~$969,000~3~2~Apartment~8.0~N/A~95~N/A~

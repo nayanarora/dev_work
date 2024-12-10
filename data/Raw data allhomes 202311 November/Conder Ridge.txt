@@ -1,0 +1,9 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+11/6 Merri Place, Conder ACT 2906 ~$715,000~3~2~Townhouse~4.0~294~N/A~N/A~
+40 Charterisville Avenue, Conder ACT 2906 ~$900,000~4~1~House~3.0~704~N/A~$542,000~
+25 Templestowe Avenue, Conder ACT 2906 ~Offers Over $940,000~3~2~House~4.0~1532~N/A~$504,000~
+20 Russell Drysdale Crescent, Conder ACT 2906 ~Offers Over $949,000~4~2~House~2.0~780~160~$480,000~
+5 Montgomery Place, Conder ACT 2906 ~$950,000~5~2~House~4.5~658~189~$471,000~
+8 Muskett Place, Conder ACT 2906 ~$960,000~4~3~House~4.5~725~N/A~$488,000~
+75 Altson Circuit, Conder ACT 2906 ~$1025000~5~2~House~3.0~863~206~$416,000~
+6 Aldor Green, Conder ACT 2906 ~$1,100,000~5~2~House~4.5~900~N/A~$516,000~

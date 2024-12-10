@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+24/20 Bradfield Street, Downer ACT 2602 ~$635,000~2~2~Apartment~6.0~N/A~N/A~$4,920,000~
+26/16 Bradfield Street, Downer ACT 2602 ~$899,000~3~2~Apartment~6.0~N/A~N/A~$4,920,000~
+3 Shirley Street, Downer ACT 2602 ~$1,195,000~3~1~House~0.5~712~N/A~$849,000~
+76 Phillip Avenue, Downer ACT 2602 ~$1,290,000~4~2~House~3.0~514~N/A~$677,000~
+13 Banfield Street, Downer ACT 2602 ~$1325000~3~2~House~1.0~801~120~$892,000~

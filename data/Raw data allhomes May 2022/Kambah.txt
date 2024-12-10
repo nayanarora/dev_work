@@ -1,0 +1,10 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+21 Snodgrass Crescent, Kambah ACT 2902 ~$580,000~2~1~Retirement Village~N/A~N/A~N/A~$6,300,000~
+10/71 Morrison Street, Kambah ACT 2902 ~Offers Over $599,000~3~1~Townhouse~3.5~N/A~102~N/A~
+21 Snodgrass Crescent, Kambah ACT 2902 ~$735,000~3~1~Retirement Village~N/A~N/A~N/A~$6,300,000~
+51 McKillop Circuit, Kambah ACT 2902 ~$780,000~4~1~House~1.0~875~N/A~$410,000~
+19 Battersby Circuit, Kambah ACT 2902 ~$825,000~3~1~House~2.0~N/A~N/A~$431,000~
+11 Battersby Circuit, Kambah ACT 2902 ~$870,000~3~1~House~1.0~601~N/A~$359,000~
+20 Jamieson Crescent, Kambah ACT 2902 ~Offers over $935,000~3~1~House~3.0~716~127~$384,000~
+69 McKillop Circuit, Kambah ACT 2902 ~Offers over $1,000,000~4~2~House~4.5~740~163~$379,000~
+1 Faithfull Circuit, Kambah ACT 2902 ~$1,100,000~5~2~House~1.0~966~N/A~$431,000~

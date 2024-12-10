@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+11 Rolland Place, Flynn ACT 2615 ~$820,000~3~1~House~3.5~732~108~$505,000~
+47 Hedland Circuit, Flynn ACT 2615 ~$1,125,000~3~1~House~2.0~1049~109~$476,000~
+16 Companion Crescent, Flynn ACT 2615 ~$1,200,000~4~3~House~3.0~1133~280~$553,000~
+29 Crawford Crescent, Flynn ACT 2615 ~$1,395,000 ~4~2~House~3.5~732~280~$546,000~

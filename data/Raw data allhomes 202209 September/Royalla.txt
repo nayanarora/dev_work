@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+43 Fox Road, Royalla NSW 2620 ~$1,947,500~5~2~House~N/A~43300.0~351~N/A~
+85 Valley Drive, Royalla NSW 2620 ~$2,300,000~2~2~House~N/A~151100.0~N/A~N/A~
+182 Valley Drive, Royalla NSW 2620 ~$2,795,000~6~3~House~N/A~57500.0~N/A~N/A~
+11 Valley Drive, Royalla NSW 2620 ~$3,475,000~5~3~House~N/A~31400.0~N/A~N/A~

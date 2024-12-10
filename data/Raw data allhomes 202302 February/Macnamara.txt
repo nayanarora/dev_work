@@ -1,0 +1,9 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+1 Macnamara, Macnamara ACT 2615 ~$583950~N/A~N/A~House and Land Package~N/A~N/A~N/A~N/A~
+(no street name provided), Macnamara ACT 2615 ~$895,000~4~2~House and Land Package~N/A~391~206~N/A~
+(no street name provided), Macnamara ACT 2615 ~$1,030,000~4~2~House and Land Package~N/A~391~275~N/A~
+Block Z Section Bh, Macnamara ACT 2615 ~From $1,050,200~4~2~House~7.0~N/A~N/A~N/A~
+Block K Section Ae, Macnamara ACT 2615 ~$1,118,802~4~2~House and Land Package~7.0~504~216~N/A~
+Asimus Avenue, Macnamara ACT 2615 ~$1,255,500~4~1~House~7.0~548~253~N/A~
+(no street name provided), Macnamara ACT 2615 ~$1,378,000~4~1~House and Land Package~7.0~450~308~N/A~
+(no street name provided), Macnamara ACT 2615 ~$1,450,000~4~1~House and Land Package~7.0~613~317~N/A~

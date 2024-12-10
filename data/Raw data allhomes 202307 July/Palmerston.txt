@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+42 Mainwaring Rich Circuit, Palmerston ACT 2913 ~$685000~3~1~House~3.0~500~109~$443,000~
+11/15 Namadgi Circuit, Palmerston ACT 2913 ~$678,000~3~1~Townhouse~4.5~376~N/A~N/A~
+39 Namadgi Circuit, Palmerston ACT 2913 ~$729,000~3~1~House~1.0~411~147~$409,000~

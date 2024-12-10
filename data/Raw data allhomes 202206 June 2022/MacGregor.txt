@@ -1,0 +1,7 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+14 Hollows Circuit, MacGregor ACT 2615 ~$750,000~3~1~House~4.5~335~N/A~$261,000~
+12 John Holt Street, MacGregor ACT 2615 ~$750,000~3~1~House~6.0~N/A~N/A~$271,000~
+3 Boelke Place, MacGregor ACT 2615 ~$759,000~3~1~House~5.0~297~N/A~$252,000~
+24 Handcock Crescent, MacGregor ACT 2615 ~$949,000~4~2~House~1.5~N/A~N/A~$313,000~
+12 Fiaschi St, MacGregor ACT 2615 ~$1,020,000~4~1~House~1.0~N/A~N/A~N/A~
+22 Hayward Street, MacGregor ACT 2615 ~$1,050,000~5~2~House~2.5~903~193~$347,000~

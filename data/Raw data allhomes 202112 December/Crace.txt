@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+11/48 Abena Avenue, Crace ACT 2911 ~$560,000~2~2~Unit / Apartment~5.0~N/A~N/A~N/A~
+9/21 Samaria Street, Crace ACT 2911 ~$805000~3~1~House~6.0~N/A~N/A~N/A~
+156 Langtree Crescent, Crace ACT 2911 ~$1,170,000~4~2~House~5.0~620~N/A~$472,000~
+80 Samaria Street, Crace ACT 2911 ~$1,200,000~4~1~House~5.5~485~233~$419,000~
+7 Lanaba Street, Crace ACT 2911 ~$1,400,000~4~2~House~6.0~457~267~$399,000~

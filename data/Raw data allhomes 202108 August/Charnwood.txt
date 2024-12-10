@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+48/42 Lhotsky Street, Charnwood ACT 2615 ~$495,000~2~1~Townhouse~5.5~N/A~86~N/A~

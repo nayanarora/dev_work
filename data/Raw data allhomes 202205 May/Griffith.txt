@@ -1,0 +1,9 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+74/6-10 Eyre Street, Griffith ACT 2603 ~$375,000~1~1~Apartment~5.0~5010~65~N/A~
+35/18 Captain Cook Crescent, Griffith ACT 2603 ~$419,000~1~1~House~6.0~N/A~N/A~$8,227,000~
+29/1 Oxley Street, Griffith ACT 2603 ~$595,000~2~1~Apartment~3.5~3634~N/A~$8,690,000~
+38/5 Hely Street, Griffith ACT 2603 ~$639,000~2~2~Apartment~6.0~N/A~88~$6,300,000~
+(no street name provided), Griffith ACT 2603 ~$729,000~2~2~Apartment~4.5~N/A~N/A~$4,300,000~
+103/18 Austin Street, Griffith ACT 2603 ~$840000~2~2~Apartment~6.0~N/A~86~$21,000,000~
+96 Jansz Crescent, Griffith ACT 2603 ~$3,775,000~4~2~House~5.0~787~351~$1,053,000~
+12 Walker Crescent, Griffith ACT 2603 ~$4749000~4~3~House~6.0~N/A~N/A~$937,000~

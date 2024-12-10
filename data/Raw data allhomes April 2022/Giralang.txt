@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+8 Lupus Place, Giralang ACT 2617 ~  $919,000~4~1~House~1.0~985~126~$427,000~

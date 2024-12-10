@@ -1,0 +1,25 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+31/25 Pinkerton Circuit, Kambah ACT 2902 ~$550,000~2~1~Townhouse~3.5~163~89~N/A~
+8/25 Pinkerton Circuit, Kambah ACT 2902 ~$550,000~2~1~Townhouse~2.5~161~N/A~N/A~
+21 Snodgrass Crescent, Kambah ACT 2902 ~$580,000~2~1~Retirement Village~N/A~36800.0~N/A~$6,300,000~
+67 Castley Circuit, Kambah ACT 2902 ~$650,000~3~1~House~3.0~475~102~$340,000~
+74 Tepper Circuit, Kambah ACT 2902 ~$695,000~3~1~House~1.5~604~102~$487,000~
+12/49 Pinkerton Circuit, Kambah ACT 2902 ~Offers over $720,000~3~2~Townhouse~2.5~187~N/A~N/A~
+21 Snodgrass Crescent, Kambah ACT 2902 ~$735,000~3~1~Retirement Village~N/A~36800.0~N/A~$6,300,000~
+10 Broad Place, Kambah ACT 2902 ~$739,000~3~1~House~1.0~766~102~$512,000~
+1 Ind Place, Kambah ACT 2902 ~Offers over $790,000~4~2~House~1.5~722~N/A~$512,000~
+116 Bacchus Circuit, Kambah ACT 2902 ~$825000~3~1~House~1.0~1172~N/A~$545,000~
+81 Summerland Circuit, Kambah ACT 2902 ~$795,000~3~1~House~1.0~764~114~$399,000~
+74 Kingsmill Street, Kambah ACT 2902 ~$795,000~3~2~House~1.5~805~132~$510,000~
+7A Aitken Circuit, Kambah ACT 2902 ~$795,000~3~2~Townhouse~6.0~436~N/A~N/A~
+15 Buckley Circuit, Kambah ACT 2902 ~$800,000~3~2~House~N/A~762~150~$522,000~
+15 Forrest Place, Kambah ACT 2902 ~$810,000~3~1~House~3.5~1125~N/A~$559,000~
+12 Boustead Circuit, Kambah ACT 2902 ~$860,000~3~2~House~2.0~866~N/A~$562,000~
+12 Simon Place, Kambah ACT 2902 ~Offers above $895,000~3~2~House~2.0~766~N/A~$500,000~
+33/79-87 Crozier Circtui, Kambah ACT 2902 ~$900,000~4~2~House~3.5~N/A~127~N/A~
+32 Severne Crescent, Kambah ACT 2902 ~$900,000~4~1~House~2.5~936~N/A~$559,000~
+5 Connor Place, Kambah ACT 2902 ~$920,000~3~2~House~1.5~931~130~$510,000~
+13 Coglin Place, Kambah ACT 2902 ~$950,000~3~2~House~1.0~1289~149~$537,000~
+46 Maxworthy Street, Kambah ACT 2902 ~$980,000~4~1~House~2.0~779~N/A~$500,000~
+47 Ivo Whitton Circuit, Kambah ACT 2902 ~$1450000~5~2~House~4.5~890~227~$616,000~
+6 Clark Place, Kambah ACT 2902 ~$1,700,000~5~3~House~1.5~1089~316~$795,000~

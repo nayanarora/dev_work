@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+16/7 Sommers Street, Conder ACT 2906 ~$635000~3~1~Townhouse~2.5~N/A~N/A~N/A~
+21 Mentone View, Conder ACT 2906 ~$949,000~4~2~House~4.0~652~N/A~$471,000~
+29 Templestowe Avenue, Conder ACT 2906 ~$1025000~4~2~House~2.5~1651~N/A~$504,000~

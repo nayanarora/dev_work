@@ -1,0 +1,11 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+9/49 Hampton Circuit, Yarralumla ACT 2600 ~$929,900~3~2~Apartment~6.0~N/A~N/A~$3,000,000~
+9/7 Lane Poole Place, Yarralumla ACT 2600 ~$940,000~2~1~Townhouse~1.5~124~N/A~N/A~
+2/37 Novar Street, Yarralumla ACT 2600 ~$1,395,000~3~2~House~3.5~385~N/A~N/A~
+37 Turner Place, Yarralumla ACT 2600 ~$1,650,000~3~1~House~0.5~553~N/A~$1,549,000~
+19A Loftus Street, Yarralumla ACT 2600 ~$1687500~3~2~House~4.0~908~158~N/A~
+8 Deane Street, Yarralumla ACT 2600 ~$2199500~4~2~House~1.5~747~192~$1,880,000~
+5 Schomburgk Street, Yarralumla ACT 2600 ~$2,175,000 – $2,250,000~3~1~House~0.0~736~N/A~$1,794,000~
+13 Guilfoyle Street, Yarralumla ACT 2600 ~$3197500~5~3~House~5.5~904~347~$1,845,000~
+7 Arkana Street, Yarralumla ACT 2600 ~$3,495,000~4~3~House~2.0~1688~N/A~$2,500,000~
+4 Brown Street, Yarralumla ACT 2600 ~$4,995,000~5~4~House~3.5~760~N/A~$2,428,000~

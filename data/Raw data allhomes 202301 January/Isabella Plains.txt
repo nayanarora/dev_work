@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+13/18 Cromwell Circuit, Isabella Plains ACT 2905 ~$649,000~3~1~House~1.5~372~114~N/A~
+16 Jondol Place, Isabella Plains ACT 2905 ~$680000~3~1~Townhouse~1.5~302~102~N/A~
+27/23 Jondol Place, Isabella Plains ACT 2905 ~$730,000~3~1~Townhouse~3.0~522~127~N/A~
+36 Bandulla Street, Isabella Plains ACT 2905 ~$799,000 offers welcome~3~2~House~2.0~1068~122~$577,000~
+15 Hadleigh Circuit, Isabella Plains ACT 2905 ~$1,069,000~4~2~House~3.0~820~N/A~$534,000~

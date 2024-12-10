@@ -1,0 +1,12 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+90 Refshauge Crescent, MacGregor ACT 2615 ~$679,000~3~1~House~5.0~312~100~$350,000~
+14 Stang Place, MacGregor ACT 2615 ~$690,000~3~1~House~6.0~230~92~$291,000~
+1A Victor Chang Street, MacGregor ACT 2615 ~$695,000~2~1~House~6.0~329~84~$376,000~
+56 Refshauge Crescent, MacGregor ACT 2615 ~$707000~3~1~House~6.0~226~113~$291,000~
+16 Herring Place, MacGregor ACT 2615 ~$769,000~3~2~House~5.0~363~120~$376,000~
+52 John Holt Street, MacGregor ACT 2615 ~$779,000~3~1~House~6.0~374~151~$376,000~
+7 Stang Place, MacGregor ACT 2615 ~$790,000~3~2~House~5.0~391~186~$384,000~
+6 Bennie Street, MacGregor ACT 2615 ~$795,000~3~2~House~2.5~737~N/A~$325,000~
+29 Clyde Finlay Street, MacGregor ACT 2615 ~$799,000~3~1~House~4.5~450~100~$406,000~
+27 Berne Crescent, MacGregor ACT 2615 ~$950,000~4~2~House~N/A~812~158~$457,000~
+133 Eccles Circuit, MacGregor ACT 2615 ~$1,075,000~4~2~House~5.0~676~N/A~$518,000~

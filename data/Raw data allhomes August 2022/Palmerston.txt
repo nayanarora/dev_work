@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+4/30 Mainwaring Rich Circuit, Palmerston ACT 2913 ~$620,000~3~1~Apartment~4.0~270~140~N/A~
+5/85 Namadgi Circuit, Palmerston ACT 2913 ~$679,000~3~1~House~4.0~333~N/A~N/A~
+65 Weddin Circuit, Palmerston ACT 2913 ~$1,600,000 ~6~4~House~4.0~822~414~$661,000~

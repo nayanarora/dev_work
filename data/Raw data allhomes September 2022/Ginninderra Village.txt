@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+23 Rosella Street, Nicholls ACT 2913 ~$965,000~3~2~House~4.0~522~142~$580,000~
+66 Temperley Street, Nicholls ACT 2913 ~$1,500,000~4~2~House~4.5~897~N/A~$905,000~
+50 Sue Geh Circuit, Nicholls ACT 2913 ~$2,175,000~5~2~House~4.0~969~442~$830,000~

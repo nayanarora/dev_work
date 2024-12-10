@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+74/3 Nevertire Street, Lawson ACT 2617 ~$430,000~2~1~Apartment~6.0~9228~52~$84,000~
+8/17 Billabong Street, Lawson ACT 2617 ~$689,000~3~2~Townhouse~6.0~7026~N/A~$151,800~
+6/2 Rouseabout Street, Lawson ACT 2617 ~$750,000~3~2~Townhouse~6.0~162~162~N/A~

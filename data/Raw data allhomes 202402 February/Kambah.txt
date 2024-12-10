@@ -1,0 +1,26 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+Unit 18/25 Pinkerton Circuit, Kambah ACT 2902 ~$559,800~N/A~N/A~N/A~N/A~163~N/A~N/A~
+6/10 Vanzetti Crescent, Kambah ACT 2902 ~  $599,000~N/A~N/A~N/A~N/A~353~N/A~N/A~
+21 Snodgrass Crescent, Kambah ACT 2902 ~$625,000~N/A~N/A~N/A~N/A~36800.0~N/A~$6,300,000~
+4 Brimage Place, Kambah ACT 2902 ~  $750,000~N/A~N/A~N/A~N/A~900~N/A~$510,000~
+65 O'Halloran Circuit, Kambah ACT 2902 ~  $789,000~N/A~N/A~N/A~N/A~722~116~$483,000~
+48 Harrington Circuit, Kambah ACT 2902 ~$800,000~N/A~N/A~N/A~N/A~434~105~$393,000~
+168 Boddington Crescent, Kambah ACT 2902 ~$810,000~N/A~N/A~N/A~N/A~787~105~$453,000~
+21 Snodgrass Crescent, Kambah ACT 2902 ~$815,000~N/A~N/A~N/A~N/A~36800.0~N/A~$6,300,000~
+18 Armytage Circuit, Kambah ACT 2902 ~$830,000~N/A~N/A~N/A~N/A~821~N/A~$568,000~
+61 O'Halloran Circuit, Kambah ACT 2902 ~$830,000~N/A~N/A~N/A~N/A~677~124~$448,000~
+8 Bosworth Circuit, Kambah ACT 2902 ~$849,000~N/A~N/A~N/A~N/A~870~145~$506,000~
+1 McLeod Place, Kambah ACT 2902 ~$849,000~N/A~N/A~N/A~N/A~788~130~$453,000~
+9 Stieglitz Circuit, Kambah ACT 2902 ~$859,000~N/A~N/A~N/A~N/A~770~179~$498,000~
+67 O'Halloran Circuit, Kambah ACT 2902 ~$860,000~N/A~N/A~N/A~N/A~822~153~$485,000~
+5 McKillop Circuit, Kambah ACT 2902 ~$870,000~N/A~N/A~N/A~N/A~434~118~$640,000~
+11 Gleeson Place, Kambah ACT 2902 ~$920,000~N/A~N/A~N/A~N/A~670~N/A~$448,000~
+76B Learmonth Drive, Kambah ACT 2902 ~  $949,000~N/A~N/A~N/A~N/A~440~168~N/A~
+29 Faithfull Circuit, Kambah ACT 2902 ~$949,000~N/A~N/A~N/A~N/A~683~N/A~$472,000~
+32 Morant Circuit, Kambah ACT 2902 ~$950,000~N/A~N/A~N/A~N/A~954~152~$546,000~
+60 Vanzetti Crescent, Kambah ACT 2902 ~$950,000~N/A~N/A~N/A~N/A~631~145~$428,000~
+49 Gallagher Street, Kambah ACT 2902 ~  $960,000~N/A~N/A~N/A~N/A~819~184~$476,000~
+10 Coglin Place, Kambah ACT 2902 ~$1,050,000~N/A~N/A~N/A~N/A~1138~N/A~N/A~
+1/4 Kearne Place, Kambah ACT 2902 ~$1,100,000~N/A~N/A~N/A~N/A~894~N/A~$640,000~
+6 James Scott Close, Kambah ACT 2902 ~$1,495,000~N/A~N/A~N/A~N/A~1043~256~$623,000~
+123 Mt Vernon Drive, Kambah ACT 2902 ~$1,795,000~N/A~N/A~N/A~N/A~928~N/A~$725,000~

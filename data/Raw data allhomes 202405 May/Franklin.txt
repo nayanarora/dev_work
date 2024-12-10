@@ -1,0 +1,27 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+48/329 Flemington Road, Franklin ACT 2913 ~$370,000~1~1~Unit / Apartment~6.0~N/A~N/A~$3,312,000~
+100/311 Flemington Road, Franklin ACT 2913 ~$379,000~1~1~Apartment~6.0~N/A~N/A~$7,800,000~
+27/75 Elizabeth Jolley Crescent, Franklin ACT 2913 ~$415,000~1~1~Unit / Apartment~6.0~N/A~N/A~$2,650,000~
+76/311 Flemington Road, Franklin ACT 2913 ~$435,000~2~1~Apartment~6.0~N/A~N/A~$7,800,000~
+58/311 Flemington Road, Franklin ACT 2913 ~$448,000~2~1~Apartment~6.0~N/A~N/A~$7,800,000~
+46/235 Flemington Road Road, Franklin ACT 2913 ~$449,000~2~1~Apartment~6.0~N/A~N/A~N/A~
+65/75 Elizabeth Jolley Crescent, Franklin ACT 2913 ~$484000~2~2~Apartment~6.0~N/A~N/A~$2,650,000~
+24/2 Trist Street, Franklin ACT 2913 ~$500000~2~2~Apartment~6.0~N/A~N/A~$3,875,000~
+92/75 Elizabeth Jolley Crescent, Franklin ACT 2913 ~$485,000~2~2~Apartment~4.5~N/A~N/A~$2,650,000~
+77/275 Flemington Road, Franklin ACT 2913 ~$509,000~2~2~Apartment~6.0~N/A~N/A~$4,455,000~
+47/21 Christina Stead Street, Franklin ACT 2913 ~$542500~2~2~Apartment~5.5~N/A~N/A~$5,313,000~
+92/104 Henry Kendall Street, Franklin ACT 2913 ~$540,000~2~2~Apartment~6.0~N/A~N/A~$6,480,000~
+57/235 Flemington Road, Franklin ACT 2913 ~$549,999~3~2~Apartment~6.0~N/A~N/A~$4,500,000~
+23/233 Flemington Road, Franklin ACT 2913 ~$570,000~2~2~Townhouse~5.5~7611~N/A~$4,500,000~
+25/1 Christina Stead Street, Franklin ACT 2913 ~$599,000~3~2~Townhouse~4.5~7611~N/A~$4,500,000~
+87/235 Flemington Road, Franklin ACT 2913 ~$629,000~3~2~Townhouse~6.0~7611~N/A~$4,500,000~
+12/3 Trist Street, Franklin ACT 2913 ~$639,000~2~2~Townhouse~6.0~N/A~N/A~N/A~
+28/8 Henry Kendall Street, Franklin ACT 2913 ~  $700,000~3~3~House~6.0~94~N/A~N/A~
+1/74 Henry Kendall Street, Franklin ACT 2913 ~$719,000~3~2~Townhouse~5.0~N/A~N/A~N/A~
+12/40 Henry Kendall Street, Franklin ACT 2913 ~$735,000~3~3~Townhouse~4.0~93~N/A~N/A~
+21 MacLurcan Street, Franklin ACT 2913 ~$750,000~3~1~House~5.5~235~119~$401,000~
+45 Donald Horne Circuit, Franklin ACT 2913 ~$789,000~3~1~House~6.0~240~N/A~$319,000~
+6 Thiele Gardens, Franklin ACT 2913 ~$825,000~3~1~House~5.0~265~126~$279,000~
+44/8 Henry Kendall Street, Franklin ACT 2913 ~$875,000 ~4~3~Townhouse~5.5~148~N/A~N/A~
+19 Hesba Brinsmead Street, Franklin ACT 2913 ~$1,049,000~4~2~House~6.0~405~229~$496,000~
+8 Roxburgh Street, Franklin ACT 2913 ~$1,549,000~5~3~House~5.0~618~N/A~$698,000~

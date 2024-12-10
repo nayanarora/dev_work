@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+14 James Scott Close, Kambah ACT 2902 ~$1,250,000~4~2~House~4.5~917~N/A~$623,000~

@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+90 McInnes Street, Weston ACT 2611 ~$830,000~3~1~House~1.5~708~N/A~$650,000~
+16 Lycett Street, Weston ACT 2611 ~Offers Over $950,000~3~2~House~N/A~693~N/A~$543,000~
+5 Shore Place, Weston ACT 2611 ~$960,000~3~1~House~4.0~763~112~$638,000~
+47 Folingsby Street, Weston ACT 2611 ~$1,080,000 ~4~2~House~1.5~725~142~$569,000~
+10 Geoff Bardon Street, Weston ACT 2611 ~$1,550,000~4~3~House~5.0~600~253~$766,000~

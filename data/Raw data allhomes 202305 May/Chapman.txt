@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+75 Doyle Terrace, Chapman ACT 2611 ~$1,100,000~4~2~House~N/A~1265~202~$787,000~
+29 Rafferty Street, Chapman ACT 2611 ~$1,350,000~4~2~House~N/A~989~254~$772,000~
+26 Bertel Crescent, Chapman ACT 2611 ~$2,850,000~4~3~House~3.0~1145~550~$851,000~

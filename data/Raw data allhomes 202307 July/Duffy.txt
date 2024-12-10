@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+3/93 Burrinjuck Crescent, Duffy ACT 2611 ~$490,000~2~1~Apartment~6.0~1544~82~$119,040~
+16 Eungella Street, Duffy ACT 2611 ~$970,000~4~1~House~N/A~663~N/A~$706,000~
+1/5 Mokoan Place, Duffy ACT 2611 ~$1,199,000~4~2~Townhouse~7.0~416~209~N/A~

@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+5 Leggo Place, Dunlop ACT 2615 ~$820000~3~1~House~4.0~573~97~$327,000~

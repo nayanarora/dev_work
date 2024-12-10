@@ -1,0 +1,3 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+7 Webb Place, Weetangera ACT 2614 ~$1,150,000~4~2~House~1.5~961~125~$735,000~
+61 Belconnen Way, Weetangera ACT 2614 ~ $1,595,000~4~2~House~N/A~1342~N/A~$565,000~

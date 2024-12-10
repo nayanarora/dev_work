@@ -1,0 +1,24 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+47 McMillan Crescent, Griffith ACT 2603 ~$285,000~1~1~Apartment~1.0~N/A~40~$2,934,000~
+47 McMillan Crescent, Griffith ACT 2603 ~$285,000~1~1~Apartment~1.0~N/A~40~$2,934,000~
+47 McMillan Crescent, Griffith ACT 2603 ~$315,000~2~1~Apartment~2.0~N/A~N/A~$2,934,000~
+2/5 Hely Street, Griffith ACT 2603 ~$400,000~1~1~Apartment~6.0~N/A~77~N/A~
+12/53 McMillan Crescent, Griffith ACT 2603 ~$449,000~2~1~Unit / Apartment~6.0~4972~N/A~N/A~
+29/9 Dawes Street, Griffith ACT 2603 ~$499,000~2~1~Apartment~5.0~N/A~N/A~N/A~
+Renaissance - Unit 47, Griffith ACT 2603 ~$539,900~1~1~Other~7.0~N/A~66~N/A~
+33/6 Cunningham Street, Griffith ACT 2603 ~$549,000~1~1~Unit / Apartment~6.0~N/A~81~N/A~
+Renaissance - Apartment 68 | Under Construction, Griffith ACT 2603 ~$549,900~1~1~Apartment~6.3~N/A~79~N/A~
+4/115 Canberra Avenue, Griffith ACT 2603 ~$550,000~2~1~Apartment~6.0~2275~N/A~N/A~
+40/115 Canberra Avenue, Griffith ACT 2603 ~$550,000~2~2~Apartment~6.0~N/A~74~N/A~
+Illume - Construction Commenced | 1 bedroom + study apartment, Griffith ACT 2603 ~$580,900~1~1~Other~N/A~N/A~N/A~N/A~
+11/18 Austin Street, Griffith ACT 2603 ~$585,000~1~1~Apartment~6.0~N/A~84~N/A~
+Illume - Unit 17 | 1 Bedroom + Multipurpose Room Apartment, Griffith ACT 2603 ~$590,900~1~N/A~Apartment~6.0~N/A~79~N/A~
+107/10 Currie Crescent, Griffith ACT 2603 ~$599,000~2~1~Apartment~4.0~3586~86~N/A~
+Illume - Unit 20 | 2 Bedroom Apartment, Griffith ACT 2603 ~$815,900~2~1~Apartment~6.0~N/A~102~N/A~
+Illume - Unit 7 | Ground Floor 2 Bedroom Apartment, Griffith ACT 2603 ~$864,900~2~1~Apartment~6.0~N/A~172~N/A~
+Illume - Unit 2 | 2 Bedroom Apartment, Griffith ACT 2603 ~$890,900~2~1~Other~5.0~N/A~N/A~N/A~
+Renaissance - Apartment 22- 3 Bedroom | 2 car garage, Griffith ACT 2603 ~$1,299,900~3~1~Apartment~6.4~N/A~129~N/A~
+Illume - Unit 19 | 3 Bedroom Apartment, Griffith ACT 2603 ~$1,360,900~3~1~Apartment~6.0~N/A~N/A~N/A~
+LIFE - Residence 8, Griffith ACT 2603 ~$1,489,000~3~3~Apartment~N/A~N/A~N/A~$2,200,000~
+LIFE - Residence 6, Griffith ACT 2603 ~$1,649,000~3~3~Other~6.4~N/A~N/A~$2,200,000~
+31 Flinders Way, Griffith ACT 2603 ~$1,650,000~3~1~House~2.5~489~126~$492,000~

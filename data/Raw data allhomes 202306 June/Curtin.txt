@@ -1,0 +1,13 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+18/145 Carruthers Street, Curtin ACT 2605 ~$380,000 ~2~1~Unit / Apartment~3.5~6417~71~$175,000~
+47/3 Waddell Place, Curtin ACT 2605 ~$399,000 ~2~1~Townhouse~4.0~13100.0~N/A~$188,480~
+8/89 Allan Street, Curtin ACT 2605 ~$575,000~2~2~Unit / Apartment~6.0~990~78~$145,500~
+9 Cosgrove Street, Curtin ACT 2605 ~  $725,000~2~1~House~2.0~181~77~$591,000~
+19 Macalister Crescent, Curtin ACT 2605 ~$1,050,000~3~1~Duplex~1.0~642~N/A~$940,000~
+19 Carruthers Street, Curtin ACT 2605 ~$1,100,000 ~3~2~House~3.0~628~113~$692,000~
+95 Morgan Crescent, Curtin ACT 2605 ~$1,195,000~3~2~House~1.0~717~137~$1,049,000~
+1/28 Allan Street, Curtin ACT 2605 ~$1,650,000~3~2~Townhouse~6.0~N/A~N/A~N/A~
+16 Peacock Place, Curtin ACT 2605 ~$1,700,000 ~5~3~House~2.0~1210~219~$950,000~
+35 Colebatch Place, Curtin ACT 2605 ~$1,700,000~N/A~N/A~House~4.0~764~N/A~$918,000~
+14 Kidston Crescent, Curtin ACT 2605 ~$1,750,000~5~2~House~3.0~827~236~$1,087,000~
+13 Storey Street, Curtin ACT 2605 ~$1,800,000 ~5~2~House~6.0~724~269~$935,000~

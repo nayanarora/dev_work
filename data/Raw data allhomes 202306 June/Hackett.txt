@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+11/127 Rivett Street, Hackett ACT 2602 ~$319,000~1~1~Unit / Apartment~2.5~2416~40~$146,286~
+11/11 Tryon Street, Hackett ACT 2602 ~$365,000~2~1~Apartment~5.5~2225~52~$188,212~
+7 Mills Street, Hackett ACT 2602 ~$950,000~2~1~House~1.0~676~N/A~$825,000~
+312 Antill Street, Hackett ACT 2602 ~$1,335,000~4~1~House~1.5~860~160~$915,000~
+29 Selwyn Street, Hackett ACT 2602 ~$1,699,999~5~3~House~4.0~1047~210~$1,010,000~

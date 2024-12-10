@@ -1,0 +1,9 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+116/32 Blackall Street, Barton ACT 2600 ~$475,000 ~1~1~Unit / Apartment~6.0~N/A~N/A~$12,250,000~
+50/14 National Circuit, Barton ACT 2600 ~$790,000 ~2~2~Apartment~6.0~N/A~100~$18,000,000~
+158/46 Macquarie Street, Barton ACT 2600 ~$825,000~2~2~Apartment~6.0~N/A~N/A~$15,500,000~
+16/7 Sydney Avenue, Barton ACT 2600 ~$830,000~2~2~Apartment~6.0~N/A~N/A~N/A~
+19/7 Sydney Avenue, Barton ACT 2600 ~$880,000~2~2~Apartment~6.0~N/A~N/A~N/A~
+64/44 Macquarie Street, Barton ACT 2600 ~$895,000~2~2~Apartment~6.0~N/A~N/A~$15,500,000~
+17/41 Blackall Street, Barton ACT 2600 ~$1,250,000~3~2~Apartment~5.5~N/A~128~$70,000,000~
+14/11 Sydney Avenue, Barton ACT 2600 ~$1,395,000~3~2~Apartment~5.5~N/A~N/A~N/A~

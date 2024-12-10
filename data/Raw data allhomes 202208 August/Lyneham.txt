@@ -1,0 +1,18 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+118/1 Mouat Street, Lyneham ACT 2602 ~Offers over $409,000~1~1~Apartment~6.0~11200.000000000002~59~$51,870~
+263/1 Mouat Street, Lyneham ACT 2602 ~$419,000~1~1~Apartment~6.0~11200.000000000002~N/A~$51,870~
+73/1 Mouat Street, Lyneham ACT 2602 ~$419,000~1~1~House~6.0~11200.000000000002~N/A~$51,870~
+52/22 Archibald Street, Lyneham ACT 2602 ~$435,000~2~1~Apartment~2.0~16100.000000000002~N/A~$51,448~
+126/1 Mouat Street, Lyneham ACT 2602 ~$449,000 ~1~1~Apartment~6.0~11200.000000000002~99~$51,870~
+296/1 Mouat Street, Lyneham ACT 2602 ~$460,000~1~1~Apartment~6.0~11200.000000000002~69~$51,870~
+38/12 Oliver Street, Lyneham ACT 2602 ~$490,000~2~1~Apartment~5.0~2580~N/A~$168,560~
+3/20 De Burgh Street, Lyneham ACT 2602 ~Offers Over $499,000~2~1~Apartment~6.0~676~72~$142,200~
+56/1 Mouat Street, Lyneham ACT 2602 ~Offers over $570,000~2~1~Unit / Apartment~6.0~11200.000000000002~82~$51,870~
+3/7 Owen Crescent, Lyneham ACT 2602 ~$649,000~2~2~Unit / Apartment~N/A~715~N/A~$244,500~
+G/24 De Burgh Street, Lyneham ACT 2602 ~$679,000~2~2~Apartment~6.0~N/A~N/A~N/A~
+301/241 Northbourne Avenue, Lyneham ACT 2602 ~Offers over $690,000~2~2~Unit / Apartment~6.0~1740~99~$72,000~
+406/241 Northbourne Avenue, Lyneham ACT 2602 ~$700,000~2~2~Apartment~6.0~1740~99~$72,000~
+33/193 Mouat Street, Lyneham ACT 2602 ~$758,000~2~2~Unit / Apartment~6.0~N/A~95~N/A~
+15 Dorrit Black Crecent, Lyneham ACT 2602 ~$940,000~2~1~House~N/A~496~N/A~N/A~
+11 Fairweather Circuit, Lyneham ACT 2602 ~$999,000~3~1~House~0.5~500~N/A~$780,000~
+11 Medworth Crescent, Lyneham ACT 2602 ~$1,245,000~3~2~House~N/A~521~200~$813,000~

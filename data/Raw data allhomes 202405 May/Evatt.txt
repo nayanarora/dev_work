@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+14 Willis Street, Evatt ACT 2617 ~$1,095,000~4~2~House~4.0~723~N/A~$544,000~

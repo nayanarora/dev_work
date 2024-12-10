@@ -1,0 +1,11 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+14/39 Brigalow Street, O'Connor ACT 2602 ~$445000~2~1~Apartment~2.5~8465~N/A~$8,400,000~
+21/77 Macarthur Avenue, O'Connor ACT 2602 ~$450,000~1~1~Apartment~6.0~2106~N/A~$3,530,000~
+4/5 David Street, O'Connor ACT 2602 ~$900000~3~2~Townhouse~5.5~122~N/A~N/A~
+MADE - Unit 1, 31 Berrigan Street, O'Connor ACT 2602 ~$1,390,000~3~2~Townhouse~6.0~N/A~N/A~N/A~
+MADE - Unit 2, O'Connor ACT 2602 ~$1,390,000~3~2~Townhouse~6.0~N/A~N/A~N/A~
+9 Banjine Street, O'Connor ACT 2602 ~$1,400,000~3~2~House~N/A~658~N/A~$1,069,000~
+2/10A Lilley Street, O'Connor ACT 2602 ~$1,570,000~4~3~House~5.5~N/A~N/A~N/A~
+10 Scrivener Street, O'Connor ACT 2602 ~$2,100,000~5~2~House~4.0~643~N/A~$1,146,000~
+16 Banner Street, O'Connor ACT 2602 ~$2,400,000~4~2~House~6.0~845~282~$1,200,000~
+56/18 Correa Street, O'Connor ACT 2602 ~$339,00~1~1~Apartment~1.5~8465~N/A~$8,400,000~

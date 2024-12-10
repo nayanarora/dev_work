@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+2 Gladman Close, Isaacs ACT 2607 ~$950,000~3~2~Townhouse~1.0~632~N/A~N/A~
+1B Buntine Crescent, Isaacs ACT 2607 ~$975,000 Plus~4~2~House~1.0~458~N/A~$650,000~
+2/7 Broinowski Place, Isaacs ACT 2607 ~$1,350,000~4~2~House~2.5~880~N/A~N/A~
+20 Corrigan Place, Isaacs ACT 2607 ~$1,590,000~5~2~House~4.0~722~207~$970,000~
+14 Kaeppel Place, Isaacs ACT 2607 ~$1,695,000~4~2~House~1.0~773~N/A~$853,000~

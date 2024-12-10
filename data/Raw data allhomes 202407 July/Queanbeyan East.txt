@@ -1,0 +1,11 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+2/1 Mowatt Street, Queanbeyan East NSW 2620 ~$249000~1~1~Unit / Apartment~N/A~N/A~N/A~N/A~
+20/48 Trinculo Place, Queanbeyan East NSW 2620 ~$340,000~2~1~Unit / Apartment~N/A~N/A~N/A~N/A~
+20/6 High Street, Queanbeyan East NSW 2620 ~$445,000~2~1~Apartment~N/A~N/A~N/A~N/A~
+6/22 Bungendore Road, Queanbeyan East NSW 2620 ~$455,000~2~1~Townhouse~N/A~2519~N/A~N/A~
+29/12 Waniassa Street, Queanbeyan East NSW 2620 ~$519000~2~2~Apartment~N/A~N/A~N/A~N/A~
+1/17-23 Thurralilly Street, Queanbeyan East NSW 2620 ~$565000~2~1~Townhouse~N/A~4131~N/A~N/A~
+(no street name provided), Queanbeyan East NSW 2620 ~$585,000~2~2~Apartment~N/A~N/A~N/A~N/A~
+39 High Street, Queanbeyan East NSW 2620 ~$740000~3~1~House~N/A~613~N/A~N/A~
+(no street name provided), Queanbeyan East NSW 2620 ~$925000~4~2~House~N/A~503~N/A~N/A~
+1 & 2/39 Molonglo Street, Queanbeyan East NSW 2620 ~$1,150,000~4~2~Duplex~N/A~N/A~N/A~N/A~

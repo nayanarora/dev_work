@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+2 Banvard Place, Chapman ACT 2611 ~$1,150,000~4~2~House~6.0~791~N/A~$710,000~

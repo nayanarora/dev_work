@@ -1,0 +1,8 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+566 Cotter Road, Wright ACT 2611 ~$675,000~3~3~Apartment~5.5~N/A~120~$2,730,000~
+6/24 Truebridge St, Wright ACT 2611 ~$685,000~3~2~Townhouse~6.0~N/A~N/A~N/A~
+6/24 Truebridge Street, Wright ACT 2611 ~$685,000~3~2~Townhouse~6.0~5628~N/A~N/A~
+(no street name provided), Wright ACT 2611 ~$1037500~4~2~House~6.5~206~184~N/A~
+(no street name provided), Wright ACT 2611 ~$1375000~4~3~House and Land Package~6.0~580~300~$451,000~
+21 Ulysses Circuit, Wright ACT 2611 ~$1,395,000~4~2~House~5.0~442~183~$413,000~
+28 Catalano Street, Wright ACT 2611 ~$1,579,000~5~3~House~4.0~N/A~N/A~$463,000~

@@ -1,0 +1,10 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+58 Hibberd Crescent, Forde ACT 2914 ~  $729,000~3~2~Townhouse~6.0~171~148~$344,000~
+10 Ridding Street, Forde ACT 2914 ~$790,000~2~1~House~5.5~328~101~$475,000~
+16 Helen Leonard Crescent, Forde ACT 2914 ~$989000~4~2~House~5.0~325~150~$470,000~
+6 Allnutt Crescent, Forde ACT 2914 ~$1100000~4~2~House~4.5~352~247~$470,000~
+15 Francis Forde Boulevard, Forde ACT 2914 ~$1,150,000~3~2~House~4.0~330~230~$434,000~
+10 Ada Baker Street, Forde ACT 2914 ~$1,250,000~4~2~House~6.0~481~236~$591,000~
+4 Ivy Kent Street, Forde ACT 2914 ~$1,250,000~5~2~House~5.5~465~260~$592,000~
+6 Chiesa Street, Forde ACT 2914 ~$1,430,000~4~2~House~5.0~398~253~$550,000~
+15 Miljanovic Street, Forde ACT 2914 ~$1,699,000~5~2~House~6.0~618~N/A~$677,000~

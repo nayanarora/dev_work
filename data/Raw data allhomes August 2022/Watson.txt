@@ -1,0 +1,23 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+11A/111 Knox Street, Watson ACT 2602 ~$260,000~1~1~Apartment~N/A~4365~N/A~$121,170~
+2/113-115 Knox Street, Watson ACT 2602 ~$330,000~2~N/A~Apartment~1.5~1800~N/A~$154,710~
+Norrebro - Final stage - now selling, Watson ACT 2602 ~$349,900~1~1~Apartment~6.0~N/A~N/A~N/A~
+Norrebro - Final stage - now selling, Watson ACT 2602 ~$399,900~1~1~Other~6.0~N/A~N/A~N/A~
+32/20 Federal Highway, Watson ACT 2602 ~$519,000~2~2~Apartment~6.0~20500.0~N/A~$58,800~
+13/20 Federal Highway, Watson ACT 2602 ~$545,000~2~2~Apartment~5.0~20500.0~106~$58,800~
+10/20 Federal Highway, Watson ACT 2602 ~$0~2~2~Apartment~4.0~20500.0~N/A~$58,800~
+118/20 Federal Highway, Watson ACT 2602 ~$550,000~2~2~Apartment~6.0~20500.0~N/A~$58,800~
+Norrebro - Final stage - now selling, Watson ACT 2602 ~$559,900~2~2~Apartment~6.0~N/A~N/A~N/A~
+28/23 Aspinall Street, Watson ACT 2602 ~$560,000~2~2~Apartment~6.0~11700.0~N/A~$106,240~
+36/23 Aspinall Street, Watson ACT 2602 ~Offers over $570,000~2~2~Unit / Apartment~5.5~11700.0~88~$106,240~
+133/395 Antill Street, Watson ACT 2602 ~$600,000~2~2~Apartment~4.0~66100.0~N/A~N/A~
+Norrebro - Final stage - now selling, Watson ACT 2602 ~$639,900~3~2~Apartment~6.0~N/A~N/A~N/A~
+147/395 Antill Street, Watson ACT 2602 ~$697,000~2~1~Apartment~5.5~66100.0~N/A~N/A~
+32/14 Federal Highway, Watson ACT 2602 ~Offers over $750,000~3~2~Townhouse~4.0~166~120~N/A~
+D25 Norrebro, Watson ACT 2602 ~$800,000~2~2~Townhouse~7.0~N/A~N/A~N/A~
+104/215 Aspinall Street, Watson ACT 2602 ~$875,000~3~2~Apartment~6.0~66100.0~135~N/A~
+21a Negus Crescent, Watson ACT 2602 ~$890,000 ~3~2~Townhouse~6.5~1458~N/A~$169,200~
+94 Aspinall Street, Watson ACT 2602 ~$950,000~3~2~Townhouse~4.0~228~N/A~N/A~
+40/67 Negus Crescent, Watson ACT 2602 ~$1,100,000~4~3~Townhouse~5.0~268~N/A~N/A~
+16 McCawley Street, Watson ACT 2602 ~$1,275,000~3~1~House~1.0~776~N/A~$900,000~
+21 Wade Street, Watson ACT 2602 ~$1,500,000~4~2~House~2.0~771~139~$874,000~

@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+9 Timbarra Crescent, O'Malley ACT 2606 ~$2,500,000~4~2~House~2.5~2272~N/A~$1,627,000~
+12 Keyar Street, O'Malley ACT 2606 ~$3325000~5~4~House~4.5~1201~550~$1,228,000~
+11 Gerogery Place, O'Malley ACT 2606 ~$3,395,000~7~4~House~1.5~1576~748~$1,658,000~

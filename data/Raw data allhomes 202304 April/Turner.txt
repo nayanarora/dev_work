@@ -1,0 +1,10 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+65/217 Northbourne Avenue, Turner ACT 2612 ~$449,000~1~1~Apartment~6.0~5045~48~$62,400~
+111/12 David Street, Turner ACT 2612 ~$455,000~1~1~Apartment~6.0~5415~N/A~$69,440~
+60/217 Northbourne Avenue, Turner ACT 2612 ~$549,000~2~1~Apartment~6.0~5045~66~$62,400~
+16/50 Moore Street, Turner ACT 2612 ~  $640,000~2~2~Apartment~6.0~1868~N/A~$108,112~
+70/77 Northbourne Avenue, Turner ACT 2612 ~$699,000~2~2~House~6.0~6377~120~$52,762~
+5/54B Forbes Street, Turner ACT 2612 ~$720,000~3~2~Apartment~3.0~6786~114~$154,560~
+22A/52 Forbes Street, Turner ACT 2612 ~$749,000~3~2~Apartment~N/A~6786~N/A~$161,280~
+21/77 Northbourne Avenue, Turner ACT 2612 ~$749,000~3~2~Apartment~6.0~6377~N/A~$52,762~
+90 Boldrewood Street, Turner ACT 2612 ~$2,795,000~4~3~House~2.5~1449~N/A~$1,871,000~

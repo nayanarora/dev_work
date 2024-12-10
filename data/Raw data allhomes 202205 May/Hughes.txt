@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+14 Glasgow Street, Hughes ACT 2605 ~$2200000~4~2~House~3.0~746~258~$1,002,000~

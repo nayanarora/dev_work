@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+Unit 5/70 Hurtle Ave, Bonython ACT 2905 ~$830,000~4~2~Townhouse~6.0~5017~105~$223,200~
+16/48 Kingscote Crescent, Bonython ACT 2905 ~$849,000~4~1~Townhouse~3.5~441~N/A~N/A~
+6 Morice Place, Bonython ACT 2905 ~$950,000~4~2~House~4.0~659~N/A~$523,000~

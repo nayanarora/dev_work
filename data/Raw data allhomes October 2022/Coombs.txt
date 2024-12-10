@@ -1,0 +1,23 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+Del-Rey - 25/43 Arthur Blakeley Way, Coombs ACT 2611 ~$430,000~1~1~Apartment~7.7~N/A~N/A~N/A~
+8/120 John Gorton Drive, Coombs ACT 2611 ~$430,000~1~1~Apartment~6.0~9283~N/A~$54,282~
+79/20 Fairhall Street, Coombs ACT 2611 ~$439,000~2~1~Apartment~6.0~14900.0~N/A~$99,090~
+Del-Rey - 50/43 Arthur Blakeley Way, Coombs ACT 2611 ~$490,000~2~1~Apartment~7.4~N/A~N/A~N/A~
+47/120 John Gorton Drive, Coombs ACT 2611 ~$545,000~2~2~Unit / Apartment~6.0~9283~N/A~$54,282~
+Telfer Street, Coombs ACT 2611 ~$589,900~2~2~Apartment~7.8~808~N/A~$697,000~
+Del-Rey - 89/43 Arthur Blakeley Way, Coombs ACT 2611 ~$620,000~2~2~Apartment~7.7~N/A~N/A~N/A~
+FORM - Brand New Large open plan living 2 bedroom, Coombs ACT 2611 ~$649,900~2~1~Other~8.0~N/A~N/A~N/A~
+FORM - Light filled, 2 bed, 2 bath, Coombs ACT 2611 ~$679,900~2~1~Other~8.0~N/A~128~N/A~
+5/33 Arthur Blakeley Way, Coombs ACT 2611 ~$685,000~3~2~Townhouse~6.0~13200.0~114~N/A~
+33 Chanter Terrace, Coombs ACT 2611 ~$749,000~3~1~House~6.0~200~N/A~$304,000~
+FORM - 3 bedroom 2 bathroom with single car garage, Coombs ACT 2611 ~$749,900~3~1~Townhouse~7.9~N/A~118~N/A~
+40/18 Cornelius Street, Coombs ACT 2611 ~$749,900~3~2~Townhouse~6.0~142~99~N/A~
+22/21 Bakewell Street, Coombs ACT 2611 ~$750,000~3~2~Townhouse~6.0~14900.0~N/A~$78,300~
+20/1 Calaby Street, Coombs ACT 2611 ~$750,000~3~2~Townhouse~5.5~N/A~N/A~$71,940~
+2D Harold White Avenue, Coombs ACT 2611 ~$760,000~3~2~Townhouse~6.0~9829~123~$95,900~
+FORM - 3 bedroom 2 bathroom with double car garage, Coombs ACT 2611 ~$799,900~3~1~Townhouse~7.7~N/A~134~N/A~
+46/8 Ken Tribe Street, Coombs ACT 2611 ~$890,000~4~2~Townhouse~4.0~201~N/A~N/A~
+5A Woodberry Avenue, Coombs ACT 2611 ~$990,000~3~1~Townhouse~8.2~9303~224~N/A~
+FORM - Huge 3 bedroom townhome, Coombs ACT 2611 ~$990,000~3~1~Other~8.2~N/A~218~N/A~
+12 Engel Street, Coombs ACT 2611 ~$1,099,000~4~2~House~6.0~330~205~$470,000~
+54 Harold White Avenue, Coombs ACT 2611 ~$1,500,000~4~2~House~6.0~532~N/A~$586,000~

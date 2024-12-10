@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+14 Clancy Street, Evatt ACT 2617 ~$900,000~5~2~House~1.0~765~N/A~$594,000~

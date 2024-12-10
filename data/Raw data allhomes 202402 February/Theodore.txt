@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+79 Freda Gibson Circuit, Theodore ACT 2905 ~$765,000~N/A~N/A~N/A~N/A~700~193~$420,000~
+46 Scantlebury Crescent, Theodore ACT 2905 ~$798,000~N/A~N/A~N/A~N/A~771~189~$444,000~
+133 Chippindall Circuit, Theodore ACT 2905 ~  $839,000~N/A~N/A~N/A~N/A~880~165~$475,000~
+46 Vonwiller Crescent, Theodore ACT 2905 ~$959,000~N/A~N/A~N/A~N/A~762~N/A~$452,000~
+44 Louis Loder Street, Theodore ACT 2905 ~$1,100,000~N/A~N/A~N/A~N/A~1226~N/A~$550,000~

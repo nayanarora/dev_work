@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+21 Mentone View, Conder ACT 2906 ~$915,000~4~2~House~4.0~652~N/A~$471,000~

@@ -1,0 +1,19 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+C5/6 Irvine Street, Watson ACT 2602 ~$245,000~1~1~Apartment~1.5~N/A~N/A~N/A~
+7/62 Knox Street, Watson ACT 2602 ~$390,000~2~1~Unit / Apartment~0.0~1097~N/A~$1,600,000~
+G41/28 Beechworth Street, Watson ACT 2602 ~$440,000~1~1~Unit / Apartment~6.0~N/A~N/A~N/A~
+33/28 Beechworth Street, Watson ACT 2602 ~$450,000~1~1~Apartment~6.0~2773~N/A~$2,500,000~
+13/20 Federal Highway, Watson ACT 2602 ~$455,000~2~2~Apartment~5.0~20500.0~N/A~$8,400,000~
+11/20 Federal Highway, Watson ACT 2602 ~$460,000~2~2~Apartment~6.0~20500.0~N/A~$8,400,000~
+Norrebro - Unit 23, 1 Bunninyong Beechworth Street, Watson, Watson ACT 2602 ~$479,900~1~1~Unit / Apartment~6.0~N/A~N/A~N/A~
+132/395 Antill Street, Watson ACT 2602 ~$599,000~3~2~Apartment~4.0~66100.0~N/A~N/A~
+136/395 Antill Street, Watson ACT 2602 ~$610,000~2~2~Apartment~5.0~66100.0~N/A~N/A~
+A20/46 Aspinall Street, Watson ACT 2602 ~$619,000~2~2~Apartment~7.5~N/A~N/A~N/A~
+Norrebro - Unit 42, 1 Bunninyong Beechworth Street, Watson, Watson ACT 2602 ~$634,900~N/A~N/A~Unit / Apartment~6.0~N/A~N/A~N/A~
+54/67 Negus Crescent, Watson ACT 2602 ~$880,000~3~2~Townhouse~6.0~154~N/A~N/A~
+58/215 Aspinall Street, Watson ACT 2602 ~$915,000~3~2~Townhouse~5.5~66100.0~N/A~N/A~
+36 Kilduff Street, Watson ACT 2602 ~$1,150,000~3~2~House~6.0~375~161~$649,000~
+8 Simpson Street, Watson ACT 2602 ~$1,280,000~4~2~House~4.0~618~N/A~$825,000~
+19 Flos Greig Street, Watson ACT 2602 ~$1,295,000~4~2~House~5.5~580~N/A~$804,000~
+14 Mary Kitson Street, Watson ACT 2602 ~$1,315,000~4~2~House~4.5~453~N/A~$726,000~
+125 Knox Street, Watson ACT 2602 ~$1,349,000~4~2~House~3.5~726~N/A~$804,000~

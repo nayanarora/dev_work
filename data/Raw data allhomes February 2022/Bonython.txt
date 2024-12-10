@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+4/114 Barr Smith Avenue, Bonython ACT 2905 ~$699,000~3~2~Unit / Apartment~3.5~N/A~117~N/A~

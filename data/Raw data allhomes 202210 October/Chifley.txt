@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+60/17 Medley Street, Chifley ACT 2606 ~$320,000~1~1~Apartment~N/A~10700.0~65~$160,875~
+2/13 Renwick Street, Chifley ACT 2606 ~$1,050,000~4~2~Villa~5.0~603~202~N/A~
+Charteris Villas - Unit 5 Charteris Villas, Chifley ACT 2606 ~$1,240,000~3~2~Townhouse~6.0~1038~N/A~$950,000~
+Charteris Villas - Unit 4 Charteris Villas, Chifley ACT 2606 ~$1,390,000~4~2~Townhouse~6.0~1038~N/A~$950,000~
+Charteris Villas - Unit 2 Charteris Villas, Chifley ACT 2606 ~$1,550,000~4~2~Townhouse~6.0~1038~N/A~$950,000~

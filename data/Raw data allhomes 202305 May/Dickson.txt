@@ -1,0 +1,33 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+2/47 Majura Avenue, Dickson ACT 2602 ~$445,000~1~1~Apartment~6.0~1677~58~$156,160~
+Challis Street, Dickson ACT 2602 ~$455,000~1~1~Apartment~8.1~16299.999999999998~57~N/A~
+DKSN - 1 Bedroom Apartment | 211, Dickson ACT 2602 ~$455,800~1~1~Apartment~6.0~N/A~60~N/A~
+211/19 Challis Street, Dickson ACT 2602 ~ $465,000~1~1~Apartment~6.0~2691~N/A~N/A~
+Calypso - One Bedroom Apartment, Dickson ACT 2602 ~$485,000~1~1~Other~5.3~6020~N/A~N/A~
+DKSN - 1 Bedroom Apartment | 111, Dickson ACT 2602 ~$485,800~1~1~Apartment~6.0~N/A~65~N/A~
+DKSN - 1 Bedroom Apartment | U511, Dickson ACT 2602 ~$495,800~1~1~Other~6.0~N/A~58~N/A~
+G03/258 Northbourne Avenue, Dickson ACT 2602 ~$520,000~1~1~Apartment~6.0~N/A~78~N/A~
+DKSN - 1 Bedroom Apartment | 610, Dickson ACT 2602 ~$523,800~1~1~Apartment~6.0~N/A~66~N/A~
+305/8 Cape Street, Dickson ACT 2602 ~$599,999~2~2~Apartment~6.0~7282~N/A~$54,390~
+Northbourne Avenue, Dickson ACT 2602 ~$640,000~2~2~Apartment~6.0~5619~81~N/A~
+A203 Kashmir, Dickson ACT 2602 ~$649,000~2~2~Apartment~7.0~N/A~81~N/A~
+Northbourne Avenue, Dickson ACT 2602 ~$650,000~2~2~Apartment~6.0~5619~90~N/A~
+Calypso - Two Bedroom Sunset Views, Dickson ACT 2602 ~$665,000~2~2~Other~6.2~6020~N/A~N/A~
+806/254 Northbourne Avenue, Dickson ACT 2602 ~$669,000~2~2~Apartment~6.0~10800.0~78~$49,489~
+105/63 Dooring Street, Dickson ACT 2602 ~$689,000~2~2~Unit / Apartment~6.0~10800.0~92~$49,489~
+Calypso - Two Bedroom Apartment, Dickson ACT 2602 ~$690,000~2~2~Other~6.2~6020~N/A~N/A~
+Kashmir - A703 Level 7 | Mountain Views With Additional Storage, Dickson ACT 2602 ~$705,000~2~2~Other~6.4~N/A~82~N/A~
+Calypso - North Facing Courtyard, Dickson ACT 2602 ~$735,000~2~2~Other~5.3~6020~N/A~N/A~
+Calypso - Mountain Views With Study, Dickson ACT 2602 ~$755,000~2~2~Other~6.1~6020~N/A~N/A~
+DKSN - 2 Bedroom Apartment | U412, Dickson ACT 2602 ~$765,800~2~2~Apartment~6.0~N/A~101~N/A~
+Level 1/9/44 Stockdale Street, Dickson ACT 2602 ~  $989,000~3~2~Unit / Apartment~4.0~N/A~N/A~N/A~
+11 Lowrie Street, Dickson ACT 2602 ~$1,045,000~3~1~House~2.0~497~119~$829,000~
+1/11 Moncrieff Street, Dickson ACT 2602 ~$1,075,000~3~2~Townhouse~8.0~N/A~N/A~N/A~
+Calypso - Three Bedroom Penthouse, Dickson ACT 2602 ~$1,085,000~3~2~Other~5.4~6020~N/A~N/A~
+48 Morphett Street, Dickson ACT 2602 ~$1,100,000~3~2~Duplex~2.5~548~N/A~$850,000~
+Valerie - Residence C - North facing 3 bedroom townhouse, Dickson ACT 2602 ~$1,140,000~3~2~Other~7.0~N/A~N/A~N/A~
+3/3 McGowan Place, Dickson ACT 2602 ~$1,150,000~3~2~Townhouse~5.5~2310~141~$216,450~
+Valerie - Residence A - North facing 3 bedroom townhouse, Dickson ACT 2602 ~$1,250,000~3~2~Other~7.0~N/A~N/A~N/A~
+Calypso - Three Bedroom Two Storey + Study, Dickson ACT 2602 ~$1,275,000~3~3~Other~5.6~6020~N/A~N/A~
+22 Dutton Street, Dickson ACT 2602 ~$1,465,000~4~2~House~2.5~799~N/A~$1,042,000~
+15A McGowan Street, Dickson ACT 2602 ~$1,600,000~4~2~House~6.0~701~N/A~$1,070,000~

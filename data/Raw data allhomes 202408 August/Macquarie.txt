@@ -1,0 +1,8 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+30/58 Bennelong Crescent, Macquarie ACT 2614 ~$330,000~1~1~Apartment~0.0~N/A~N/A~$5,760,000~
+65/15 Bowman Street, Macquarie ACT 2614 ~$415,000~2~1~Apartment~6.0~N/A~N/A~$5,250,000~
+2/42 Blackman Crescent, Macquarie ACT 2614 ~$675,000~3~1~Townhouse~5.5~275~N/A~N/A~
+49A Arndell Street, Macquarie ACT 2614 ~$700,000~4~1~House~0.5~854~119~N/A~
+7/44-48 Blackman Crescent, Macquarie ACT 2614 ~$770,000~3~2~Townhouse~4.0~N/A~N/A~N/A~
+3 Bathurst Place, Macquarie ACT 2614 ~$997500~3~1~House~1.0~719~125~$806,000~
+24B Castlereagh Crescent, Macquarie ACT 2614 ~$1,275,000~4~4~House~6.0~390~N/A~N/A~

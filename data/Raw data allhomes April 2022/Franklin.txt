@@ -1,0 +1,13 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+66/311 Flemington Road, Franklin ACT 2913 ~  $349,900~1~1~Apartment~6.0~N/A~56~$6,600,000~
+46/301 Flemington Road, Franklin ACT 2913 ~$355,000~1~1~Apartment~5.0~N/A~N/A~$4,700,000~
+(no street name provided), Franklin ACT 2913 ~$365,000~1~1~House~6.0~N/A~N/A~$6,600,000~
+105/311 Flemington Road, Franklin ACT 2913 ~$540,000~3~1~Apartment~6.0~12000.0~82~N/A~
+39/311 Flemington Road, Franklin ACT 2913 ~$549,000~2~2~Apartment~6.0~N/A~N/A~$6,600,000~
+35/1 Christina Stead Street, Franklin ACT 2913 ~$600,000~2~1~Townhouse~5.0~N/A~N/A~N/A~
+27/1 Christina Stead Street, Franklin ACT 2913 ~$699,000~3~2~Townhouse~5.0~N/A~175~N/A~
+(no street name provided), Franklin ACT 2913 ~$735,000~3~1~Townhouse~5.5~N/A~N/A~N/A~
+1 Bright Street, Franklin ACT 2913 ~$965,000~3~2~House~5.0~369~N/A~$333,000~
+(no street name provided), Franklin ACT 2913 ~  $980,000~3~2~House~5.0~475~162~$400,000~
+24 Donald Horne Circuit, Franklin ACT 2913 ~$1,050,000~4~2~House~5.0~404~169~$346,000~
+40 Christina Stead Street, Franklin ACT 2913 ~$1,200,000 ~4~2~House~4.0~506~229~$415,000~

@@ -1,0 +1,10 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+3/44 Macquarie Street, Barton ACT 2600 ~$529,000~1~1~Apartment~6.0~5467~60~$116,280~
+126/46 Macquarie Street, Barton ACT 2600 ~$535,000~1~1~Apartment~6.0~5467~N/A~$116,280~
+27/41 Blackall Street, Barton ACT 2600 ~$615,000~1~1~Apartment~6.0~36700.0~N/A~$195,500~
+42/5 Burbury Close, Barton ACT 2600 ~$619,000~1~1~Apartment~5.0~4697~63~$84,680~
+5/3 Burbury Close, Barton ACT 2600 ~Inviting   $620,000~1~1~Apartment~6.0~4697~76~$84,680~
+14/47 Blackall Street, Barton ACT 2600 ~$849,000~2~2~Apartment~6.0~36700.0~N/A~$195,500~
+6/11 Sydney Avenue, Barton ACT 2600 ~$850,000~2~2~Apartment~6.0~2648~N/A~N/A~
+85/32 Blackall St, Barton ACT 2600 ~$880,000~2~2~Apartment~6.0~4428~N/A~$157,380~
+70/17 Darling Street, Barton ACT 2600 ~$1,130,000~3~2~House~6.0~9270~N/A~$102,600~

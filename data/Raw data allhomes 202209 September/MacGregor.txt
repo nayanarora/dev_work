@@ -1,0 +1,8 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+2/204 McFarlane Burnet Avenue, MacGregor ACT 2615 ~Offers above $519,000~2~1~Townhouse~6.0~310~105~N/A~
+25 Mileham Street, MacGregor ACT 2615 ~$799,000~3~1~House~2.0~800~N/A~$541,000~
+61 Carman Loop, MacGregor ACT 2615 ~$879,000 ~3~2~House~6.0~439~N/A~$436,000~
+35 Mileham Street, MacGregor ACT 2615 ~$895,000~4~1~House~1.5~981~145~$541,000~
+24 Hayward Street, MacGregor ACT 2615 ~$950,000~4~2~House~0.5~828~144~$453,000~
+70 MacFarlane Burnet Avenue, MacGregor ACT 2615 ~$1,050,000~4~2~House~4.0~609~154~$482,000~
+15 Cumpston Place, MacGregor ACT 2615 ~$1,100,000~4~2~House~0.5~1049~N/A~$449,000~

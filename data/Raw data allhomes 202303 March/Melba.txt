@@ -1,0 +1,3 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+21 Hosking Place, Melba ACT 2615 ~$800,000~3~1~House~4.5~828~132~$544,000~
+8 Miranda Place, Melba ACT 2615 ~$1,200,000~4~3~House~2.0~866~311~$562,000~

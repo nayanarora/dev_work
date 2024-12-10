@@ -1,0 +1,10 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+60/17 Medley Street, Chifley ACT 2606 ~$320,000~1~1~Apartment~N/A~10700.0~65~$160,875~
+2/101 Eggleston Crescent, Chifley ACT 2606 ~$730,000~2~2~Townhouse~4.5~2949~105~$224,840~
+20 Carslaw Street, Chifley ACT 2606 ~$785,000~3~2~House~0.5~439~108~N/A~
+74 Eggleston Crescent, Chifley ACT 2606 ~$825,000~3~1~Duplex~1.5~502~N/A~$605,000~
+6 Charteris Crescent, Chifley ACT 2606 ~$1,140,000~3~1~House~N/A~885~152~$842,000~
+Charteris Villas - Unit 5 Charteris Villas, Chifley ACT 2606 ~$1,240,000~3~2~Townhouse~6.0~1038~N/A~$950,000~
+Charteris Villas - Unit 4 Charteris Villas, Chifley ACT 2606 ~$1,390,000~4~2~Townhouse~6.0~1038~N/A~$950,000~
+26 Pollock Street, Chifley ACT 2606 ~$1,400,000~3~2~House~6.0~448~178~N/A~
+Charteris Villas - Unit 2 Charteris Villas, Chifley ACT 2606 ~$1,550,000~4~2~Townhouse~6.0~1038~N/A~$950,000~

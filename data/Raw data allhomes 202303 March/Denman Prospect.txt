@@ -1,0 +1,41 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+Boulevard - Take A Walk Down The Boulevard, Denman Prospect ACT 2611 ~$429,900~1~1~Apartment~5.1~N/A~N/A~N/A~
+60/4 Hoolihan Street, Denman Prospect ACT 2611 ~$469,000~1~1~Apartment~7.0~N/A~N/A~N/A~
+27/40 Trinca Street, Denman Prospect ACT 2611 ~$469,900~1~1~Apartment~8.9~N/A~N/A~N/A~
+Boulevard - Take A Walk Down The Boulevard, Denman Prospect ACT 2611 ~$489,900~1~1~Apartment~5.1~N/A~N/A~N/A~
+2/2 Bamblett Rise, Denman Prospect ACT 2611 ~$519,500~2~1~Apartment~7.1~N/A~N/A~N/A~
+Limited Edition Denman - Unit 13/2 Bamblett Rise, Denman Prospect ACT 2611 ~$549,500~2~2~Apartment~6.8~N/A~N/A~N/A~
+42/5 Skuta Place, Denman Prospect ACT 2611 ~$619000~2~2~Apartment~6.0~4355~105~$70,400~
+68/26 Marie Little Crescent, Denman Prospect ACT 2611 ~  $599,000~2~2~Unit / Apartment~5.5~13300.0~83~$95,630~
+16/14 Hoolihan Street, Denman Prospect ACT 2611 ~$609,000~2~2~Unit / Apartment~6.0~5509~79~$58,380~
+16/5 Skuta Place, Denman Prospect ACT 2611 ~$610,000~2~2~Apartment~6.0~4355~105~$70,400~
+Boulevard - Take A Walk Down The Boulevard, Denman Prospect ACT 2611 ~$632,900~2~2~Apartment~5.1~N/A~N/A~N/A~
+31/40 Trinca Street, Denman Prospect ACT 2611 ~$649,900~N/A~N/A~Apartment~8.9~N/A~N/A~N/A~
+Boulevard - Take A Walk Down The Boulevard, Denman Prospect ACT 2611 ~$652,900~2~2~Apartment~5.1~N/A~N/A~N/A~
+38/112 McMichael Terrace, Denman Prospect ACT 2611 ~$699,000~3~2~Apartment~6.0~7734~110~$42,300~
+27 Eggins Street, Denman Prospect ACT 2611 ~$699,000~4~3~Other~6.0~432~N/A~N/A~
+86/4 Foulkes Street, Denman Prospect ACT 2611 ~  $700,000~3~2~Unit / Apartment~7.5~N/A~N/A~N/A~
+14 Bamblett Rise, Denman Prospect ACT 2611 ~  $700,000~3~2~House~6.0~6662~N/A~N/A~
+Natura - Unit 68 - 2 Bedroom Apartment, Denman Prospect ACT 2611 ~$709,000~2~1~Apartment~7.9~N/A~N/A~N/A~
+82/14 Hoolihan Street, Denman Prospect ACT 2611 ~  $759,000~3~3~Townhouse~6.0~5509~121~$58,380~
+(no street name provided), Denman Prospect ACT 2611 ~$780,000~3~2~Townhouse~6.0~N/A~130~N/A~
+31/2 Bamblett Rise, Denman Prospect ACT 2611 ~$799,000~3~2~Apartment~6.0~N/A~N/A~N/A~
+7/11 Felstead Vista, Denman Prospect ACT 2611 ~$849,000~3~2~Townhouse~6.0~6899~141~$76,800~
+8/1 Martel Street, Denman Prospect ACT 2611 ~$875,000~4~2~Townhouse~6.0~N/A~159~N/A~
+(no street name provided), Denman Prospect ACT 2611 ~$1245000~5~3~Other~6.5~421~N/A~N/A~
+Natura - D32 - 3 Bedroom Townhouse with Double Garage, Denman Prospect ACT 2611 ~$899,000~3~1~Townhouse~6.9~N/A~N/A~N/A~
+Hakea - Type 3, Denman Prospect ACT 2611 ~$955,000~3~2~Townhouse~6.3~N/A~158~N/A~
+2 Boyanton Street, Denman Prospect ACT 2611 ~$955,000~3~2~House~5.0~460~133~$630,000~
+Boulevard - Take A Walk Down The Boulevard, Denman Prospect ACT 2611 ~$999,000~3~2~Apartment~5.1~N/A~N/A~N/A~
+Hakea - Type 2, Denman Prospect ACT 2611 ~$1,100,000~3~2~Townhouse~6.3~N/A~206~N/A~
+(no street name provided), Denman Prospect ACT 2611 ~$1175000~4~3~House~6.0~384~N/A~N/A~
+86 Ada Norris Avenue, Denman Prospect ACT 2611 ~$1,150,000~4~2~House~6.0~240~214~$360,000~
+2 Kallir Street, Denman Prospect ACT 2611 ~$1,319,990~4~3~House and Land Package~6.0~458~234~N/A~
+PEAK - Denman's Highest Point, Denman Prospect ACT 2611 ~$1,436,400~4~1~Townhouse~6.0~N/A~N/A~N/A~
+PEAK - Design Inspired by Nature, Denman Prospect ACT 2611 ~$1,436,400~4~N/A~Townhouse~6.0~N/A~N/A~N/A~
+PEAK - DISPLAY SUITE OPEN, Denman Prospect ACT 2611 ~$1,436,400~4~N/A~Townhouse~6.2~N/A~N/A~N/A~
+52 Freebury Street, Denman Prospect ACT 2611 ~$1479000~4~2~House~5.5~473~225~$645,000~
+88 Wyndham Avenue, Denman Prospect ACT 2611 ~$1,475,000~4~2~House~5.0~524~199~$690,000~
+PEAK - Denman's Highest Point, Denman Prospect ACT 2611 ~$1,576,200~4~1~Townhouse~6.0~N/A~N/A~N/A~
+36 Quong Tart Avenue, Denman Prospect ACT 2611 ~$1,599,000~4~2~House~7.0~477~N/A~N/A~
+(no street name provided), Denman Prospect ACT 2611 ~$1,699,900~5~3~House~6.0~425~N/A~N/A~

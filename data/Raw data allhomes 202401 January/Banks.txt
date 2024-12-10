@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+70 Pockett Avenue, Banks ACT 2906 ~  $690,000~3~2~House~2.5~652~120~$397,000~
+23 Perrin Circuit, Banks ACT 2906 ~$800,000~3~2~House~4.0~718~135~$416,000~
+19 Adcock Place, Banks ACT 2906 ~$1115000~5~3~House~2.0~818~179~$451,000~

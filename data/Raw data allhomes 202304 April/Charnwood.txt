@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+12 Rouse Place, Charnwood ACT 2615 ~$749,000~3~1~House~2.5~764~N/A~$405,000~

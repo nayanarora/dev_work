@@ -1,0 +1,14 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+2/16 Walsh Place, Curtin ACT 2605 ~$295,000 ~1~1~Unit / Apartment~3.5~3336~44~$148,512~
+6/141 Carruthers Street, Curtin ACT 2605 ~$385,000~2~1~Apartment~2.5~6417~66~$175,000~
+9 Cosgrove Street, Curtin ACT 2605 ~Inviting Offers Over $800,000~2~1~House~2.0~181~77~$591,000~
+30B Parker Street, Curtin ACT 2605 ~$1,100,000 ~3~2~House~4.0~408~130~N/A~
+20 Throssell Street, Curtin ACT 2605 ~$1212500~3~1~House~1.0~591~115~$849,000~
+14 Morgan Crescent, Curtin ACT 2605 ~$1,295,000~3~1~House~1.0~722~102~$1,077,000~
+46 Kidston Crescent, Curtin ACT 2605 ~$1,499,000~4~1~House~1.0~753~142~$1,087,000~
+3 Colebatch Place, Curtin ACT 2605 ~$1,500,000~4~2~House~2.5~694~150~$918,000~
+10B Parker Street, Curtin ACT 2605 ~$1549000~4~3~House~6.0~N/A~N/A~N/A~
+13 Storey Street, Curtin ACT 2605 ~$1,888,000~5~2~House~6.0~724~269~$935,000~
+3 Champ Place, Curtin ACT 2605 ~$2,180,000 ~4~2~House~2.5~842~216~$921,000~
+23 James Place, Curtin ACT 2605 ~$2,500,000~6~3~House~6.0~807~291~$951,000~
+54 Bavin Street, Curtin ACT 2605 ~$2,575,000~3~2~House~6.0~739~184~$925,000~

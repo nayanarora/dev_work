@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+114 Pennefather Street, Higgins ACT 2615 ~$985,000~5~2~House~N/A~800~N/A~$575,000~

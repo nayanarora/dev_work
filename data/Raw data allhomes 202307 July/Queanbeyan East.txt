@@ -1,0 +1,7 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+8/10 Wanniassa Street, Queanbeyan East NSW 2620 ~$182500~1~1~Unit / Apartment~N/A~N/A~46~N/A~
+5/17-23 Thurralilly Street, Queanbeyan East NSW 2620 ~$495,000 $535,000~2~1~Townhouse~N/A~4131~79~N/A~
+4/4 Booth Street, Queanbeyan East NSW 2620 ~$519000~2~1~Townhouse~N/A~1011~N/A~N/A~
+8/7 Bungendore Road, Queanbeyan East NSW 2620 ~$619,000~2~2~Townhouse~N/A~119~84~N/A~
+100/47 Mowatt Street, Queanbeyan East NSW 2620 ~$645000~2~2~Townhouse~N/A~17000.0~N/A~N/A~
+8/33-37 Macquoid Street, Queanbeyan East NSW 2620 ~$714000~3~2~Townhouse~N/A~3054~194~N/A~

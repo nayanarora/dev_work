@@ -1,0 +1,3 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+4 Schonell Circuit, Oxley ACT 2903 ~$700,000~3~1~House~4.0~742~N/A~$502,000~
+13 Schonell Circuit, Oxley ACT 2903 ~$1,095,000~4~2~House~4.0~1019~209~$636,000~

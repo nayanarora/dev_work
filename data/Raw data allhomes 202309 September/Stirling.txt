@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+70 Namatjira Drive, Stirling ACT 2611 ~  $1,129,000~4~2~House~2.0~805~172~$620,000~

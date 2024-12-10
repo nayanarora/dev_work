@@ -1,0 +1,10 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+13/16 Discovery Street, Red Hill ACT 2603 ~$550,000~2~1~Unit / Apartment~1.5~1562~N/A~$220,980~
+The Parks - 1 Bedroom Apartment, Red Hill ACT 2603 ~$699,900~1~1~Apartment~N/A~14700.0~76~$3,727,000~
+The Parks - 1 Bedroom Apartment, Red Hill ACT 2603 ~$870,900~1~1~Apartment~N/A~14700.0~111~$3,727,000~
+4 Cimba Lane, Red Hill ACT 2603 ~$1,600,000~3~2~House~7.4~150~N/A~$540,000~
+5 Aviemore Lane, Red Hill ACT 2603 ~$1,750,000~4~3~House~6.0~168~254~$590,000~
+201A La Perouse Street, Red Hill ACT 2603 ~$1,750,000~3~3~House~7.0~150~212~$540,000~
+204 Monaro Crescent, Red Hill ACT 2603 ~$2047500~3~2~House~N/A~1082~143~$1,420,000~
+72 Hicks Street, Red Hill ACT 2603 ~$2029000~4~2~House~N/A~845~N/A~$1,550,000~
+27 Quiros Street, Red Hill ACT 2603 ~$2142000~4~1~House~N/A~981~179~$1,375,000~

@@ -1,0 +1,8 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+14/28 West Row, City ACT 2601 ~$309,500~1~1~Apartment~6.0~3246~N/A~$5,559,000~
+2 Akuna Street, City ACT 2601 ~$355,000~1~1~Apartment~6.0~2765~N/A~$11,250,000~
+511/222 City Walk, City ACT 2601 ~$425,000~1~1~Apartment~6.0~N/A~N/A~$10,294,000~
+308/1 Boolee Street, City ACT 2601 ~$599,900~2~1~Apartment~6.0~N/A~62~N/A~
+98/15 Corinderrk, City ACT 2601 ~$610,000~2~1~Apartment~4.5~10400.0~110~N/A~
+703/240 Bunda Street, City ACT 2601 ~$728,888~2~2~Apartment~6.0~N/A~105~$24,750,000~
+89/260 City Walk, City ACT 2601 ~$739,000~2~2~Apartment~6.5~N/A~98~N/A~

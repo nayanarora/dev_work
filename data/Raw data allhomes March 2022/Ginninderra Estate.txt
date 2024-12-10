@@ -1,0 +1,3 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+14 Mockridge Crescent, Holt ACT 2615 ~$899,000~4~1~House~0.5~689~N/A~$356,000~
+(no street name provided), Ginninderra Estate ACT 2615 ~$950,000~4~2~House and Land Package~6.0~604~230~N/A~

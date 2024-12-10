@@ -1,0 +1,7 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+37/27 Coxen Street, Hughes ACT 2605 ~$240,000~1~1~Apartment~6.0~15700.0~N/A~$14,500,000~
+62/27 Coxen Street, Hughes ACT 2605 ~ $339,000~1~1~Apartment~3.0~15700.0~N/A~$14,500,000~
+61 Kitchener Street, Hughes ACT 2605 ~$1,489,000~4~2~House~1.0~785~168~$842,000~
+25 Wisdom Street, Hughes ACT 2605 ~$1799000~3~2~House~6.0~429~206~N/A~
+2 Wisdom Place, Hughes ACT 2605 ~$1799000~3~2~House~6.0~398~232~$948,000~
+10 Smyth Place, Hughes ACT 2605 ~$1,895,000~4~2~House~4.0~762~N/A~$1,110,000~

@@ -1,0 +1,48 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+Summerfield - 1 Bedroom Apartment, Taylor ACT 2913 ~$399,900~1~1~Apartment~6.3~N/A~N/A~N/A~
+(no street name provided), Taylor ACT 2913 ~$874500~4~2~House and Land Package~7.0~N/A~225~N/A~
+(no street name provided), Taylor ACT 2913 ~$874500~4~3~House~6.5~N/A~239~N/A~
+SkyHaus - Construction commenced, Taylor ACT 2913 ~$479,000~2~1~Apartment~6.0~N/A~69~N/A~
+SkyHaus - Construction commenced, Taylor ACT 2913 ~$570,000~2~2~Apartment~6.0~N/A~90~N/A~
+Unit 17 Northedge Villas, Taylor ACT 2913 ~  $599,900~2~1~Townhouse~6.0~N/A~72~N/A~
+Elia - Apartment Living, Taylor ACT 2913 ~$599,900~2~2~Apartment~7.7~N/A~N/A~N/A~
+43/119 Sutherland Crescent, Taylor ACT 2913 ~$619,000~2~2~Townhouse~6.0~8072~83~N/A~
+16 Everist Street, Taylor ACT 2913 ~$629,000~2~2~Townhouse~6.0~3275000.0~N/A~N/A~
+Elia - G Type Town Home, Taylor ACT 2913 ~$629,900~2~2~Townhouse~8.4~N/A~N/A~N/A~
+SkyHaus - Construction commenced, Taylor ACT 2913 ~$652,500~2~2~Apartment~6.0~N/A~111~N/A~
+SkyHaus - Construction commenced, Taylor ACT 2913 ~$652,500~2~2~Apartment~6.0~N/A~111~N/A~
+31 Grenfell Avenue, Taylor ACT 2913 ~$665,000~3~2~Townhouse~6.0~N/A~106~N/A~
+16 Holford Street, Taylor ACT 2913 ~$710,000~3~2~Villa~6.0~211~104~N/A~
+SkyHaus - Construction commenced, Taylor ACT 2913 ~$715,000~2~2~Apartment~6.0~N/A~100~N/A~
+Elia - 3 Bedroom North Facing Townhouse, Taylor ACT 2913 ~$729,900~3~2~Townhouse~8.2~N/A~N/A~N/A~
+Elia - 29/229 Robin Boyd Crescent TAYLOR ACT 291, Taylor ACT 2913 ~$749,900~2~2~Townhouse~N/A~N/A~N/A~N/A~
+SHINE - $25,000 cash back on settlement, Taylor ACT 2913 ~$847500~3~2~Townhouse~6.0~N/A~216~N/A~
+47 Whitman Cresent, Taylor ACT 2913 ~$850,000~8~4~Duplex~6.0~846~N/A~N/A~
+61 Corkery Crescent, Taylor ACT 2913 ~$860,000~3~2~House~6.0~227~197~N/A~
+(no street name provided), Taylor ACT 2913 ~$865,000~4~2~House~6.0~250~150~N/A~
+Elia - 23/1 Devenish Street Taylor ACT 2917, Taylor ACT 2913 ~$879,900~3~2~Other~N/A~N/A~155~N/A~
+Briger Street, Taylor ACT 2913 ~$889,000~4~2~House~6.0~250~N/A~N/A~
+45 Devenish Street, Taylor ACT 2913 ~$889,000~4~2~House~6.0~250~N/A~N/A~
+8 Chenoweth Street, Taylor ACT 2913 ~$895,000~4~2~House~6.0~250~167~N/A~
+(no street name provided), Taylor ACT 2913 ~$1097500~3~2~House~6.0~250~148~N/A~
+(no street name provided), Taylor ACT 2913 ~$899,000~4~2~House and Land Package~6.0~249~N/A~N/A~
+36 Esplin Street, Taylor ACT 2913 ~$1025000~N/A~N/A~House and Land Package~6.0~331~N/A~N/A~
+24 Esplin Street, Taylor ACT 2913 ~$925,000~4~2~House~6.0~331~N/A~N/A~
+SHINE - 4 bed 3 bath 2 car, Taylor ACT 2913 ~$950000~4~3~Other~6.0~N/A~232~N/A~
+214 Robin Boyd Crescent, Taylor ACT 2913 ~$969,000~4~2~House~6.0~364~N/A~$322,000~
+18 Briger Street, Taylor ACT 2913 ~$990,000~5~4~House~6.0~235~182~$240,000~
+12 Cobden Street, Taylor ACT 2913 ~$1,025,000~4~2~House~6.0~250~N/A~N/A~
+16 Esplin Street, Taylor ACT 2913 ~$1,089,000~4~2~House~6.0~473~206~N/A~
+33 Bloomfield Crescent, Taylor ACT 2913 ~$1,099,990~4~3~House~6.0~393~N/A~N/A~
+41 McGlashan Street, Taylor ACT 2913 ~$1,175,000~4~2~House~6.5~556~249~N/A~
+64 Vahland Street, Taylor ACT 2913 ~$1,200,000~4~3~House~6.0~470~254~$386,000~
+8 Scorer Street, Taylor ACT 2913 ~$1,245,000 ~4~2~Other~6.0~471~N/A~$394,000~
+4 Nethercote Street, Taylor ACT 2913 ~  $1,290,000~4~2~House~6.0~492~N/A~$401,000~
+(no street name provided), Taylor ACT 2913 ~$1,300,000~4~3~House~6.0~540~N/A~$470,000~
+6 Bea Hutton Close, Taylor ACT 2913 ~$1,349,000~4~1~House and Land Package~7.1~540~261~N/A~
+23 Nell Edeson Street, Taylor ACT 2913 ~$1,380,000~4~3~House~6.0~501~284~N/A~
+42 Harry Seidler Crescent, Taylor ACT 2913 ~$1,450,000~4~3~House~6.0~527~247~$427,000~
+(no street name provided), Taylor ACT 2913 ~$1,550,000~4~3~House~6.0~572~240~N/A~
+(no street name provided), Taylor ACT 2913 ~$1,550,000~5~3~House~6.0~570~265~$217,000~
+46 Dorney Rise, Taylor ACT 2913 ~$1,595,000~4~3~House~5.5~632~261~$458,000~
+(no street name provided), Taylor ACT 2913 ~$1,700,000~5~1~House and Land Package~6.5~782~308~$386,000~

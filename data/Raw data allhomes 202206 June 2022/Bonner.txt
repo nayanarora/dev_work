@@ -1,0 +1,11 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+23/17 Margaret Tucker Street, Bonner ACT 2914 ~$495,000~2~1~Unit / Apartment~5.5~N/A~115~$3,125,000~
+12/15 Bill Ferguson Circuit, Bonner ACT 2914 ~$520,000~2~2~Apartment~6.0~N/A~101~$2,200,000~
+72 Bill Ferguson Circuit, Bonner ACT 2914 ~$625,000~3~1~House~5.0~144~N/A~$201,000~
+32 Bill Ferguson Circuit, Bonner ACT 2914 ~Offers Above $650,000~3~1~Townhouse~5.5~148~123~$201,000~
+7/21 Muriel Stewart Circuit, Bonner ACT 2914 ~$765,000~4~2~House~5.5~N/A~N/A~N/A~
+87 Bieundurry Street, Bonner ACT 2914 ~$1,110,000~4~2~House~6.0~N/A~N/A~$342,000~
+10 Dooley Binbin Street, Bonner ACT 2914 ~$1,150,000~4~2~House~6.0~476~165~$360,000~
+47 Henry Williams Street, Bonner ACT 2914 ~Offers Over $1,160,000~4~2~House~4.5~540~199~$389,000~
+90 Stanner Circuit, Bonner ACT 2914 ~$1,565,000~4~2~House~5.0~N/A~236~$437,000~
+22 Kartinyeri Street, Bonner ACT 2914 ~$1,599,000~6~5~House~4.0~727~301~$456,000~

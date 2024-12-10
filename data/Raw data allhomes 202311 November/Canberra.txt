@@ -1,0 +1,68 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+410/222 City Walk, City ACT 2601 ~$380,000~1~1~Apartment~6.0~1137~N/A~$10,600,000~
+201/16 Moore Street, City ACT 2601 ~$435,000~1~1~Apartment~6.0~1487~N/A~$6,750,000~
+502/16 Moore Street, Canberra ACT 2601 ~$445,000~1~1~Apartment~6.0~N/A~N/A~N/A~
+502/2 Akuna Street, City ACT 2601 ~$450,000~2~1~Apartment~6.0~2306~N/A~$13,500,000~
+404/2 Marcus Clarke Street, City ACT 2601 ~$465000~2~1~Apartment~6.0~7982~N/A~$23,000,000~
+915/25 Edinburgh Avenue, City ACT 2601 ~  $472,500~1~1~Unit / Apartment~6.0~1669~N/A~N/A~
+Level 6/628/81 Cooyong Street, Reid ACT 2612 ~$475,000~1~1~Apartment~6.0~N/A~N/A~N/A~
+1413/25 Edinburgh Avenue, City ACT 2601 ~$478,000~1~1~Apartment~6.0~1669~N/A~N/A~
+117/65 Cooyong Street, Braddon ACT 2612 ~$490,000~1~1~Apartment~6.0~N/A~N/A~N/A~
+6/66 Allara Street, City ACT 2601 ~  $490,000~1~1~Unit / Apartment~6.0~3715~N/A~$11,700,000~
+1006/25 Edinburgh Avenue, City ACT 2601 ~$495,000~1~1~Apartment~6.0~1669~N/A~N/A~
+190/45 West Row, City ACT 2601 ~$495,000~1~1~Apartment~6.0~245~N/A~N/A~
+1204/25 Edinburgh Avenue, City ACT 2601 ~$499,000~1~1~Apartment~6.0~1669~N/A~N/A~
+623/240 Bunda Street, City ACT 2601 ~$515,000~1~1~Apartment~6.0~4180~N/A~$28,250,000~
+504/240 Bunda Street, City ACT 2601 ~$515,000~1~1~Apartment~6.0~4180~N/A~$28,250,000~
+2/2 Mews West, City ACT 2601 ~$520,000~1~1~Townhouse~4.5~N/A~N/A~N/A~
+717/240 Bunda Street, City ACT 2601 ~$520,000~1~1~Unit / Apartment~6.0~4180~N/A~$28,250,000~
+108/16 Moore Street, City ACT 2601 ~$520,000~1~1~Apartment~5.0~1487~N/A~$6,750,000~
+91/2 Edinburgh Avenue, City ACT 2601 ~$525,000~1~1~Apartment~6.0~6922~N/A~$30,800,000~
+908/25 Edinburgh Avenue, City ACT 2601 ~$535,000~1~1~Apartment~6.0~1669~N/A~N/A~
+114/20 Allara Street, Canberra ACT 2601 ~$540,000~1~1~Apartment~6.0~N/A~N/A~N/A~
+27/66 Allara Street, Canberra ACT 2601 ~$540,000~1~2~Apartment~6.0~N/A~N/A~N/A~
+176/20 Allara Street, City ACT 2601 ~$540,000~1~1~Apartment~6.0~1380~N/A~$14,100,000~
+107/77 Northbourne Avenue, Turner ACT 2612 ~$569,000~2~1~Apartment~6.0~6377~N/A~$11,250,000~
+152/264 City Walk, City ACT 2601 ~$569,000~2~1~Apartment~6.0~1664~N/A~$14,350,000~
+166/15 Coranderrk Street, City ACT 2601 ~$599,000~2~1~Unit / Apartment~6.0~10400.0~N/A~$20,000,000~
+33 Currong Street South, Reid ACT 2612 ~$620000~2~1~Apartment~6.0~2497~N/A~$4,080,000~
+58/66 Allara Street, City ACT 2601 ~  $619,000~2~2~Apartment~6.0~3715~N/A~$11,700,000~
+507/2 Marcus Clarke Street, City ACT 2601 ~$619,000~2~2~Unit / Apartment~3.5~7982~N/A~$23,000,000~
+The Griffin, Parkes - 44 Constitution Avenue, Parkes ACT 2600 ~$629,000~1~1~Other~5.3~N/A~N/A~N/A~
+317/19 Marcus Clarke Street, City ACT 2601 ~$630,000~1~1~Apartment~6.0~4069~N/A~$17,100,000~
+183/44 Constitution Avenue, Parkes ACT 2600 ~$639,000~1~1~Apartment~6.0~12100.0~N/A~N/A~
+1204/39 London Circuit, City ACT 2601 ~$649,000~2~1~Apartment~6.0~1417~N/A~$17,000,000~
+105/2 Marcus Clarke Street, City ACT 2601 ~$670,000~2~2~Apartment~4.5~7982~N/A~$23,000,000~
+77/15 Coranderrk Street, Canberra ACT 2601 ~$675,000 ~2~2~Apartment~6.0~N/A~N/A~N/A~
+133/264 City Walk, City ACT 2601 ~$680,000~2~2~Apartment~6.0~1664~N/A~$14,350,000~
+103/39 London Circuit, City ACT 2601 ~$685,000~2~1~Apartment~6.0~1417~N/A~$17,000,000~
+134/264 City Walk, City ACT 2601 ~$714000~2~2~Apartment~6.0~1664~N/A~$14,350,000~
+903/2 Marcus Clarke Street, City ACT 2601 ~$695,000~2~2~Apartment~6.0~7982~N/A~$23,000,000~
+18/20 Allara Street, City ACT 2601 ~$695, 000~2~2~Apartment~6.0~1380~N/A~$14,100,000~
+138/264 City Walk, City ACT 2601 ~$710,000~2~2~Apartment~6.0~1664~N/A~$14,350,000~
+22/260 City Walk, City ACT 2601 ~$720,000~2~2~Apartment~6.0~1664~N/A~$14,350,000~
+109/81 Cooyong Street, Reid ACT 2612 ~$725,000~2~2~Apartment~6.0~10600.0~N/A~$38,500,000~
+902/240 Bunda Street, City ACT 2601 ~$745,000~2~2~Apartment~6.0~4180~N/A~$28,250,000~
+703/240 Bunda Street, City ACT 2601 ~$745,888~2~2~Apartment~6.0~4180~N/A~$28,250,000~
+628/45 Ainslie Avenue, Braddon ACT 2612 ~$748,888~2~2~Apartment~5.0~9706~N/A~$22,500,000~
+41/3 Gordon Street, City ACT 2601 ~Offers Above $749,000~2~2~Apartment~6.0~6922~N/A~$30,800,000~
+409/240 Bunda Street, City ACT 2601 ~$750,000~2~2~Apartment~6.0~4180~N/A~$28,250,000~
+39/3 London Circuit, City ACT 2601 ~$750,000~2~2~Apartment~5.0~6922~N/A~$30,800,000~
+89/15 Coranderrk Street, City ACT 2601 ~$750,000~2~2~Apartment~6.0~10400.0~N/A~$20,000,000~
+105/260 City Walk, City ACT 2601 ~$769,000~2~2~Unit / Apartment~6.0~1664~N/A~$14,350,000~
+1211/39 London Circuit, City ACT 2601 ~$769,000 ~2~2~Apartment~6.0~1417~N/A~$17,000,000~
+149/264 City Walk, City ACT 2601 ~$780,000~2~2~Apartment~6.0~1664~N/A~$14,350,000~
+910/240 Bunda Street, City ACT 2601 ~  $799,000~2~2~Apartment~6.0~4180~N/A~$28,250,000~
+60/45 West Row, City ACT 2601 ~$800,000~2~2~Apartment~5.5~245~N/A~N/A~
+603/240 Bunda Street, City ACT 2601 ~$820,000~2~2~Unit / Apartment~6.0~4180~N/A~$28,250,000~
+302/1 Boolee Street, Reid ACT 2612 ~  $820,000~3~2~Unit / Apartment~6.0~10600.0~N/A~$38,500,000~
+1605/2 Marcus Clarke Street, City ACT 2601 ~$830,000~2~1~Apartment~5.0~7982~N/A~$23,000,000~
+7/2 The Mews, City ACT 2601 ~$850,000~2~1~Apartment~4.5~6922~N/A~$30,800,000~
+516/39 London Circuit, City ACT 2601 ~$850,000~2~2~Apartment~6.0~1417~N/A~$17,000,000~
+1314/39 London Circuit, City ACT 2601 ~$858,000~2~2~Apartment~6.0~1417~N/A~$17,000,000~
+1522/240 Bunda Street, City ACT 2601 ~$879,500~2~2~Unit / Apartment~6.0~4180~N/A~$28,250,000~
+187 /45 West Row, City ACT 2601 ~$899,000~2~1~Apartment~4.0~245~N/A~N/A~
+1517/25 Edinburgh Avenue, City ACT 2601 ~  $950,000~2~2~Apartment~6.0~1669~N/A~N/A~
+709/25 Edinburgh Avenue, City ACT 2601 ~$960,000~2~2~Apartment~6.0~1669~N/A~N/A~
+235/81 Cooyong Street, Reid ACT 2612 ~$1,149,000~3~2~Apartment~6.0~10600.0~N/A~$38,500,000~
+1501/25 Edinburgh Avenue, City ACT 2601 ~$1,185,000~2~2~Apartment~6.0~1669~N/A~N/A~

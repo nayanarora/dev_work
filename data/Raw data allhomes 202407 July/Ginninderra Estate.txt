@@ -1,0 +1,9 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+63/68 Hardwick Crescent, Holt ACT 2615 ~$485,000~2~2~Apartment~4.5~N/A~N/A~N/A~
+1 De Mestre Place, Holt ACT 2615 ~$569,000~2~1~House~1.0~340~N/A~$335,000~
+Allen Place, Holt ACT 2615 ~$772500~3~1~House~3.5~381~154~$393,000~
+44 Armstrong Crescent, Holt ACT 2615 ~$780,000~3~2~House~N/A~697~N/A~$497,000~
+32/131 Britten-Jones Drive, Holt ACT 2615 ~$820,000~3~2~Townhouse~5.0~290~N/A~N/A~
+4 Beaurepaire Crescent, Holt ACT 2615 ~Offers Over $939,000~4~2~House~4.5~987~175~$474,000~
+28 Postle Circuit, Holt ACT 2615 ~$1,010,000~5~3~House~1.5~925~N/A~$594,000~
+11 Lorraway Street, Holt ACT 2615 ~$1,050,000~4~2~House~4.5~338~220~$407,000~

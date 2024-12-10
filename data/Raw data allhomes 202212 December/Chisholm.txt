@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+5 Geach Place, Chisholm ACT 2905 ~$869,000~5~2~House~2.0~872~N/A~$506,000~
+9 Pidgeon Place, Chisholm ACT 2905 ~$950,000~4~1~House~1.0~1334~N/A~$399,000~
+29 Baskerville Street, Chisholm ACT 2905 ~$979,000~4~1~House~1.0~1025~233~$506,000~
+61 Couchman Crescent, Chisholm ACT 2905 ~$1,330,000~5~2~House~5.0~1445~215~$460,000~

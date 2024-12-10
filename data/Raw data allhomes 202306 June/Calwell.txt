@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+24/24 Beazley Crescent, Calwell ACT 2905 ~$575,000~3~1~Townhouse~2.5~265~92~N/A~
+22/92 Casey Crescent, Calwell ACT 2905 ~$750,000~3~2~Townhouse~5.0~218~128~N/A~
+49 Martley Circuit, Calwell ACT 2905 ~  $1,049,000~5~2~House~2.0~1322~253~$557,000~

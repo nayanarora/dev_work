@@ -1,0 +1,21 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+328/81 Cooyong Street, Reid ACT 2612 ~Offers Over $419,000~1~1~Unit / Apartment~6.0~10600.0~N/A~$38,500,000~
+115/14 Boolee Street, Reid ACT 2612 ~$420,000~1~1~Apartment~6.0~10500.0~N/A~$11,815,000~
+G16/83 Cooyong Street, Reid ACT 2612 ~Offers Over $445,000~1~1~Apartment~6.0~10600.0~N/A~$38,500,000~
+515/83 Cooyong Street, Reid ACT 2612 ~$449,000~1~1~Apartment~6.0~10600.0~N/A~$38,500,000~
+Level 6/628/81 Cooyong Street, Reid ACT 2612 ~$475,000~1~1~Apartment~6.0~N/A~N/A~N/A~
+8/43 Constitution Avenue, Reid ACT 2612 ~$499,000~1~1~Apartment~6.0~2225~N/A~$6,675,000~
+65/43 Constitution Avenue, Reid ACT 2612 ~$545,000~1~1~Unit / Apartment~6.0~2225~N/A~$6,675,000~
+Unit 56/14 Boolee St, Reid ACT 2612 ~$570,000~2~1~Unit / Apartment~N/A~10500.0~N/A~N/A~
+56/14 Boolee St, Reid ACT 2612 ~$580000~2~1~Apartment~N/A~10500.0~N/A~$11,815,000~
+226/81 Cooyong Street, Reid ACT 2612 ~$589,000~2~2~Unit / Apartment~5.0~10600.0~N/A~$38,500,000~
+4/14 Boolee Street, Reid ACT 2612 ~$595,000 ~2~2~Apartment~3.5~10500.0~N/A~N/A~
+33 Currong Street South, Reid ACT 2612 ~$600,000~2~1~Apartment~6.0~2497~N/A~$4,080,000~
+421/83 Cooyong Street, Reid ACT 2612 ~$620,000 ~2~2~Unit / Apartment~6.0~10600.0~N/A~$38,500,000~
+1/14 Boolee Street, Reid ACT 2612 ~$620,000~2~2~Apartment~3.5~10500.0~N/A~N/A~
+417/81 Cooyong Street, Reid ACT 2612 ~$695,000 ~2~2~Apartment~6.0~10600.0~N/A~$38,500,000~
+805/81 Cooyong Street, Reid ACT 2612 ~$699,000~3~2~Apartment~6.0~10600.0~N/A~$38,500,000~
+116/83 Cooyong Street, Reid ACT 2612 ~$717500~2~2~Apartment~6.0~10600.0~N/A~$38,500,000~
+107/83 Cooyong Street, Reid ACT 2612 ~Offers over $920,000~3~2~Unit / Apartment~5.5~10600.0~N/A~$38,500,000~
+G06/1 Boolee Street, Reid ACT 2612 ~$999,000~3~2~Unit / Apartment~6.0~N/A~N/A~N/A~
+235/81 Cooyong Street, Reid ACT 2612 ~$1,149,000~3~2~Apartment~6.0~10600.0~N/A~$38,500,000~

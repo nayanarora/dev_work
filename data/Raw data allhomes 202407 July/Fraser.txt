@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+21/12 Daley Crescent, Fraser ACT 2615 ~$740,000~3~2~Townhouse~5.0~416~N/A~N/A~
+27 Daley Crescent, Fraser ACT 2615 ~$945000~4~2~House~0.5~1134~N/A~$540,000~
+21 Nott Street, Fraser ACT 2615 ~$950,000~4~2~House~0.0~1136~232~$529,000~

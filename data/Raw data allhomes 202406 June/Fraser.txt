@@ -1,0 +1,3 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+27 Daley Crescent, Fraser ACT 2615 ~$945000~4~2~House~0.5~1134~N/A~$540,000~
+31 Daley Crescent, Fraser ACT 2615 ~$1,190,000~6~3~House~1.5~1156~232~$540,000~

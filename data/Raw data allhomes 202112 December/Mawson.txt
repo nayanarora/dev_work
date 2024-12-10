@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+3/3 Heard Street, Mawson ACT 2607 ~$765,000~3~2~Townhouse~4.5~N/A~N/A~N/A~
+3/21 Bernacchi Street, Mawson ACT 2607 ~$999,000 ~3~2~Townhouse~4.5~N/A~N/A~N/A~
+1/93 Ainsworth Street, Mawson ACT 2607 ~$1,288,000~3~3~Townhouse~6.0~966~178~N/A~

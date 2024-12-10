@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+20/36 John Holt Street, MacGregor ACT 2615 ~$660,000~3~1~Townhouse~6.0~N/A~N/A~N/A~
+12 Herring Place, MacGregor ACT 2615 ~$685,000~3~1~House~6.0~249~N/A~$239,000~
+3 Lipscomb Place, MacGregor ACT 2615 ~$949,000~5~2~House~3.0~783~267~$313,000~
+196 MacFarlane Burnett Avenue, MacGregor ACT 2615 ~$950,000~4~2~House~6.0~454~N/A~N/A~
+10 Ballow Crescent, MacGregor ACT 2615 ~Offers over $1,195,000~4~2~House~1.0~1189~175~$374,000~

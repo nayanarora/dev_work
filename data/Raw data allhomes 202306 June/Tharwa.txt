@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+94 Hugs Lane, The Angle NSW 2620 ~$1010000~5~2~Rural~N/A~163900.0~176~N/A~

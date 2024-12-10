@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+46 Sproule Circuit, Evatt ACT 2617 ~$799,000~3~1~House~1.5~876~N/A~$544,000~
+3 Hatfield Street, Evatt ACT 2617 ~$860,000~3~1~House~2.0~809~120~$525,000~
+31 Ashkanasy Crescent, Evatt ACT 2617 ~$875,000~3~2~House~3.0~775~119~$570,000~

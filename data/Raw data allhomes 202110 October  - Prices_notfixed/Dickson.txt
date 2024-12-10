@@ -1,0 +1,26 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+81/55 Dooring Street, Dickson ACT 2602 ~$387500~1~1~Unit / Apartment~6.0~N/A~N/A~N/A~
+14/19-21 Majura Avenue, Dickson ACT 2602 ~Offers over $390,000~1~1~Unit / Apartment~6.0~N/A~50~N/A~
+DKSN - Unit 404 - 1 Bedroom Apartment, Dickson ACT 2602 ~$404,900~1~1~Apartment~6.0~N/A~65~N/A~
+DKSN - Unit 504 - 1 Bedroom Apartment, Dickson ACT 2602 ~$414,900~1~1~Apartment~6.0~N/A~68~N/A~
+DKSN - Unit 604 - 1 Bedroom Apartment, Dickson ACT 2602 ~$424,900~1~1~Apartment~6.0~N/A~66~N/A~
+DKSN - DKSN2.0 - Unit 604 - 1 Bedroom Apartment, Dickson ACT 2602 ~$424,900~1~1~Apartment~6.0~N/A~65~N/A~
+(no street name provided), Dickson ACT 2602 ~Offers over $425,000~1~1~Apartment~6.0~N/A~65~N/A~
+14/47 Majura Avenue, Dickson ACT 2602 ~$429,900~1~1~Apartment~5.0~1678~N/A~N/A~
+DKSN - DKSN2.0 - Unit 704 - 1 Bedroom Apartment, Dickson ACT 2602 ~$434,900~1~1~Apartment~6.0~N/A~65~N/A~
+MULBERRY - One bedroom apartment, Dickson ACT 2602 ~$435,000~1~1~Apartment~6.7~N/A~N/A~N/A~
+9/7 Lowrie Street, Dickson ACT 2602 ~Offers over $480,000~1~1~Unit / Apartment~9.0~N/A~N/A~N/A~
+MULBERRY - Townhouse style one bedroom, Dickson ACT 2602 ~$485,600~1~1~Apartment~7.0~N/A~N/A~N/A~
+MULBERRY - Two storey courtyard one bedroom, Dickson ACT 2602 ~$485,600~1~1~Apartment~6.8~N/A~N/A~N/A~
+Kashmir - Two bedroom | Extra storage, Dickson ACT 2602 ~$550,000~2~2~Other~6.4~N/A~N/A~N/A~
+Kashmir - Two Bedroom | Heritage Garden Views, Dickson ACT 2602 ~$560,000~2~2~Other~6.6~N/A~N/A~N/A~
+Kashmir - Two-bedroom | North facing with Heritage Garden views, Dickson ACT 2602 ~$570,000~2~2~Other~5.9~N/A~N/A~N/A~
+MULBERRY - Dooring Street Views, Dickson ACT 2602 ~$580,600~2~2~Other~6.8~N/A~N/A~N/A~
+DKSN - Unit 505 - 2 Bedroom Apartment, Dickson ACT 2602 ~$609,900~2~2~Other~6.0~N/A~N/A~N/A~
+Kashmir - Three-bedroom apartment, Dickson ACT 2602 ~$620,000~3~2~Other~6.7~N/A~N/A~N/A~
+DKSN - Challis - Unit 703, Dickson ACT 2602 ~$634,900~2~1~Apartment~6.0~N/A~N/A~N/A~
+Kashmir - Two-bedroom | Entertainer, Dickson ACT 2602 ~$650,000~2~2~Other~6.4~N/A~N/A~N/A~
+Kashmir - Two-bedroom | North facing mountain views, Dickson ACT 2602 ~$650,000~2~2~Other~7.2~N/A~N/A~N/A~
+8/3 Majura Avenue, Dickson ACT 2602 ~$975,000~3~3~Townhouse~6.0~1560~167~N/A~
+3 Lowrie Street, Dickson ACT 2602 ~$1,100,000~4~3~Townhouse~7.9~664~N/A~$700,000~
+Kashmir - The Penthouse, Dickson ACT 2602 ~$1,399,000~4~3~Other~7.1~N/A~N/A~N/A~

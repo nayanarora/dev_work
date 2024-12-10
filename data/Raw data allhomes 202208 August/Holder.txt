@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+2/30 Coane Street, Holder ACT 2611 ~$650,000~3~2~Townhouse~5.0~2692~98~$159,900~
+17 MacLachlan Street, Holder ACT 2611 ~$660,000~2~1~House~2.0~208~90~$555,000~
+2/82 Dixon Drive, Holder ACT 2611 ~$989,000~4~2~House~6.0~N/A~145~N/A~
+11 Counsel Street, Holder ACT 2611 ~Offers Over $1,150,000~4~2~House~0.5~1029~223~$688,000~

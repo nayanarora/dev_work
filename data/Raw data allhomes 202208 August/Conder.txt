@@ -1,0 +1,9 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+11/23 Heidelberg Street, Conder ACT 2906 ~Offers Over $629,000~3~1~Unit / Apartment~1.5~245~98~N/A~
+25/75 Box Hill Avenue, Conder ACT 2906 ~$649,000~3~1~Townhouse~2.5~219~N/A~N/A~
+8 Loureiro Street, Conder ACT 2906 ~Offers Over $649,000~3~1~House~4.5~538~96~N/A~
+17 Feint Street, Conder ACT 2906 ~Offers over $680,000~3~1~House~1.0~643~N/A~$421,000~
+Unit 12/5 Florence Fuller Crescent, Conder ACT 2906 ~$840,000~3~2~Townhouse~4.5~378~N/A~N/A~
+(no street name provided), Conder ACT 2906 ~$949,000~4~2~House~4.0~797~192~$518,000~
+3 Oddie Place, Conder ACT 2906 ~$949,000~4~2~House~3.5~722~167~$458,000~
+6 Aldor Green, Conder ACT 2906 ~$1207500~5~2~House~4.5~900~239~$543,000~

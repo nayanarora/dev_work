@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+12 Singleton Crescent, Oxley ACT 2903 ~$850,000~3~1~House~3.0~886~121~$423,000~

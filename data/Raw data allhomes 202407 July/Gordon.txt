@@ -1,0 +1,12 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+9/32 Sid Barnes Crescent, Gordon ACT 2906 ~$549,000~3~1~Townhouse~4.5~235~N/A~N/A~
+3/2 Travers Street, Gordon ACT 2906 ~$589,000~2~2~Apartment~6.0~N/A~N/A~$2,200,000~
+29 Callaway Crescent, Gordon ACT 2906 ~$600,000~3~1~House~2.5~817~112~$525,000~
+19/15 Scarfe Close, Gordon ACT 2906 ~$629,000~3~2~Townhouse~1.5~300~N/A~N/A~
+12 Schofield Place, Gordon ACT 2906 ~Offers Above $730,000~3~1~House~0.5~422~N/A~$380,000~
+7 Darcy Close, Gordon ACT 2906 ~$750,000~3~1~House~3.5~470~N/A~$372,000~
+14 Schofield Place, Gordon ACT 2906 ~Offers Over $759,000~3~2~House~1.5~466~121~$380,000~
+8 McGrowdie Place, Gordon ACT 2906 ~$790,000~3~2~House~1.5~428~N/A~$380,000~
+10 McGrowdie Place, Gordon ACT 2906 ~$798,000~3~1~House~4.0~418~N/A~$380,000~
+14 Michael Holt Crescent, Gordon ACT 2906 ~$829,000~3~2~House~5.0~741~207~$459,000~
+15 Van Praag Place, Gordon ACT 2906 ~$1,530,000~5~3~House~2.5~946~N/A~$580,000~

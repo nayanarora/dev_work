@@ -1,0 +1,7 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+12/90 Blacket Street, Downer ACT 2602 ~Offers over $575,000~2~1~Townhouse~6.0~2014~N/A~$120,000~
+3 Milson Street, Downer ACT 2602 ~$1,075,000~4~2~House~0.5~598~185~$815,000~
+11 Burn Street, Downer ACT 2602 ~$1,135,000~3~2~House~N/A~725~N/A~$924,000~
+12 Durack Street, Downer ACT 2602 ~$1,200,000~3~1~House~N/A~694~N/A~$889,000~
+50 Bradfield Street, Downer ACT 2602 ~$1,250,000~4~1~House~N/A~1018~N/A~$1,020,000~
+71 Burn Street, Downer ACT 2602 ~$1,500,000~4~2~House~5.5~780~N/A~$924,000~

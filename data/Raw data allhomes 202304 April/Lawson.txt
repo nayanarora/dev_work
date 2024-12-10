@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+25/11 Wanderlight Avenue, Lawson ACT 2617 ~$689,000~3~3~Unit / Apartment~5.5~5693~122~$134,320~
+7 Narrambla Terrace, Lawson ACT 2617 ~$1,500,000~5~3~House~4.0~554~313~$653,000~
+18 Swagman Street, Lawson ACT 2617 ~$2149000~5~3~House~5.5~450~376~$713,000~

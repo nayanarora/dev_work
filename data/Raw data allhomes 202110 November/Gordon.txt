@@ -1,0 +1,3 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+206 Knoke Avenue, Gordon ACT 2906 ~$799,000~3~1~House~3.0~714~113~$312,000~
+3 Staunton Place, Gordon ACT 2906 ~$1,400,000~6~2~House~3.5~877~N/A~$384,000~

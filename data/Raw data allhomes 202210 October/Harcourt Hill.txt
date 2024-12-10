@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+6 Monfries Place, Nicholls ACT 2913 ~$1,650,000~5~3~House~4.5~743~399~$691,000~
+40 Temperley Street, Nicholls ACT 2913 ~$1,775,000~5~2~House~3.0~869~295~$775,000~
+50 Sue Geh Circuit, Nicholls ACT 2913 ~$1,990,000~5~2~House~4.0~969~442~$830,000~

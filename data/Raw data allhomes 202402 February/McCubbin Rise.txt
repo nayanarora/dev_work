@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+53 Cazneaux Crescent, Weston ACT 2611 ~$745,000~N/A~N/A~N/A~N/A~175~N/A~$420,000~
+90 McInnes Street, Weston ACT 2611 ~$830,000~N/A~N/A~N/A~N/A~708~N/A~$650,000~
+16 Lycett Street, Weston ACT 2611 ~  $950,000~N/A~N/A~N/A~N/A~693~N/A~$543,000~
+6 Cazneaux Crescent, Weston ACT 2611 ~$1,550,000~N/A~N/A~N/A~N/A~605~252~$758,000~

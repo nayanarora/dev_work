@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+6 Becke Place, Garran ACT 2605 ~$1,649,000~4~1~House~2.0~815~N/A~$650,000~

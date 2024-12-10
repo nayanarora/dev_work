@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+3 Crowder Circuit, Stirling ACT 2611 ~$1,179,000~4~2~House~4.5~759~261~$672,000~

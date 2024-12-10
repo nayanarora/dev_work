@@ -1,0 +1,18 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+131/230 Flemington Road, Harrison ACT 2914 ~$380,000~1~1~House~6.0~19700.0~N/A~$8,800,000~
+49/141 Mapleton Avenue, Harrison ACT 2914 ~ $380,000~1~1~Unit / Apartment~6.0~N/A~N/A~$6,000,000~
+24/4 Sapling Street, Harrison ACT 2914 ~$400,000~2~1~Apartment~0.0~N/A~N/A~$8,800,000~
+44 Otway Street, Harrison ACT 2914 ~$400,000~1~1~Townhouse~4.0~3529~N/A~$2,240,000~
+128/230 Flemington Road, Harrison ACT 2914 ~$450,000~2~2~Apartment~6.0~N/A~N/A~$8,800,000~
+19/128 Flemington Road, Harrison ACT 2914 ~$455,000~2~1~Apartment~6.0~N/A~N/A~$5,250,000~
+5/84 Kings Canyon Street, Harrison ACT 2914 ~$460,000~2~1~Unit / Apartment~6.0~N/A~N/A~$3,910,000~
+41/236 Flemington Road, Harrison ACT 2914 ~$479,999~2~2~Apartment~6.0~N/A~N/A~$8,800,000~
+83/11 Wimmera Street, Harrison ACT 2914 ~$495,000~2~2~Apartment~6.0~N/A~N/A~$4,800,000~
+86/11 Wimmera Street, Harrison ACT 2914 ~$509,000~2~2~Apartment~5.0~N/A~N/A~$4,800,000~
+2/100 Kalianna Street, Harrison ACT 2914 ~$539,000~2~1~Townhouse~6.0~N/A~N/A~N/A~
+76/1 Windjana Street, Harrison ACT 2914 ~$549,000~2~2~Apartment~5.5~N/A~N/A~$4,675,000~
+20 Adventure Street, Harrison ACT 2914 ~$760,000~3~1~House~6.0~250~125~$385,000~
+39 Hazelgrove Street, Harrison ACT 2914 ~$814000~4~2~House~5.5~246~N/A~$389,000~
+2 Casilda Street, Harrison ACT 2914 ~$1,015,000 ~3~2~House~6.0~456~154~$532,000~
+(no street name provided), Harrison ACT 2914 ~$1145000~5~2~House~4.0~460~251~$533,000~
+2/42 Adder Street, Harrison ACT 2914 ~$1,499,000~4~3~Townhouse~5.0~906~N/A~N/A~

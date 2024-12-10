@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+24/15 Eldridge Crescent, Garran ACT 2605 ~  $650,000~2~2~Apartment~6.0~8393~N/A~$7,500,000~
+33/17 Eldridge Crescent, Garran ACT 2605 ~$790,000~3~2~Unit / Apartment~6.0~8393~N/A~$7,500,000~
+4/2 Eldridge Crescent, Garran ACT 2605 ~$790,000~3~2~Apartment~6.0~10800.0~N/A~$8,225,000~
+15 Maurice Place, Garran ACT 2605 ~$1,350,000~3~1~House~N/A~833~N/A~$1,204,000~

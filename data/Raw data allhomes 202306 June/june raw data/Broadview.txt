@@ -1,0 +1,11 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+5/50 Marungul Avenue, Ngunnawal ACT 2913 ~$600,000~3~1~Townhouse~6.0~124~138~N/A~
+36 Noongale Court, Ngunnawal ACT 2913 ~  $659,000~3~1~Duplex~3.0~304~91~$398,000~
+54 Bargang Crescent, Ngunnawal ACT 2913 ~  $670,000~3~1~House~5.0~310~N/A~$400,000~
+2/10 Marou Place, Ngunnawal ACT 2913 ~  $699,000~3~2~Townhouse~2.0~213~134~N/A~
+54 Jabanungga Avenue, Ngunnawal ACT 2913 ~$729,999~3~1~House~5.0~491~123~$400,000~
+6/23 Mandurah Place, Ngunnawal ACT 2913 ~$790,000~3~2~Townhouse~3.5~263~144~N/A~
+2 Gurrit Place, Ngunnawal ACT 2913 ~$875,000~3~1~House~3.5~440~127~$421,000~
+8 Yerradhang Street, Ngunnawal ACT 2913 ~$ 925,000 ~4~2~House~6.0~439~170~$434,000~
+53 Paul Coe Crescent, Ngunnawal ACT 2913 ~$1,259,000~5~2~House~4.0~725~350~$523,000~
+16 Deumonga Court, Ngunnawal ACT 2913 ~$1,800,000~5~4~House~5.5~841~508~$743,000~

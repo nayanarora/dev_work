@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+8/20 Blakey Close, Monash ACT 2904 ~$650,000~3~1~Townhouse~4.0~N/A~N/A~N/A~
+37/174 Clive Steele Avenue, Monash ACT 2904 ~$699,000~3~1~Townhouse~4.0~174~N/A~N/A~
+10/18 Kenyon Circuit, Monash ACT 2904 ~$719,000~4~2~Townhouse~1.5~365~N/A~N/A~
+15 Charleston Street, Monash ACT 2904 ~$749,000~3~1~House~1.0~470~N/A~$420,000~
+24 Hallstrom Circuit, Monash ACT 2904 ~$849,000 ~3~2~House~2.0~787~N/A~$478,000~

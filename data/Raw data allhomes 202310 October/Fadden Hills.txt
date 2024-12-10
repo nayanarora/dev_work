@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+10/45 Stopford Crescent, Fadden ACT 2904 ~$850,000~4~2~House~4.0~360~155~N/A~
+1 Coyne Street, Fadden ACT 2904 ~$910,000~3~2~House~1.0~794~129~N/A~
+26 Airey Crescent, Fadden ACT 2904 ~$999,000~4~2~House~3.0~707~N/A~$560,000~
+38 Garrick Street, Fadden ACT 2904 ~$1,150,000~4~2~House~3.0~795~N/A~$498,000~
+74 Appel Crescent, Fadden ACT 2904 ~$1,680,000 NEG~4~3~House~3.5~772~N/A~$622,000~

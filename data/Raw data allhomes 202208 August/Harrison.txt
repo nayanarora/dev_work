@@ -1,0 +1,13 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+37/148 Flemington Road, Harrison ACT 2914 ~Offers over $355,000~1~1~Apartment~6.0~13600.000000000002~55~$37,990~
+57/148 Flemington Rd, Harrison ACT 2914 ~$390,000~1~1~Apartment~6.0~N/A~N/A~$37,990~
+68/148 Flemington Road, Harrison ACT 2914 ~$499,000~2~2~Apartment~6.0~13600.000000000002~84~$37,990~
+71/148 Flemington Road, Harrison ACT 2914 ~$519,000~2~2~Apartment~6.0~13600.000000000002~86~$37,990~
+45/224 Flemington Road, Harrison ACT 2914 ~$700,000~3~2~Townhouse~5.0~68~134~N/A~
+358 Anthony Rolfe Avenue, Harrison ACT 2914 ~$1,060,000~4~2~House~4.5~404~244~$490,000~
+68 Carpentaria Street, Harrison ACT 2914 ~$1,090,000 ~4~2~House~3.5~561~163~$593,000~
+(no street name provided), Harrison ACT 2914 ~$1,099,000~4~2~House~4.0~524~214~$565,000~
+29 Ormiston Circuit, Harrison ACT 2914 ~$1,129,000~4~2~House~6.0~520~N/A~$623,000~
+69 Tanami Street, Harrison ACT 2914 ~$1,130,000~4~2~House~4.0~525~N/A~$565,000~
+90 Cultivation Street, Harrison ACT 2914 ~$1,149,000~5~3~House~3.5~367~242~N/A~
+72 Carpentaria Street, Harrison ACT 2914 ~$1,175,000~4~2~House~4.5~525~178~$608,000~

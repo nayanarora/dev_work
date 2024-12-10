@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+52 House Circuit, Banks ACT 2906 ~$749,000~3~1~House~2.0~467~N/A~$400,000~
+10 Youl Court, Banks ACT 2906 ~Offers Over $845,000~3~2~House~1.5~765~143~$461,000~
+21 Tregellas Crescent, Banks ACT 2906 ~Offers Over $850,000~3~2~House~4.0~689~122~$442,000~

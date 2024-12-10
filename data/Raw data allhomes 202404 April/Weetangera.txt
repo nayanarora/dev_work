@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+83 Springvale Drive, Weetangera ACT 2614 ~$1,450,000~5~3~House~1.5~1142~N/A~$806,000~
+45A & 45B Belconnen Way, Weetangera ACT 2614 ~$1600000~4~3~Townhouse~6.0~510~N/A~N/A~
+13 Packer Street, Weetangera ACT 2614 ~$1,599,000~4~2~House~2.0~950~222~$706,000~

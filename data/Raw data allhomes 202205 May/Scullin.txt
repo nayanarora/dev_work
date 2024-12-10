@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+36 Ross Smith Crescent, Scullin ACT 2614 ~$857500~3~1~House~1.5~734~N/A~$345,000~

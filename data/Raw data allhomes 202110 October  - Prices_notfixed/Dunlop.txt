@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+9 Buckmaster Crescent, Dunlop ACT 2615 ~Offers over $899,000~6~2~House~3.0~776~220~$340,000~

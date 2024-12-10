@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+50 Betty Maloney Crescent, Banks ACT 2906 ~$710,000~3~2~Townhouse~4.5~475~140~N/A~
+37 Reader Close, Banks ACT 2906 ~$719,000~3~1~House~1.0~N/A~N/A~N/A~
+21 Tregellas Crescent, Banks ACT 2906 ~Offers Over $850,000~3~2~House~4.0~689~122~$442,000~

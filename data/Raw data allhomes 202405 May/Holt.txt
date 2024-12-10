@@ -1,0 +1,13 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+13/64 Hardwick Crescent, Holt ACT 2615 ~$379,000~1~1~Apartment~5.5~N/A~N/A~$349,000~
+57/68 Hardwick Crescent, Holt ACT 2615 ~$448,000~2~2~Apartment~6.0~N/A~N/A~N/A~
+51/158 Starke Street, Holt ACT 2615 ~  $585,000~3~1~Townhouse~5.5~N/A~N/A~N/A~
+1 De Mestre Place, Holt ACT 2615 ~$599,000~2~1~House~1.0~340~N/A~$335,000~
+3/73 Lorraway Street, Holt ACT 2615 ~$670,000~3~1~Townhouse~6.0~224~N/A~N/A~
+12/68 Lorraway Street, Holt ACT 2615 ~  $699,000~3~2~Townhouse~6.0~293~N/A~N/A~
+48 Kellermann Close, Holt ACT 2615 ~$719,000~3~1~House~3.5~288~N/A~$268,000~
+14 Watchorn Close, Holt ACT 2615 ~$750,000~3~2~House~6.0~382~N/A~$395,000~
+9 Eaves Street, Holt ACT 2615 ~$785,000~4~1~House~1.5~822~N/A~N/A~
+3/11 Chester Close, Holt ACT 2615 ~ $829,000~4~2~Townhouse~5.0~353~N/A~N/A~
+4 Beaurepaire Crescent, Holt ACT 2615 ~  $939,000~4~2~House~4.5~987~175~$474,000~
+27 Lorraway Street, Holt ACT 2615 ~$995,000~5~2~House~6.0~N/A~N/A~$435,000~

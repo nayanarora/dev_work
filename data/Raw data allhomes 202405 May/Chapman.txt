@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+52 Sidaway Street, Chapman ACT 2611 ~  $999,000~4~2~House~0.5~1274~193~$690,000~
+41 Doyle Terrace, Chapman ACT 2611 ~$1,300,000~5~3~House~2.0~1147~328~$639,000~
+1 Faulkner Place, Chapman ACT 2611 ~$1,400,000~4~4~House~4.5~847~N/A~$859,000~
+26 Bertel Crescent, Chapman ACT 2611 ~$2,699,000~4~3~House~3.0~1145~550~$750,000~

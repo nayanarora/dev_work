@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+47/5 Burnie Street, Lyons ACT 2606 ~$445,000~1~1~Apartment~6.0~10200.0~61~$63,000~

@@ -1,0 +1,25 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+3/23 Elm Way, Jerrabomberra NSW 2619 ~$574000~2~1~Townhouse~N/A~5455~N/A~N/A~
+17/27 Elm Way, Jerrabomberra NSW 2619 ~$590,000~2~1~Townhouse~N/A~9624~N/A~N/A~
+7/4 Redwood Avenue, Jerrabomberra NSW 2619 ~$639000~2~1~Townhouse~N/A~12400.0~N/A~N/A~
+6/9-15 Torpy Place, Jerrabomberra NSW 2619 ~$649000~3~1~House~N/A~2707~N/A~N/A~
+38 Dora Street, Jerrabomberra NSW 2619 ~$849000~3~2~House~N/A~460~N/A~N/A~
+41 Bluestone Gardens, Jerrabomberra NSW 2619 ~$865000~3~2~House~N/A~563~N/A~N/A~
+1/163 Waterfall Drive, Jerrabomberra NSW 2619 ~$920000~3~2~Townhouse~N/A~490~N/A~N/A~
+1/51 Forest Drive, Jerrabomberra NSW 2619 ~$925000~3~2~House~N/A~979~N/A~N/A~
+84 Brudenell Drive, Jerrabomberra NSW 2619 ~$960000~4~2~House~N/A~882~N/A~N/A~
+7 Colverwell Crescent, Jerrabomberra NSW 2619 ~$975000~4~2~House~N/A~440~114~N/A~
+17 Majura Place, Jerrabomberra NSW 2619 ~$979,000~4~2~House~N/A~779~N/A~N/A~
+18 Elm Way, Jerrabomberra NSW 2619 ~$1015000~4~2~House~N/A~864~864~N/A~
+(no street name provided), Jerrabomberra NSW 2619 ~$1045000~4~2~House~N/A~602~N/A~N/A~
+232 Halloran Drive, Jerrabomberra NSW 2619 ~$1175000~4~2~House~N/A~743~254~N/A~
+246B Bicentennial Drive, Jerrabomberra NSW 2619 ~$1300000~3~2~House~N/A~1039~N/A~N/A~
+6 Dennis Place, Jerrabomberra NSW 2619 ~$1412500~4~2~House~N/A~961~N/A~N/A~
+10 Kavanagh Street, Jerrabomberra NSW 2619 ~$1527500~4~2~House~N/A~1073~240~N/A~
+38 Freestone Crescent, Jerrabomberra NSW 2619 ~$1600000~5~2~House~N/A~852~368~N/A~
+24 Waterfall Drive, Jerrabomberra NSW 2619 ~$1650000~5~2~House~N/A~1039~331~N/A~
+7 Laurence Close, Jerrabomberra NSW 2619 ~$1685000~6~3~House~N/A~1657~N/A~N/A~
+228 Bicentennial Drive, Jerrabomberra NSW 2619 ~$1,670,000~5~3~House~N/A~923~N/A~N/A~
+7 Bellbush Close, Jerrabomberra NSW 2619 ~$1745000~5~3~House~N/A~1375~338~N/A~
+19 Maple Crescent, Jerrabomberra NSW 2619 ~$1945000~6~4~House~N/A~830~387~N/A~
+6 Willow Close, Jerrabomberra NSW 2619 ~$1945000~5~4~House~N/A~1147~N/A~N/A~

@@ -1,0 +1,26 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+8/17 Elm Way, Jerrabomberra NSW 2619 ~$590000~2~1~Townhouse~N/A~6136~N/A~N/A~
+6/21 Elm Way, Jerrabomberra NSW 2619 ~$599000~2~1~Townhouse~N/A~3615~N/A~N/A~
+9/17 Brudenell Drive, Jerrabomberra NSW 2619 ~$622500~2~1~Townhouse~N/A~6449~N/A~N/A~
+17/17 Brudenell Drive, Jerrabomberra NSW 2619 ~$635000~2~1~Townhouse~N/A~6452~N/A~N/A~
+8/103 Bicentennial Dr, Jerrabomberra NSW 2619 ~$665000~2~1~Townhouse~N/A~316~N/A~N/A~
+2/1-7 Torpy Place, Jerrabomberra NSW 2619 ~$650000~3~1~Townhouse~N/A~2949~N/A~N/A~
+5/4 Redwood Avenue, Jerrabomberra NSW 2619 ~$698000~3~1~House~N/A~12400.0~126~N/A~
+3/4 Redwood Avenue, Jerrabomberra NSW 2619 ~$769,000~3~1~Townhouse~N/A~321~N/A~N/A~
+3 Gabriel Avenue, Jerrabomberra NSW 2619 ~$900000~3~2~House~N/A~750~N/A~N/A~
+13 Breen Place, Jerrabomberra NSW 2619 ~$925000~3~2~House~N/A~963~152~N/A~
+17 Ironbark Circuit, Jerrabomberra NSW 2619 ~$1000000~4~2~House~N/A~540~214~N/A~
+7 Breen Place, Jerrabomberra NSW 2619 ~$1114000~5~3~House~N/A~859~N/A~N/A~
+18 Murruba Place, Jerrabomberra NSW 2619 ~$1,099,000~5~2~House~N/A~696~195~N/A~
+7 Bottlebrush Place, Jerrabomberra NSW 2619 ~$1,120,000~4~2~House~N/A~596~246~N/A~
+(no street name provided), Jerrabomberra NSW 2619 ~$1,120,000~4~2~House~N/A~712~N/A~N/A~
+31 Firethorn Place, Jerrabomberra NSW 2619 ~$1,129,000~4~2~House~N/A~754~N/A~N/A~
+64 Bicentennial Drive, Jerrabomberra NSW 2619 ~$1,200,000~4~2~House~N/A~738~N/A~N/A~
+27 Balcombe Street, Jerrabomberra NSW 2619 ~$1350000~4~2~House~N/A~991~227~N/A~
+47 Redwood Avenue, Jerrabomberra NSW 2619 ~$1374000~4~2~House~N/A~918~N/A~N/A~
+3 She-Oak Place, Jerrabomberra NSW 2619 ~$1,399,000~5~2~House~N/A~956~N/A~N/A~
+261 Bicentennial Drive, Jerrabomberra NSW 2619 ~$1449000~4~2~House~N/A~910~N/A~N/A~
+57 Woodhill Link, Jerrabomberra NSW 2619 ~$1560000~5~2~House~N/A~914~280~N/A~
+29 Nicholii Loop, Jerrabomberra NSW 2619 ~$1675000~5~3~House~N/A~801~N/A~N/A~
+32 Ironbark Circuit, Jerrabomberra NSW 2619 ~$1687500~4~2~House~N/A~846~334~N/A~
+28 Eucalypt Rise, Jerrabomberra NSW 2619 ~$1840000~4~2~House~N/A~2377~N/A~N/A~

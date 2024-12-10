@@ -1,0 +1,17 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+38/35 Oakden Street, Greenway ACT 2900 ~Offers Over $330,000~1~1~Unit / Apartment~6.0~N/A~55~N/A~
+11/56 Cowlishaw Street, Greenway ACT 2900 ~$345,000~1~1~Unit / Apartment~6.0~N/A~N/A~$5,855,000~
+274/325 Anketell Street, Greenway ACT 2900 ~$364,999~1~1~Apartment~6.0~N/A~N/A~N/A~
+19/58 Eileen Good Street, Greenway ACT 2900 ~$365,000~1~1~Apartment~6.0~5829~N/A~$3,740,000~
+227/142 Anketell Street, Greenway ACT 2900 ~$380,000~1~1~Unit / Apartment~6.0~N/A~55~N/A~
+186/325 Anketell Street, Greenway ACT 2900 ~$430,000~2~2~Unit / Apartment~6.0~N/A~N/A~N/A~
+Aspen Village - Aspen Village - Unit 330, Greenway ACT 2900 ~$446,900~1~1~Apartment~5.0~N/A~N/A~$6,400,000~
+Aspen Village - Aspen Village - Unit 904, Greenway ACT 2900 ~$459,900~1~1~Apartment~5.0~N/A~N/A~N/A~
+2/35 Oakden Street, Greenway ACT 2900 ~$490,000~2~2~Apartment~6.0~N/A~89~N/A~
+Door 921 Unit 281, Greenway ACT 2900 ~$499,999~2~2~Unit / Apartment~6.0~N/A~N/A~N/A~
+Aspen Village - Aspen Village - Unit 515, Greenway ACT 2900 ~$552,900~2~2~Apartment~5.0~N/A~75~N/A~
+Aspen Village - Aspen Village - Unit 823, Greenway ACT 2900 ~$577,900~2~2~Apartment~5.0~N/A~76~N/A~
+128/311 Anketell Street, Greenway ACT 2900 ~$590,000~2~2~Unit / Apartment~6.0~N/A~124~$6,620,000~
+21 Cynthea Teague Crescent, Greenway ACT 2900 ~$779,900~3~3~Townhouse~6.5~N/A~N/A~$3,045,000~
+83/1 Rowland Rees Crescent, Greenway ACT 2900 ~$785,000~3~2~Townhouse~6.0~N/A~N/A~N/A~
+1/1 Rowland Rees Crescent, Greenway ACT 2900 ~$1,250,000~5~3~Townhouse~4.0~415~248~N/A~

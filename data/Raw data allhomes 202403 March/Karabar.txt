@@ -1,0 +1,13 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+1/63 Donald Road, Karabar NSW 2620 ~$294000~2~1~Unit / Apartment~N/A~1193~N/A~N/A~
+35 Margaret Street, Karabar NSW 2620 ~$674000~3~1~House~N/A~629~105~N/A~
+115 Donald Road, Karabar NSW 2620 ~$699000~3~1~House~N/A~615~88~N/A~
+129 Cooma Street, Karabar NSW 2620 ~$718,999~3~1~House~N/A~440~96~N/A~
+10 Sassafras Crescent, Karabar NSW 2620 ~$745000~3~2~House~N/A~656~N/A~N/A~
+42 Southbar Road, Karabar NSW 2620 ~$740000~4~1~House~N/A~651~N/A~N/A~
+7 Queenbar Road, Karabar NSW 2620 ~$735,000~3~1~House~N/A~613~N/A~N/A~
+142 Cooma Street, Karabar NSW 2620 ~$755000~3~2~House~N/A~609~130~N/A~
+6 Laura Place, Karabar NSW 2620 ~$772500~3~1~House~N/A~598~N/A~N/A~
+3 Cantle Place, Karabar NSW 2620 ~$880,000~4~2~House~N/A~738~N/A~N/A~
+123 Barracks Flat Drive, Karabar NSW 2620 ~$969,000~4~2~House~N/A~689~N/A~N/A~
+34 Currie Street, Karabar NSW 2620 ~$1225000~5~3~House~N/A~934~N/A~N/A~

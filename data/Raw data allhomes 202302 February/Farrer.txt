@@ -1,0 +1,12 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+7/30 Gatton Street, Farrer ACT 2607 ~$360,000 ~1~1~Unit / Apartment~2.0~1967~N/A~$259,000~
+9-11 Drevermann Street, Farrer ACT 2607 ~$520,000 to $540,000~2~2~Unit / Apartment~6.0~18200.0~N/A~N/A~
+13/5 Lambrigg Street, Farrer ACT 2607 ~Offers Over $549,000~3~1~Townhouse~4.0~N/A~85~N/A~
+2/5 Crane Place, Farrer ACT 2607 ~$775,000~3~2~Duplex~5.0~344~N/A~N/A~
+3 Southee Place, Farrer ACT 2607 ~$800000~3~2~Townhouse~5.0~282~118~$508,000~
+27 Gluyas Street, Farrer ACT 2607 ~$1,099,000~4~2~House~1.0~795~169~$744,000~
+157 Lambrigg Street, Farrer ACT 2607 ~$1,125,000~4~1~House~1.5~933~149~$979,000~
+17 Dookie Street, Farrer ACT 2607 ~$1,195,000~5~2~House~0.5~853~N/A~$834,000~
+5 Werribee Crescent, Farrer ACT 2607 ~$1,300,000~4~2~House~1.0~958~N/A~$834,000~
+4 Werribee Crescent, Farrer ACT 2607 ~$1,300,000~4~2~House~2.5~783~169~$870,000~
+210 Beasley Street, Farrer ACT 2607 ~$1,350,000~6~3~House~5.0~809~226~$740,000~

@@ -1,0 +1,11 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+12 Bunima Crescent, Ngunnawal ACT 2913 ~$590,000~2~1~House~6.0~228~97~$257,000~
+8/14 Len Waters Street, Ngunnawal ACT 2913 ~$659,000~3~2~Townhouse~5.0~228~122~N/A~
+49 Amagula Avenue, Ngunnawal ACT 2913 ~Offers over $679,900~3~1~House~5.0~350~91~$294,000~
+67/42 Paul Coe Crescent, Ngunnawal ACT 2913 ~$698,000 ~3~2~Townhouse~6.0~N/A~111~N/A~
+9 Bamir Square, Ngunnawal ACT 2913 ~$732,000~3~1~House~3.0~368~N/A~$294,000~
+10 Gudamang Street, Ngunnawal ACT 2913 ~$749,000~3~2~Duplex~6.0~237~108~$257,000~
+12 Mundawari Circuit, Ngunnawal ACT 2913 ~$750,000~3~1~House~2.5~N/A~N/A~$329,000~
+82 Jabanungga Avenue, Ngunnawal ACT 2913 ~$785,000~3~1~House~4.5~319~133~$294,000~
+31 Ferguson Circuit, Ngunnawal ACT 2913 ~$868,000~4~2~House~1.5~424~153~$340,000~
+7 Anakie Court, Ngunnawal ACT 2913 ~$949,000~4~2~House~5.5~N/A~N/A~$237,000~

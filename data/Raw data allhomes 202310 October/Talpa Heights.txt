@@ -1,0 +1,41 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+64/15 McFarlane Avenue, Googong NSW 2620 ~$464000~1~1~Unit / Apartment~N/A~N/A~N/A~N/A~
+9/15 McFarlane Avenue, Googong NSW 2620 ~$459,000~1~1~House~N/A~N/A~N/A~N/A~
+(no street name provided), Googong NSW 2620 ~$779999~4~2~House and Land Package~N/A~N/A~N/A~N/A~
+6 Underhill Street, Googong NSW 2620 ~$475,000~1~1~Townhouse~N/A~193~N/A~N/A~
+93 Edward Drive, Googong NSW 2620 ~$487500~4~2~House~N/A~473~248~N/A~
+104/189 Gorman Drive, Googong NSW 2620 ~$525000~2~2~Apartment~N/A~166~N/A~N/A~
+(no street name provided), Googong NSW 2620 ~$836500~4~2~House and Land Package~N/A~450~N/A~N/A~
+(no street name provided), Googong NSW 2620 ~$793621~N/A~N/A~House and Land Package~N/A~549~N/A~N/A~
+77/15. McFarlane Avenue, Googong NSW 2620 ~$564000~2~2~Unit / Apartment~N/A~N/A~N/A~N/A~
+269 Gorman Drive, Googong NSW 2620 ~$655000~2~2~Townhouse~N/A~206~N/A~N/A~
+MIO - A home of your own- 2 Bed, 2 Living Areas, 2 Bath, 2 Car Space, Googong NSW 2620 ~$675000~2~1~Townhouse~N/A~21000.0~N/A~N/A~
+MIO - A home of your own- 2 Bed, 2 Living Areas, 2 Bath, Double Garage, Googong NSW 2620 ~$695000~2~1~Townhouse~N/A~21000.0~N/A~N/A~
+MIO - A home of your own - 2 Bed, 2 Living Areas, 2 Bath,Triple Garage, Googong NSW 2620 ~$734000~2~1~Townhouse~N/A~21000.0~N/A~N/A~
+11 Aprasia Avenue, Googong NSW 2620 ~$750000~3~2~Townhouse~N/A~301~N/A~N/A~
+4/28 Bambridge Parade, Googong NSW 2620 ~$747,000~2~2~Townhouse~N/A~232~N/A~N/A~
+MIO - A home of your own - 3 Bed, 2 Bath, Double Garage, Googong NSW 2620 ~$779975~3~1~Townhouse~N/A~21000.0~N/A~N/A~
+MIO - A home of your own - 3 Bed, 2 Bath, Attached Double Garage, Googong NSW 2620 ~$800000~3~1~Townhouse~N/A~21000.0~N/A~N/A~
+115/15 McFarlane Avenue, Googong NSW 2620 ~$824000~3~3~Townhouse~N/A~N/A~N/A~N/A~
+MIO - A home of your own - 3 Bed, 2 Bath, Triple Garage, Googong NSW 2620 ~$809975~3~1~Other~N/A~21000.0~N/A~N/A~
+91 Erskine Loop, Googong NSW 2620 ~$860000~4~2~House~N/A~351~145~N/A~
+13 Underhill Street, Googong NSW 2620 ~$845000~3~2~House~N/A~405~158~N/A~
+3 Bambridge Parade, Googong NSW 2620 ~$870000~3~1~House~N/A~416~N/A~N/A~
+35 Wellsvale Drive, Googong NSW 2620 ~$850,000~4~2~Townhouse~N/A~226~N/A~N/A~
+MIO - A home of your own - 4 Bed, 2 Bath, Double Garage, Googong NSW 2620 ~$872500~4~1~Other~N/A~21000.0~N/A~N/A~
+9 Hearne Street, Googong NSW 2620 ~$900000~3~2~House~N/A~408~188~N/A~
+MIO - A home of your own - 4 Bed + Study, 2 Bath, Double Garage, Googong NSW 2620 ~$885000~4~1~Other~N/A~21000.0~N/A~N/A~
+Lot 2160, Googong NSW 2620 ~$915000~4~2~House~7.0~363~N/A~N/A~
+4 Carver Street, Googong NSW 2620 ~$919000~3~2~House~N/A~481~N/A~N/A~
+(no street name provided), Googong NSW 2620 ~$917000~4~1~House and Land Package~N/A~363~N/A~N/A~
+22 Rockley Parade, Googong NSW 2620 ~$925000~4~2~House~N/A~347~185~N/A~
+56 Mary Street, Googong NSW 2620 ~$912500~4~2~House~6.0~350~N/A~N/A~
+(no street name provided), Googong NSW 2620 ~$925000~4~2~House~N/A~399~202~N/A~
+Lot 9321 Inverary Street, Googong NSW 2620 ~$949,000 to $979,000~4~2~House~N/A~337~209~N/A~
+232 Glenrock Drive, Googong NSW 2620 ~$950,000~3~2~House~N/A~398~180~N/A~
+1 McPherson Street, Googong NSW 2620 ~$1575000~4~1~House~N/A~554~348~N/A~
+24 Feagan Street, Googong NSW 2620 ~$0~4~2~House~N/A~781~420~N/A~
+64 Wickerslack Lane, Googong NSW 2620 ~$1,850,000~11~5~House~N/A~24000.0~502~N/A~
+25 Wingrave Street, Googong NSW 2620 ~$1874500~5~2~House~N/A~724~410~N/A~
+1419 Old Cooma Road, Little Burra NSW 2620 ~$1,900,000~4~1~House~N/A~N/A~N/A~N/A~
+159 Fernleigh Drive, Googong NSW 2620 ~$3,500,000~5~3~House~N/A~137100.0~N/A~N/A~

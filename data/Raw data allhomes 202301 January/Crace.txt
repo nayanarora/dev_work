@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+3/21 Samaria Street, Crace ACT 2911 ~$685,000~2~2~House~6.0~138~N/A~N/A~
+19 Zanci Street, Crace ACT 2911 ~$704000~2~1~Townhouse~6.0~135~112~$290,000~
+4 Drooka Crescent, Crace ACT 2911 ~$1,050,000~4~2~House~5.5~418~150~$529,000~
+12 Fingal Street, Crace ACT 2911 ~$1,499,000~4~3~House~6.0~498~277~$634,000~

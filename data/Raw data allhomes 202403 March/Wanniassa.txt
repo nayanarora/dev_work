@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+19 Harwood Court, Wanniassa ACT 2903 ~Offers Over $780,000~3~1~House~3.0~565~N/A~$419,000~
+10 Annand Place, Wanniassa ACT 2903 ~$810,000~3~1~House~1.0~702~N/A~$470,000~
+44 Gaunson Crescent, Wanniassa ACT 2903 ~$1,030,000~5~3~House~2.0~922~N/A~$522,000~
+22 Cruikshank Street, Wanniassa ACT 2903 ~$1,195,000~4~2~House~3.0~870~211~$532,000~
+99 Longmore Crescent, Wanniassa ACT 2903 ~$1,599,999.00~6~3~House~3.0~721~N/A~$520,000~

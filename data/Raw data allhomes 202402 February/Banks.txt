@@ -1,0 +1,7 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+8/39 Wiburd Street, Banks ACT 2906 ~$619,000~N/A~N/A~N/A~N/A~262~N/A~N/A~
+51 Wilhelmi Crescent, Banks ACT 2906 ~$660,000~N/A~N/A~N/A~N/A~497~N/A~$374,000~
+70 Pockett Avenue, Banks ACT 2906 ~$670,000~N/A~N/A~N/A~N/A~652~120~$397,000~
+31 McLuckie Crescent, Banks ACT 2906 ~  $749,000~N/A~N/A~N/A~N/A~525~96~$394,000~
+23 Perrin Circuit, Banks ACT 2906 ~$795,000~N/A~N/A~N/A~N/A~718~135~$416,000~
+19 Adcock Place, Banks ACT 2906 ~$1,099,000~N/A~N/A~N/A~N/A~818~179~$451,000~

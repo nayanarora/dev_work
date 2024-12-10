@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+7/1 Chifley Place, Chifley ACT 2606 ~$530,000~2~1~Apartment~4.5~1338~N/A~$2,040,000~
+19 Charteris Crescent, Chifley ACT 2606 ~$1387500~4~1~Townhouse~6.0~330~N/A~$942,000~
+Charteris Villas - Unit 4, Chifley ACT 2606 ~$1,398,000~4~1~Other~6.0~N/A~N/A~N/A~
+Charteris Villas - Unit 3, Chifley ACT 2606 ~$1,470,000~4~1~Other~6.0~N/A~N/A~N/A~
+Charteris Villas - Unit 1, Chifley ACT 2606 ~$1,580,000~4~1~Other~6.0~N/A~N/A~N/A~

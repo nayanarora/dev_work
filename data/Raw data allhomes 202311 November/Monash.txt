@@ -1,0 +1,14 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+18/174 Clive Steele Avenue, Monash ACT 2904 ~$650,000~3~1~Townhouse~5.0~174~N/A~N/A~
+3/18 Kenyon Circuit, Monash ACT 2904 ~$699,000~3~2~Townhouse~1.5~350~N/A~N/A~
+The Gardens at Monash - Type F - Age Qualified Single Level Villas, Monash ACT 2904 ~$725,000~3~1~Townhouse~7.0~10500.0~N/A~N/A~
+The Gardens at Monash - Type G - Age Qualified Single Level Villas, Monash ACT 2904 ~$730,000~3~1~Townhouse~7.0~10500.0~N/A~N/A~
+29 Charleston Street, Monash ACT 2904 ~$775,000~3~1~House~0.5~467~N/A~$420,000~
+The Gardens at Monash - Type D - Age Qualified Single Level Villas, Monash ACT 2904 ~$785,000~3~2~Townhouse~7.0~10500.0~N/A~N/A~
+The Gardens at Monash - Type A - Age Qualified Single Level Villas, Monash ACT 2904 ~$830,000~3~2~Townhouse~7.0~10500.0~N/A~N/A~
+34 Barraclough Crescent, Monash ACT 2904 ~$850,000~3~1~House~0.5~766~105~$467,000~
+The Gardens at Monash - Type B - Age Qualified Single Level Villas, Monash ACT 2904 ~$885,000~3~2~Townhouse~7.0~10500.0~N/A~N/A~
+The Gardens at Monash - Type C - Age Qualified Single Level Villas, Monash ACT 2904 ~$895,000~3~2~Townhouse~7.0~10500.0~N/A~N/A~
+6 Punch Place, Monash ACT 2904 ~$1,050,000~4~2~House~3.0~878~N/A~$597,000~
+21 Sturdee Crescent, Monash ACT 2904 ~$1,200,000~4~3~House~2.0~745~N/A~$447,000~
+20 William Hudson Crescent, Monash ACT 2904 ~$1,850,000~5~4~House~4.0~1411~N/A~$692,000~

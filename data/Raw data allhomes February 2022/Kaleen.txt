@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+18 Cloncurry Street, Kaleen ACT 2617 ~$1,239,000~5~2~House~2.5~728~202~$506,000~

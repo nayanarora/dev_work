@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+22 Stephen Street, Ainslie ACT 2602 ~$810,000~3~1~House~1.5~217~116~$550,000~
+7 Sherbrooke Street, Ainslie ACT 2602 ~$1,150,000~3~1~House~4.5~661~103~$1,015,000~
+40 Raymond Street, Ainslie ACT 2602 ~$1,550,000~3~1~House~2.0~641~124~$1,239,000~
+6/19 Chisholm Street, Ainslie ACT 2602 ~$1,750,000~3~2~House~6.0~540~217~N/A~

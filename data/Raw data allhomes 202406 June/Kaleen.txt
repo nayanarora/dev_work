@@ -1,0 +1,7 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+1/13 Balonne Street, Kaleen ACT 2617 ~$699,000~4~1~House~1.5~394~N/A~N/A~
+20 Loddon Street, Kaleen ACT 2617 ~$880,000~4~1~House~4.0~510~115~N/A~
+14 Pambula Street, Kaleen ACT 2617 ~$1,150,000~4~2~House~1.5~911~307~N/A~
+162 Maribyrnong Avenue, Kaleen ACT 2617 ~$1,199,000~3~1~House~0.5~1091~N/A~$674,000~
+13 Barwon Street, Kaleen ACT 2617 ~$1,650,000~4~3~House~2.0~1300~N/A~$802,000~
+19 Staaten Crescent, Kaleen ACT 2617 ~$1,850,000~6~4~House~4.0~919~N/A~$661,000~

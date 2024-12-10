@@ -1,0 +1,19 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+8/23 Elm Way, Jerrabomberra NSW 2619 ~$594000~2~1~Townhouse~N/A~5455~N/A~N/A~
+5/1-7 Torpy Place, Jerrabomberra NSW 2619 ~$649,500~3~1~Townhouse~N/A~2949~N/A~N/A~
+3/68-70 Bicentennial Drive, Jerrabomberra NSW 2619 ~$707500~3~2~Townhouse~N/A~4138~N/A~N/A~
+37 Unwin Avenue, Jerrabomberra NSW 2619 ~$779,000~3~2~House~N/A~266~N/A~N/A~
+30 Pannamena Crescent, Jerrabomberra NSW 2619 ~$905000~3~2~House~N/A~511~124~N/A~
+16 Kinlyside Avenue, Jerrabomberra NSW 2619 ~$995,000~3~2~House~N/A~800~191~N/A~
+44 Brudenell Drive, Jerrabomberra NSW 2619 ~$1,015,000~5~2~House~N/A~755~212~N/A~
+1 Stringybark Drive, Jerrabomberra NSW 2619 ~$1075000~4~2~House~N/A~753~210~N/A~
+5 Bluebell Glen, Jerrabomberra NSW 2619 ~$1200000~4~2~House~N/A~680~N/A~N/A~
+72 Jacaranda Dr, Jerrabomberra NSW 2619 ~$1250000~4~2~House~N/A~1056~N/A~N/A~
+56 Ironbark Circuit, Jerrabomberra NSW 2619 ~$1225000~4~2~House~N/A~728~214~N/A~
+5 Kennedy Avenue, Jerrabomberra NSW 2619 ~$1275000~5~2~House~N/A~853~N/A~N/A~
+37 Kinlyside Avenue, Jerrabomberra NSW 2619 ~$1275000~5~2~House~N/A~874~N/A~N/A~
+4 Dixon Place, Jerrabomberra NSW 2619 ~$1,290,000~6~2~House~N/A~906~N/A~N/A~
+138 Halloran Drive, Jerrabomberra NSW 2619 ~$1,300,000~5~3~House~N/A~764~420~N/A~
+164 Bicentennial Drive, Jerrabomberra NSW 2619 ~$1449000~5~2~House~N/A~887~N/A~N/A~
+47 Forest Drive, Jerrabomberra NSW 2619 ~$1425000~4~2~House~N/A~950~323~N/A~
+66 Waterfall Drive, Jerrabomberra NSW 2619 ~$1650000~5~3~House~N/A~986~272~N/A~

@@ -1,0 +1,21 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+22/41 Leahy Close, Narrabundah ACT 2604 ~$250,000~2~1~Apartment~6.0~5009~77~$204,800~
+12/41 Leahy Close, Narrabundah ACT 2604 ~$335,000~1~1~Apartment~4.0~5009~N/A~$204,800~
+65/39 Jerrabomberra Avenue, Narrabundah ACT 2604 ~$429,000~1~1~Apartment~6.0~8999~N/A~$180,600~
+8/39 Jerrabomberra Avenue, Narrabundah ACT 2604 ~$499,000~2~2~Apartment~6.0~8999~N/A~$180,600~
+14/51 Leahy Close, Narrabundah ACT 2604 ~$550,000 ~2~2~Apartment~6.0~3928~N/A~$197,600~
+91/39 McIntyre Street, Narrabundah ACT 2604 ~$649,000~2~1~Unit / Apartment~6.0~13799.999999999998~N/A~$20,600,000~
+106/39 McIntyre Street, Narrabundah ACT 2604 ~Offers over $700,000~2~2~Unit / Apartment~6.0~13799.999999999998~N/A~$20,600,000~
+28/41 Leahy Close, Narrabundah ACT 2604 ~$750,000~3~2~Townhouse~5.0~5009~N/A~$204,800~
+20/45 Leahy Close, Narrabundah ACT 2604 ~Offers over $800,000~3~2~House~4.0~5349~152~$176,400~
+25 Tungun Street, Narrabundah ACT 2604 ~$920,000~2~1~House~1.0~464~70~$680,000~
+68 Walker Crescent, Narrabundah ACT 2604 ~$1,080,000~3~1~House~1.0~556~103~$950,000~
+19/34 Leahy Close, Narrabundah ACT 2604 ~$1,195,000~3~2~Townhouse~2.5~12200.0~139~$218,240~
+48 Wambool Street, Narrabundah ACT 2604 ~$1,249,000~3~1~House~2.0~396~N/A~$660,000~
+1/11 Dalrymple Street, Narrabundah ACT 2604 ~$1,325,000~3~2~House~1.5~N/A~N/A~N/A~
+73 Walker Crescent, Narrabundah ACT 2604 ~$1,360,000~4~1~House~1.5~595~152~$1,030,000~
+9 Strzelecki Place, Narrabundah ACT 2604 ~$1522500~4~2~House~1.5~740~160~$1,100,000~
+52 Caley Crescent, Narrabundah ACT 2604 ~$1,890,000~3~1~House~1.5~717~N/A~$1,200,000~
+4 Johnston Street, Narrabundah ACT 2604 ~$2,995,000~4~2~House~4.0~974~N/A~$1,060,000~
+13 Finniss Crescent, Narrabundah ACT 2604 ~$3,650,000~5~3~House~4.0~772~349~$1,060,000~
+13 Throsby Crescent, Narrabundah ACT 2604 ~Offers over $4,000,000~5~4~House~2.5~1120~N/A~$1,220,000~

@@ -1,0 +1,7 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+56/179 Melrose Drive, Lyons ACT 2606 ~$325,000~2~1~Unit / Apartment~5.0~N/A~57~N/A~
+24/8 Corinna Street, Lyons ACT 2606 ~$325,000~2~1~Unit / Apartment~6.0~N/A~45~N/A~
+89/5 Burnie Street, Lyons ACT 2606 ~$395,000~1~1~Apartment~5.0~10200.0~N/A~N/A~
+2 Taroona Place, Lyons ACT 2606 ~$1,100,000 ~3~2~House~5.5~N/A~167~$635,000~
+1/35 Tarraleah Crescent, Lyons ACT 2606 ~Offers Over $1,299,000~4~3~Duplex~6.5~N/A~N/A~N/A~
+25 Derwent Street, Lyons ACT 2606 ~$1450000~4~1~House~2.0~N/A~N/A~N/A~

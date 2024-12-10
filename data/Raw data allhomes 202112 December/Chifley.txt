@@ -1,0 +1,7 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+15/17 Medley Street, Chifley ACT 2606 ~$370,000~1~1~Apartment~1.5~10700.0~52~N/A~
+3/10 Allwood Street, Chifley ACT 2606 ~$1,195,000~4~2~Townhouse~6.0~N/A~154~N/A~
+7/15 Charteris Crescent, Chifley ACT 2606 ~$1,195,000~3~2~Townhouse~6.0~N/A~148~N/A~
+39B Gledden Street, Chifley ACT 2606 ~$1,425,000~3~2~House~5.0~N/A~196~$764,000~
+1A D'Arcy Place, Chifley ACT 2606 ~$1,600,000~4~2~Duplex~6.0~N/A~N/A~$635,000~
+Lynette - Architectural elegance nestled in the heart of Woden, Chifley ACT 2606 ~$1,950,000~5~3~Townhouse~6.0~N/A~294~$706,000~

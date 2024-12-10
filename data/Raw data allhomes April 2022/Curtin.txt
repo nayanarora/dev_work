@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+23 Macalister Crescent, Curtin ACT 2605 ~$1,100,000~2~1~House~0.5~592~115~$644,000~
+30 McCulloch Street, Curtin ACT 2605 ~$1,295,000 ~3~1~House~2.0~789~106~$704,000~
+68 Jennings Street, Curtin ACT 2605 ~$1,349,000~3~2~House~N/A~810~146~$664,000~

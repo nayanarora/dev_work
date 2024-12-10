@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+5 MacDonald Place, Spence ACT 2615 ~$935,000~4~1~House~5.0~766~126~$525,000~

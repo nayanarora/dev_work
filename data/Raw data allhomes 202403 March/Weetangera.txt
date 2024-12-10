@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+1/51 Belconnen Way, Weetangera ACT 2614 ~$889,990~4~2~House~1.0~555~178~N/A~
+45A & 45B Belconnen Way, Weetangera ACT 2614 ~$1600000~4~3~Townhouse~6.0~510~N/A~N/A~
+10 Coppin Place, Weetangera ACT 2614 ~$1,550,000~4~3~House~4.0~759~N/A~$650,000~
+25A Shumack Street, Weetangera ACT 2614 ~$1,550,000~5~2~House~7.0~2413~226~N/A~
+13 Packer Street, Weetangera ACT 2614 ~$1,599,000~4~2~House~2.0~950~222~$706,000~

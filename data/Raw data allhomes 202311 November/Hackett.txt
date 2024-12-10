@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+56 Maitland Street, Hackett ACT 2602 ~$1,300,000~5~2~House~N/A~723~188~$802,000~
+27 Harris Street, Hackett ACT 2602 ~$1,325,000~3~1~House~1.0~811~N/A~$906,000~
+12 Verco Street, Hackett ACT 2602 ~$2,750,000~5~3~House~3.5~1221~360~$1,131,000~

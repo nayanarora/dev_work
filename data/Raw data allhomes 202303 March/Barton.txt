@@ -1,0 +1,9 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+92/32 Blackall Street, Barton ACT 2600 ~$490,000~1~1~Apartment~6.0~4428~N/A~$157,380~
+17/44 Macquarie Street, Barton ACT 2600 ~Inviting   $545,000~1~1~House~6.0~5467~60~$116,280~
+27/41 Blackall Street, Barton ACT 2600 ~$615,000~1~1~Apartment~6.0~36700.0~N/A~$195,500~
+7/44 Macquarie Street, Barton ACT 2600 ~$630,000~2~1~Apartment~6.0~5467~71~$116,280~
+5/30 Blackall Street, Barton ACT 2600 ~$675,000~2~2~Apartment~6.0~4428~93~$157,380~
+65/44 Macquarie Street, Barton ACT 2600 ~  $690,000~2~2~Unit / Apartment~6.0~5467~N/A~$116,280~
+42/5 Sydney Avenue, Barton ACT 2600 ~$1,395,000~3~2~Apartment~2.5~4127~N/A~$90,000~
+20 Darling Street, Barton ACT 2600 ~  $2,950,000~4~3~House~4.0~985~269~$1,950,000~

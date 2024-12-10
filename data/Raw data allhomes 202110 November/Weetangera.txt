@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+73 Belconnen Way, Weetangera ACT 2614 ~$1,550,000~4~4~House~4.0~920~N/A~$420,000~

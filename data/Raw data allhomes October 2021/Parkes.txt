@@ -1,0 +1,11 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+The Griffin, Parkes - 1 bedroom Apartment | 44 Constitution Avenue, Parkes ACT 2600 ~$549,900~1~1~Apartment~5.3~N/A~N/A~N/A~
+The Griffin, Parkes - 1 Bedroom Apartment KB |, Parkes ACT 2600 ~$579,900~1~1~Apartment~5.3~N/A~N/A~N/A~
+The Griffin, Parkes - 1 Bedroom Apartment OA |, Parkes ACT 2600 ~$599,900~1~1~Apartment~6.0~N/A~N/A~N/A~
+The Griffin, Parkes - 2 Bedroom Apartment - OD-2, Parkes ACT 2600 ~$655,000~2~2~Apartment~5.3~N/A~N/A~N/A~
+The Griffin, Parkes - 2 Bedroom Apartment | 44 Constitution Avenue, Parkes ACT 2600 ~$729950~2~2~Apartment~6.3~N/A~N/A~N/A~
+The Griffin, Parkes - 2 Bedroom Apartment OC |, Parkes ACT 2600 ~$824500~2~1~Apartment~5.3~N/A~N/A~N/A~
+The Griffin, Parkes - 2 bedroom + multipurpose room, Parkes ACT 2600 ~$975,000~2~1~Apartment~7.5~N/A~N/A~N/A~
+The Griffin, Parkes - 3 Bedroom Apartment | 44 Constitution Avenue, Parkes ACT 2600 ~$1265000~3~2~Apartment~5.3~N/A~N/A~N/A~
+The Griffin, Parkes - 3 Bedroom Penthouse | 44 Constitution Avenue, Parkes ACT 2600 ~$1627500~3~3~Apartment~6.0~N/A~N/A~N/A~
+The Griffin, Parkes - 3 Bedroom Penthouse + Multipurpose 258 |, Parkes ACT 2600 ~$1,925,000~3~3~Apartment~5.5~N/A~N/A~N/A~

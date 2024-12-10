@@ -1,0 +1,9 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+6/7 Medley Street, Chifley ACT 2606 ~$420,000~2~1~Apartment~4.5~10800.0~70~$148,350~
+20a Carslaw Street, Chifley ACT 2606 ~  $1,049,000~4~2~House~4.0~588~149~N/A~
+2/10 Pollock Street, Chifley ACT 2606 ~$1,125,000~4~3~Townhouse~5.5~203~181~N/A~
+Charteris Villas - Unit 6, Chifley ACT 2606 ~$1,190,000~3~1~Other~6.0~1038~167~$950,000~
+Charteris Villas - Unit 4, Chifley ACT 2606 ~$1,390,000~4~1~Other~6.0~1038~195~$950,000~
+Charteris Villas - Unit 3, Chifley ACT 2606 ~$1,450,000~4~1~Other~6.0~1038~205~$950,000~
+Charteris Villas - Unit 1, Chifley ACT 2606 ~$1,560,000~4~1~Other~6.0~1038~232~$950,000~
+14 Gledden Street, Chifley ACT 2606 ~$1,749,000~4~4~House~3.5~881~N/A~$813,000~

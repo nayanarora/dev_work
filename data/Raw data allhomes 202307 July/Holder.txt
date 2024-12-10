@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+29/5 Hyndes Crescent, Holder ACT 2611 ~$289,000~1~1~Unit / Apartment~5.0~9993~N/A~$180,075~
+72 Blackwood Terrace, Holder ACT 2611 ~$860,000~3~1~House~3.0~719~122~$723,000~
+45 De Graaff Street, Holder ACT 2611 ~$925,000~4~2~House~3.0~723~N/A~$660,000~

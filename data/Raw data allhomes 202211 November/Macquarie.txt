@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+28/117 Redfern Street, Macquarie ACT 2614 ~Offers Above $429,000~2~1~Apartment~6.0~N/A~68~N/A~
+43/4 Henshall Way, Macquarie ACT 2614 ~$670,000~2~2~Unit / Apartment~6.0~9783~N/A~$72,048~
+24 Badgery Street, Macquarie ACT 2614 ~$925,000 ~3~1~House~0.5~900~N/A~$759,000~
+111 Lachlan Street, Macquarie ACT 2614 ~$1,000,000~4~2~House~2.0~772~N/A~$783,000~
+2/60 Arndell Street, Macquarie ACT 2614 ~$1,250,000~4~2~House~6.0~409~N/A~N/A~

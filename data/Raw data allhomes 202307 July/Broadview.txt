@@ -1,0 +1,13 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+47/46 Paul Coe Crescent, Ngunnawal ACT 2913 ~$470,000~2~1~Unit / Apartment~6.0~31500.0~99~$107,968~
+27 Marungul Avenue, Ngunnawal ACT 2913 ~$650,000~3~1~House~2.5~294~106~$351,000~
+81 Yumba Avenue, Ngunnawal ACT 2913 ~$698,000~3~1~House~6.0~293~112~$376,000~
+109 Jabanungga Avenue, Ngunnawal ACT 2913 ~$719,000~3~1~House~4.5~372~104~$352,000~
+3 Akma Place, Ngunnawal ACT 2913 ~$720,000~3~1~House~4.5~403~N/A~$400,000~
+20 Gubbity Street, Ngunnawal ACT 2913 ~$729,000~3~1~House~6.0~240~127~$349,000~
+22 Murrung Crescent, Ngunnawal ACT 2913 ~$729,000~3~1~House~4.5~393~135~$386,000~
+54 Jabanungga Avenue, Ngunnawal ACT 2913 ~$729,999~3~1~House~5.0~491~123~$400,000~
+10 Maynard Street, Ngunnawal ACT 2913 ~Offers Over $739,000~3~2~House~4.0~367~112~$400,000~
+25 Windradyne Street, Ngunnawal ACT 2913 ~$778,000~3~1~House~5.0~405~125~$400,000~
+5 Gelane Street, Ngunnawal ACT 2913 ~$799,000~3~1~House~6.0~527~121~$447,000~
+53 Paul Coe Crescent, Ngunnawal ACT 2913 ~$1,259,000~5~2~House~4.0~725~350~$523,000~

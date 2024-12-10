@@ -1,0 +1,7 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+2/204 McFarlane Burnet Avenue, MacGregor ACT 2615 ~Offers above $519,000~2~1~Townhouse~6.0~310~105~N/A~
+6 Boelke Place, MacGregor ACT 2615 ~Offers Over $729,000~3~1~House~4.5~374~N/A~$367,000~
+5 Lafferty Place, MacGregor ACT 2615 ~$730,000~3~1~House~5.0~300~112~$341,000~
+11 Refshauge Crescent, MacGregor ACT 2615 ~Offers Over $749,000~3~1~House~4.0~355~105~$367,000~
+35 Mileham Street, MacGregor ACT 2615 ~$865,000~4~1~House~1.5~981~145~$541,000~
+15 Cumpston Place, MacGregor ACT 2615 ~$1,100,000~4~2~House~0.5~1049~N/A~$449,000~

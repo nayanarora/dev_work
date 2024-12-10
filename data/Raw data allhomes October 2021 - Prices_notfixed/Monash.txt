@@ -1,0 +1,3 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+22 Shirra Close, Monash ACT 2904 ~$949,000~4~3~House~2.5~870~204~$394,000~
+5 Scratchley Place, Monash ACT 2904 ~Offers Over $1,800,000~4~4~House~0.5~1192~420~$467,000~

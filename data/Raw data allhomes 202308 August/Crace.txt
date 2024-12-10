@@ -1,0 +1,9 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+23/4 Thadoona Street, Crace ACT 2911 ~$400,000 to $420,000~1~1~Apartment~6.0~5420~N/A~$3,705,000~
+6A Junee Street, Crace ACT 2911 ~$599,000~2~2~Townhouse~6.0~5420~N/A~$3,705,000~
+3/21 Samaria Street, Crace ACT 2911 ~$699,000~2~2~Townhouse~6.0~138~N/A~N/A~
+26 Baratta Street, Crace ACT 2911 ~$949,000~3~2~House~5.0~294~216~$469,000~
+106 Narden Street, Crace ACT 2911 ~$975,000~3~2~House~4.5~510~232~$649,000~
+27 Abena Avenue, Crace ACT 2911 ~$999,000~4~2~House~3.0~373~245~$553,000~
+37 Lanaba Street, Crace ACT 2911 ~$1,199,000~4~2~House~5.0~457~257~$594,000~
+22 Benalla Street, Crace ACT 2911 ~$1,350,000~4~2~House~5.5~540~277~$673,000~

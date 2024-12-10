@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+54 Ashburner Street, Higgins ACT 2615 ~$845,000~4~2~House~1.0~697~N/A~$531,000~

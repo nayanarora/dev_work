@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+9 Serra Place, Stirling ACT 2611 ~$899,000~4~2~House~3.5~868~151~$658,000~

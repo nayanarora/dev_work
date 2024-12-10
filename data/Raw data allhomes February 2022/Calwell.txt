@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+3 Brawn Place, Calwell ACT 2905 ~$890,000~3~1~House~3.0~N/A~N/A~$338,000~
+27 Casey Crescent, Calwell ACT 2905 ~$935,000~5~2~House~2.0~670~212~$396,000~
+58 Costello Circuit, Calwell ACT 2905 ~$950,000~4~2~House~2.0~N/A~157~$360,000~

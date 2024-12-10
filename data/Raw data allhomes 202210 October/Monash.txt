@@ -1,0 +1,8 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+21 Charleston Street, Monash ACT 2904 ~$819,000~3~1~House~4.5~488~N/A~$420,000~
+26 Forwood Street, Monash ACT 2904 ~$840,000~3~1~House~1.5~686~N/A~$431,000~
+16 Hutcheson Street, Monash ACT 2904 ~$870,000~3~1~House~1.5~736~N/A~$492,000~
+32 Forwood Street, Monash ACT 2904 ~$880,000~3~1~House~1.5~726~111~$458,000~
+161 Clive Steele Avenue, Monash ACT 2904 ~$880,000~3~1~House~2.0~455~N/A~$377,000~
+66 Sturdee Crescent, Monash ACT 2904 ~$1,099,000~4~2~House~2.0~709~210~$495,000~
+2 Delprat Circuit, Monash ACT 2904 ~$1,100,000~4~2~House~3.5~897~296~$829,000~

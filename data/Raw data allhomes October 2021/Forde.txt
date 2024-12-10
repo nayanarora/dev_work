@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+5 Ray Ellis Crescent, Forde ACT 2914 ~Offers Over $1,399,000~4~2~House~4.5~539~319~$392,000~

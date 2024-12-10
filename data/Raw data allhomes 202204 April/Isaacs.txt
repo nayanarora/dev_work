@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+5/3 Hansen Circuit, Isaacs ACT 2607 ~  $895,000~3~2~Townhouse~1.5~N/A~N/A~N/A~
+7 Byatt Place, Isaacs ACT 2607 ~   $1,525,000~5~4~House~3.0~1531~259~$563,000~
+1 Byatt Place, Isaacs ACT 2607 ~$1,529,000~4~2~House~3.0~1052~235~$519,000~
+20 Buntine Crescent, Isaacs ACT 2607 ~  $1,800,000~4~2~House~2.5~844~184~$685,000~

@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+35 Barringer Street, Conder ACT 2906 ~$1,400,000~4~2~House~4.0~1719~N/A~$504,000~

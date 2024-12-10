@@ -1,0 +1,13 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+4/88a Fergus Road, Karabar NSW 2620 ~$315000~2~1~Unit / Apartment~N/A~64~49~N/A~
+6 Karri Cres, Karabar NSW 2620 ~$615000~3~1~House~N/A~600~N/A~N/A~
+35 Oleria St, Karabar NSW 2620 ~$710000~4~2~House~N/A~632~N/A~N/A~
+60 Barracks Flat Drive, Karabar NSW 2620 ~$785,000 to $820,000~3~1~House~N/A~706~N/A~N/A~
+7 Atholbar Way, Karabar NSW 2620 ~$0~3~2~House~N/A~583~N/A~N/A~
+52 Emery Cresent, Karabar NSW 2620 ~$837500~3~1~House~N/A~1648~N/A~N/A~
+15 Waratah Street, Karabar NSW 2620 ~$860000~4~2~House~N/A~572~N/A~N/A~
+8 Cunningham Street, Karabar NSW 2620 ~$0~4~2~House~N/A~721~N/A~N/A~
+8 Doyle Place, Karabar NSW 2620 ~$875000~4~1~House~N/A~670~N/A~N/A~
+126A Barracks Flat Drive, Karabar NSW 2620 ~$885,000~4~3~House~N/A~341~260~N/A~
+27 Rusten Street, Karabar NSW 2620 ~$950,000~4~3~House~N/A~806~N/A~N/A~
+30 Cunningham Street, Karabar NSW 2620 ~$1,800,000 to $1,850,000~6~4~House~N/A~1146~638~N/A~

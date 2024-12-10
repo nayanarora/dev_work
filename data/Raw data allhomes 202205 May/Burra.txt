@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+1635 Burra Road, Burra NSW 2620 ~$880,000~1~1~House~N/A~N/A~150~N/A~
+265 London Bridge Road, Burra NSW 2620 ~$2200000~4~2~House~N/A~708800.0~190~N/A~
+57 Urila Road, Burra NSW 2620 ~$2,290,000~8~4~Rural~N/A~92000.0~N/A~N/A~

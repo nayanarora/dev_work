@@ -1,0 +1,23 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+5/41 Leahy Close, Narrabundah ACT 2604 ~$179,000~2~1~Apartment~5.5~5009~N/A~$204,800~
+12/41 Leahy Close, Narrabundah ACT 2604 ~$335,000~1~1~Apartment~4.0~5009~N/A~$204,800~
+65/39 Jerrabomberra Avenue, Narrabundah ACT 2604 ~$390,000~1~1~Apartment~6.0~8999~N/A~$180,600~
+51/39 Jerrabomberra Avenue, Narrabundah ACT 2604 ~  $450,000~1~1~Townhouse~4.5~8999~N/A~$180,600~
+20/201 Goyder Street, Narrabundah ACT 2604 ~$490,000~2~1~Apartment~6.0~10100.0~N/A~$216,000~
+8/39 Jerrabomberra Avenue, Narrabundah ACT 2604 ~$495,000~2~2~Apartment~6.0~8999~N/A~$180,600~
+25/39 Jerrabomberra Avenue, Narrabundah ACT 2604 ~$517500~2~2~Apartment~6.0~8999~75~$180,600~
+28/41 Leahy Close, Narrabundah ACT 2604 ~$699,000~3~2~Townhouse~5.0~5009~N/A~$204,800~
+29/51 Leahy Close, Narrabundah ACT 2604 ~  $719,000~3~2~Unit / Apartment~2.0~3928~158~$197,600~
+134/39 McIntyre Street, Narrabundah ACT 2604 ~$759,000~2~2~Unit / Apartment~5.5~13799.999999999998~83~$20,600,000~
+25/32 Leahy Close, Narrabundah ACT 2604 ~$1,000,000~3~2~Unit / Apartment~6.0~N/A~N/A~N/A~
+10 Euroka Street, Narrabundah ACT 2604 ~$1,049,000~2~1~House~4.0~464~61~$680,000~
+2 Nyrang Street, Narrabundah ACT 2604 ~$1,049,000~2~1~House~N/A~958~N/A~$890,000~
+25 Vaughan Gardens, Narrabundah ACT 2604 ~  $1,050,000~3~2~House~4.0~349~195~N/A~
+9/39 McIntyre Street, Narrabundah ACT 2604 ~$1,100,000~3~2~Apartment~6.0~13799.999999999998~N/A~$20,600,000~
+41 Tallara Parkway, Narrabundah ACT 2604 ~$1,350,000~4~2~House~0.5~662~162~$820,000~
+7/10 Lumeah Street, Narrabundah ACT 2604 ~$1,450,000~4~3~Townhouse~6.0~N/A~N/A~N/A~
+19 Logan Street, Narrabundah ACT 2604 ~$1,730,000~5~2~House~1.5~803~N/A~$980,000~
+107 Walker Crescent, Narrabundah ACT 2604 ~$2,199,000~5~3~House~5.0~768~305~$1,020,000~
+91 Stuart Street, Narrabundah ACT 2604 ~$2,200,000~4~2~House~2.5~813~N/A~$1,320,000~
+4 Johnston Street, Narrabundah ACT 2604 ~$2,795,000~4~2~House~4.0~974~N/A~$1,060,000~
+48 Finniss Crescent, Narrabundah ACT 2604 ~$3149000~4~3~House~6.0~600~301~$1,110,000~

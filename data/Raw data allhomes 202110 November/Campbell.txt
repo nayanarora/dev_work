@@ -1,0 +1,20 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+16/135 Blamey Crescent, Campbell ACT 2612 ~$298,000~1~1~Apartment~5.0~3794~N/A~N/A~
+(no street name provided), Campbell ACT 2612 ~$460,000~1~1~Apartment~6.0~N/A~N/A~N/A~
+122/81 Constitution Avenue, Campbell ACT 2612 ~Offers Over $495,000~1~1~Unit / Apartment~4.5~N/A~60~N/A~
+The Parade - Campbell 5 - 410/4 Anzac Park, Campbell ACT 2612 ~$595,000~2~1~Apartment~8.4~N/A~N/A~N/A~
+The Parade - Campbell 5 - 205/4 Anzac Park, Campbell ACT 2612 ~$595,000~2~1~Apartment~8.4~N/A~N/A~N/A~
+5/139-143 Blamey Crescent, Campbell ACT 2612 ~$688,000~2~1~Apartment~6.0~1899~N/A~N/A~
+213/59 Constitution Avenue, Campbell ACT 2612 ~$720,000~2~2~Apartment~8.8~N/A~N/A~N/A~
+The Parade - Campbell 5 - Type 29, Campbell ACT 2612 ~$1,060,000~3~2~Apartment~6.0~N/A~N/A~N/A~
+The Parade - Campbell 5 - 3 Bedroom, Campbell ACT 2612 ~$1,080,000~3~2~Apartment~6.0~N/A~N/A~N/A~
+Signature Collection - Downsizers Dream - 2 Bedroom with separate living areas and Private Garage - Only 3 available!!, Campbell ACT 2612 ~$1,250,000~3~1~Apartment~6.0~N/A~N/A~N/A~
+Seventy One - 2 Bedroom + Media/3 Bed Exclusive Executive Living (with Private Garage), Campbell ACT 2612 ~$1,325,000~N/A~N/A~Apartment~6.0~N/A~N/A~$1,713,000~
+The Parade - Campbell 5 - 302/4 Anzac Park, Campbell ACT 2612 ~$1,400,000~3~2~Apartment~7.8~N/A~N/A~N/A~
+The Parade - Campbell 5 - Luxury Apartment - 502/4 Anzac Park, Campbell ACT 2612 ~$1,500,000~3~3~Apartment~6.0~N/A~N/A~N/A~
+Signature Collection - Four Bedroom Executive lifestyle - Expansive single storey luxury living with ultimate privacy, Campbell ACT 2612 ~$1,525,000~4~1~Apartment~6.0~N/A~N/A~N/A~
+Seventy One - Level 5 - North Facing EXECUTIVE Residence, Campbell ACT 2612 ~$1,565,000~3~2~Other~6.0~N/A~N/A~$1,713,000~
+Signature Collection - Designed for Downsizers - Expansive 3 bedroom executive with 3 living areas and Private Garage, Campbell ACT 2612 ~$1,595,000~3~1~Apartment~6.0~N/A~N/A~N/A~
+3/28 Chauvel Street, Campbell ACT 2612 ~$1,950,000~3~2~Townhouse~6.0~N/A~378~N/A~
+4/58 Jacka Crescent, Campbell ACT 2612 ~$1,950,000~3~2~House~7.2~N/A~317~N/A~
+The Parade - Campbell 5 - Sub-Penthouse - 602/4 Anzac Park, Campbell ACT 2612 ~$2,480,000~3~3~Apartment~6.0~N/A~N/A~N/A~

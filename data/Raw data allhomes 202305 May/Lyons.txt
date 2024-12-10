@@ -1,0 +1,8 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+(no street name provided), Lyons ACT 2606 ~$437500~1~1~House~5.0~1626~N/A~$140,400~
+107/5 Burnie Street, Lyons ACT 2606 ~$439,000~1~1~Apartment~6.0~10200.0~N/A~$63,000~
+15 Burnie Street, Lyons ACT 2606 ~$570,000~1~1~Retirement Village~N/A~N/A~N/A~N/A~
+6 Esk Place, Lyons ACT 2606 ~$930,000~4~1~House~1.5~854~127~N/A~
+22C Lutana Street, Lyons ACT 2606 ~$1,349,000~3~2~Townhouse~6.0~N/A~173~N/A~
+4b Olympus Way, Lyons ACT 2606 ~$1,450,000 ~4~2~House~6.0~379~206~N/A~
+11 Scottsdale Street, Lyons ACT 2606 ~$1,995,000~4~2~House~5.0~780~264~$905,000~

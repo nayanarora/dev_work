@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+45/3 Nevertire Street, Lawson ACT 2617 ~$385,000~2~1~Apartment~6.0~N/A~N/A~N/A~
+29/2 Pipeclay St, Lawson ACT 2617 ~$520,000~2~2~Townhouse~5.5~6678~88~N/A~
+20/1 Rouseabout Street, Lawson ACT 2617 ~$679,000~3~3~Townhouse~5.0~4688~92~N/A~
+9/2 Bulletin Street, Lawson ACT 2617 ~$770,000~4~1~Townhouse~6.0~6326~241~N/A~

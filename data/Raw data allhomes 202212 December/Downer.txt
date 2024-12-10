@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+11 Burn Street, Downer ACT 2602 ~$1,090,000~3~2~House~N/A~725~N/A~$924,000~
+12 Durack Street, Downer ACT 2602 ~$1,125,000~3~1~House~N/A~694~N/A~$889,000~
+87 Atherton Street, Downer ACT 2602 ~$1,175,000~3~1~House~2.0~836~N/A~$947,000~
+50 Bradfield Street, Downer ACT 2602 ~$1,180,000~4~1~House~N/A~1018~N/A~$1,020,000~
+522 Northbourne Avenue, Downer ACT 2602 ~$2,900,000~7~7~House~N/A~832~N/A~$595,000~

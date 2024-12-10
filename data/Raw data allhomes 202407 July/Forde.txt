@@ -1,0 +1,3 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+66 Max Purnell Street, Forde ACT 2914 ~Offers over $940,000~3~2~House~4.5~409~152~$537,000~
+51 Beveridge Crescent, Forde ACT 2914 ~$1,235,000~5~3~House~6.0~431~298~$558,000~

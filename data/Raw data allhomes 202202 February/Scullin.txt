@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+3/4 Keith Street, Scullin ACT 2614 ~Offers over $319,000~2~1~Unit / Apartment~3.0~N/A~55~$1,481,000~
+16A Petre Place, Scullin ACT 2614 ~$749,000~4~1~House~0.5~430~N/A~N/A~
+23 Harrison Street, Scullin ACT 2614 ~$899,000~3~2~House~2.5~635~133~$366,000~
+13 Mackinolty Street, Scullin ACT 2614 ~$950,000~3~1~House~5.5~708~N/A~$334,000~

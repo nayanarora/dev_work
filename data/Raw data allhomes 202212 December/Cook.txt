@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+24/16 Sexton Street, Cook ACT 2614 ~$685,000~2~1~House~3.0~331~106~N/A~

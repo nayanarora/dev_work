@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+9 Dent Place, Conder ACT 2906 ~$699,000~3~2~House~4.0~343~111~$352,000~
+11/6 Merri Place, Conder ACT 2906 ~$715,000~3~2~Townhouse~4.0~294~N/A~N/A~
+20 Russell Drysdale Crescent, Conder ACT 2906 ~  $969,000~4~2~House~2.0~780~199~$480,000~
+23 Russell Drysdale Crescent, Conder ACT 2906 ~$1,100,000~5~3~House~3.5~792~N/A~$481,000~
+6 Aldor Green, Conder ACT 2906 ~$1,195,000~5~2~House~4.5~900~N/A~$516,000~

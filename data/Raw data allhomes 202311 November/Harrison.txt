@@ -1,0 +1,23 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+57/234 Flemington Road, Harrison ACT 2914 ~$348,000~1~1~Apartment~6.0~19700.0~N/A~$8,800,000~
+136/2 Windjana Street, Harrison ACT 2914 ~$360,000~1~1~Apartment~5.5~13600.000000000002~N/A~$6,550,000~
+104/230 Flemington Road, Harrison ACT 2914 ~$399,000~2~1~Apartment~6.0~19700.0~N/A~$8,800,000~
+42/134 Flemington Road, Harrison ACT 2914 ~  $399,000~2~1~Unit / Apartment~6.0~11100.000000000002~N/A~$5,250,000~
+128/230 Flemington Road, Harrison ACT 2914 ~$489,000~2~2~Apartment~6.0~19700.0~N/A~$8,800,000~
+120/230 Flemington Road, Harrison ACT 2914 ~$509,000~2~2~Apartment~6.0~19700.0~N/A~$8,800,000~
+41/236 Flemington Road, Harrison ACT 2914 ~$509,999~2~2~Apartment~6.0~19700.0~N/A~$8,800,000~
+117/2 Windjana Street, Harrison ACT 2914 ~$510,000~2~2~Apartment~6.0~13600.000000000002~N/A~$6,550,000~
+47/134 Flemington Road, Harrison ACT 2914 ~$590,000~2~2~Apartment~6.0~11100.000000000002~N/A~$5,250,000~
+72/224 Flemington Road, Harrison ACT 2914 ~$680,000~3~2~Townhouse~6.0~69~N/A~N/A~
+73/224 Flemington Road, Harrison ACT 2914 ~$699,000~3~2~Townhouse~6.0~69~N/A~N/A~
+16/12 Helby Street, Harrison ACT 2914 ~$699,000~3~2~Townhouse~6.0~256~N/A~N/A~
+24 Fairydale Street, Harrison ACT 2914 ~  $749,000~3~1~House~6.0~250~N/A~$385,000~
+372 Anthony Rolfe Avenue, Harrison ACT 2914 ~$915,000~4~2~Townhouse~4.5~N/A~N/A~N/A~
+45 Katoomba Street, Harrison ACT 2914 ~$930,000~4~2~Townhouse~6.0~259~N/A~$395,000~
+32 Cedar Street, Harrison ACT 2914 ~$985,000~4~2~Townhouse~4.5~248~N/A~$389,000~
+60 Kalianna Street, Harrison ACT 2914 ~$1,030,000~4~2~House~4.5~480~238~$558,000~
+17 Brumby Street, Harrison ACT 2914 ~$1,049,000~4~2~House~5.5~455~179~$537,000~
+24 Casilda Street, Harrison ACT 2914 ~$1,049,000 ~4~2~House~3.0~450~197~$500,000~
+30 Thunder Circuit, Harrison ACT 2914 ~$1,150,000~4~1~House~4.5~528~N/A~$588,000~
+14 De Bortoli Street, Harrison ACT 2914 ~$1,289,000~4~2~House~5.0~521~270~$606,000~
+7 Helby Street, Harrison ACT 2914 ~$1,450,000~4~2~House~4.0~528~N/A~$598,000~

@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+39 Partridge Street, Fadden ACT 2904 ~$845,000~3~2~House~4.0~736~N/A~$589,000~
+22/45 Stopford Crescent, Fadden ACT 2904 ~$920,000~4~2~Townhouse~5.0~354~190~N/A~
+422 Bugden Avenue, Fadden ACT 2904 ~$1,000,000~5~2~House~1.0~753~N/A~$647,000~
+19 Courtice Close, Fadden ACT 2904 ~$1,050,000~3~1~House~2.0~838~264~$686,000~

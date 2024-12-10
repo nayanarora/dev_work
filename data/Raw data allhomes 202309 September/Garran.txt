@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+9/7 Eldridge Crescent, Garran ACT 2605 ~Offer Over $750,000~3~2~Apartment~6.0~5617~N/A~$6,825,000~
+31/2 Eldridge Crescent, Garran ACT 2605 ~$784,900~3~2~Apartment~6.0~10800.0~N/A~$8,225,000~
+3 Palmer Street, Garran ACT 2605 ~$1,200,000~3~1~House~3.0~924~159~$857,000~
+27 Fitchett Street, Garran ACT 2605 ~$1,800,000~4~3~House~4.5~730~236~$864,000~

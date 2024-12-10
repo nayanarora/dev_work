@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+8/7 McGee Place, Pearce ACT 2607 ~$349,000~2~1~Townhouse~3.5~N/A~68~N/A~
+(no street name provided), Pearce ACT 2607 ~$950,000~3~1~House~N/A~718~N/A~$567,000~
+2/32 Julius Street, Pearce ACT 2607 ~$1,460,000~3~2~Townhouse~6.0~400~200~N/A~

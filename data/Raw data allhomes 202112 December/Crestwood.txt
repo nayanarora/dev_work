@@ -1,0 +1,10 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+1/85 Derrima Road, Crestwood NSW 2620 ~$192000~1~1~Unit / Apartment~N/A~N/A~N/A~N/A~
+19/10 Arthur Street, Crestwood NSW 2620 ~$189,000~1~1~Apartment~N/A~N/A~N/A~N/A~
+18/85 Derrima Road, Crestwood NSW 2620 ~$199,000~1~1~Unit / Apartment~N/A~54~40~N/A~
+37/86 Derrima Road, Crestwood NSW 2620 ~$329500~2~1~Unit / Apartment~N/A~N/A~63~N/A~
+9/161 Uriarra Road, Crestwood NSW 2620 ~$349000~1~1~Apartment~N/A~N/A~N/A~N/A~
+3/48 Richard Avenue, Crestwood NSW 2620 ~$380000~2~1~Unit / Apartment~N/A~N/A~N/A~N/A~
+10/78 Derrima Road, Crestwood NSW 2620 ~$523500~2~1~Apartment~N/A~N/A~108~N/A~
+20 Blackall Avenue, Crestwood NSW 2620 ~$1825000~8~5~Other~N/A~1001~N/A~N/A~
+1/1 2/1 3/1 5/1 Blackall Avenue, Crestwood NSW 2620 ~$1950000~8~4~Townhouse~N/A~1725~N/A~N/A~

@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+3/3 Bird Place, Flynn ACT 2615 ~$850,000~4~2~Townhouse~5.5~1495~137~$700,000~

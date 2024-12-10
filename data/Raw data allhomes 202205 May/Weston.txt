@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+4 Sturgess Place, Weston ACT 2611 ~$900,000~4~2~House~0.5~730~151~$441,000~

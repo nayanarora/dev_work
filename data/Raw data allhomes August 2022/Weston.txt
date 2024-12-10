@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+20/18 Sellbach Street, Weston ACT 2611 ~$960,000~3~2~Townhouse~5.5~164~152~N/A~
+30 Fullwood Street, Weston ACT 2611 ~$1,200,000~5~3~House~4.0~870~N/A~$705,000~
+51 Buvelot Street, Weston ACT 2611 ~$1,250,000~4~3~House~1.5~928~157~$874,000~
+16 Isherwood Street, Weston ACT 2611 ~$1,300,000~6~5~House~4.5~283~N/A~$550,000~

@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+13 Bunya Close, Palmerston ACT 2913 ~$860,000~3~1~House~3.5~674~151~$466,000~
+3 Figg Place, Palmerston ACT 2913 ~Offers above $875,000~3~2~House~6.0~656~195~$531,000~
+7 La Trobe Close, Palmerston ACT 2913 ~$895,000 Offers Invited~3~2~House~2.5~592~N/A~$480,000~
+28 Mt Warning Crescent, Palmerston ACT 2913 ~$959,000~4~2~House~4.0~453~N/A~$452,000~
+8 Barn Place, Palmerston ACT 2913 ~$1,990,000~6~3~House~4.0~943~N/A~$565,000~

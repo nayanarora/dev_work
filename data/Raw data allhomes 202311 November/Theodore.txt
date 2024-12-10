@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+10 Burhop Close, Theodore ACT 2905 ~$660,000~3~1~House~1.5~427~N/A~$407,000~
+4 Mighell Place, Theodore ACT 2905 ~$890,000~4~2~House~3.0~878~N/A~$531,000~
+44 Louis Loder Street, Theodore ACT 2905 ~$1,120,000~4~2~House~2.0~1226~N/A~$550,000~

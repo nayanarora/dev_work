@@ -1,0 +1,3 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+12 Ogden Close, Fadden ACT 2904 ~$1,050,000 ~4~2~House~3.5~825~179~$520,000~
+15 Richter Close, Fadden ACT 2904 ~$1,095,000~4~2~House~2.0~864~218~$674,000~

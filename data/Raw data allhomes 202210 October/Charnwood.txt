@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+6 Packham Place, Charnwood ACT 2615 ~$695,000~3~1~House~1.0~439~N/A~$432,000~
+2 Cooney Court, Charnwood ACT 2615 ~Offers Over $749,000~3~1~House~1.5~887~112~$469,000~
+6 Bunker Place, Charnwood ACT 2615 ~$755,000~3~1~House~1.0~585~103~$469,000~

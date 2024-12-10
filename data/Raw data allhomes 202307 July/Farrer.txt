@@ -1,0 +1,7 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+9-11 Drevermann Street, Farrer ACT 2607 ~$565,000~2~2~Unit / Apartment~6.0~18200.0~N/A~N/A~
+21 Gluyas Street, Farrer ACT 2607 ~$1,050,000~4~2~House~0.5~1116~N/A~$761,000~
+157 Lambrigg Street, Farrer ACT 2607 ~$1,125,000~4~1~House~1.5~933~149~$979,000~
+7 Prescott Street, Farrer ACT 2607 ~   $1,200,000~4~2~House~0.5~858~199~$906,000~
+13 Moodie Street, Farrer ACT 2607 ~$1,500,000~4~2~House~2.0~724~235~$761,000~
+29 Woodgate Street, Farrer ACT 2607 ~$1,599,000~4~2~House~1.0~842~N/A~$979,000~

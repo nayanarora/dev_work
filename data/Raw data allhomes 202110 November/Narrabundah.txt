@@ -1,0 +1,9 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+21/41 Leahy Close, Narrabundah ACT 2604 ~$299,000~1~1~Apartment~6.0~N/A~71~N/A~
+45/39 Jerrabomberra Avenue, Narrabundah ACT 2604 ~$530,000~2~1~Townhouse~5.0~N/A~110~N/A~
+16/44 Jerrabomberra Avenue, Narrabundah ACT 2604 ~$549,000~2~2~Unit / Apartment~4.0~N/A~N/A~N/A~
+The Aerie - The Barbary - 2/265 Goyder Street, Narrabundah ACT 2604 ~$845000~2~2~Retirement Village~N/A~N/A~N/A~N/A~
+107 Matina Street, Narrabundah ACT 2604 ~$1,150,000~2~1~House~1.0~N/A~N/A~$512,000~
+Kiara - U9 | 39 McIntyre Street, Narrabundah ACT 2604 ~$1,299,000~3~2~Apartment~8.4~N/A~151~$20,000,000~
+Lumeah - 6A Lumeah Street, Narrabundah ACT 2604 ~$1,350,000~4~3~Townhouse~6.2~N/A~366~N/A~
+18 Green Street, Narrabundah ACT 2604 ~$2,695,000~4~4~House~5.0~N/A~319~$715,000~

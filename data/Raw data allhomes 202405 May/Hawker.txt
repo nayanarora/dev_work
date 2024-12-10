@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+22/30 Springvale Drive, Hawker ACT 2614 ~$360,000~2~1~House~3.0~4016~N/A~$3,480,000~
+22/32 Springvale Drive, Hawker ACT 2614 ~$395,000~2~1~Apartment~2.5~N/A~N/A~$3,480,000~
+8/41 Jinka Street, Hawker ACT 2614 ~$710,000~3~1~Townhouse~2.0~392~N/A~N/A~

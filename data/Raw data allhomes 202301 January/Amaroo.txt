@@ -1,0 +1,7 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+34/815 Horse Park Drive, Amaroo ACT 2914 ~$555000~2~1~Townhouse~6.0~5173~84~N/A~
+8/39 Mornington Street, Amaroo ACT 2914 ~$795,000~3~1~Townhouse~4.5~378~136~N/A~
+5 Diamond Street, Amaroo ACT 2914 ~$980,000~4~2~House~4.5~480~156~$514,000~
+(no street name provided), Amaroo ACT 2914 ~$995,000~4~2~House~4.0~700~155~$598,000~
+4 Mission Street, Amaroo ACT 2914 ~$1,267,000~5~3~House~4.0~653~390~$597,000~
+26 Tarrabool Street, Amaroo ACT 2914 ~$1,749,000~5~2~House~4.0~653~507~$709,000~

@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+27 Jefferis Street, Torrens ACT 2607 ~$999,000~3~1~House~1.5~802~N/A~$902,000~

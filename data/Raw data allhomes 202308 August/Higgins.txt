@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+1/17 Higgins Place, Higgins ACT 2615 ~$499,900~2~1~Townhouse~5.0~807~N/A~$250,000~

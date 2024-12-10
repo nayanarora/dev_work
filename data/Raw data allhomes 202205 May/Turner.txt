@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+75/12 David Street, Turner ACT 2612 ~Offers over $440,000~1~1~Apartment~6.0~N/A~69~$8,060,000~
+505/2 Masson Street, Turner ACT 2612 ~$460,000~1~1~Apartment~6.0~N/A~N/A~$4,080,000~
+9/219a Northbourne Avenue, Turner ACT 2612 ~$469,000~1~1~Apartment~6.0~N/A~84~$8,060,000~
+26/3 Towns Crescent, Turner ACT 2612 ~Offers Over $490,000~1~1~Unit / Apartment~6.0~N/A~54~$3,450,000~
+2/49 Boldrewood Street, Turner ACT 2612 ~$1,275,000~2~2~Duplex~1.5~586~N/A~N/A~

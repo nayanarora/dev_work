@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+18 Biffin Street, Cook ACT 2614 ~$1,150,000~5~2~House~1.0~672~162~$476,000~

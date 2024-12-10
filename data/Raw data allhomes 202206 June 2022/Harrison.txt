@@ -1,0 +1,18 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+57/148 Flemington Rd, Harrison ACT 2914 ~$390,000~1~1~Apartment~6.0~N/A~N/A~$5,750,000~
+48/162 Flemington Road, Harrison ACT 2914 ~$399,000~1~1~Apartment~6.0~N/A~N/A~$3,800,000~
+46/144 Flemington Road, Harrison ACT 2914 ~Offers over $420,000~2~1~Apartment~6.0~N/A~N/A~$5,750,000~
+29/162 Flemington Road, Harrison ACT 2914 ~Offers Above $499,000~2~2~Apartment~6.0~N/A~67~$3,800,000~
+72/1 Windjana Street, Harrison ACT 2914 ~$499,000~2~2~Unit / Apartment~6.0~N/A~N/A~$3,800,000~
+68/148 Flemington Road, Harrison ACT 2914 ~Offers above $499,000.00~2~2~House~6.0~13600.000000000002~84~$5,750,000~
+55/234 Flemington Road, Harrison ACT 2914 ~$649,000~3~2~Apartment~6.0~N/A~N/A~$8,500,000~
+45/224 Flemington Road, Harrison ACT 2914 ~$720,000~3~2~Townhouse~5.0~N/A~134~N/A~
+64 Mapleton Avenue, Harrison ACT 2914 ~$900,000~4~2~House~5.5~N/A~N/A~$290,000~
+31 Nimbera Street, Harrison ACT 2914 ~Offers over $1,040,000~4~2~House~5.5~517~165~$412,000~
+12 Cultivation Street, Harrison ACT 2914 ~$1,050,000~4~2~House~5.0~581~236~$441,000~
+90 Cultivation Street, Harrison ACT 2914 ~$1,075,000~5~2~House~3.5~367~242~N/A~
+(no street name provided), Harrison ACT 2914 ~$1,100,000~4~2~House~4.0~524~214~$414,000~
+69 Tanami Street, Harrison ACT 2914 ~$1,175,000~4~2~House~4.0~525~N/A~$414,000~
+7 Helby Street, Harrison ACT 2914 ~$1298000~4~2~House~4.0~N/A~N/A~$427,000~
+38 Thunder Circuit, Harrison ACT 2914 ~$1,550,000~4~2~House~6.0~539~223~$443,000~
+23 Turtle Rock Street, Harrison ACT 2914 ~$1823000~4~2~House~4.5~600~415~$474,000~

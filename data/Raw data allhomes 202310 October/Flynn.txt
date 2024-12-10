@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+2 Fulford Place, Flynn ACT 2615 ~  $699,000~3~2~House~N/A~836~135~$526,000~
+61 Barber Crescent, Flynn ACT 2615 ~$1,200,000~5~3~House~1.0~1179~218~$691,000~
+14 Bird Place, Flynn ACT 2615 ~$1,250,000~4~2~House~3.5~1304~286~$675,000~

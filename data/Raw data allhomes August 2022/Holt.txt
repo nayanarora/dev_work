@@ -1,0 +1,7 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+6/68 Hardwick Crescent, Holt ACT 2615 ~$340,000~1~1~Apartment~6.0~N/A~N/A~$34,686~
+58/68 Hardwick Crescent, Holt ACT 2615 ~$445,000~2~2~Apartment~6.0~10200.0~N/A~$34,686~
+3 Longworth Place, Holt ACT 2615 ~Offers above $785,000 invited~3~1~House~1.0~629~N/A~$461,000~
+42 Lionel Rose Street, Holt ACT 2615 ~Offers over $825,000~3~2~House~4.5~250~111~$346,000~
+4/100 Lionel Rose Street, Holt ACT 2615 ~$888,000~4~2~Townhouse~5.0~286~147~N/A~
+(no street name provided), Ginninderra Estate ACT 2615 ~$950,000~4~2~House and Land Package~6.0~604~230~N/A~

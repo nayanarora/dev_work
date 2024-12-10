@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+90 McInnes Street, Weston ACT 2611 ~$830,000~3~1~House~1.5~708~N/A~$650,000~

@@ -1,0 +1,7 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+15 Massie Place, Nicholls ACT 2913 ~$1,050,000~4~2~House~4.0~698~N/A~$605,000~
+59 Dobbin Circuit, Nicholls ACT 2913 ~$1,299,000~5~2~House~4.0~650~223~$802,000~
+17 Fleetwood-Smith Street, Nicholls ACT 2913 ~$1,300,000~4~2~House~4.5~897~207~$795,000~
+54 Westbury Circuit, Nicholls ACT 2913 ~$1,495,000~4~3~House~5.0~871~363~$813,000~
+4 Kuhn Place, Nicholls ACT 2913 ~$1,500,000 ~5~3~House~4.0~882~N/A~$777,000~
+4 Viner Place, Nicholls ACT 2913 ~$1,995,000~4~3~House~3.0~952~352~$964,000~

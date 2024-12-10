@@ -1,0 +1,7 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+Koa Gardens - Residence Three - Downsizers dream, Chisholm ACT 2905 ~$949,900~4~2~Tri Occupancy~7.0~N/A~N/A~$366,000~
+Koa Gardens - Residence Two - Single level, private with own street frontage, Chisholm ACT 2905 ~$949,900~4~2~Other~7.0~N/A~N/A~$366,000~
+Koa Gardens - Residence One - Free standing, single level and north facing, Chisholm ACT 2905 ~$949,900~4~2~Other~7.0~N/A~N/A~$366,000~
+61 Beattie Crescent, Chisholm ACT 2905 ~$1,100,000~7~3~House~N/A~746~N/A~$319,000~
+57 Alston Street, Chisholm ACT 2905 ~$1,190,000~4~2~House~3.5~N/A~N/A~$363,000~
+10 & 10A Guerin Place, Chisholm ACT 2905 ~$1,600,000 ~7~3~House~0.5~1532~N/A~N/A~

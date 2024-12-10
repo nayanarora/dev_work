@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+802/19 Marcus Clarke Street, Acton ACT 2601 ~$995,000~2~2~Apartment~6.0~N/A~86~N/A~

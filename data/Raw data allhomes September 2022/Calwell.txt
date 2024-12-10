@@ -1,0 +1,7 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+65B Pennington Crescent, Calwell ACT 2905 ~$530,000 ~3~1~House~4.0~385~81~N/A~
+3 Wettenhall Circuit, Calwell ACT 2905 ~$795,000 (Offers Welcome)~4~2~House~1.5~669~N/A~$455,000~
+4/10 Minehan Place, Calwell ACT 2905 ~$835,000~3~2~Villa~1.5~390~N/A~N/A~
+9/7 Purnell Place, Calwell ACT 2905 ~$868,000~4~2~Townhouse~2.5~417~N/A~N/A~
+36 Martley Circuit, Calwell ACT 2905 ~$895,000~4~2~House~3.0~796~147~$397,000~
+73 O'Connor Circuit, Calwell ACT 2905 ~$925,000~4~3~House~N/A~906~187~$438,000~

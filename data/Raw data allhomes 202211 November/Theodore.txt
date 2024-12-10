@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+21/18 Burdett Crescent, Theodore ACT 2905 ~$615,000~3~1~Townhouse~N/A~498~101~N/A~
+37 Goldfinch Circuit, Theodore ACT 2905 ~Offers Over $875,000~4~2~House~2.5~1004~158~$640,000~
+9 Conlon Crescent, Theodore ACT 2905 ~$960,000~4~1~House~2.5~946~N/A~$616,000~
+26 Weavers Crescent, Theodore ACT 2905 ~$995,000 ~4~2~House~4.0~1110~165~$547,000~

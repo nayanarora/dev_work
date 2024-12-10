@@ -1,0 +1,8 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+20/77 Macarthur Avenue, O'Connor ACT 2602 ~Offers over $470,000~1~1~Unit / Apartment~6.0~2106~43~$222,390~
+13/15 Berrigan Crescent, O'Connor ACT 2602 ~Offers above $470,000 invited~1~1~Apartment~6.0~1794~54~$198,450~
+2/41 David Street, O'Connor ACT 2602 ~$489,000~2~1~Unit / Apartment~1.0~4433~N/A~$179,010~
+1/9 Fairfax Street, O'Connor ACT 2602 ~Offers Over $1,375,000~4~2~Townhouse~4.0~526~172~N/A~
+28 Hakea Crescent, O'Connor ACT 2602 ~$1,499,000~3~2~House~0.5~747~N/A~$1,065,000~
+6 Grevillea Street, O'Connor ACT 2602 ~$1,500,000~4~2~House~5.5~700~N/A~$1,149,000~
+4 Dianella Street, O'Connor ACT 2602 ~$1,550,000~4~2~House~1.5~701~N/A~$1,149,000~

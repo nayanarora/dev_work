@@ -1,0 +1,9 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+2/59 Donald Road, Karabar NSW 2620 ~$315000~2~1~Townhouse~N/A~N/A~N/A~N/A~
+2/88A Fergus Road, Karabar NSW 2620 ~$330000~2~1~Townhouse~N/A~N/A~N/A~N/A~
+3/4 Fairmount Crescent, Karabar NSW 2620 ~$385000~2~1~Townhouse~N/A~N/A~N/A~N/A~
+59 Pindari Crescent, Karabar NSW 2620 ~$872500~4~1~House~N/A~664~N/A~N/A~
+28 Rusten Street, Karabar NSW 2620 ~$904000~4~2~House~N/A~654~N/A~N/A~
+25 Kinsela Street, Karabar NSW 2620 ~$945000~4~2~House~N/A~1313~N/A~N/A~
+75 Barracks Flat Drive, Karabar NSW 2620 ~$ 1100000~4~2~House~N/A~N/A~N/A~N/A~
+7 Morrison Place, Karabar NSW 2620 ~$1310000~5~3~House~N/A~809~389~N/A~

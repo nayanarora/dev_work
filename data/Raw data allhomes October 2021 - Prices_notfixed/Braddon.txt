@@ -1,0 +1,41 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+421/74 Northbourne Avenue, Braddon ACT 2612 ~$365,000~1~1~Apartment~6.0~4172~N/A~N/A~
+416/17 Dooring Street, Braddon ACT 2612 ~$387000~1~1~Apartment~6.0~N/A~58~N/A~
+716/17 Dooring Street, Braddon ACT 2612 ~$385,000~1~1~Apartment~6.0~N/A~53~N/A~
+702/17 Dooring Street, Braddon ACT 2612 ~$404000~1~1~Unit / Apartment~6.0~N/A~N/A~N/A~
+52/35 Torrens Street, Braddon ACT 2612 ~$400,000~1~1~Apartment~6.0~N/A~53~N/A~
+426/1 Elouera Street, Braddon ACT 2612 ~$430,000~N/A~N/A~Apartment~6.0~N/A~N/A~N/A~
+426/1 Eloura, Braddon ACT 2612 ~$430,000~1~1~Apartment~6.0~N/A~N/A~N/A~
+Founders Lane - Dawn - 1 Bedroom, Braddon ACT 2612 ~$437,000~1~1~Apartment~6.0~N/A~N/A~N/A~
+401/17 Dooring Street, Braddon ACT 2612 ~$439,000~2~1~Apartment~6.0~N/A~N/A~N/A~
+166/77 Northbourne Avenue, Braddon ACT 2612 ~$0~1~1~Apartment~6.0~N/A~N/A~N/A~
+66/65 Ainslie Avenue, Braddon ACT 2612 ~$450000~1~1~Apartment~6.0~N/A~N/A~N/A~
+806/86 Northbourne Avenue, Braddon ACT 2612 ~$457500~1~1~Apartment~6.0~N/A~86~N/A~
+Founders Lane - Dawn - Type 5, Braddon ACT 2612 ~$470,000~1~1~Apartment~6.0~N/A~N/A~N/A~
+10 Ipima Street, Braddon ACT 2612 ~$479,000~2~1~Apartment~6.0~4624~N/A~N/A~
+21/10 Lonsdale Street, Braddon ACT 2612 ~$485,000~1~1~Apartment~6.0~1254~73~N/A~
+24/28-30 Lonsdale Street, Braddon ACT 2612 ~$515,000~1~1~Apartment~5.0~N/A~N/A~N/A~
+151/10 Ipima Street, Braddon ACT 2612 ~Offers over $520,000~2~1~Apartment~6.0~N/A~74~N/A~
+(no street name provided), Braddon ACT 2612 ~$540,000~2~1~Apartment~6.7~N/A~N/A~N/A~
+430/24 Lonsdale Street, Braddon ACT 2612 ~$545,000~1~N/A~Apartment~4.5~5012~N/A~N/A~
+416/86-88 Northbourne Avenue, Braddon ACT 2612 ~$579,950~2~2~Apartment~6.0~4181~N/A~N/A~
+Founders Lane - SOL - Type 6, Braddon ACT 2612 ~$608,000~2~1~Apartment~6.0~N/A~N/A~N/A~
+Founders Lane - Dawn - Type 19B, Braddon ACT 2612 ~$616,000~2~1~Apartment~6.0~N/A~N/A~N/A~
+Founders Lane - SOL - Type 15, Braddon ACT 2612 ~$639,000~2~2~Apartment~6.0~N/A~N/A~N/A~
+Founders Lane - Dawn - Type 9A, Braddon ACT 2612 ~$644,000~2~2~Apartment~6.0~N/A~N/A~N/A~
+Founders Lane - SOL - Type 10A, Braddon ACT 2612 ~$659,000~2~2~Apartment~6.0~N/A~N/A~N/A~
+Founders Lane - Dawn - Type 7, Braddon ACT 2612 ~$663,000~2~2~Apartment~6.0~N/A~N/A~N/A~
+Founders Lane - SOL - Type 4, Braddon ACT 2612 ~$680,000~2~2~Apartment~6.0~N/A~N/A~N/A~
+Founders Lane - SOL - Type 7, Braddon ACT 2612 ~$700,600~2~2~Apartment~6.0~N/A~N/A~N/A~
+107/53 Mort Street, Braddon ACT 2612 ~Offers over $710,000~2~2~Apartment~6.0~N/A~107~N/A~
+Founders Lane - Dawn - Type 8A, Braddon ACT 2612 ~$718,000~2~2~Apartment~6.0~N/A~N/A~N/A~
+320/45 Ainslie Avenue, Braddon ACT 2612 ~$720,000~3~2~Apartment~6.0~N/A~83~N/A~
+412/2 Batman Street, Braddon ACT 2612 ~$730,000~2~2~Unit / Apartment~6.0~N/A~88~N/A~
+M42 - 3 Bedroom Apartment, Braddon ACT 2612 ~$749,900~3~2~Other~8.2~N/A~N/A~N/A~
+Founders Lane - Dawn - Type 23, Braddon ACT 2612 ~$821,000~2~2~Apartment~6.0~N/A~N/A~N/A~
+The Grounds, Braddon - 5/2 Torrens Street, Braddon ACT 2612 ~$1,250,000~3~2~Townhouse~6.5~N/A~N/A~$16,900,000~
+The Grounds, Braddon - 127/6 Torrens Street, Braddon ACT 2612 ~$1,275,000~3~2~Other~6.0~N/A~N/A~$16,900,000~
+The Grounds, Braddon - 122/6 Torrens Street, Braddon ACT 2612 ~$1,305,000~3~2~Townhouse~6.0~N/A~N/A~$16,900,000~
+St. Arbour Residences - Type A, Braddon ACT 2612 ~$1,399,900~3~2~Townhouse~6.0~N/A~198~N/A~
+St. Arbour Residences - Type C, Braddon ACT 2612 ~$1,499,900~3~2~Townhouse~6.0~N/A~200~N/A~
+3/78 Torrens Street, Braddon ACT 2612 ~$1,950,000~4~1~Apartment~3.0~3730~N/A~N/A~

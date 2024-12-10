@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+8/8 Cobbadah Street, O'Malley ACT 2606 ~$1,250,000~4~2~Townhouse~1.0~N/A~260~N/A~
+17 Ngunawal Drive, O'Malley ACT 2606 ~$2,900,000~5~3~House~3.0~2024~N/A~$884,000~
+52 Culgoa Circuit, O'Malley ACT 2606 ~$3,600,000~5~4~House~2.0~2958~715~$1,555,000~
+Culgoa Circuit, O'Malley ACT 2606 ~$3,650,000~5~3~House~N/A~N/A~N/A~N/A~

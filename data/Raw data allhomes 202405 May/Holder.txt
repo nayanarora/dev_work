@@ -1,0 +1,7 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+10/5 Hyndes Cres, Holder ACT 2611 ~$560000~4~1~Unit / Apartment~3.0~N/A~N/A~$5,250,000~
+15 MacLachlan Street, Holder ACT 2611 ~$715,000~2~2~House~2.0~203~103~$497,000~
+17 Blackwood Terrace, Holder ACT 2611 ~$949,000~3~2~House~0.5~920~N/A~$702,000~
+2 Frankland Street, Holder ACT 2611 ~$950,000~4~1~House~2.0~700~126~$544,000~
+15 Foxall Street, Holder ACT 2611 ~$1,290,000~4~2~House~6.0~780~N/A~$584,000~
+20 Fossey Street, Holder ACT 2611 ~  $1,350,000~4~2~House~5.0~841~193~$650,000~

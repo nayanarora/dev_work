@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+76 Jeff Snell Crescent, Dunlop ACT 2615 ~$660,000~3~1~House~5.0~242~119~$275,000~
+29 Jonsson Court, Dunlop ACT 2615 ~$777,000 ~4~2~House~5.5~521~N/A~$422,000~
+22 Branson Street, Dunlop ACT 2615 ~  $980,000~4~2~House~5.0~463~N/A~$372,000~
+1 Morrow Street, Dunlop ACT 2615 ~$999,999~4~2~House~4.1~822~N/A~$466,000~
+61 Lance Hill Avenue, Dunlop ACT 2615 ~$1,050,000~6~3~Duplex~4.5~790~N/A~$550,000~

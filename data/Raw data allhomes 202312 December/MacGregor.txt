@@ -1,0 +1,9 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+14 Stang Place, MacGregor ACT 2615 ~$650,000~3~1~House~6.0~230~92~$291,000~
+56 Refshauge Crescent, MacGregor ACT 2615 ~$689,000~3~1~House~6.0~226~N/A~$291,000~
+78 Hollows Circuit, MacGregor ACT 2615 ~$750,000~3~1~House~5.0~350~105~$361,000~
+7 Constance Stone Street, MacGregor ACT 2615 ~$825,000~3~2~House~5.5~462~160~$416,000~
+1 Harper Street, MacGregor ACT 2615 ~$840000~3~2~House~4.0~936~150~$440,000~
+10 Fiaschi Street, MacGregor ACT 2615 ~$870000~4~1~House~1.5~797~N/A~$396,000~
+7 Hirschfeld Crescent, MacGregor ACT 2615 ~  $949,000 ~4~2~House~4.0~1280~N/A~$386,000~
+133 Eccles Circuit, MacGregor ACT 2615 ~$1,075,000~4~2~House~5.0~676~N/A~$518,000~

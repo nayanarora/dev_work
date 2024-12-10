@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+16/25 McGinness Street, Scullin ACT 2614 ~$360,000~2~1~Unit / Apartment~5.0~4413~N/A~$3,000,000~

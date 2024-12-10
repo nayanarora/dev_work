@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+25/3 Peron Place, Banks ACT 2906 ~$610,000~3~2~Townhouse~3.0~244~119~N/A~
+11/27 Paperbark Street, Banks ACT 2906 ~$765,000~4~2~Townhouse~4.0~6987~164~N/A~
+2 Adcock Place, Banks ACT 2906 ~$850,000~4~1~House~4.5~831~N/A~$451,000~
+15 Smeaton Circuit, Banks ACT 2906 ~$939,000~4~3~House~4.0~753~N/A~$425,000~
+6 Galbraith Close, Banks ACT 2906 ~$1,050,000~4~2~House~3.5~636~N/A~$450,000~

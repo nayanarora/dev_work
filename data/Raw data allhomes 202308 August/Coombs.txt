@@ -1,0 +1,20 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+63/30 Pearlman Street, Coombs ACT 2611 ~$399,000 ~1~1~Unit / Apartment~6.0~12400.0~N/A~$8,970,000~
+18/120 John Gorton Drive, Coombs ACT 2611 ~  $510,000.00~2~2~Apartment~6.0~9283~N/A~$6,540,000~
+Telfer Street, Coombs ACT 2611 ~$605,000~2~2~Apartment~7.8~808~N/A~$731,000~
+65/60 John Gorton Drive, Coombs ACT 2611 ~$625,000~3~1~Townhouse~5.5~8044~N/A~$3,600,000~
+80/60 John Gorton Drive, Coombs ACT 2611 ~$630,000~2~2~Townhouse~5.0~8044~N/A~$3,600,000~
+Molonglo Falls - U4.16/2 Terry Connolly Street, Coombs ACT 2611 ~$640,000~2~2~Other~6.0~N/A~N/A~N/A~
+26/1 Calaby Street, Coombs ACT 2611 ~$649,900~2~2~Townhouse~6.0~4080~N/A~$3,300,000~
+G10/2 Terry Connolly Street, Coombs ACT 2611 ~$689,000~2~2~Unit / Apartment~6.0~N/A~N/A~N/A~
+23/33 Arthur Blakeley Way, Coombs ACT 2611 ~$699,000~3~2~Townhouse~6.0~123~N/A~N/A~
+22/18 Cornelius Street, Coombs ACT 2611 ~$699,000~3~2~Townhouse~6.0~9303~N/A~$6,850,000~
+56/124 John Gorton Drive, Coombs ACT 2611 ~$699,000~3~2~Townhouse~6.0~9283~N/A~$6,540,000~
+37/1 Arthur Blakeley Way, Coombs ACT 2611 ~$699,000~3~2~Townhouse~6.0~124~N/A~N/A~
+422/2 Terry Connolly Street, Coombs ACT 2611 ~  $709,000~2~2~Unit / Apartment~6.0~4107~N/A~$3,500,000~
+Telfer Street, Coombs ACT 2611 ~$740,000~2~2~Townhouse~8.1~808~N/A~$731,000~
+Molonglo Falls - U1.18/2 Terry Connelly Street, Coombs ACT 2611 ~$750,000~3~2~Other~6.0~N/A~N/A~N/A~
+27/11 Castan Street, Coombs ACT 2611 ~Inviting   $799,000~4~3~Townhouse~5.5~186~N/A~N/A~
+35/18 Cornelius Street, Coombs ACT 2611 ~$849,900~4~2~Townhouse~8.0~9303~N/A~$6,850,000~
+13/33 Arthur Blakeley Way, Coombs ACT 2611 ~$935,000~4~2~Townhouse~6.0~13200.0~N/A~N/A~
+42/1 Gifford Street, Coombs ACT 2611 ~$950,000~4~3~Townhouse~N/A~14900.0~N/A~$7,340,000~

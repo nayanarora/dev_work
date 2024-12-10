@@ -1,0 +1,15 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+5/78 Hicks Street, Red Hill ACT 2603 ~$579,000~2~1~Apartment~1.0~N/A~N/A~$1,800,000~
+6/9 Lady Nelson Place, Red Hill ACT 2603 ~$760,000~1~1~Apartment~6.0~N/A~N/A~$8,500,000~
+29/6 Lady Nelson Place, Red Hill ACT 2603 ~$1,585,000~3~2~Apartment~6.0~N/A~N/A~N/A~
+195A La Perouse Street, Red Hill ACT 2603 ~$1710000~3~2~Townhouse~8.0~186~N/A~$668,000~
+39 Esperance Street, Red Hill ACT 2603 ~$1,699,000~4~2~House~4.5~778~182~N/A~
+12 Cutty Sark Lane, Red Hill ACT 2603 ~$1,799,000~3~1~Townhouse~7.0~192~N/A~$668,000~
+(no street name provided), Red Hill ACT 2603 ~$1,899,000~4~1~Other~6.0~359~N/A~$614,000~
+24 Astrolabe Street, Red Hill ACT 2603 ~$1,995,000~4~2~House~0.5~714~146~$1,270,000~
+9 Hicks Street, Red Hill ACT 2603 ~$2,040,000~4~2~House~6.0~693~252~$1,500,000~
+29 Cygnet Crescent, Red Hill ACT 2603 ~$2,150,000~4~3~House~6.0~393~197~N/A~
+5 Esperance Street, Red Hill ACT 2603 ~$2,190,000~3~2~House~6.0~729~132~N/A~
+34 Roebuck Street, Red Hill ACT 2603 ~$2,899,000~5~3~House~3.0~884~N/A~$1,456,000~
+231 La Perouse Street, Red Hill ACT 2603 ~$3350000~7~3~House~2.0~900~273~$1,400,000~
+59 Mugga Way, Red Hill ACT 2603 ~$6,295,000~4~4~House~2.0~2008~N/A~$2,750,000~

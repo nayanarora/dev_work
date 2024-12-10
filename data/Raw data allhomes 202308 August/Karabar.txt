@@ -1,0 +1,9 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+1 Mallee Crescent, Karabar NSW 2620 ~$625000~3~1~House~N/A~617~N/A~N/A~
+70 Cameron Road, Karabar NSW 2620 ~$720000~3~1~House~N/A~582~N/A~N/A~
+7 Southwell Place, Karabar NSW 2620 ~$719000~3~2~House~N/A~711~N/A~N/A~
+99 Cameron Road, Karabar NSW 2620 ~$757000~4~1~House~N/A~537~N/A~N/A~
+18 Noonan Street, Karabar NSW 2620 ~$774000~3~1~House~N/A~651~N/A~N/A~
+48 Barracks Flat Drive, Karabar NSW 2620 ~$755,000~3~1~House~N/A~769~N/A~N/A~
+9 Monk Place, Karabar NSW 2620 ~$859,000~4~2~House~N/A~733~N/A~N/A~
+21 Ullamulla Crescent, Karabar NSW 2620 ~$1,029,000~4~2~House~N/A~766~200~N/A~

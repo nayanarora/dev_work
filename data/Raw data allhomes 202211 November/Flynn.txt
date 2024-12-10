@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+3 Seddon Place, Flynn ACT 2615 ~$710,000~3~2~House~N/A~737~118~$526,000~
+11 Rolland Place, Flynn ACT 2615 ~$795000~3~1~House~3.5~732~108~$505,000~
+81 Blackwell Circuit, Flynn ACT 2615 ~$809,000~3~2~House~0.5~728~129~$526,000~
+42 Crawford Crescent, Flynn ACT 2615 ~$830,000~4~2~House~1.0~806~175~$543,000~
+12 Rossell Place, Flynn ACT 2615 ~$900,000~4~2~House~0.5~960~N/A~$476,000~

@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+11/15 Wanliss Street, Latham ACT 2615 ~$665,000~3~2~Townhouse~5.0~N/A~103~N/A~

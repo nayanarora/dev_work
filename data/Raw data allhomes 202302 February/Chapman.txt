@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+32 Rafferty Street, Chapman ACT 2611 ~$950,000~3~1~House~3.0~948~N/A~$772,000~
+13 Perry Drive, Chapman ACT 2611 ~$1,225,000~4~2~House~1.0~890~195~$800,000~
+6 Sidaway Street, Chapman ACT 2611 ~$1,550,000~4~3~House~5.5~777~231~$767,000~
+26 Bertel Crescent, Chapman ACT 2611 ~$2,850,000~4~3~House~3.0~1145~550~$851,000~

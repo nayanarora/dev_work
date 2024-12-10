@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+29 Holyman Street, Scullin ACT 2614 ~Offers Over $649,000~3~1~House~2.0~N/A~N/A~$345,000~
+35 Follett Street, Scullin ACT 2614 ~$750,000 ~3~1~House~3.0~705~N/A~$343,000~
+40 Ulm Place, Scullin ACT 2614 ~$810,000~3~1~House~1.0~705~113~$366,000~
+36 Ross Smith Crescent, Scullin ACT 2614 ~$857500~3~1~House~1.5~734~N/A~$345,000~

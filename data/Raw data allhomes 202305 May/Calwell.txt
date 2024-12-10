@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+1/24 Beazley Crescent, Calwell ACT 2905 ~  $549,000~3~1~House~0.5~393~95~N/A~
+33/36 Fink Crescent, Calwell ACT 2905 ~$598,000~3~1~Townhouse~1.5~284~126~N/A~
+22/92 Casey Crescent, Calwell ACT 2905 ~$750,000~3~2~Townhouse~5.0~218~128~N/A~

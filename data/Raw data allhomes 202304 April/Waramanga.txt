@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+71 Nangor Street, Waramanga ACT 2611 ~  $810,000~3~1~House~1.0~833~97~$717,000~
+31 Adinda Street, Waramanga ACT 2611 ~$889,000~3~1~House~5.0~673~N/A~$654,000~
+38A Woralul Street, Waramanga ACT 2611 ~  $899,000~4~2~House~1.0~480~161~N/A~

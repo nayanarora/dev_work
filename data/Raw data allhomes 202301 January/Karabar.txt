@@ -1,0 +1,12 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+8/49-51 Donald R, Karabar NSW 2620 ~$580000~3~1~Townhouse~N/A~N/A~N/A~N/A~
+98 Cooma Street, Karabar NSW 2620 ~$609000~4~1~House~N/A~809~N/A~N/A~
+10 Eugenia Street, Karabar NSW 2620 ~$725000~3~1~House~N/A~604~N/A~N/A~
+10/20 Kenny Place, Karabar NSW 2620 ~$715,000~3~2~Townhouse~N/A~4935~N/A~N/A~
+70 Cameron Road, Karabar NSW 2620 ~$762500~3~1~House~N/A~582~N/A~N/A~
+20A River Drive, Karabar NSW 2620 ~$780000~3~1~House~N/A~578~116~N/A~
+9 Swan Place, Karabar NSW 2620 ~$805000~3~1~House~N/A~801~N/A~N/A~
+8 Doyle Place, Karabar NSW 2620 ~$795000~4~1~House~N/A~667~N/A~N/A~
+20 Southwell Place, Karabar NSW 2620 ~$814000~3~1~House~N/A~651~N/A~N/A~
+2 Monk Place, Karabar NSW 2620 ~$885000~4~1~House~N/A~796~N/A~N/A~
+2 Kobada Close, Karabar NSW 2620 ~$892500~3~2~House~N/A~720~N/A~N/A~

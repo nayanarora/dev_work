@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+17/21 Tenison-Woods Circuit, Bonython ACT 2905 ~$470,000~2~1~Apartment~6.0~N/A~N/A~$2,610,000~
+22/38 Ebenezer Street, Bonython ACT 2905 ~$659,000~3~2~Townhouse~2.0~413~N/A~N/A~
+40/30 Ebenezer Street, Bonython ACT 2905 ~Offers Over $689,000~3~1~Townhouse~2.5~383~N/A~N/A~

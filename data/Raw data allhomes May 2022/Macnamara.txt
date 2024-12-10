@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+(no street name provided), Macnamara ACT 2615 ~$1177500~4~2~House and Land Package~N/A~548~206~N/A~
+Unkown Unkown, Macnamara ACT 2615 ~$1220200~4~1~House and Land Package~7.0~478~224~N/A~
+(no street name provided), Macnamara ACT 2615 ~$1312500~4~3~House and Land Package~N/A~548~315~N/A~

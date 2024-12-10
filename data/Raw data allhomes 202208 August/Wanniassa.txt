@@ -1,0 +1,8 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+6/181 McBryde Crescent, Wanniassa ACT 2903 ~$430,000~2~1~Apartment~3.5~11000.0~67~$134,250~
+14 Jenner Court, Wanniassa ACT 2903 ~$720,000~3~1~House~2.0~684~108~$443,000~
+44 Greeves Street, Wanniassa ACT 2903 ~Offers over $749,000~4~1~House~1.0~414~135~N/A~
+142 Langdon Avenue, Wanniassa ACT 2903 ~$810,000~3~1~House~1.0~1179~180~$595,000~
+8 Phelan Place, Wanniassa ACT 2903 ~$820,000~3~1~House~0.5~848~118~$494,000~
+60 Holden Crescent, Wanniassa ACT 2903 ~$930,000~4~1~House~1.0~874~118~$539,000~
+17 Degraves Crescent, Wanniassa ACT 2903 ~$935,000~4~1~House~4.0~921~160~$521,000~

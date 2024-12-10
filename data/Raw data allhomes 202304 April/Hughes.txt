@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+37/27 Coxen Street, Hughes ACT 2605 ~$260,000~1~1~Apartment~6.0~15700.0~N/A~$143,550~
+49/27 Coxen Street, Hughes ACT 2605 ~$310,000~1~1~Apartment~3.0~15700.0~N/A~$143,550~
+25/27 Coxen Street, Hughes ACT 2605 ~$320,000~1~1~Unit / Apartment~N/A~15700.0~53~$143,550~
+77/27 Coxen Street, Hughes ACT 2605 ~  $325,000~1~1~Apartment~4.5~15700.0~53~$143,550~
+1/22 Jensen Street, Hughes ACT 2605 ~$1,300,000~3~2~House~4.0~N/A~205~N/A~

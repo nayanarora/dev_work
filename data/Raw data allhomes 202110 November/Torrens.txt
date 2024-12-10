@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+11 Wyatt Street, Torrens ACT 2607 ~$1,230,000~4~2~House~1.0~N/A~N/A~$523,000~

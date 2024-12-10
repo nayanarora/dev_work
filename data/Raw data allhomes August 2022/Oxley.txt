@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+211 Newman-Morris Circuit, Oxley ACT 2903 ~$740,000~3~1~House~1.5~732~107~$502,000~
+10 Dalgarno Close, Oxley ACT 2903 ~$880,000~3~2~House~0.5~710~130~$551,000~
+23 Clutterbuck Crescent, Oxley ACT 2903 ~$895,000~3~2~House~3.0~813~N/A~$524,000~

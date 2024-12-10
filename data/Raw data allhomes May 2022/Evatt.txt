@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+28 Cawthorn Street, Evatt ACT 2617 ~$860,000~3~1~House~1.0~N/A~N/A~N/A~
+102 William Webb Drive, Evatt ACT 2617 ~$925,000~4~2~House~2.0~893~157~$352,000~
+12 Fuhrman Street, Evatt ACT 2617 ~$1,050,000~4~2~House~2.5~N/A~N/A~$369,000~

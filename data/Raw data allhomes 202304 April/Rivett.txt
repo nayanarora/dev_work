@@ -1,0 +1,7 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+3 Mentha Place, Rivett ACT 2611 ~$799,000~4~2~House~2.0~1034~N/A~$709,000~
+29 Croton Street, Rivett ACT 2611 ~$799,000~3~1~House~1.0~711~106~$632,000~
+40 Nelumbo Street, Rivett ACT 2611 ~$835,000~3~1~House~1.0~743~N/A~$666,000~
+42 Marlock Street, Rivett ACT 2611 ~$869,000~3~1~House~1.0~694~N/A~$648,000~
+5 Geebung Place, Rivett ACT 2611 ~  $1,049,000~4~3~House~1.5~841~159~$675,000~
+30 Kanooka Street, Rivett ACT 2611 ~$1,399,000~4~3~House~6.0~669~N/A~$611,000~

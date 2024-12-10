@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+30 Muntz Street, Chisholm ACT 2905 ~$865,000~4~2~House~3.0~900~N/A~$506,000~
+9 Pidgeon Place, Chisholm ACT 2905 ~$950,000~4~1~House~1.0~1334~N/A~$399,000~
+18 Laughton Street, Chisholm ACT 2905 ~$975,000~4~1~House~1.5~1017~N/A~$506,000~
+2/1 Ogg Place, Chisholm ACT 2905 ~   $999,900~4~2~Unit / Apartment~6.0~N/A~142~N/A~

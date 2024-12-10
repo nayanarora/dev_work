@@ -1,0 +1,20 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+11/60 John Gorton Drive, Coombs ACT 2611 ~$414000~2~1~Apartment~6.0~8044~87~$43,200~
+76/20 Fairhall Street, Coombs ACT 2611 ~$399,000~1~1~Apartment~6.0~14900.0~52~$99,090~
+213/2 Terry Connolly Street, Coombs ACT 2611 ~$415,000~1~1~Apartment~6.0~4107~59~N/A~
+20/60 John Gorton Drive, Coombs ACT 2611 ~  $419,000~2~1~Apartment~6.0~8044~70~$43,200~
+40/1 Calaby Street, Coombs ACT 2611 ~$459,000~1~1~Townhouse~6.0~4080~70~$71,940~
+Telfer Street, Coombs ACT 2611 ~$605,000~2~2~Apartment~7.8~808~N/A~$697,000~
+63/16 Cornelius Street, Coombs ACT 2611 ~$609,900~2~2~Townhouse~8.0~9303~86~N/A~
+FORM - Light filled, 2 bed, 2 bath, Coombs ACT 2611 ~$609,900~2~1~Other~8.0~N/A~128~N/A~
+Molonglo Falls - U4.16/2 Terry Connolly Street, Coombs ACT 2611 ~$640,000~2~2~Other~6.0~N/A~N/A~N/A~
+G10/2 Terry Connolly Street, Coombs ACT 2611 ~$689,000~2~2~Unit / Apartment~6.0~N/A~88~N/A~
+41/8 Ken Tribe Street, Coombs ACT 2611 ~$699,000~3~2~House~6.0~124~N/A~N/A~
+37/40 Pearlman Street, Coombs ACT 2611 ~$719000~3~2~Townhouse~6.0~6179~108~$109,600~
+(no street name provided), Coombs ACT 2611 ~$700,000~3~2~Townhouse~6.0~200~N/A~$304,000~
+FORM - 3 bedroom 2 bathroom with double car garage, Coombs ACT 2611 ~$709,900~3~1~Townhouse~7.7~N/A~134~N/A~
+422/2 Terry Connolly Street, Coombs ACT 2611 ~$736,000~2~2~Unit / Apartment~6.0~4107~100~N/A~
+Telfer Street, Coombs ACT 2611 ~$740,000~2~2~Townhouse~8.1~808~N/A~$697,000~
+5A Woodberry Avenue, Coombs ACT 2611 ~$849,900~3~1~Townhouse~8.2~9303~224~N/A~
+FORM - Huge 3 bedroom townhome, Coombs ACT 2611 ~$874,900~3~1~Other~8.2~N/A~218~N/A~
+42/1 Gifford Street, Coombs ACT 2611 ~$950,000~4~3~Townhouse~N/A~14900.0~N/A~$99,090~

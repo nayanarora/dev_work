@@ -1,0 +1,7 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+7 Bemboka Crescent, Kaleen ACT 2617 ~$820,000 ~3~1~House~1.0~536~118~$547,000~
+11a Brunswick Circuit, Kaleen ACT 2617 ~$920,000~4~2~House~6.0~319~123~N/A~
+67 Maribyrnong Avenue, Kaleen ACT 2617 ~$995,000~4~2~House~0.5~850~N/A~$650,000~
+1/78 Tyrrell Circuit, Kaleen ACT 2617 ~$1,150,000~4~3~Townhouse~4.0~357~N/A~N/A~
+9 Kiewa Street, Kaleen ACT 2617 ~  $1,199,000~4~3~House~1.0~734~218~$695,000~
+33 Glenelg Street, Kaleen ACT 2617 ~$1325000~5~2~House~3.5~872~176~$619,000~

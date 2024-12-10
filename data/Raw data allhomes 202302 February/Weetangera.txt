@@ -1,0 +1,3 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+2 Gibbes Place, Weetangera ACT 2614 ~$990,000~4~2~Townhouse~5.0~202~161~N/A~
+17 Smith Street, Weetangera ACT 2614 ~$1,190,000~4~2~Townhouse~5.0~1223~N/A~$825,000~

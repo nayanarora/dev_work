@@ -1,0 +1,3 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+11/18 Glenmaggie Street, Duffy ACT 2611 ~$319,000~2~1~Apartment~4.0~8005~N/A~$4,165,000~
+41 Somerset Street, Duffy ACT 2611 ~$1,850,000~6~3~House~0.5~1080~286~$623,000~

@@ -1,0 +1,14 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+30/37 Braybrooke Street, Bruce ACT 2617 ~$395,000~1~1~Apartment~6.0~2795~N/A~$42,120~
+56/8 Baudinette Circuit, Bruce ACT 2617 ~$399,000~1~1~Unit / Apartment~6.0~8025~80~$72,420~
+56/2 Eardley Street, Bruce ACT 2617 ~$420,000~3~2~Apartment~6.0~16000.0~131~$78,343~
+406/82 Thynne, Bruce ACT 2617 ~$437500~1~1~Apartment~6.0~2885~91~N/A~
+2 Eardley Street, Bruce ACT 2617 ~$429,000~3~2~Apartment~6.0~16000.0~108~N/A~
+407/39 Braybrook Street, Bruce ACT 2617 ~$449,900~1~1~Apartment~6.0~N/A~N/A~N/A~
+The Brooke - G20/39 Braybrooke Street, Bruce ACT 2617 ~$454,900~1~1~Apartment~6.0~3161~N/A~$950,000~
+114/21 Battye Street, Bruce ACT 2617 ~$459,000~2~1~Apartment~6.0~N/A~74~N/A~
+2/31 Thynne Street, Bruce ACT 2617 ~$545,000~2~2~Unit / Apartment~6.0~12600.0~77~$62,400~
+12/31 Thynne Street, Bruce ACT 2617 ~$635,000~3~2~Unit / Apartment~6.0~12600.0~110~$62,400~
+131 Thynne Street, Bruce ACT 2617 ~$899,000~3~1~Townhouse~6.0~4379~157~$179,265~
+47 Crisp Circuit, Bruce ACT 2617 ~$1,085,000~4~2~Townhouse~1.5~541~148~N/A~
+12 Cobbett Place, Bruce ACT 2617 ~$1,888,000~5~2~House~1.5~985~222~$1,111,000~

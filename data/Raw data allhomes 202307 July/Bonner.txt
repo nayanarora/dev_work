@@ -1,0 +1,7 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+23 Stanner Cct, Bonner ACT 2914 ~$579,000~2~1~House~6.0~148~N/A~$276,000~
+3 Djerrkura Street, Bonner ACT 2914 ~$690,000~3~1~House~5.5~250~118~$308,000~
+110 Mabo Boulevard, Bonner ACT 2914 ~$799,000~3~2~House~4.5~287~108~$336,000~
+11 Joe Croft Street, Bonner ACT 2914 ~$950,000~4~2~House~6.0~491~171~$500,000~
+1 Maza Place, Bonner ACT 2914 ~$1,020,000~4~2~House~5.0~572~N/A~$541,000~
+8 Mabo Boulevard, Bonner ACT 2914 ~$1,050,000~4~2~House~5.0~583~246~$562,000~

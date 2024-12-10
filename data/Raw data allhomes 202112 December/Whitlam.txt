@@ -1,0 +1,23 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+(no street name provided), Whitlam ACT 2611 ~$357,000~4~2~House~6.0~N/A~N/A~N/A~
+10-16 Keith Bain Crest, Whitlam ACT 2611 ~$798,000~N/A~N/A~House and Land Package~N/A~N/A~N/A~N/A~
+4 Keith Bain Crest, Whitlam ACT 2611 ~Offers over $799,000~3~2~House~6.0~N/A~N/A~N/A~
+(no street name provided), Whitlam ACT 2611 ~$899,000~4~3~Townhouse~6.0~N/A~255~N/A~
+(no street name provided), Whitlam ACT 2611 ~$899,000~3~2~House and Land Package~6.0~250~145~N/A~
+5 Duchesne Street, Whitlam ACT 2611 ~$925,000~3~2~House and Land Package~6.0~250~160~N/A~
+8 Keith Bain Crest, Whitlam ACT 2611 ~$969,000~4~3~House~6.0~300~215~N/A~
+17 Malcolm Cole Terrace, Whitlam ACT 2611 ~$989,000~4~2~House~6.0~245~220~N/A~
+18 Malcolm Cole Terrace, Whitlam ACT 2611 ~$1119990~4~1~House and Land Package~6.0~392~195~N/A~
+Sculthorpe Avenue, Whitlam ACT 2611 ~$1,100,000~3~2~House~6.0~205~160~N/A~
+24 Patkin Street, Whitlam ACT 2611 ~$1,220,990~4~1~House and Land Package~6.0~600~235~N/A~
+(no street name provided), Whitlam ACT 2611 ~$1,235,990~4~1~House and Land Package~6.0~390~251~N/A~
+35 Tahourdin Vista, Whitlam ACT 2611 ~$1,298,900~4~1~House and Land Package~6.0~582~238~N/A~
+20 Maggie Scott Terrace, Whitlam ACT 2611 ~$1,320,000~N/A~N/A~House~6.0~301~N/A~N/A~
+1 Malcolm Cole Terrace, Whitlam ACT 2611 ~$1,350,000~4~1~House and Land Package~6.0~412~243~N/A~
+(no street name provided), Whitlam ACT 2611 ~$1,350,000~4~2~House~6.0~510~265~N/A~
+24 Churcher Crescent, Whitlam ACT 2611 ~$1,350,000~4~2~House and Land Package~6.0~540~251~N/A~
+(no street name provided), Whitlam ACT 2611 ~$1,450,000~4~1~House and Land Package~6.0~600~320~N/A~
+27 Baas Becking Street, Whitlam ACT 2611 ~$1,499,000~5~3~House~6.0~450~N/A~N/A~
+12 Malcolm Cole Terrace, Whitlam ACT 2611 ~$1,650,000~4~3~House and Land Package~6.0~467~310~N/A~
+(no street name provided), Whitlam ACT 2611 ~$1,700,000~4~2~House and Land Package~6.0~N/A~N/A~N/A~
+2 Malcolm Cole Terrace, Whitlam ACT 2611 ~$1,725,000~5~3~House and Land Package~6.0~468~335~N/A~

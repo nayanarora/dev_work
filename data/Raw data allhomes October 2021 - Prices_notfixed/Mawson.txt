@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+9/10 Wilkins Street, Mawson ACT 2607 ~$380,000~2~1~Unit / Apartment~6.0~N/A~78~N/A~

@@ -1,0 +1,12 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+56/3 Waddell Place, Curtin ACT 2605 ~$355,000 ~2~1~Unit / Apartment~3.0~13100.0~N/A~$11,780,000~
+8/8-16 Walsh Place, Curtin ACT 2605 ~$395,000~2~1~Apartment~3.0~3336~N/A~$3,640,000~
+8/89 Allan Street, Curtin ACT 2605 ~$550,000 ~2~2~Unit / Apartment~6.0~990~N/A~$1,500,000~
+1 Holman Street, Curtin ACT 2605 ~$950,000~3~1~House~1.0~744~N/A~$777,000~
+30B Parker Street, Curtin ACT 2605 ~$1,100,000~3~2~House~4.0~408~130~N/A~
+28 Colebatch Place, Curtin ACT 2605 ~$1,500,000 ~4~2~House~1.0~855~174~$938,000~
+3 Sladen Place, Curtin ACT 2605 ~$1,670,000~4~2~House~2.0~810~173~$932,000~
+15B Reynolds Street, Curtin ACT 2605 ~$1,699,000 ~4~2~House~5.5~N/A~174~N/A~
+13 Storey Street, Curtin ACT 2605 ~$1,700,000 ~5~2~House~6.0~724~269~$879,000~
+9 McPhee Place, Curtin ACT 2605 ~$2,750,000~4~2~House~6.0~669~224~$795,000~
+15 Boucaut Place, Curtin ACT 2605 ~$2,995,000~5~4~House~5.0~879~N/A~$965,000~

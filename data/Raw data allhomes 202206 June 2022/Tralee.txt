@@ -1,0 +1,16 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+(no street name provided), South Jerrabomberra NSW 2620 ~$350,000~3~1~House~N/A~N/A~N/A~N/A~
+(no street name provided), South Jerrabomberra NSW 2620 ~$757500~4~1~House and Land Package~N/A~372~211~N/A~
+28/42 Tassel Terrace, South Jerrabomberra NSW 2620 ~$760,000~3~2~Other~N/A~N/A~N/A~N/A~
+VIVA - 20 Storksbill Terrace | 4 Bedroom Separate Title Terrace, South Jerrabomberra NSW 2620 ~$820,000~4~2~Townhouse~N/A~N/A~174~N/A~
+VIVA - 28 Storksbill Terrace | 3 Bedroom Separate Title Terrace, South Jerrabomberra NSW 2620 ~$820,000~3~2~Townhouse~N/A~N/A~174~N/A~
+Lot 309 Section Am, Tralee NSW 2620 ~$900000~3~2~House~N/A~N/A~N/A~N/A~
+Road, South Jerrabomberra NSW 2620 ~$850,000~3~2~House and Land Package~N/A~287~N/A~N/A~
+VIVA - 18 Storksbill Terrace | 4 Bedrooms With Oversized Courtyard, South Jerrabomberra NSW 2620 ~$875,000~4~2~Townhouse~N/A~N/A~182~N/A~
+VIVA - 32 Storksbill Terrace | North Facing Separate Title Terrace, South Jerrabomberra NSW 2620 ~$900,000~3~2~Townhouse~N/A~N/A~182~N/A~
+(no street name provided), South Jerrabomberra NSW 2620 ~$979,000~4~1~House and Land Package~N/A~372~194~N/A~
+(no street name provided), South Jerrabomberra NSW 2620 ~$981,000~4~1~House and Land Package~N/A~372~197~N/A~
+Sunray Street, South Jerrabomberra NSW 2620 ~$989,800~4~2~House~N/A~370~N/A~N/A~
+13 Kurzia, Tralee NSW 2620 ~$998,000~4~2~House and Land Package~N/A~361~211~N/A~
+136 Oxalis Crescent, Tralee NSW 2620 ~$1,150,000~4~2~House~N/A~391~170~N/A~
+(no street name provided), South Jerrabomberra NSW 2620 ~$1232500~4~2~House and Land Package~N/A~606~312~N/A~

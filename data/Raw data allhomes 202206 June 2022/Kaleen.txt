@@ -1,0 +1,9 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+40 Liffey Circuit, Kaleen ACT 2617 ~$820,000~4~1~House~3.5~400~112~N/A~
+10 Tambo Street, Kaleen ACT 2617 ~$950,000~3~2~House~1.5~814~119~$506,000~
+95 Alberga Street, Kaleen ACT 2617 ~$985,000~3~1~House~0.5~752~105~$506,000~
+74 Onkaparinga Crescent, Kaleen ACT 2617 ~$999,000~5~3~House~1.5~753~210~$506,000~
+16 Glenelgst, Kaleen ACT 2617 ~$1,000,000 ~3~1~House~0.5~741~N/A~N/A~
+63 Callabonna Street, Kaleen ACT 2617 ~$1,100,000~4~2~House~4.5~N/A~157~N/A~
+24 Alberga Street, Kaleen ACT 2617 ~$1,150,000~3~1~House~1.0~802~113~$520,000~
+12 Callabonna Street, Kaleen ACT 2617 ~$1,650,000~4~3~House~1.5~880~273~$522,000~

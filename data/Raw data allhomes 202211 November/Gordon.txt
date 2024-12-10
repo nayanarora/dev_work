@@ -1,0 +1,13 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+64 Knoke Avenue, Gordon ACT 2906 ~$619,000~3~1~Townhouse~4.0~303~124~N/A~
+1 McHale Place, Gordon ACT 2906 ~$780,000~3~1~House~4.0~636~N/A~$541,000~
+5 Churchill Way, Gordon ACT 2906 ~$849,990~3~2~House~0.5~776~127~$527,000~
+25 Fred Lane Crescent, Gordon ACT 2906 ~$859,000~4~2~House~4.0~723~138~$459,000~
+7 Darby Munro Close, Gordon ACT 2906 ~$970,000 to $1,050,000~4~2~House~1.0~728~212~$459,000~
+41 Callaway Crescent, Gordon ACT 2906 ~$1047500~4~1~House~2.0~873~N/A~$538,000~
+4 Churchill Way, Gordon ACT 2906 ~$1,070,000~4~2~House~3.0~1047~N/A~$592,000~
+16 Benstead Place, Gordon ACT 2906 ~$1,100,000~5~2~House~3.0~1158~247~$550,000~
+51 Clem Hill Street, Gordon ACT 2906 ~$1,100,000~4~2~House~5.0~857~N/A~$574,000~
+32 Clem Hill Street, Gordon ACT 2906 ~$1,350,000~5~2~House~4.0~848~N/A~$509,000~
+9 Stan Ray Street, Gordon ACT 2906 ~$1,450,000~5~3~House~4.0~964~241~$685,000~
+39 Clem Hill Street, Gordon ACT 2906 ~$2,695,000~5~3~House~4.5~1549~450~$704,000~

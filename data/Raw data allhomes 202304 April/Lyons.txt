@@ -1,0 +1,8 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+10B/52 Deloraine Street, Lyons ACT 2606 ~$350,000~2~1~Unit / Apartment~2.0~N/A~52~N/A~
+(no street name provided), Lyons ACT 2606 ~$369,000~1~1~House~5.0~1626~N/A~$140,400~
+14/30 Chappell Street, Lyons ACT 2606 ~$385,000~2~1~Unit / Apartment~2.0~3395~N/A~$98,888~
+6 Esk Place, Lyons ACT 2606 ~$955,000~4~1~House~1.5~854~127~N/A~
+22C Lutana Street, Lyons ACT 2606 ~$1,450,000~3~2~Townhouse~6.0~N/A~173~N/A~
+4b Olympus Way, Lyons ACT 2606 ~$1,450,000~4~1~House~6.0~379~206~N/A~
+11 Scottsdale Street, Lyons ACT 2606 ~$2,095,000~4~2~House~5.0~780~264~$905,000~

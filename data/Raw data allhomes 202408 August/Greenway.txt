@@ -1,0 +1,45 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+VUE Residences - Type B - 151/150 Anketell Street, Greenway ACT 2900 ~$329,900~1~1~Apartment~5.0~N/A~N/A~$5,855,000~
+206/335 Anketell Street, Greenway ACT 2900 ~$348,000 to $365,000~1~1~Apartment~6.0~N/A~N/A~$12,440,000~
+112/150 Anketell Street, Greenway ACT 2900 ~$349,000~1~1~Apartment~6.0~N/A~N/A~$5,855,000~
+150 Anketell Street, Greenway ACT 2900 ~$349,900~1~1~Apartment~6.0~N/A~N/A~$5,855,000~
+114/38 Oakden Street, Greenway ACT 2900 ~$359,000~1~1~Apartment~6.0~N/A~N/A~$12,440,000~
+933/335 Anketell Street, Greenway ACT 2900 ~Offers Over $359,000~1~1~Apartment~4.5~N/A~N/A~$12,440,000~
+907/335 Anketell Street, Greenway ACT 2900 ~$365,000~1~1~Unit / Apartment~6.0~N/A~N/A~$12,440,000~
+304/335 Anketell Street, Greenway ACT 2900 ~$370,000~1~1~Apartment~6.0~N/A~N/A~$12,440,000~
+16/38 Oakden Street, Greenway ACT 2900 ~$375,000~1~1~Apartment~6.0~N/A~N/A~$12,440,000~
+59/311 Anketell Street, Greenway ACT 2900 ~Offers over $379,000~1~1~Unit / Apartment~6.0~N/A~N/A~$6,620,000~
+305/34 Oakden Street, Greenway ACT 2900 ~$395,000~2~1~Unit / Apartment~6.0~N/A~N/A~$12,440,000~
+208/150 Anketell Street, Greenway ACT 2900 ~$410,000~1~1~Apartment~6.0~N/A~N/A~N/A~
+150 Anketell Street, Greenway ACT 2900 ~$429,900~1~1~Apartment~5.8~N/A~N/A~$5,855,000~
+708/38 Oakden Street, Greenway ACT 2900 ~$439,000 ~2~2~Apartment~6.0~N/A~N/A~$12,440,000~
+913/335 Anketell Street, Greenway ACT 2900 ~Offers Over $439,000~2~2~Unit / Apartment~6.0~N/A~N/A~$12,440,000~
+310/335 Anketell Street, Greenway ACT 2900 ~$445,000~2~2~Apartment~6.0~N/A~N/A~$12,440,000~
+322/325 Anketell Street, Greenway ACT 2900 ~$448,000~2~2~Apartment~6.0~N/A~N/A~$5,400,000~
+315/335 Anketell Street, Greenway ACT 2900 ~$449,000~2~2~Apartment~6.0~N/A~N/A~$12,440,000~
+G03/26 Cynthea Teague Cres, Greenway ACT 2900 ~$450,000~2~2~Apartment~6.0~N/A~N/A~N/A~
+608/34 Oakden Street, Greenway ACT 2900 ~$457,000~2~2~Apartment~6.0~N/A~N/A~$12,440,000~
+925/335 Anketell Street, Greenway ACT 2900 ~$458,000~2~2~Apartment~6.0~N/A~N/A~$12,440,000~
+725/335 Anketell Street, Greenway ACT 2900 ~$479,000~2~2~Apartment~6.0~N/A~N/A~$12,440,000~
+101/335 Anketell Street, Greenway ACT 2900 ~$504000~2~2~Apartment~6.0~N/A~N/A~$12,440,000~
+718/335 Anketell Street, Greenway ACT 2900 ~$499,000~2~2~Apartment~5.0~N/A~N/A~$12,440,000~
+209/150 Anketell Street, Greenway ACT 2900 ~$509,000~2~2~Apartment~6.0~N/A~N/A~N/A~
+160/35 Oakden Street, Greenway ACT 2900 ~$510,000~2~2~Apartment~6.0~N/A~N/A~$5,400,000~
+828/335 Anketell Street, Greenway ACT 2900 ~$525,000~2~2~Apartment~6.0~N/A~N/A~$12,440,000~
+VUE Residences - Fully Furnished 2 Bed - 135/150 Anketell Street, Greenway ACT 2900 ~$530,000~2~1~Apartment~5.0~N/A~N/A~$5,855,000~
+Aspen Village - Type C-2F - 414/26 Cynthea Teague Crescent, Greenway ACT 2900 ~$586,000~2~2~Apartment~5.0~N/A~N/A~$12,440,000~
+14/102 Athllon Drive, Greenway ACT 2900 ~$600,000~2~2~Apartment~5.5~N/A~N/A~$1,440,000~
+31/6 Ellison Harvie Close, Greenway ACT 2900 ~$620,000 ~3~2~Townhouse~4.0~122~N/A~$4,950,000~
+10/15 Cynthea Teague Crescent, Greenway ACT 2900 ~$660,000~2~2~Unit / Apartment~5.0~N/A~N/A~$2,500,000~
+131/161 Mortimer Lewis Drive, Greenway ACT 2900 ~$675,000~3~2~Townhouse~6.0~N/A~N/A~$18,000,000~
+24/40 Eileen Good Street, Greenway ACT 2900 ~$675,000~3~2~Apartment~5.5~N/A~N/A~$2,240,000~
+121/161 Mortimer Lewis Drive, Greenway ACT 2900 ~$679,000~3~2~Townhouse~6.0~29300.0~N/A~$18,000,000~
+118/161 Mortimer Lewis Drive, Greenway ACT 2900 ~$685,000~3~2~Townhouse~6.0~29300.0~N/A~$18,000,000~
+90/161 Mortimer Lewis Drive, Greenway ACT 2900 ~$685,000~3~2~Townhouse~6.0~29300.0~N/A~$18,000,000~
+1/58 Eileen Good Street, Greenway ACT 2900 ~$690,000 ~2~2~Apartment~6.0~N/A~N/A~$3,740,000~
+14/35 Oakden Street, Greenway ACT 2900 ~Offers over $690,000~3~2~Apartment~6.0~N/A~N/A~$5,400,000~
+43/167 Mortimer Lewis Drive, Greenway ACT 2900 ~$699,000~3~2~Unit / Apartment~6.0~N/A~N/A~$18,000,000~
+Aspen Village - Black Diamond Final Release - New Precinct in Tuggeranong, Greenway ACT 2900 ~$775,900~3~2~Apartment~5.0~N/A~N/A~$12,440,000~
+53 Cynthea Teague Crescent, Greenway ACT 2900 ~$839,000~3~2~Townhouse~5.0~N/A~N/A~$1,450,000~
+132 De Little Circuit, Greenway ACT 2900 ~$895,000~3~1~House~1.5~340~149~$479,000~
+27/1 Rowland Rees Crescent, Greenway ACT 2900 ~$895,000~3~2~Townhouse~6.0~26000.0~N/A~$15,400,000~

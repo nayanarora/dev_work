@@ -1,0 +1,26 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+(no street name provided), Whitlam ACT 2611 ~$375,000~4~2~House~6.0~N/A~N/A~N/A~
+10-16 Keith Bain Crest, Whitlam ACT 2611 ~$1087000~N/A~N/A~House and Land Package~N/A~N/A~N/A~N/A~
+4 Keith Bain Crest, Whitlam ACT 2611 ~$819,000~3~2~House~6.0~150~N/A~N/A~
+(no street name provided), Whitlam ACT 2611 ~$899,000~3~2~House and Land Package~6.0~250~145~N/A~
+5 Duchesne Street, Whitlam ACT 2611 ~$925,000~3~2~House and Land Package~6.0~250~160~N/A~
+15 Maggie Scott Terrace, Whitlam ACT 2611 ~$950,000~4~2~House~6.0~250~161~N/A~
+17 Malcolm Cole Terrace, Whitlam ACT 2611 ~$979,000~4~2~House~6.0~245~222~N/A~
+100 Hazel Hawke Avenue, Whitlam ACT 2611 ~$999,000~4~2~Townhouse~6.5~400~N/A~N/A~
+19 Malcolm Cole Terrace, Whitlam ACT 2611 ~$1,030,000~4~2~House~6.0~245~222~N/A~
+18 Malcolm Cole Terrace, Whitlam ACT 2611 ~$1180490~4~1~House and Land Package~6.0~392~195~N/A~
+Sculthorpe Avenue, Whitlam ACT 2611 ~$1,100,000~3~2~House~6.0~205~160~N/A~
+4 Malcolm Cole Terrace, Whitlam ACT 2611 ~$1,150,000~3~2~House~6.0~N/A~232~N/A~
+20 Maggie Scott Terrace, Whitlam ACT 2611 ~$1335000~N/A~N/A~House~6.0~301~N/A~N/A~
+6 Malcolm Cole Terrace, Whitlam ACT 2611 ~$1,250,000~4~2~House~6.0~N/A~247~N/A~
+17 Chaloupka Street, Whitlam ACT 2611 ~$1,342,900~4~1~House and Land Package~6.0~525~258~N/A~
+35 Tahourdin Vista, Whitlam ACT 2611 ~$1,393,900~4~1~House and Land Package~6.0~582~262~N/A~
+1 Malcolm Cole Terrace, Whitlam ACT 2611 ~$1,400,000~4~1~House and Land Package~6.0~412~243~N/A~
+16 Patkin Street, Whitlam ACT 2611 ~$1,450,000~4~3~House and Land Package~6.0~510~272~N/A~
+(no street name provided), Whitlam ACT 2611 ~$1,450,000~4~1~House and Land Package~6.0~600~320~N/A~
+(no street name provided), Whitlam ACT 2611 ~$1,529,000~4~3~Townhouse~6.0~472~271~N/A~
+20 Shillam Chase, Whitlam ACT 2611 ~$1,600,000~4~3~House~6.0~587~270~N/A~
+12 Malcolm Cole Terrace, Whitlam ACT 2611 ~$1,650,000~4~3~House and Land Package~6.0~N/A~310~N/A~
+(no street name provided), Whitlam ACT 2611 ~$1,700,000~4~2~House and Land Package~6.0~N/A~N/A~N/A~
+2 Malcolm Cole Terrace, Whitlam ACT 2611 ~$1,725,000~5~3~House and Land Package~6.0~N/A~335~N/A~
+(no street name provided), Whitlam ACT 2611 ~$1,800,000~N/A~N/A~House and Land Package~6.0~N/A~N/A~N/A~

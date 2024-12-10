@@ -1,0 +1,3 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+9 Flanagan Street, Garran ACT 2605 ~$1,925,000 ~5~3~House~3.0~868~235~$740,000~
+2/17 Rusden Street, Garran ACT 2605 ~$2,300,000 ~4~3~House~6.0~510~211~N/A~

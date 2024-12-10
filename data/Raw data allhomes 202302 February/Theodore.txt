@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+41 Cochrane Crescent, Theodore ACT 2905 ~$779,000~3~1~House~4.0~844~N/A~$475,000~
+37 Goldfinch Circuit, Theodore ACT 2905 ~$830,000~4~2~House~2.5~1004~158~$640,000~
+26 Weavers Crescent, Theodore ACT 2905 ~$995,000 ~4~2~House~4.0~1110~165~$547,000~
+16 Conlon Crescent, Theodore ACT 2905 ~$1,149,000~5~3~House~3.5~1221~N/A~$646,000~

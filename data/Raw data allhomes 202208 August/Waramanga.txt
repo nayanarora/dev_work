@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+6/93 Nemarang Crescent, Waramanga ACT 2611 ~$625,000~2~1~House~4.5~2435~78~$130,000~
+9 Woralul Street, Waramanga ACT 2611 ~$825,000~3~1~House~4.0~731~N/A~$701,000~
+23 Galibal Street, Waramanga ACT 2611 ~Offers over $860,000~3~1~House~1.5~778~108~$735,000~
+38A Woralul Street, Waramanga ACT 2611 ~Offers Over $999,000~4~2~House~1.0~480~161~N/A~
+153 Nemarang Crescent, Waramanga ACT 2611 ~$1,150,000~4~2~House~1.0~850~N/A~$632,000~

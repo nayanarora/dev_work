@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+74B Gouger Street, Torrens ACT 2607 ~  $1,500,000~4~2~House~3.5~563~219~N/A~

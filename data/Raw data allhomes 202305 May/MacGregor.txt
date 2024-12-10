@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+7 Sisely Street, MacGregor ACT 2615 ~$719,000~3~1~House~5.0~297~N/A~$399,000~
+28 Rag Holmes Street, MacGregor ACT 2615 ~$745000~3~2~House~6.0~298~116~$342,000~
+27 Jean Macnamara Street, MacGregor ACT 2615 ~$730,000~3~1~House~5.5~300~N/A~$341,000~
+43 Wunderly Circuit, MacGregor ACT 2615 ~$850,000~3~2~House~6.0~548~102~$436,000~
+13 John James Loop, MacGregor ACT 2615 ~$955,000~4~2~House~5.0~668~N/A~$491,000~

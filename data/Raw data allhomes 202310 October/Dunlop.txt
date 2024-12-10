@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+21 Hugh Mackay Crescent, Dunlop ACT 2615 ~$750,000~3~2~House~4.5~433~109~N/A~
+18 Alarmon Crescent, Dunlop ACT 2615 ~$759,000~3~1~House~4.0~427~N/A~$401,000~
+18 Hedger Street, Dunlop ACT 2615 ~$1,010,000~4~1~House~4.5~884~185~$520,000~
+9 Morrow Street, Dunlop ACT 2615 ~$1,030,000~5~2~House~5.0~757~N/A~$472,000~
+15 Hedger Street, Dunlop ACT 2615 ~$1,049,000~4~2~House~4.5~832~N/A~$483,000~

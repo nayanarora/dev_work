@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+38A Woralul Street, Waramanga ACT 2611 ~Offers Over $899,000~4~2~House~1.0~480~161~N/A~
+31 Adinda Street, Waramanga ACT 2611 ~$899,000~3~1~House~5.0~673~N/A~$654,000~
+5 Warrai Place, Waramanga ACT 2611 ~$1,650,000~5~2~House~5.0~877~225~$735,000~

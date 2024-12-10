@@ -1,0 +1,10 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+Marian @ Manuka - 8/55 Franklin Street - 2 bedroom, Forrest ACT 2603 ~$690,000~2~1~Retirement Village~6.0~5040~N/A~$2,465,000~
+Marian @ Manuka - 29/55 Franklin Street, Forrest ACT 2603 ~$1,050,000~3~2~Retirement Village~N/A~5040~182~$2,465,000~
+3/22 Canberra Avenue, Forrest ACT 2603 ~$1,695,000~3~2~Apartment~6.0~2274~N/A~$180,000~
+5/7 State Circle, Forrest ACT 2603 ~$1,779,000~3~3~Apartment~7.0~13300.0~160~$264,000~
+14/7 State Circle, Forrest ACT 2603 ~$1,919,000~3~3~Unit / Apartment~8.5~25~176~$264,000~
+1/12 Somers Crescent, Forrest ACT 2603 ~$2,900,000~4~3~Townhouse~6.0~N/A~269~N/A~
+No. 11 State Circle - Residence 7, Forrest ACT 2603 ~$3,350,000~3~N/A~Townhouse~6.4~3767~460~$7,500,000~
+No. 11 State Circle - Unearth something truly rare, Forrest ACT 2603 ~$3,350,000~3~N/A~Townhouse~6.1~3767~458~$7,500,000~
+64 Dominion Circuit, Forrest ACT 2603 ~$4,350,000~5~2~House~2.0~1765~371~$3,150,000~

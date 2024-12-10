@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+8 Nicholls Place, Higgins ACT 2615 ~$979,000~5~3~House~1.5~1155~N/A~$292,000~

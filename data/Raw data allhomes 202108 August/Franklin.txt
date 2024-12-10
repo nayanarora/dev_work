@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+52/311 Flemington Road, Franklin ACT 2913 ~$340,000~2~1~House~6.0~N/A~N/A~N/A~
+88/104 Henry Kendall Street, Franklin ACT 2913 ~$399,000~2~2~Apartment~5.5~N/A~78~N/A~
+40/311 Flemington Road, Franklin ACT 2913 ~$450,000~2~2~Apartment~6.0~N/A~N/A~N/A~
+(no street name provided), Franklin ACT 2913 ~$695,000~4~2~Townhouse~5.5~N/A~170~N/A~
+26 Daniels Street, Franklin ACT 2913 ~$1075000~4~1~House~4.0~304~182~$297,000~

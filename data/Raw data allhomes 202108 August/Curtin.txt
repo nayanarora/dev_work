@@ -1,0 +1,3 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+69/3 Waddell Place, Curtin ACT 2605 ~$190,000~1~1~Unit / Apartment~5.5~N/A~32~N/A~
+6/89 Allan Street, Curtin ACT 2605 ~$520,000~2~2~Apartment~5.5~N/A~74~N/A~

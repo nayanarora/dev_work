@@ -1,0 +1,7 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+9 Kerr Place, Charnwood ACT 2615 ~$625,000~3~1~House~0.5~562~103~$405,000~
+4 Dangar Place, Charnwood ACT 2615 ~$630,000~3~1~House~1.0~536~103~$421,000~
+1 Yabsley Place, Charnwood ACT 2615 ~$630,000~3~1~House~1.0~741~N/A~$406,000~
+12 Rouse Place, Charnwood ACT 2615 ~$779,000~3~1~House~2.5~764~N/A~$405,000~
+47 Bettington Circuit, Charnwood ACT 2615 ~$790,000~3~1~House~5.0~803~N/A~$550,000~
+6 Phillimore Place, Charnwood ACT 2615 ~Offers Over $825,000~5~2~House~4.5~748~N/A~$469,000~

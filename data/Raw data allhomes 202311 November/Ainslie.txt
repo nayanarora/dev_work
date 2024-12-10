@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+46 Raymond Place, Ainslie ACT 2602 ~$1,250,000~2~1~House~2.0~888~N/A~$1,242,000~

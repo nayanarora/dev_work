@@ -1,0 +1,11 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+3/39 Brigalow Street, Lyneham ACT 2602 ~$330,000~1~1~Apartment~5.0~N/A~N/A~N/A~
+72D/58 Wattle Street, Lyneham ACT 2602 ~$380,000~2~1~Unit / Apartment~3.0~11200.000000000002~52~N/A~
+4/20 De Burgh Street, Lyneham ACT 2602 ~Offers over $395,000~1~1~Apartment~6.0~N/A~N/A~N/A~
+28 De Burgh Street, Lyneham ACT 2602 ~$435,000~1~1~Unit / Apartment~4.0~702~88~$707,000~
+53/22 Archibald Street, Lyneham ACT 2602 ~$450,000~2~1~Townhouse~6.0~16100.000000000002~N/A~N/A~
+12/22 Archibald Street, Lyneham ACT 2602 ~$450,000~2~1~Apartment~2.5~N/A~67~N/A~
+154/1 Mouat Street, Lyneham ACT 2602 ~Offers over $460000~2~1~Unit / Apartment~6.0~N/A~82~N/A~
+253 Northbourne Avenue, Lyneham ACT 2602 ~$545,000~2~2~Apartment~6.0~N/A~85~$6,948,000~
+514/253 Northbourne Avenue, Lyneham ACT 2602 ~$560,000~2~2~Apartment~6.0~N/A~N/A~N/A~
+281/1 Mouat Street, Lyneham ACT 2602 ~$589,000~2~2~Apartment~6.5~N/A~104~N/A~

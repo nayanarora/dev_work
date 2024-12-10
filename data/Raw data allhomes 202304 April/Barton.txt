@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+3/44 Macquarie Street, Barton ACT 2600 ~$539,000~1~1~Apartment~6.0~5467~60~$116,280~
+27/41 Blackall Street, Barton ACT 2600 ~$615,000~1~1~Apartment~6.0~36700.0~N/A~$195,500~
+7/44 Macquarie Street, Barton ACT 2600 ~$630,000~2~1~Apartment~6.0~5467~71~$116,280~
+65/44 Macquarie Street, Barton ACT 2600 ~ $690,000~2~2~Unit / Apartment~6.0~5467~N/A~$116,280~
+6/11 Sydney Avenue, Barton ACT 2600 ~$850,000~2~2~Apartment~5.0~2648~N/A~N/A~

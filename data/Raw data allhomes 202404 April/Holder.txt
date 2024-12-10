@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+1/51-63 Blackwood Terrace, Holder ACT 2611 ~$695,000 ~3~2~Apartment~3.5~1965~N/A~$1,943,000~
+92 Blackwood Terrace, Holder ACT 2611 ~$768,000~3~1~House~0.0~517~N/A~N/A~
+57 Sheaffe Street, Holder ACT 2611 ~Offers over $995,000~4~2~House~2.0~849~N/A~$633,000~

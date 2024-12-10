@@ -1,0 +1,3 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+16/2 Sexton Street, Cook ACT 2614 ~$599,000~2~2~Townhouse~1.5~273~104~N/A~
+2/59 Dugdale Street, Cook ACT 2614 ~$645,000~2~1~Townhouse~2.0~N/A~66~N/A~

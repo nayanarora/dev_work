@@ -1,0 +1,10 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+15B Lutwyche Street, Higgins ACT 2615 ~$549,000~2~1~Townhouse~4.0~429~N/A~N/A~
+The Henry - 2 Bedroom (2B), Higgins ACT 2615 ~$695,000~2~2~Apartment~8.2~N/A~N/A~N/A~
+The Henry - 2 Bedroom (2A), Higgins ACT 2615 ~$735,000~2~2~Apartment~8.2~N/A~N/A~N/A~
+10 Kinsella Street, Higgins ACT 2615 ~$790,000~3~1~House~0.5~856~110~$549,000~
+20 Fullagar Crescent, Higgins ACT 2615 ~$839,000~3~1~House~2.0~920~N/A~$504,000~
+1 Hodges Street, Higgins ACT 2615 ~Offers Over $939,000~5~2~House~1.0~877~210~$486,000~
+83 Starke Street, Higgins ACT 2615 ~$960,000~4~2~House~1.5~760~N/A~$486,000~
+The Henry - 3 bedroom (3B), Higgins ACT 2615 ~$995,000~3~2~Apartment~8.2~N/A~N/A~N/A~
+The Henry - 3 Bedroom (3A), Higgins ACT 2615 ~$1,195,000~3~2~Apartment~8.2~N/A~N/A~N/A~

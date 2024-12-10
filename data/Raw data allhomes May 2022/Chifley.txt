@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+2/110 Eggleston Crescent, Chifley ACT 2606 ~$1,065,000~3~2~Townhouse~6.0~N/A~160~N/A~
+5 Lamb Place, Chifley ACT 2606 ~$1,095,000~3~1~House~1.0~696~94~$500,000~
+2/13 Renwick Street, Chifley ACT 2606 ~$1,250,000 ~4~2~Townhouse~5.0~N/A~N/A~N/A~
+10 Lyle Place, Chifley ACT 2606 ~$1415000~5~3~House~1.0~761~197~$500,000~
+56 Wilsmore Crescent, Chifley ACT 2606 ~$1,679,999~5~2~House~2.0~1249~178~$671,000~

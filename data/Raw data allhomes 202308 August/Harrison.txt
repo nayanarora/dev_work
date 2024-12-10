@@ -1,0 +1,21 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+57/234 Flemington Road, Harrison ACT 2914 ~$364,000~1~1~Apartment~6.0~19700.0~N/A~$8,800,000~
+61/234 Flemington Road, Harrison ACT 2914 ~$370,000~1~1~Unit / Apartment~6.0~19700.0~N/A~$8,800,000~
+83/148 Flemington Road, Harrison ACT 2914 ~$379,000~1~1~Apartment~6.0~13600.000000000002~N/A~$6,550,000~
+123/230 Flemington Road, Harrison ACT 2914 ~$385,000~2~1~Apartment~6.0~19700.0~N/A~$8,800,000~
+19/17 Wimmera Street, Harrison ACT 2914 ~  $439,000~2~1~Unit / Apartment~6.0~7704~N/A~$4,520,000~
+2/29 Moonlight Avenue, Harrison ACT 2914 ~$453,950~2~1~Apartment~5.5~342~N/A~$508,000~
+128/230 Flemington Road, Harrison ACT 2914 ~$489,000~2~2~Apartment~6.0~19700.0~N/A~$8,800,000~
+107/230 Flemington Road, Harrison ACT 2914 ~$499,000~2~2~Apartment~6.0~19700.0~N/A~$8,800,000~
+117/2 Windjana Street, Harrison ACT 2914 ~$510,000~2~2~Apartment~6.0~13600.000000000002~N/A~$6,550,000~
+83/1 Windjana Street, Harrison ACT 2914 ~$539,000~2~2~Apartment~6.0~6318~N/A~$4,675,000~
+9/70 Nullarbor Avenue, Harrison ACT 2914 ~ $545,000~2~2~House~6.0~6318~N/A~$4,675,000~
+58/40 Kings Canyon Street, Harrison ACT 2914 ~$559,000~2~2~Townhouse~6.0~12800.0~N/A~$6,300,000~
+62/148 Flemington Road, Harrison ACT 2914 ~$599,000~3~2~Apartment~6.0~13600.000000000002~N/A~$6,550,000~
+14/138 Flemington Road, Harrison ACT 2914 ~  $629,000~4~2~Apartment~6.0~12800.0~N/A~$6,300,000~
+28/84 Kings Canyon Street, Harrison ACT 2914 ~  $660,000~4~2~Townhouse~6.0~5472~N/A~$3,910,000~
+19/84 Kings Canyon Street, Harrison ACT 2914 ~$689,000~4~2~Townhouse~6.0~5472~N/A~$3,910,000~
+144/142 Mapleton Avenue, Harrison ACT 2914 ~$699,000~3~2~Townhouse~6.0~19700.0~N/A~$8,800,000~
+114 Mapleton Avenue, Harrison ACT 2914 ~$732500~3~2~Townhouse~6.0~130~N/A~N/A~
+60/40 Kings Canyon Street, Harrison ACT 2914 ~$739,000~4~2~Townhouse~5.0~12800.0~N/A~$6,300,000~
+24 Fairydale Street, Harrison ACT 2914 ~$779,000~3~1~House~6.0~250~N/A~$385,000~

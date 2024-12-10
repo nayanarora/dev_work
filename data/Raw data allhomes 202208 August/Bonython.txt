@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+3/20 Helpmann Street, Bonython ACT 2905 ~$669,000 ~3~2~Townhouse~5.0~243~147~N/A~
+9/43 Derrington Crescent, Bonython ACT 2905 ~$780,000 ~3~2~Townhouse~0.5~439~127~N/A~
+6 Morice Place, Bonython ACT 2905 ~$950,000~4~2~House~4.0~659~N/A~$523,000~
+11/33 Ebenezer Street, Bonython ACT 2905 ~Offers Over $1,170,000~5~3~House~2.0~770~338~N/A~

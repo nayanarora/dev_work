@@ -1,0 +1,10 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+67 MacGregor Street, Deakin ACT 2600 ~$402500~1~N/A~Retirement Village~N/A~19600.0~N/A~$15,700,000~
+7/80 MacGregor Street, Deakin ACT 2600 ~$509,000 ~2~1~Apartment~5.0~1224~63~$289,200~
+67 MacGregor Street, Deakin ACT 2600 ~$680,000~2~1~Retirement Village~N/A~19600.0~N/A~$15,700,000~
+25 MacGregor Street, Deakin ACT 2600 ~$1300000~3~1~House~N/A~419~N/A~N/A~
+58 Newdegate Street, Deakin ACT 2600 ~$1,325,000~2~1~Duplex~N/A~649~98~$1,080,000~
+46 Fergusson Crescent, Deakin ACT 2600 ~$1,390,000~3~1~House~N/A~562~N/A~$1,330,000~
+30 Barron Street, Deakin ACT 2600 ~$1,795,000~3~2~House~2.0~821~148~$1,350,000~
+71 Kent Street, Deakin ACT 2600 ~$0~4~2~House~1.5~831~N/A~$1,200,000~
+4 Nathan Street, Deakin ACT 2600 ~$2,990,000~5~3~House~5.0~725~358~$1,250,000~

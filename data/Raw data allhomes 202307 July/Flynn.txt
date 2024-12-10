@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+18 Vickers Crescent, Flynn ACT 2615 ~$849,000~3~2~House~1.0~869~N/A~$569,000~

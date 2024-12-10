@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+8/21 Francis Forde Boulevard, Forde ACT 2914 ~$900000~4~2~Townhouse~6.0~219~N/A~N/A~
+33 Paquita Street, Forde ACT 2914 ~$980,000~4~2~House~5.0~451~207~$566,000~
+11 Hibberd Crescent, Forde ACT 2914 ~$1,275,000~4~2~House~3.5~480~263~$661,000~
+4 Phyllis Frost Street, Forde ACT 2914 ~$1,795,000~4~4~House~4.0~623~452~$641,000~
+3 Arndt Street, Forde ACT 2914 ~$1,980,000~5~2~House~3.0~810~N/A~$671,000~

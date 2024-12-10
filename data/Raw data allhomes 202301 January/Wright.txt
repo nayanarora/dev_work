@@ -1,0 +1,15 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+14/41 Philip Hodgins Street, Wright ACT 2611 ~Offers Over $349,000 ~1~1~Apartment~6.0~52~49~$40,320~
+27/41 Philip Hodgins Street, Wright ACT 2611 ~$399,000~1~1~Apartment~6.0~17900.0~62~$40,320~
+81/40 Philip Hodgins Street, Wright ACT 2611 ~Offers Over $419,900~1~1~Apartment~6.0~21200.0~68~$32,300~
+56/25 John Gorton Drive, Wright ACT 2611 ~Offers Over $439,000~1~1~Unit / Apartment~6.0~11299.999999999998~67~$37,400~
+242/36 Philip Hodgins Street, Wright ACT 2611 ~$480,000~1~1~Apartment~6.0~21200.0~N/A~$32,300~
+135/61 John Gorton Drive, Wright ACT 2611 ~Offers over $495,000~2~2~Apartment~6.0~17600.0~89~$62,832~
+25/11 Clingan Street, Wright ACT 2611 ~$770,000~3~1~Townhouse~4.0~8514~133~$85,500~
+36 Diesendorf Street, Wright ACT 2611 ~$805,000~3~2~House~6.0~240~105~$429,000~
+28/253 John Gorton Drive, Wright ACT 2611 ~$900,000~3~2~Townhouse~6.0~N/A~216~N/A~
+(no street name provided), Wright ACT 2611 ~$1037500~4~2~House~6.5~206~184~N/A~
+(no street name provided), Wright ACT 2611 ~$1375000~4~3~House and Land Package~6.0~580~300~$632,000~
+24 Argus Street, Wright ACT 2611 ~$1,248,000~5~3~House~6.0~450~218~$593,000~
+25 Ulysses Circuit, Wright ACT 2611 ~$1,490,000~4~3~House~5.0~491~N/A~$626,000~
+6 Amaryllis Street, Wright ACT 2611 ~$1,540,000~4~3~House~6.0~540~N/A~$608,000~

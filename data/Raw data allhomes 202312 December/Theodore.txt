@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+44 Louis Loder Street, Theodore ACT 2905 ~$1,100,000~4~2~House~2.0~1226~N/A~$550,000~

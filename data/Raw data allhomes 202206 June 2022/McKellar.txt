@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+5 Pinkstone Place, McKellar ACT 2617 ~$1,350,000~5~3~House~1.0~734~306~$425,000~

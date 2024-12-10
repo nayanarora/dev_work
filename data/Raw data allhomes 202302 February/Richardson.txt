@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+6 Austral Place, Richardson ACT 2905 ~$789,000~3~1~House~0.5~936~121~$374,000~

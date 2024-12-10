@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+16/68 Lorraway Street, Holt ACT 2615 ~Offers Over $649,000~3~2~Townhouse~6.0~N/A~107~N/A~
+14 Worrall Street, Holt ACT 2615 ~Offers Over $770,000~3~1~House~1.0~667~105~$390,000~
+(no street name provided), Ginninderra Estate ACT 2615 ~$950,000~4~2~House and Land Package~6.0~604~230~N/A~

@@ -1,0 +1,32 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+Molonglo Falls - Construction commenced, Coombs ACT 2611 ~$349,000~1~1~Apartment~6.0~N/A~61~N/A~
+Molonglo Falls - Construction commenced, Coombs ACT 2611 ~$349,000~1~1~Apartment~6.0~N/A~61~N/A~
+10/60 John Gorton Drive, Coombs ACT 2611 ~$399,000~2~1~House~6.0~N/A~57~$3,600,000~
+Del-Rey - 1 Bed, 1 Bath, 1 Car Condominium, Coombs ACT 2611 ~$425,000~1~1~Unit / Apartment~7.0~N/A~N/A~N/A~
+Del-Rey - 2 Beds, 1 Bath, 1 Car Condominium, Coombs ACT 2611 ~$435,000~2~1~Apartment~7.0~N/A~N/A~N/A~
+Del-Rey - 2 Beds, 1 Bath, 1 Car Loft, Coombs ACT 2611 ~$450,000~2~1~Apartment~7.0~N/A~N/A~N/A~
+Del-Rey - 2 Beds, 1 Bath, 2 Cars Loft, Coombs ACT 2611 ~$460,000~2~1~Apartment~7.0~N/A~N/A~N/A~
+52/39 Woodberry Avenue, Coombs ACT 2611 ~Offers over $499,000 ~2~1~Townhouse~6.0~N/A~N/A~N/A~
+Molonglo Falls - Construction commenced, Coombs ACT 2611 ~$499,000~2~2~Apartment~6.0~N/A~86~N/A~
+Molonglo Falls - Construction commenced, Coombs ACT 2611 ~$499,000~2~2~Apartment~6.0~N/A~86~N/A~
+Del-Rey - 2 Bed, 1 Bath, 1 Car Condominium, Coombs ACT 2611 ~$520,000~2~1~Apartment~7.0~N/A~N/A~N/A~
+Molonglo Falls - Construction commenced, Coombs ACT 2611 ~$539,000~2~2~Apartment~6.0~N/A~86~N/A~
+Molonglo Falls - Construction commenced, Coombs ACT 2611 ~$547,000~2~2~Apartment~6.0~N/A~88~N/A~
+Molonglo Falls - Construction commenced, Coombs ACT 2611 ~$549,000~2~2~Apartment~6.0~N/A~88~N/A~
+Del-Rey - 2 Beds, 2 Baths, 2 Cars Condominium, Coombs ACT 2611 ~$550,000~2~2~Apartment~7.0~N/A~N/A~N/A~
+Molonglo Falls - Construction commenced, Coombs ACT 2611 ~$559,000~2~2~Apartment~6.0~N/A~88~N/A~
+Molonglo Falls - Construction commenced, Coombs ACT 2611 ~$559,000~2~2~Apartment~6.0~N/A~88~N/A~
+Del-Rey - 2 Bed, 2 Bath, 2 Car Condominium, Coombs ACT 2611 ~$580,000~2~2~Apartment~7.0~N/A~N/A~N/A~
+Molonglo Falls - Construction commenced, Coombs ACT 2611 ~$599,000~2~2~Apartment~6.0~N/A~117~N/A~
+Del-Rey - 2 Bed, 2 Bath, 2 Car Condominium, Coombs ACT 2611 ~$650,000~2~2~Apartment~7.0~N/A~N/A~N/A~
+26/90 John Gorton Drive, Coombs ACT 2611 ~Offers over $669,000~3~2~Townhouse~6.0~N/A~N/A~$4,860,000~
+Del-Rey - 3 Beds, 2 Baths, 2 Cars Condominium, Coombs ACT 2611 ~$680,000~3~2~Apartment~7.0~N/A~N/A~N/A~
+32/8 Ken Tribe Street, Coombs ACT 2611 ~$ 719,000 ~3~2~Townhouse~6.0~N/A~N/A~N/A~
+Del-Rey - 3 Bed, 2 Bath, 2 Car Condominium, Coombs ACT 2611 ~$740,000~3~2~Apartment~7.0~N/A~N/A~N/A~
+Molonglo Falls - Construction commenced, Coombs ACT 2611 ~$749,000~3~2~Apartment~6.0~N/A~126~N/A~
+62 Arthur Blakeley Way, Coombs ACT 2611 ~$749,000~4~3~Townhouse~6.0~N/A~N/A~N/A~
+Molonglo Falls - Construction commenced, Coombs ACT 2611 ~$749,000~3~2~Apartment~6.0~N/A~126~N/A~
+Molonglo Falls - Construction commenced, Coombs ACT 2611 ~$759,000~3~2~Apartment~6.0~N/A~139~N/A~
+24/11 Castan Street, Coombs ACT 2611 ~$829000~4~3~Townhouse~6.0~N/A~N/A~N/A~
+62/20 Gifford Street, Coombs ACT 2611 ~$845,000~4~3~Townhouse~6.0~N/A~N/A~N/A~
+(no street name provided), Coombs ACT 2611 ~$1,650,000~3~2~House~6.0~450~263~N/A~

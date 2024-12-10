@@ -1,0 +1,42 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+72/10 Thynne Street, Bruce ACT 2617 ~  $280,000~N/A~N/A~N/A~N/A~16000.0~N/A~$10,044,000~
+21/2 Eardley Street, Bruce ACT 2617 ~$325,000~N/A~N/A~N/A~N/A~16000.0~N/A~$10,044,000~
+96/21 Battye Street, Bruce ACT 2617 ~$349,000~N/A~N/A~N/A~N/A~N/A~N/A~N/A~
+7/2 Eardley Street, Bruce ACT 2617 ~  $350,000~N/A~N/A~N/A~N/A~16000.0~N/A~$10,044,000~
+37/126 Thynne Street, Bruce ACT 2617 ~$355,000~N/A~N/A~N/A~N/A~5563~N/A~$2,835,000~
+19/126 Thynne Street, Bruce ACT 2617 ~$375,000~N/A~N/A~N/A~N/A~5563~N/A~$2,835,000~
+51/2 Eardley Street, Bruce ACT 2617 ~$385,000~N/A~N/A~N/A~N/A~16000.0~N/A~$10,044,000~
+204/1 Watkin Street, Bruce ACT 2617 ~$399,000~N/A~N/A~N/A~N/A~2400~N/A~N/A~
+504/1 Watkin Street, Bruce ACT 2617 ~$400,000~N/A~N/A~N/A~N/A~2400~N/A~N/A~
+48/136 Thynne Street, Bruce ACT 2617 ~$410,000~N/A~N/A~N/A~N/A~21600.0~N/A~$8,085,000~
+5/21 Battye Street, Bruce ACT 2617 ~$419,000~N/A~N/A~N/A~N/A~13500.0~N/A~$5,565,000~
+106/31 Thynne Street, Bruce ACT 2617 ~  $420,000~N/A~N/A~N/A~N/A~12600.0~N/A~$7,800,000~
+114/39 Braybrooke Street, Bruce ACT 2617 ~$420,000~N/A~N/A~N/A~N/A~N/A~N/A~N/A~
+69/10 Thynne Street, Bruce ACT 2617 ~$425,000~N/A~N/A~N/A~N/A~16000.0~N/A~$10,044,000~
+63/10 Thynne Street, Bruce ACT 2617 ~$429,000~N/A~N/A~N/A~N/A~N/A~N/A~N/A~
+56/2 Eardley Street, Bruce ACT 2617 ~$430,000~N/A~N/A~N/A~N/A~16000.0~N/A~$10,044,000~
+The Brooke - 1 Bedroom, Bruce ACT 2617 ~$440,000~N/A~N/A~N/A~N/A~3161~N/A~$4,040,000~
+54/2 Eardley Street, Bruce ACT 2617 ~$450,000~N/A~N/A~N/A~N/A~16000.0~N/A~$10,044,000~
+70/10 Thynne Street, Bruce ACT 2617 ~$455,000~N/A~N/A~N/A~N/A~16000.0~N/A~$10,044,000~
+60/10 Thynne Street, Bruce ACT 2617 ~$455,000~N/A~N/A~N/A~N/A~N/A~N/A~N/A~
+Level G/71/10 Thynne Street, Bruce ACT 2617 ~$460,000~N/A~N/A~N/A~N/A~N/A~N/A~N/A~
+202/80 Thynne Street, Bruce ACT 2617 ~$480,000~N/A~N/A~N/A~N/A~2885~N/A~N/A~
+207/82 Thynne Street, Bruce ACT 2617 ~$525,000~N/A~N/A~N/A~N/A~2885~N/A~N/A~
+The Brooke - Ground floor 1 bed +study room, Bruce ACT 2617 ~$550,000~N/A~N/A~N/A~N/A~3161~N/A~$4,040,000~
+105/31 Thynne Street, Bruce ACT 2617 ~  $565,000~N/A~N/A~N/A~N/A~12600.0~N/A~$7,800,000~
+107/31 Thynne Street, Bruce ACT 2617 ~  $565,000~N/A~N/A~N/A~N/A~12600.0~N/A~$7,800,000~
+25/31 Thynne Street, Bruce ACT 2617 ~$585,000~N/A~N/A~N/A~N/A~12600.0~N/A~$7,800,000~
+98/31 Thynne Street, Bruce ACT 2617 ~$599,000~N/A~N/A~N/A~N/A~12600.0~N/A~$7,800,000~
+111/31 Thynne Street, Bruce ACT 2617 ~  $610,000~N/A~N/A~N/A~N/A~12600.0~N/A~$7,800,000~
+UNIT 17/31 Thynne Street, Bruce ACT 2617 ~$610,000~N/A~N/A~N/A~N/A~12600.0~N/A~$7,800,000~
+110/31 Thynne Street, Bruce ACT 2617 ~$630,000~N/A~N/A~N/A~N/A~12600.0~N/A~$7,800,000~
+109/31 Thynne Street, Bruce ACT 2617 ~  $630,000~N/A~N/A~N/A~N/A~12600.0~N/A~$7,800,000~
+19 Paget Street, Bruce ACT 2617 ~$640,000~N/A~N/A~N/A~N/A~21600.0~N/A~$8,085,000~
+The Brooke - 306/Brooke, 2 bed 2 bath 2 car, Bruce ACT 2617 ~$650,000~N/A~N/A~N/A~N/A~3161~N/A~$4,040,000~
+3/50 Lampard Circuit, Bruce ACT 2617 ~$690,000~N/A~N/A~N/A~N/A~5906~N/A~$5,115,000~
+16/33 Braybrooke Street, Bruce ACT 2617 ~$825,000~N/A~N/A~N/A~N/A~6558~N/A~N/A~
+15/17 Thynne Street, Bruce ACT 2617 ~$875,000~N/A~N/A~N/A~N/A~13300.0~N/A~$9,450,000~
+10/19 Thynne Street, Bruce ACT 2617 ~$880,000~N/A~N/A~N/A~N/A~N/A~N/A~N/A~
+58/121 Thynne Street, Bruce ACT 2617 ~  $920,000~N/A~N/A~N/A~N/A~336~N/A~N/A~
+9 Medlin Street, Bruce ACT 2617 ~$1,175,000~N/A~N/A~N/A~N/A~431~N/A~$530,000~
+12 Jaeger Circuit, Bruce ACT 2617 ~$1,450,000~N/A~N/A~N/A~N/A~1016~176~$1,030,000~

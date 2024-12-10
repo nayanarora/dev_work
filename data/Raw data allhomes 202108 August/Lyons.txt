@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+89/5 Burnie Street, Lyons ACT 2606 ~$395,000~1~1~Apartment~5.0~10200.0~N/A~N/A~
+66/5 Burnie Street, Lyons ACT 2606 ~$415,000~1~1~Apartment~6.0~N/A~N/A~N/A~
+2 Taroona Place, Lyons ACT 2606 ~$1,100,000~3~2~House~5.5~N/A~167~$635,000~

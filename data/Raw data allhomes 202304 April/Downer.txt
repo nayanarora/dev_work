@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+8 Fenner Street, Downer ACT 2602 ~$1125000~3~1~House~1.5~694~96~$904,000~
+131 Antill Street, Downer ACT 2602 ~$1,150,000~4~2~House~5.0~595~N/A~N/A~
+66 Melba Street, Downer ACT 2602 ~$1,200,000~3~1~House~1.5~858~N/A~$970,000~
+522 Northbourne Avenue, Downer ACT 2602 ~$2,900,000~7~7~House~N/A~832~N/A~$595,000~

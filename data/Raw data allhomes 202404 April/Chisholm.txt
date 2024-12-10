@@ -1,0 +1,8 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+21 Lort Place, Chisholm ACT 2905 ~Offers over $635,000~2~1~House~2.5~371~107~$340,000~
+11 Truganini Place, Chisholm ACT 2905 ~$650,000~3~1~House~2.0~399~104~$368,000~
+1 Muscio Place, Chisholm ACT 2905 ~$789,950~3~1~House~2.0~1133~111~$530,000~
+43 Glencross Street, Chisholm ACT 2905 ~$799,000~3~1~House~3.0~729~N/A~$456,000~
+3/31 McLorinan Street, Chisholm ACT 2905 ~$849,000~4~2~Townhouse~4.5~400~N/A~N/A~
+35 Kirkcaldie Circuit, Chisholm ACT 2905 ~$940,000~3~2~House~4.0~798~N/A~$434,000~
+9 Pidgeon Place, Chisholm ACT 2905 ~$950,000~4~1~House~1.0~1334~N/A~$460,000~

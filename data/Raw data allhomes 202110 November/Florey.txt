@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+5 Whitelegge Close, Florey ACT 2615 ~$760,000~3~1~Courtyard Home~2.0~532~N/A~$346,000~

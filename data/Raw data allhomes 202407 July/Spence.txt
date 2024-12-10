@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+213 Owen Dixon Drive, Spence ACT 2615 ~$989,000~4~2~House~2.5~888~172~$522,000~

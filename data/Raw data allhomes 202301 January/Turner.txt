@@ -1,0 +1,13 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+2/29 Forbes Street, Turner ACT 2612 ~$449,000~1~1~Apartment~6.0~2867~52~$125,860~
+29/28 Watson Street, Turner ACT 2612 ~$459,000~1~1~Apartment~6.0~3037~56~$167,400~
+17/217 Northbourne Avenue, Turner ACT 2612 ~$475,000~1~1~Apartment~6.0~5045~N/A~$62,400~
+1/39 Moore Street, Turner ACT 2612 ~$495,000 ~1~1~Apartment~6.0~1073~61~$202,500~
+19/28 Watson Street, Turner ACT 2612 ~$499,000~1~1~Apartment~6.0~3037~56~$167,400~
+(no street name provided), Turner ACT 2612 ~Offers Above $590,000~2~1~Apartment~6.0~2644~N/A~N/A~
+204/2 Masson Street, Turner ACT 2612 ~$645,000~2~2~Apartment~6.0~1389~103~$120,000~
+70/77 Northbourne Avenue, Turner ACT 2612 ~$699,000~2~2~House~6.0~6377~120~$52,762~
+G03/155 Northbourne Avenue, Turner ACT 2612 ~$1,070,000~3~1~Apartment~6.0~N/A~222~N/A~
+2/49 Boldrewood Street, Turner ACT 2612 ~$1,250,000~2~2~Duplex~1.5~586~N/A~N/A~
+5/16 Holder Street, Turner ACT 2612 ~$1,825,000~4~3~Townhouse~6.0~1895~175~$317,200~
+90 Boldrewood Street, Turner ACT 2612 ~$2,875,000~4~3~House~2.5~1449~N/A~$1,871,000~

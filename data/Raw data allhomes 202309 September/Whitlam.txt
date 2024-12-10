@@ -1,0 +1,33 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+EKKO - 1 Bedroom Courtyard Apartment, Whitlam ACT 2611 ~$475,000~1~1~Other~6.0~N/A~N/A~N/A~
+1 Lois Simpson Crescent, Whitlam ACT 2611 ~$899000~4~2~House~N/A~609~N/A~N/A~
+(no street name provided), Whitlam ACT 2611 ~$1049999~4~2~House and Land Package~6.5~N/A~N/A~N/A~
+EKKO - 2 Bedroom Apartment DA Approved!, Whitlam ACT 2611 ~$575,000~2~2~Apartment~6.0~N/A~N/A~N/A~
+EKKO - 2 Bedroom + Study DA Approved!, Whitlam ACT 2611 ~$629,000~2~1~Apartment~6.0~N/A~N/A~N/A~
+EKKO - 2 Bedroom Townhouse DA Approved!, Whitlam ACT 2611 ~$659,000~2~2~Townhouse~6.0~N/A~N/A~N/A~
+EKKO - 2 bedroom townhouse DA Approved!, Whitlam ACT 2611 ~$699,000~2~2~Townhouse~6.0~N/A~N/A~N/A~
+(no street name provided), Whitlam ACT 2611 ~$1075000~4~3~House~6.5~N/A~239~N/A~
+EKKO - 3 Bedroom Townhouse DA Approved!, Whitlam ACT 2611 ~$795,000~3~2~Townhouse~6.0~N/A~N/A~N/A~
+16 / 2 Jackonia Street, Whitlam ACT 2611 ~$809,000~2~2~Townhouse~7.9~N/A~N/A~N/A~
+57 Maggie Scott Terrace, Whitlam ACT 2611 ~$950,000~3~2~House~6.0~300~182~N/A~
+1/100 Hazel Hawke Avenue, Whitlam ACT 2611 ~$999,000~4~2~Townhouse~6.5~400~N/A~N/A~
+EKKO - 3 Bedroom Townhouse, Whitlam ACT 2611 ~$999,000~3~2~Townhouse~6.0~N/A~N/A~N/A~
+(no street name provided), Whitlam ACT 2611 ~$999,900~4~2~House and Land Package~6.0~350~N/A~N/A~
+15 Malcolm Cole Terrace, Whitlam ACT 2611 ~$1,090,000~4~3~House~7.5~245~222~N/A~
+26 Pannell Street, Whitlam ACT 2611 ~$1,099,000~4~2~House~6.0~264~N/A~N/A~
+227 Sculthorpe Avenue, Whitlam ACT 2611 ~$1,100,000~3~2~House~6.0~205~160~N/A~
+1 Malcolm Cole Terrace, Whitlam ACT 2611 ~$1,140,000~4~2~House~6.1~412~N/A~N/A~
+Argonaut Street, Whitlam ACT 2611 ~$1,150,000~4~3~House~6.0~375~220~N/A~
+(no street name provided), Whitlam ACT 2611 ~$1,190,000~4~2~House and Land Package~6.0~495~N/A~N/A~
+3/4 Lucy Cassidy Lane, Whitlam ACT 2611 ~$1,200,000~4~2~House~7.0~321~N/A~N/A~
+35 Ker Wilson Way, Whitlam ACT 2611 ~$1,259,990~4~1~House and Land Package~6.0~429~N/A~N/A~
+(no street name provided), Whitlam ACT 2611 ~$1,300,000~4~5~House and Land Package~6.0~N/A~N/A~N/A~
+72 Churcher Crescent, Whitlam ACT 2611 ~$1,339,000~4~3~House~6.0~420~248~N/A~
+3 Baas Becking Street, Whitlam ACT 2611 ~$1,350,000~4~3~House~6.0~460~231~N/A~
+30 Churcher Crescent, Whitlam ACT 2611 ~$1,390,000~4~3~House~6.0~510~250~N/A~
+6 Argonaut Street, Whitlam ACT 2611 ~$1,395,990~4~1~House and Land Package~6.0~440~N/A~N/A~
+9 Chaloupka Street, Whitlam ACT 2611 ~$1,410,000~4~1~House and Land Package~6.0~525~N/A~N/A~
+6 Rajah Lane, Whitlam ACT 2611 ~$1,425,990~4~1~House and Land Package~6.0~487~N/A~N/A~
+22 Maggie Scott Terrace, Whitlam ACT 2611 ~$1,450,000~4~3~House~6.5~306~261~N/A~
+(no street name provided), Whitlam ACT 2611 ~$1,585,000~4~1~House and Land Package~6.0~494~N/A~N/A~
+(no street name provided), Whitlam ACT 2611 ~$1,799,000~4~3~House and Land Package~6.0~592~N/A~N/A~

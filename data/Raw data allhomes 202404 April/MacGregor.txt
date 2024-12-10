@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+78 Hollows Circuit, MacGregor ACT 2615 ~$750,000~3~1~House~5.0~350~105~$361,000~
+44 Osburn Drive, MacGregor ACT 2615 ~$849,000~4~2~House~1.0~927~N/A~$482,000~
+1/21 Beeston Street, MacGregor ACT 2615 ~$875,000~3~2~House~5.5~505~206~N/A~
+24 Barrett Street, MacGregor ACT 2615 ~$1,050,000~5~3~House~0.5~928~277~$548,000~
+7 Lawrence Close, MacGregor ACT 2615 ~$1,365,000~7~5~House~5.0~1072~276~$396,000~

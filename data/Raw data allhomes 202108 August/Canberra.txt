@@ -1,0 +1,22 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+512/2 Akuna Street, City ACT 2601 ~$205,000~N/A~1~Apartment~6.0~2306~N/A~N/A~
+52/2 Edinburgh Avenue, City ACT 2601 ~$420,000~1~1~Apartment~6.0~N/A~N/A~N/A~
+404/ Cooyong Street, Canberra ACT 2601 ~$439,000~1~1~Apartment~6.0~N/A~N/A~N/A~
+86/20 Allara Street, City ACT 2601 ~$460,900~1~1~Apartment~8.0~1381~N/A~N/A~
+68/3 London Circuit, City ACT 2601 ~$480,900~1~1~Apartment~4.0~N/A~79~N/A~
+Park Avenue - 126/20 Allara Street, City ACT 2601 ~$499,900~1~1~Apartment~7.0~N/A~67~N/A~
+Park Avenue - 164/20 Allara Street, City ACT 2601 ~$519,900~1~1~Apartment~7.0~N/A~65~N/A~
+15 Cooyong Street, City ACT 2601 ~$539,000~2~1~Apartment~7.0~N/A~N/A~N/A~
+103/66 Allara Street, Canberra ACT 2601 ~$560,000~2~2~Apartment~5.5~N/A~N/A~N/A~
+20 Allara Street, Canberra ACT 2601 ~$590,000~2~1~Apartment~6.0~N/A~85~N/A~
+98/15 Corinderrk, City ACT 2601 ~$610,000~2~1~Apartment~4.5~10400.0~110~N/A~
+Park Avenue - 168/20 Allara Street, City ACT 2601 ~$639,900~2~1~Other~7.5~N/A~N/A~N/A~
+Park Avenue - 7/20 Allara Street, City ACT 2601 ~$699,900~2~1~Apartment~7.0~N/A~81~N/A~
+Park Avenue - 74/20 Allara Street, City ACT 2601 ~$699,900~2~1~Apartment~7.0~N/A~91~N/A~
+Park Avenue - 79/20 Allara Street, City ACT 2601 ~$719,900~2~2~Apartment~7.0~N/A~86~N/A~
+89/260 City Walk, City ACT 2601 ~$759,000~2~2~Apartment~6.5~N/A~98~N/A~
+83/45 West Row, City ACT 2601 ~$815,000~2~1~Apartment~6.0~N/A~N/A~N/A~
+179/45 West Row, City ACT 2601 ~$995,000~2~2~Apartment~5.5~N/A~98~N/A~
+116/3 London Circuit, City ACT 2601 ~$1,550,000~4~2~Apartment~2.5~N/A~N/A~N/A~
+182/15 Coranderrk Street, City ACT 2601 ~$1,850,000~3~1~Apartment~4.0~10400.0~N/A~N/A~
+Park Avenue - 159/20 Allara Street, City ACT 2601 ~$1,899,900~3~1~Apartment~7.3~N/A~192~N/A~

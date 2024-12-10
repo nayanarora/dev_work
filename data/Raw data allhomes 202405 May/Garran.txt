@@ -1,0 +1,12 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+5/5 Garran Place, Garran ACT 2605 ~$395,000~2~1~Apartment~2.5~N/A~N/A~$2,450,000~
+1/1 Garran Place, Garran ACT 2605 ~$459,990~2~1~Apartment~4.5~N/A~N/A~$2,450,000~
+22/15 Eldridge Crescent, Garran ACT 2605 ~  $615,000~2~2~Apartment~6.0~N/A~N/A~$7,500,000~
+33/17 Eldridge Crescent, Garran ACT 2605 ~$745,000~3~2~Unit / Apartment~6.0~N/A~N/A~$7,500,000~
+4/2 Eldridge Crescent, Garran ACT 2605 ~$750,000~3~2~Apartment~6.0~N/A~N/A~$8,225,000~
+28 Gilmore Crescent, Garran ACT 2605 ~$1,150,000~3~2~House~3.0~442~122~N/A~
+29A Tompson Street, Garran ACT 2605 ~$1,300,000~3~2~Villa~6.0~886~N/A~$1,268,000~
+6 Brent Place, Garran ACT 2605 ~$1,449,000~3~3~House~3.0~939~N/A~$998,000~
+1/18 Sabine Close, Garran ACT 2605 ~$1,575,000 ~3~2~Townhouse~5.5~2596~N/A~$3,200,000~
+14 Curlewis Crescent, Garran ACT 2605 ~$1,620,000~4~3~House~3.0~876~182~$1,109,000~
+91 Fitchett Street, Garran ACT 2605 ~$1,800,000 ~4~2~House~2.0~845~230~$1,281,000~

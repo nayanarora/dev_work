@@ -1,0 +1,12 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+12/47 Abena Avenue, Crace ACT 2911 ~$369,000~1~1~Apartment~6.0~2023~N/A~$1,848,000~
+22/50 Hillcrest Street, Crace ACT 2911 ~$650,000~2~2~Apartment~6.0~4263~N/A~$3,125,000~
+3/21 Samaria Street, Crace ACT 2911 ~$699,000~2~2~Townhouse~6.0~138~N/A~N/A~
+26 Zanci Street, Crace ACT 2911 ~$700,000~2~1~Townhouse~4.5~179~N/A~$353,000~
+13 Stowport Avenue, Crace ACT 2911 ~$899,000~3~2~House~4.5~375~N/A~$540,000~
+(no street name provided), Crace ACT 2911 ~$900,000~3~2~House~5.5~450~N/A~$591,000~
+13 Avenal Street, Crace ACT 2911 ~$979,000~4~3~House~4.5~313~162~$477,000~
+34 Stowport Avenue, Crace ACT 2911 ~$1095000~4~3~House~6.0~336~203~$508,000~
+192 Langtree Crescent, Crace ACT 2911 ~$1,100,000~4~2~House~4.0~497~220~$526,000~
+11 Hillcrest Street, Crace ACT 2911 ~$1,199,000~4~3~House~5.0~465~240~$576,000~
+16 Avenal Street, Crace ACT 2911 ~$1,450,000~5~3~House~4.5~490~N/A~$649,000~

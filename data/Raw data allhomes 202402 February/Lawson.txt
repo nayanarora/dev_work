@@ -1,0 +1,8 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+62/3 Nevertire Street, Lawson ACT 2617 ~$408,000~N/A~N/A~N/A~N/A~9231~N/A~$5,250,000~
+5/1 Pipeclay Street, Lawson ACT 2617 ~$425,000~N/A~N/A~N/A~N/A~5609~N/A~$4,485,000~
+4/55 Jumbuck Crescent, Lawson ACT 2617 ~$665,000~N/A~N/A~N/A~N/A~7579~N/A~$7,319,000~
+63/15 Jumbuck Crescent, Lawson ACT 2617 ~$720,000~N/A~N/A~N/A~N/A~11399.999999999998~N/A~$6,574,000~
+2/15 Jumbuck Crescent, Lawson ACT 2617 ~$799,000~N/A~N/A~N/A~N/A~11399.999999999998~N/A~$6,574,000~
+20/4 Toorale Terrace, Lawson ACT 2617 ~  $895,000~N/A~N/A~N/A~N/A~5609~N/A~$4,203,000~
+18 Swagman Street, Lawson ACT 2617 ~  $1,889,000~N/A~N/A~N/A~N/A~450~376~$642,000~

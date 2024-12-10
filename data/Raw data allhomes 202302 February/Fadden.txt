@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+22/45 Stopford Crescent, Fadden ACT 2904 ~Offers Over $920,000~4~2~Townhouse~5.0~354~190~N/A~
+1 Welsby Place, Fadden ACT 2904 ~$1034000~4~2~House~4.0~825~N/A~$520,000~
+422 Bugden Avenue, Fadden ACT 2904 ~$1,000,000~5~2~House~1.0~753~N/A~$647,000~
+19 Courtice Close, Fadden ACT 2904 ~$1,150,000~3~1~House~2.0~838~264~$686,000~

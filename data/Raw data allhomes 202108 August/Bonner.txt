@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+9 Syddall Street, Bonner ACT 2914 ~$599,999~3~2~House~4.5~149~N/A~$174,000~
+34 Stanner Circuit, Bonner ACT 2914 ~$750,000~3~2~House~5.0~330~137~$262,000~
+23 Lucy Beeton Crescent, Bonner ACT 2914 ~$880,000~4~1~House~6.0~450~N/A~$299,000~

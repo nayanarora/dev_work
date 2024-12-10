@@ -1,0 +1,3 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+2/4 Bindaga Street, Aranda ACT 2614 ~$660,000~3~1~Apartment~1.0~708~N/A~$265,200~
+62 Bindaga Street, Aranda ACT 2614 ~Offers above $1,380,000~5~2~House~2.0~1142~167~$1,136,000~

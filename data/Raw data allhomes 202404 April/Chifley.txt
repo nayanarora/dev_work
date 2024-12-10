@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+7/101 Eggleston Crescent, Chifley ACT 2606 ~$550000~1~1~Townhouse~6.0~2949~N/A~$3,080,000~
+5/43 Anderson Street, Chifley ACT 2606 ~Welcome Offers Above $710,000~2~2~Townhouse~5.0~179~N/A~N/A~
+26A Eggleston Crescent, Chifley ACT 2606 ~$950,000~3~2~House~4.5~466~134~N/A~
+19 Charteris Crescent, Chifley ACT 2606 ~$1387500~4~1~Townhouse~6.0~330~N/A~$942,000~
+2/3 Charteris Crescent, Chifley ACT 2606 ~$1,480,000~4~2~Townhouse~6.0~N/A~N/A~N/A~

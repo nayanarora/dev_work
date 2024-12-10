@@ -1,0 +1,9 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+57A Bellchambers Crescent, Banks ACT 2906 ~Offers Over $639,000~3~1~House~4.0~429~94~N/A~
+25/3 Peron Place, Banks ACT 2906 ~$669,000~3~2~Townhouse~3.0~244~119~N/A~
+4/41 Bellchambers Crescent, Banks ACT 2906 ~$690,000~3~2~House~4.5~287~154~N/A~
+15/35 Brockway Circuit, Banks ACT 2906 ~$695,000~3~2~Townhouse~5.5~289~155~N/A~
+24 Abercrombie Circuit, Banks ACT 2906 ~Offers over $735,000~3~1~House~2.5~475~108~$400,000~
+2 Adcock Place, Banks ACT 2906 ~$899,000~4~1~House~4.5~831~N/A~$451,000~
+18 Kettlewell Crescent, Banks ACT 2906 ~$949,000~4~3~House~4.0~704~N/A~$450,000~
+24 Olive Pink Crescent, Banks ACT 2906 ~$1,050,000~4~1~House~4.5~627~N/A~$493,000~

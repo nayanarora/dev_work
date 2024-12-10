@@ -1,0 +1,15 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+16/62 Max Jacobs Avenue, Wright ACT 2611 ~Offers over $399,000~1~1~Unit / Apartment~4.0~17600.0~N/A~$62,832~
+179/41 Philip Hodgins Street, Wright ACT 2611 ~$410,000~1~1~Unit / Apartment~6.0~17900.0~62~$40,320~
+68/566 Cotter Road, Wright ACT 2611 ~$425,000~1~1~Apartment~6.0~2032~59~$21,294~
+244/36 Philip Hodgins Street, Wright ACT 2611 ~$519,000~2~1~Apartment~6.0~21200.0~N/A~$32,300~
+67/2 Peter Cullen Way, Wright ACT 2611 ~$530,000~2~2~Apartment~6.0~17600.0~78~$62,832~
+91/2 Peter Cullen Way, Wright ACT 2611 ~Offers Over $530,000~2~2~Unit / Apartment~6.0~17600.0~78~$62,832~
+35/40 Philip Hodgins Street, Wright ACT 2611 ~$530,000~2~1~Apartment~6.0~21200.0~N/A~$32,300~
+98/51 Catalano Street, Wright ACT 2611 ~$549,000~2~2~Apartment~6.0~21200.0~N/A~$32,300~
+50/40 Philip Hodgins Street, Wright ACT 2611 ~$590,000~2~2~Apartment~5.5~21200.0~113~$32,300~
+38/58 Max Jacobs Avenue, Wright ACT 2611 ~$699,000 ~3~3~Townhouse~6.0~17600.0~N/A~$62,832~
+231 John Gorton Drive, Wright ACT 2611 ~$899,000~4~3~Townhouse~6.0~3167~N/A~$117,120~
+(no street name provided), Wright ACT 2611 ~$1037500~4~2~House~6.5~206~184~N/A~
+(no street name provided), Wright ACT 2611 ~$1375000~4~3~House and Land Package~6.0~580~300~$632,000~
+2 Lindsay Pryor Street, Wright ACT 2611 ~Offers above $1,595,000~4~2~House~6.0~647~322~$675,000~

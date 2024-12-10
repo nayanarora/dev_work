@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+6 Bunker Place, Charnwood ACT 2615 ~$765,000~3~1~House~1.0~585~103~$469,000~
+39 Bettington Circuit, Charnwood ACT 2615 ~$775,000~3~1~House~1.0~777~102~$550,000~
+12 Stuckey Place, Charnwood ACT 2615 ~$779,000~4~2~House~1.0~818~189~$469,000~

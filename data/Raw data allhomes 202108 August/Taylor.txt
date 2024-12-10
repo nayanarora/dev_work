@@ -1,0 +1,59 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+(no street name provided), Taylor ACT 2913 ~$310500~4~2~House and Land Package~7.0~N/A~N/A~N/A~
+(no street name provided), Taylor ACT 2913 ~$279,000~3~2~House and Land Package~6.0~N/A~N/A~N/A~
+(no street name provided), Taylor ACT 2913 ~$400000~4~1~House~6.0~N/A~N/A~N/A~
+Summerfield - 1 Bedroom Apartment, Taylor ACT 2913 ~$305,000~1~1~Apartment~6.0~N/A~N/A~N/A~
+SkyHaus - Reaching new heights in Taylor, Taylor ACT 2913 ~$319,900~1~1~Apartment~6.0~N/A~62~N/A~
+SkyHaus - Reaching new heights in Taylor, Taylor ACT 2913 ~$319,900~1~1~Apartment~6.0~N/A~62~N/A~
+Langi Apartments: A Boutique Development - 1 bedroom apartment, Taylor ACT 2913 ~$323,000~1~1~Apartment~6.0~N/A~72~N/A~
+Langi Apartments - 2 or 3 bedroom apartments, Taylor ACT 2913 ~$381000~1~1~Apartment~6.0~N/A~56~N/A~
+Summerfield - Unit 31 - Ground Floor 1 Bedroom Apartment, Taylor ACT 2913 ~$325,000~1~1~Apartment~6.0~N/A~N/A~N/A~
+(no street name provided), Taylor ACT 2913 ~$401250~4~1~House and Land Package~6.0~608~N/A~N/A~
+(no street name provided), Taylor ACT 2913 ~$333,000~3~2~House~6.0~N/A~N/A~N/A~
+SkyHaus - Reaching new heights in Taylor, Taylor ACT 2913 ~$334,900~1~1~Apartment~6.0~N/A~75~N/A~
+(no street name provided), Taylor ACT 2913 ~$357,000~4~1~House~6.0~N/A~N/A~N/A~
+(no street name provided), Taylor ACT 2913 ~$390,000 ~4~3~House~6.0~N/A~N/A~N/A~
+(no street name provided), Taylor ACT 2913 ~$390,000 ~N/A~N/A~House~N/A~N/A~N/A~N/A~
+Langi Apartments - 2 bedroom apartment, Taylor ACT 2913 ~$430000~2~2~Apartment~6.0~3743~90~N/A~
+Langi Apartments: A Boutique Development - 1 bedroom plus Study apartment, Taylor ACT 2913 ~$395,000~1~1~Apartment~6.0~N/A~72~N/A~
+Langi Apartments: A Boutique Development - 2 bedroom apartment, Taylor ACT 2913 ~$420,000~2~2~Apartment~6.0~N/A~90~N/A~
+SkyHaus - Reaching new heights in Taylor, Taylor ACT 2913 ~$429,900~2~2~Apartment~6.0~N/A~79~N/A~
+SkyHaus - Reaching new heights in Taylor, Taylor ACT 2913 ~$429,900~2~2~Apartment~6.0~N/A~79~N/A~
+11/26 Feilman Street, Taylor ACT 2913 ~$475,000~2~2~Townhouse~6.0~N/A~N/A~N/A~
+SkyHaus - Reaching new heights in Taylor, Taylor ACT 2913 ~$479,900~2~2~Apartment~6.0~N/A~101~N/A~
+28/18 Shugg Street, Taylor ACT 2913 ~$499,000 ~2~2~Townhouse~6.0~N/A~85~N/A~
+Type B Everist Street, Taylor ACT 2913 ~$499,900~2~1~Villa~6.0~N/A~N/A~N/A~
+SkyHaus - Reaching new heights in Taylor, Taylor ACT 2913 ~$554,900~2~2~Apartment~6.0~N/A~100~N/A~
+SkyHaus - Reaching new heights in Taylor, Taylor ACT 2913 ~$554,900~2~2~Apartment~6.0~N/A~100~N/A~
+SkyHaus - Reaching new heights in Taylor, Taylor ACT 2913 ~$554,900~2~2~Apartment~6.0~N/A~100~N/A~
+(no street name provided), Taylor ACT 2913 ~$570,000~3~1~Townhouse~6.0~N/A~166~N/A~
+(no street name provided), Taylor ACT 2913 ~$585,000~3~2~House~6.0~135~115~N/A~
+6/36 Briger Street, Taylor ACT 2913 ~$585,000~3~2~Townhouse~7.6~N/A~N/A~N/A~
+Robin Boyd Crescent, Taylor ACT 2913 ~$595,000~3~2~Townhouse~6.9~N/A~N/A~N/A~
+SkyHaus - Reaching new heights in Taylor, Taylor ACT 2913 ~$649,900~3~2~Apartment~6.0~N/A~127~N/A~
+SkyHaus - Reaching new heights in Taylor, Taylor ACT 2913 ~$649,900~3~2~Apartment~6.0~N/A~127~N/A~
+(no street name provided), Taylor ACT 2913 ~$650,000~3~1~House~6.0~N/A~246~N/A~
+SHINE - 3 bed 3 bath 2 car, Taylor ACT 2913 ~$650,000~3~3~Townhouse~7.7~N/A~N/A~N/A~
+EXTRA - It's time you had something EXTRA, Taylor ACT 2913 ~$659,000~3~2~Townhouse~6.0~N/A~N/A~N/A~
+EXTRA - It's time you had something EXTRA, Taylor ACT 2913 ~$659,000~3~2~Townhouse~6.0~N/A~N/A~N/A~
+EXTRA - It's time you had something EXTRA, Taylor ACT 2913 ~$659,000~3~2~Townhouse~6.0~N/A~N/A~N/A~
+EXTRA - It's time you had something EXTRA, Taylor ACT 2913 ~$659,000~3~2~Townhouse~6.0~N/A~N/A~N/A~
+Sutherland Crescent, Taylor ACT 2913 ~$670,000~3~2~Townhouse~7.7~N/A~N/A~N/A~
+NORTHEDGE VILLAS - Type A, Taylor ACT 2913 ~$679,900~3~2~Townhouse~7.9~N/A~N/A~N/A~
+Sutherland Crescent, Taylor ACT 2913 ~$685,000~3~2~Townhouse~6.8~N/A~N/A~N/A~
+(no street name provided), Taylor ACT 2913 ~$710000~4~2~House and Land Package~6.5~198~N/A~N/A~
+(no street name provided), Taylor ACT 2913 ~$849,000 ~4~2~House~6.0~N/A~239~N/A~
+5 Dan Gazzard View, Taylor ACT 2913 ~$899,000~4~2~House and Land Package~6.0~539~225~N/A~
+3 Kitty Henry Rise, Taylor ACT 2913 ~$899,000~4~1~House and Land Package~6.0~N/A~N/A~N/A~
+(no street name provided), Taylor ACT 2913 ~$899,000~4~1~House and Land Package~6.0~505~230~N/A~
+20 Sunnyman Street, Taylor ACT 2913 ~$939,000~4~3~House~6.0~405~N/A~N/A~
+(no street name provided), Taylor ACT 2913 ~$963,000~5~3~House~6.0~570~265~N/A~
+(no street name provided), Taylor ACT 2913 ~$970,000~4~2~House and Land Package~6.0~540~225~N/A~
+8 Don Gazzard View, Taylor ACT 2913 ~$979,000~4~2~House~7.0~N/A~276~N/A~
+(no street name provided), Taylor ACT 2913 ~$995,000~4~2~House~6.0~N/A~N/A~N/A~
+4 Beryl Mann View, Taylor ACT 2913 ~$1024999~4~3~House~6.0~570~N/A~N/A~
+(no street name provided), Taylor ACT 2913 ~$1,080,000~4~3~House~6.0~572~240~N/A~
+(no street name provided), Taylor ACT 2913 ~$1,089,900~4~1~House and Land Package~6.0~N/A~247~N/A~
+10 Gordon Ford Way, Taylor ACT 2913 ~$1,100,000~4~1~House and Land Package~6.0~549~245~N/A~
+(no street name provided), Taylor ACT 2913 ~$1,123,990~4~1~House and Land Package~6.0~540~247~N/A~
+12 Ledgar Rise, Taylor ACT 2913 ~$1,149,000~4~3~House~6.5~540~296~N/A~

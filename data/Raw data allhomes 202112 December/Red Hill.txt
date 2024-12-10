@@ -1,0 +1,7 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+7/150 Monaro Crescent, Red Hill ACT 2603 ~$549,000~2~1~Apartment~5.0~N/A~64~N/A~
+The Parks - 2 Bedroom Apartment, Red Hill ACT 2603 ~$900,900~2~2~Apartment~6.4~N/A~N/A~N/A~
+The Parks - 2 Bedroom Premium Apartment, Red Hill ACT 2603 ~$945,900~2~2~Apartment~6.1~N/A~N/A~N/A~
+The Parks - 3 Bedroom apartment with Lady Nelson Park View, Red Hill ACT 2603 ~$1,035,900~3~1~Apartment~6.5~N/A~N/A~N/A~
+11 Walter Hood Lane, Red Hill ACT 2603 ~$1,650,000~N/A~N/A~House~N/A~577~N/A~$3,804,000~
+2 Fishburn Street, Red Hill ACT 2603 ~Offers Over $2,300,000~4~2~House~5.5~N/A~191~N/A~

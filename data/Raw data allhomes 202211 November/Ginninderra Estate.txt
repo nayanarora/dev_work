@@ -1,0 +1,8 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+4/68 Hardwick Crescent, Holt ACT 2615 ~$399,999~2~2~Unit / Apartment~6.0~10200.0~N/A~$34,686~
+118/68 Hardwick Crescent, Holt ACT 2615 ~$480,000~2~2~Apartment~5.5~N/A~N/A~$34,686~
+11/23 Chave Street, Holt ACT 2615 ~$499,000~2~1~Townhouse~2.0~N/A~82~N/A~
+9 Cavill Close, Holt ACT 2615 ~$749,000~3~1~House~3.5~698~N/A~$501,000~
+59 Armstrong Crescent, Holt ACT 2615 ~$775,000~3~1~House~1.5~882~N/A~$549,000~
+40 Spofforth Street, Holt ACT 2615 ~$799,000~3~1~House~2.5~835~N/A~$549,000~
+87 Lorraway Street, Holt ACT 2615 ~$980,000~5~2~House~5.5~325~245~$388,000~

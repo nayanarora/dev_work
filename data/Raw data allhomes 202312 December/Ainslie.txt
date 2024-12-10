@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+3 Agnew Street, Ainslie ACT 2602 ~$1,575,000~4~2~House~2.0~671~156~$1,126,000~

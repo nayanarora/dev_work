@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+1 Edwards Street, Higgins ACT 2615 ~$800,000~4~1~House~0.5~793~105~$550,000~

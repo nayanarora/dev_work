@@ -1,0 +1,7 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+9-11 Drevermann Street, Farrer ACT 2607 ~$534950~2~2~Unit / Apartment~6.0~N/A~N/A~N/A~
+242 Beasley Street, Farrer ACT 2607 ~$1,050,000~4~2~House~1.0~1052~212~$565,000~
+9 Sutton Place, Farrer ACT 2607 ~$1,175,000~3~1~House~N/A~882~94~$525,000~
+4 Cameron Street, Farrer ACT 2607 ~$1,250,000~4~2~House~0.5~738~161~$550,000~
+2 Prescott Street, Farrer ACT 2607 ~$1,340,000~4~2~House~2.0~917~182~$600,000~
+20 Roseworthy Crescent, Farrer ACT 2607 ~$1,350,000 ~4~2~House~1.5~932~207~$600,000~

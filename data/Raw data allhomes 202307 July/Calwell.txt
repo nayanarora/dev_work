@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+2 Andrew Crescent, Calwell ACT 2905 ~   $699,000~3~1~House~1.0~603~96~N/A~
+22/92 Casey Crescent, Calwell ACT 2905 ~$739,000~3~2~Townhouse~5.0~218~128~N/A~
+15 Phillipson Crescent, Calwell ACT 2905 ~$749,000~3~1~House~2.5~640~110~$382,000~

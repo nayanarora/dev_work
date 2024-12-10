@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+47 Chataway Crescent, Fadden ACT 2904 ~$1,049,000~4~2~House~3.0~904~163~$579,000~
+323 Bugden Avenue, Fadden ACT 2904 ~Offers over $1,075,000~4~2~House~2.0~748~180~$644,000~
+13 Decker Place, Fadden ACT 2904 ~$1,895,000~4~3~House~2.5~1181~400~$648,000~

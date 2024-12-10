@@ -1,0 +1,61 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+165/8 Jardine Street, Kingston ACT 2604 ~$425,000~N/A~N/A~N/A~N/A~1449~N/A~$9,500,000~
+104/17 The Causeway, Kingston ACT 2604 ~$480,000~N/A~N/A~N/A~N/A~1799~N/A~$6,140,000~
+62/41 Eastlake Parade, Kingston ACT 2604 ~$490,000~N/A~N/A~N/A~N/A~4937~N/A~$24,600,000~
+29/11 Trevillian Quay, Kingston ACT 2604 ~$490,000~N/A~N/A~N/A~N/A~5217~N/A~$13,348,000~
+7/39 Eastlake Parade, Kingston ACT 2604 ~$497,500~N/A~N/A~N/A~N/A~4937~N/A~$24,600,000~
+105/56 Printers Way, Kingston ACT 2604 ~$499,000~N/A~N/A~N/A~N/A~12000.0~N/A~$30,200,000~
+126/54 Printers Way, Kingston ACT 2604 ~$499,000~N/A~N/A~N/A~N/A~12000.0~N/A~$30,200,000~
+G18/85 Eyre Street, Kingston ACT 2604 ~$510,000~N/A~N/A~N/A~N/A~4859~N/A~$14,400,000~
+236/34 Eyre Street, Kingston ACT 2604 ~$515,000~N/A~N/A~N/A~N/A~9162~N/A~N/A~
+52/20 Eyre Street, Kingston ACT 2604 ~$535,000 ~N/A~N/A~N/A~N/A~6128~N/A~$10,750,000~
+65/100 Giles Street, Kingston ACT 2604 ~$549,000~N/A~N/A~N/A~N/A~10900.0~N/A~$21,800,000~
+42/20 Eyre Street, Kingston ACT 2604 ~$549,000~N/A~N/A~N/A~N/A~6128~N/A~$10,750,000~
+7/11 Trevillian Quay, Kingston ACT 2604 ~$569,000~N/A~N/A~N/A~N/A~5217~N/A~$13,348,000~
+3/39 Eastlake Parade, Kingston ACT 2604 ~  $570,000~N/A~N/A~N/A~N/A~4937~53~$24,600,000~
+307/50 Eastlake Parade, Kingston ACT 2604 ~$575,000~N/A~N/A~N/A~N/A~4388~N/A~$10,900,000~
+141/11 Trevillian Quay, Kingston ACT 2604 ~$579,000~N/A~N/A~N/A~N/A~5217~N/A~$13,348,000~
+6/6 Trevillian Quay, Kingston ACT 2604 ~$589,000~N/A~N/A~N/A~N/A~6515~N/A~$27,300,000~
+117/45 Eastlake Parade, Kingston ACT 2604 ~$599,000 ~N/A~N/A~N/A~N/A~4937~N/A~$24,600,000~
+2/12 Howitt Street, Kingston ACT 2604 ~$610,000.00~N/A~N/A~N/A~N/A~3957~N/A~$6,250,000~
+19/9 Howitt Street, Kingston ACT 2604 ~$610,000~N/A~N/A~N/A~N/A~3849~N/A~$7,000,000~
+55/11 Trevillian Quay, Kingston ACT 2604 ~$625,000~N/A~N/A~N/A~N/A~5217~N/A~$13,348,000~
+14/30 Cunningham Street, Kingston ACT 2604 ~$630,000~N/A~N/A~N/A~N/A~13200.0~N/A~$15,000,000~
+9/77 Leichhardt Street, Kingston ACT 2604 ~$645,000~N/A~N/A~N/A~N/A~1262~N/A~$420,000~
+10/4 Tench Street, Kingston ACT 2604 ~$650,000 ~N/A~N/A~N/A~N/A~4273~N/A~$7,200,000~
+35/77 Leichhardt Street, Kingston ACT 2604 ~$680000~N/A~N/A~N/A~N/A~1262~N/A~$420,000~
+40/51 Dawes Street, Kingston ACT 2604 ~$670,000~N/A~N/A~N/A~N/A~12000.0~N/A~$30,200,000~
+18/29 Eastlake Parade, Kingston ACT 2604 ~$675,000~N/A~N/A~N/A~N/A~5308~N/A~$10,450,000~
+173/50 Eyre Street, Kingston ACT 2604 ~$699,000~N/A~N/A~N/A~N/A~12000.0~N/A~$30,200,000~
+40/11 Trevillian Quay, Kingston ACT 2604 ~$699,000~N/A~N/A~N/A~N/A~5217~N/A~$13,348,000~
+102/82 Wentworth Avenue, Kingston ACT 2604 ~$709,000~N/A~N/A~N/A~N/A~4582~N/A~$9,380,000~
+44/20 Eyre Street, Kingston ACT 2604 ~$735,000~N/A~N/A~N/A~N/A~6128~N/A~$10,750,000~
+48/20 Eyre Street, Kingston ACT 2604 ~$749,000~N/A~N/A~N/A~N/A~6128~N/A~$10,750,000~
+19/19 Howitt Street, Kingston ACT 2604 ~$749,000~N/A~N/A~N/A~N/A~5557~N/A~$8,500,000~
+34/19 Howitt Street, Kingston ACT 2604 ~$769,000~N/A~N/A~N/A~N/A~5557~N/A~$8,500,000~
+158/54 Eyre Street, Kingston ACT 2604 ~$779,000~N/A~N/A~N/A~N/A~12000.0~N/A~$30,200,000~
+13/58-60 Wentworth Avenue, Kingston ACT 2604 ~$788,000~N/A~N/A~N/A~N/A~2204~N/A~$4,500,000~
+1/82 Wentworth Avenue, Kingston ACT 2604 ~$795,000~N/A~N/A~N/A~N/A~4582~N/A~$9,380,000~
+116/8 Jardine Street, Kingston ACT 2604 ~$795,000~N/A~N/A~N/A~N/A~1449~N/A~$9,500,000~
+106/22 Eyre Street, Kingston ACT 2604 ~$799,000~N/A~N/A~N/A~N/A~6128~N/A~$10,750,000~
+1/8 Trevillian Quay, Kingston ACT 2604 ~$799,000~N/A~N/A~N/A~N/A~6515~N/A~$27,300,000~
+66/5 Kerridge Street, Kingston ACT 2604 ~  $799,000~N/A~N/A~N/A~N/A~2413~N/A~$6,500,000~
+15/20 Eyre Street, Kingston ACT 2604 ~$800,000~N/A~N/A~N/A~N/A~6128~N/A~$10,750,000~
+38/18 Kennedy Street, Kingston ACT 2604 ~$825,000~N/A~N/A~N/A~N/A~3758~N/A~$6,150,000~
+216/2 Kerridge Street, Kingston ACT 2604 ~$825,000~N/A~N/A~N/A~N/A~4859~N/A~$14,400,000~
+43/29 Dawes Street, Kingston ACT 2604 ~$825,000~N/A~N/A~N/A~N/A~2699~N/A~$7,300,000~
+328/85 Eyre Street, Kingston ACT 2604 ~$829,900~N/A~N/A~N/A~N/A~4859~N/A~$14,400,000~
+419/34 Eyre Street, Kingston ACT 2604 ~  $849,000~N/A~N/A~N/A~N/A~9162~N/A~N/A~
+206/55 The Causeway, Kingston ACT 2604 ~$849,000~N/A~N/A~N/A~N/A~2715~N/A~$7,600,000~
+1/58 Wentworth Avenue, Kingston ACT 2604 ~$889,000~N/A~N/A~N/A~N/A~2204~N/A~$4,500,000~
+30/14 Trevillian Quay, Kingston ACT 2604 ~$900,000~N/A~N/A~N/A~N/A~6515~N/A~$27,300,000~
+111/82 Wentworth Avenue, Kingston ACT 2604 ~$935,000~N/A~N/A~N/A~N/A~4582~N/A~$9,380,000~
+LG 9/10 Parbery Street, Kingston ACT 2604 ~$950,000~N/A~N/A~N/A~N/A~776~N/A~N/A~
+2/31 Giles Street, Kingston ACT 2604 ~$950,000~N/A~N/A~N/A~N/A~1306~N/A~$3,400,000~
+32/71 Giles Street, Kingston ACT 2604 ~$995,000~N/A~N/A~N/A~N/A~2912~N/A~$7,200,000~
+42/71 Giles Street, Kingston ACT 2604 ~$1,095,000~N/A~N/A~N/A~N/A~2912~N/A~$7,200,000~
+18/58 Wentworth Avenue, Kingston ACT 2604 ~  $1,150,000~N/A~N/A~N/A~N/A~2204~N/A~$4,500,000~
+401/85 Eyre Street, Kingston ACT 2604 ~$1,225,000 to $1,275,000~N/A~N/A~N/A~N/A~4859~N/A~$14,400,000~
+13/20 Eyre Street, Kingston ACT 2604 ~$1,300,000~N/A~N/A~N/A~N/A~6128~N/A~$10,750,000~
+423/34 Eyre Street, Kingston ACT 2604 ~  $1,350,000~N/A~N/A~N/A~N/A~9162~N/A~N/A~
+68/11 Trevillian Quay, Kingston ACT 2604 ~  $1,500,000~N/A~N/A~N/A~N/A~5217~N/A~$13,348,000~

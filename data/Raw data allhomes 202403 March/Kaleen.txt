@@ -1,0 +1,9 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+48/112 Baldwin Drive, Kaleen ACT 2617 ~$550,000~3~2~Apartment~4.5~10500.0~N/A~$7,130,000~
+8/112 Baldwin Drive, Kaleen ACT 2617 ~$630,000~3~2~Apartment~4.5~10500.0~N/A~$7,130,000~
+29 Rubicon Street, Kaleen ACT 2617 ~$825,000~3~1~House~2.0~376~100~$498,000~
+6/155 Maribyrnong Avenue, Kaleen ACT 2617 ~$985,000~4~2~House~3.5~3420~N/A~N/A~
+9 Kiewa Street, Kaleen ACT 2617 ~$1,150,000~4~3~House~1.0~734~218~$695,000~
+162 Maribyrnong Avenue, Kaleen ACT 2617 ~$1,199,000~3~1~House~0.5~1091~N/A~$674,000~
+18 Gascoyne Circuit, Kaleen ACT 2617 ~$1,295,000~8~6~House~3.0~927~N/A~$650,000~
+38 Burnett Street, Kaleen ACT 2617 ~$1,300,000~6~3~House~1.0~762~N/A~$619,000~

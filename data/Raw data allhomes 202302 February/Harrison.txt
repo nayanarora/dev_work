@@ -1,0 +1,11 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+20/138 Flemington Road, Harrison ACT 2914 ~$375,000~1~1~Apartment~6.0~12800.0~76~$68,040~
+57/148 Flemington Rd, Harrison ACT 2914 ~$390,000~1~1~Apartment~6.0~13600.000000000002~N/A~$37,990~
+85/230 Flemington Road, Harrison ACT 2914 ~$519,000~2~2~Apartment~4.5~19700.0~72~$48,400~
+140 Mapleton Avenue, Harrison ACT 2914 ~Offers over $670,000~3~2~Townhouse~5.0~19700.0~113~$48,400~
+46 Adventure Street, Harrison ACT 2914 ~$775000~3~1~House~6.0~250~122~$385,000~
+25 Helby Street, Harrison ACT 2914 ~$760,000~3~1~House~6.0~250~N/A~$385,000~
+6/3 Adventure Street, Harrison ACT 2914 ~$770,000~3~2~Townhouse~4.0~246~109~N/A~
+6 Coomera Street, Harrison ACT 2914 ~$1,050,000~4~2~House~5.0~446~215~$490,000~
+358 Anthony Rolfe Avenue, Harrison ACT 2914 ~$1,060,000~4~2~House~4.5~404~244~$490,000~
+37 Parsley Street, Harrison ACT 2914 ~$1,080,000~4~2~House~N/A~390~N/A~$481,000~

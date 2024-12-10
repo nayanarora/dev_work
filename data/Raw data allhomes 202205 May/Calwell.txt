@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+15/92 Casey Crescent, Calwell ACT 2905 ~$775,000~3~2~Townhouse~5.0~N/A~132~N/A~
+9 Girdlestone Circuit, Calwell ACT 2905 ~$900,000~4~2~House~2.5~709~156~$368,000~
+53 Girdlestone Circuit, Calwell ACT 2905 ~$995,000~4~2~House~2.0~840~155~$361,000~

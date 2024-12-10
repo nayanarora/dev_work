@@ -1,0 +1,15 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+54/5 Crest Road, Crestwood NSW 2620 ~$309500~2~1~Apartment~N/A~N/A~N/A~N/A~
+23/6 King Street, Crestwood NSW 2620 ~$389,999~2~1~Apartment~N/A~2066~N/A~N/A~
+135 Uriarra Road, Crestwood NSW 2620 ~$460000~1~1~House~N/A~259~117~N/A~
+50/3 Young Street, Crestwood NSW 2620 ~$484000~2~2~Unit / Apartment~N/A~638~N/A~N/A~
+3/49 Uriarra Road, Crestwood NSW 2620 ~$574000~2~2~Unit / Apartment~N/A~2419~N/A~N/A~
+7/6 Adams Street, Crestwood NSW 2620 ~$589000~2~2~Unit / Apartment~N/A~N/A~N/A~N/A~
+6/18 Richard Avenue, Crestwood NSW 2620 ~$620000~2~2~Townhouse~N/A~1382~N/A~N/A~
+8/110 Henderson Road, Crestwood NSW 2620 ~$682500~4~2~Townhouse~N/A~154~N/A~N/A~
+7/3 Ross Road, Crestwood NSW 2620 ~$695,000~3~2~Townhouse~N/A~292~N/A~N/A~
+5 Camellia Place, Crestwood NSW 2620 ~$725000~4~2~House~N/A~630~N/A~N/A~
+1/5 Arthur Street, Crestwood NSW 2620 ~$744000~3~2~Townhouse~N/A~1044~N/A~N/A~
+82 Morton Street, Crestwood NSW 2620 ~$774000~3~2~House~N/A~734~N/A~N/A~
+3 Hovea Place, Crestwood NSW 2620 ~$785,000~3~1~House~N/A~607~114~N/A~
+40 Early Street, Crestwood NSW 2620 ~$880000~5~3~House~N/A~613~217~N/A~

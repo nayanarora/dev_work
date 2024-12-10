@@ -1,0 +1,18 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+1/70 Brudenell Drive, Jerrabomberra NSW 2619 ~$667000~2~2~House~N/A~965~N/A~N/A~
+37 Unwin Avenue, Jerrabomberra NSW 2619 ~$749,000~3~2~House~N/A~266~N/A~N/A~
+47 Brudenell Drive, Jerrabomberra NSW 2619 ~$890,000~3~2~House~N/A~742~N/A~N/A~
+43 Stringybark Drive, Jerrabomberra NSW 2619 ~$924000~4~2~House~N/A~615~N/A~N/A~
+18 Freestone Crescent, Jerrabomberra NSW 2619 ~$949,000~4~2~House~N/A~828~N/A~N/A~
+103 Brudenell Drive, Jerrabomberra NSW 2619 ~$995,000~4~2~House~N/A~814~158~N/A~
+52 Pannamena Crescent, Jerrabomberra NSW 2619 ~$1150000~4~2~House~N/A~554~302~N/A~
+15 Jasmine Gardens, Jerrabomberra NSW 2619 ~$1155000~4~2~House~N/A~1076~N/A~N/A~
+24 Morella Avenue, Jerrabomberra NSW 2619 ~$1,150,000~4~3~House~N/A~941~N/A~N/A~
+211 Bicentennial Drive, Jerrabomberra NSW 2619 ~$1304000~5~3~House~N/A~783~N/A~N/A~
+4 Elaroo Place, Jerrabomberra NSW 2619 ~$1339000~4~2~House~N/A~773~232~N/A~
+47 Forest Drive, Jerrabomberra NSW 2619 ~$1325000~4~2~House~N/A~950~323~N/A~
+156 Waterfall Drive, Jerrabomberra NSW 2619 ~$1535000~5~3~House~N/A~833~N/A~N/A~
+66 Waterfall Drive, Jerrabomberra NSW 2619 ~$1572500~5~3~House~N/A~986~272~N/A~
+23 Lakeview Gardens, Jerrabomberra NSW 2619 ~$1800000~3~2~House~N/A~1037~293~N/A~
+150 Waterfall Drive, Jerrabomberra NSW 2619 ~$1875000~4~3~House~N/A~906~N/A~N/A~
+19 Maple Crescent, Jerrabomberra NSW 2619 ~$2149000~6~4~House~N/A~830~N/A~N/A~

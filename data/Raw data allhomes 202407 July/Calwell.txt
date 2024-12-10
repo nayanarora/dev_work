@@ -1,0 +1,8 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+41/24 Beazley Crescent, Calwell ACT 2905 ~Offers over $590,000~3~1~Townhouse~1.5~249~N/A~N/A~
+8/92 Casey Crescent, Calwell ACT 2905 ~$775,000~3~2~Townhouse~4.0~238~N/A~N/A~
+67 Downard Street, Calwell ACT 2905 ~$799,000~3~1~House~2.0~792~138~$431,000~
+56 Downard Street, Calwell ACT 2905 ~$799,000~3~2~House~3.5~751~N/A~$446,000~
+43 Burtt Crescent, Calwell ACT 2905 ~$800,000~3~2~House~3.0~791~N/A~$422,000~
+72 Costello Circuit, Calwell ACT 2905 ~$900,000~5~2~House~1.0~774~181~$430,000~
+6 Cathie Place, Calwell ACT 2905 ~$1,299,000~4~1~House~1.5~1004~N/A~$549,000~

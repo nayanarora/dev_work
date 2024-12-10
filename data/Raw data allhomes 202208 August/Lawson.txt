@@ -1,0 +1,9 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+74/3 Nevertire Street, Lawson ACT 2617 ~Offer Over $440,000~2~1~Apartment~6.0~9228~52~$84,000~
+31/15 Stockman Avenue, Lawson ACT 2617 ~Offers Over $599,900~2~2~Apartment~6.0~7026~84~$151,800~
+33/15 Wanderlight Avenue, Lawson ACT 2617 ~Offers over $649,000~2~2~Townhouse~6.0~6287~N/A~$121,440~
+16/1 Rouseabout Street, Lawson ACT 2617 ~$730,000~2~2~Townhouse~6.0~74~N/A~N/A~
+43 Bellbird Loop, Lawson ACT 2617 ~$735,000~3~2~House~6.0~2172~139~$205,450~
+1A Bellbird Loop, Lawson ACT 2617 ~$769,000~3~2~Townhouse~4.5~108~N/A~N/A~
+88 Wanderlight Avenue, Lawson ACT 2617 ~$788,000~3~2~House~6.0~N/A~195~N/A~
+7 Narrambla Terrace, Lawson ACT 2617 ~$1614000~5~3~House~4.0~554~318~$653,000~

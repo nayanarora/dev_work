@@ -1,0 +1,7 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+43 Fox Road, Royalla NSW 2620 ~$1,925,000 ONO~5~2~House~N/A~43300.0~351~N/A~
+85 Valley Drive, Royalla NSW 2620 ~$2150000~2~2~House~N/A~151100.0~N/A~N/A~
+11 Eucalypt Place, Royalla NSW 2620 ~$2300000~4~2~House~N/A~37800.0~N/A~N/A~
+44 Sherwood Place, Royalla NSW 2620 ~$2,300,000~4~2~House~N/A~30299.999999999996~325~N/A~
+182 Valley Drive, Royalla NSW 2620 ~$2,595,000 ONO~6~3~House~N/A~57500.0~N/A~N/A~
+11 Valley Drive, Royalla NSW 2620 ~$3,050,000~5~3~House~N/A~31400.0~N/A~N/A~

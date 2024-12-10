@@ -1,0 +1,7 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+10/26 Frencham Street, Downer ACT 2602 ~$360,000~1~1~Unit / Apartment~4.5~1304~N/A~$206,500~
+15 Cadell Street, Downer ACT 2602 ~$900,000~3~1~House~0.5~752~95~$924,000~
+11 Burn Street, Downer ACT 2602 ~$990,000~3~2~House~N/A~725~N/A~$924,000~
+131 Antill Street, Downer ACT 2602 ~$1,150,000~4~2~House~5.0~230~N/A~N/A~
+66 Melba Street, Downer ACT 2602 ~$1,200,000~3~1~House~1.5~858~N/A~$970,000~
+522 Northbourne Avenue, Downer ACT 2602 ~$2,900,000~7~7~House~N/A~832~N/A~$595,000~

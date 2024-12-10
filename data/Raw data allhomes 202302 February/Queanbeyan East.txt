@@ -1,0 +1,7 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+6/52-54 Trinculo Place, Queanbeyan East NSW 2620 ~$354000~2~1~Unit / Apartment~N/A~1992~N/A~N/A~
+6/30 Trinculo Place, Queanbeyan East NSW 2620 ~$350000~2~1~Unit / Apartment~N/A~2215~N/A~N/A~
+2/1 Hybon Avenue, Queanbeyan East NSW 2620 ~$485000~3~1~Unit / Apartment~N/A~937~N/A~N/A~
+36/47 Mowatt Street, Queanbeyan East NSW 2620 ~$539000~2~2~Unit / Apartment~N/A~17000.0~N/A~N/A~
+5/26 Carrington Street, Queanbeyan East NSW 2620 ~$545,000~2~1~Townhouse~N/A~3079~N/A~N/A~
+27a & 27b Elizabeth Cresent, Queanbeyan East NSW 2620 ~$925000~4~2~House~N/A~1068~N/A~N/A~

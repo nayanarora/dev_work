@@ -1,0 +1,9 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+45/6 Wilkins Street, Mawson ACT 2607 ~Offers Over $299,000~1~1~Unit / Apartment~4.0~8529~N/A~$6,720,000~
+6/4 Heard Street, Mawson ACT 2607 ~$459,000~2~1~Apartment~4.5~6206~N/A~$4,800,000~
+6/25 MacRobertson Street, Mawson ACT 2607 ~$510,000~1~1~Townhouse~4.0~2165~N/A~$2,400,000~
+15/37 Ainsworth Street, Mawson ACT 2607 ~$669,000~3~2~Apartment~4.5~3139~N/A~$3,060,000~
+21 Rymill Place, Mawson ACT 2607 ~Offers over $900,000~3~2~House~1.5~447~153~$599,000~
+37B Enderby Street, Mawson ACT 2607 ~$1040000~4~2~House~4.0~429~161~N/A~
+25A Wilkins Street, Mawson ACT 2607 ~$1,175,000~4~2~House~4.0~799~190~N/A~
+1/146 Shackleton Circuit, Mawson ACT 2607 ~$1,275,000~4~2~Townhouse~1.5~917~N/A~N/A~

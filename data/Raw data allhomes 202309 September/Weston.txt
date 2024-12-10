@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+9/2 Bellette Street, Weston ACT 2611 ~  $659,000~2~2~Townhouse~6.0~2583~N/A~$2,600,000~
+9 Mather Street, Weston ACT 2611 ~$730,000~3~1~House~2.0~324~121~N/A~
+50 McInnes Street, Weston ACT 2611 ~  $825,000~3~1~House~1.0~701~97~$651,000~
+30 Sellbach Street, Weston ACT 2611 ~$1,699,000~5~3~House~5.0~547~N/A~$706,000~

@@ -1,0 +1,10 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+232 Kerrigan Street, Dunlop ACT 2615 ~$635,000~3~1~Townhouse~6.0~217~N/A~$249,000~
+4 Jonsson Court, Dunlop ACT 2615 ~$750,000 ~4~1~House~5.0~438~N/A~$403,000~
+(no street name provided), Dunlop ACT 2615 ~$850,000~4~2~House~4.0~521~N/A~$408,000~
+5 Splayd Close, Dunlop ACT 2615 ~$899,000~4~2~House~4.0~540~150~$419,000~
+7 Gye Place, Dunlop ACT 2615 ~$930,000~3~1~House~4.0~1177~N/A~$594,000~
+3 Gouldsmith Street, Dunlop ACT 2615 ~$949,000~4~2~House~4.0~460~185~$380,000~
+22 Branson Street, Dunlop ACT 2615 ~$980,000~4~2~House~4.5~463~214~$380,000~
+18 Thornhill Crescent, Dunlop ACT 2615 ~$1,048,000~5~2~House~3.5~653~247~$480,000~
+7 Old Street, Dunlop ACT 2615 ~$1,049,000~4~2~House~4.5~660~N/A~$480,000~

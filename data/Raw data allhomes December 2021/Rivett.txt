@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+16 Hibiscus Crescent, Rivett ACT 2611 ~Offers over $880,000~3~1~House~0.5~746~N/A~$345,000~
+69 Darwinia Terrace, Rivett ACT 2611 ~$970,000~3~1~House~2.0~765~123~$384,000~
+3 Wirilda Street, Rivett ACT 2611 ~$985,000~3~1~House~1.0~N/A~N/A~N/A~

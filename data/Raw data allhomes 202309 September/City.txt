@@ -1,0 +1,49 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+704/2 Akuna Street, City ACT 2601 ~  $199,000~1~1~Apartment~6.0~2306~N/A~$13,500,000~
+201/16 Moore Street, City ACT 2601 ~$450,000~1~1~Apartment~6.0~1487~N/A~$6,750,000~
+502/2 Akuna Street, City ACT 2601 ~$475,000~2~1~Apartment~6.0~2306~N/A~$13,500,000~
+915/25 Edinburgh Avenue, City ACT 2601 ~  $485,000~1~1~Unit / Apartment~6.0~1670~N/A~N/A~
+Level 6/628/81 Cooyong Street, Reid ACT 2612 ~$489,000~1~1~Apartment~6.0~N/A~N/A~N/A~
+1006/25 Edinburgh Avenue, City ACT 2601 ~$495,000~1~1~Apartment~6.0~1670~N/A~N/A~
+153/264 City Walk, City ACT 2601 ~$499,000~1~1~Apartment~6.0~1664~N/A~$14,350,000~
+1413/25 Edinburgh Avenue, City ACT 2601 ~$515,000~1~1~Apartment~6.0~1670~N/A~N/A~
+190/45 West Row, City ACT 2601 ~$515,000~1~1~Apartment~6.0~245~N/A~N/A~
+1706/2 Marcus Clarke Street, City ACT 2601 ~$519,000~2~1~Apartment~3.0~7981~N/A~$23,000,000~
+908/25 Edinburgh Avenue, City ACT 2601 ~  $520,000~1~1~Apartment~6.0~1670~N/A~N/A~
+611/25 Edinburgh Avenue, City ACT 2601 ~$520,000~1~1~Apartment~6.0~1670~N/A~N/A~
+910/25 Edinburgh Avenue, City ACT 2601 ~  $520,000~1~1~Apartment~6.0~1670~N/A~N/A~
+Level 7/713/83 Cooyong Street, Reid ACT 2612 ~$525,000~1~1~Apartment~6.0~N/A~N/A~N/A~
+165/20 Allara Street, City ACT 2601 ~$539,000~1~1~Apartment~6.0~1380~N/A~$14,100,000~
+623/240 Bunda Street, City ACT 2601 ~$539,000~1~1~Apartment~6.0~4180~N/A~$28,250,000~
+27/66 Allara Street, Canberra ACT 2601 ~$540,000 Plus~1~2~Apartment~6.0~N/A~N/A~N/A~
+114/20 Allara Street, Canberra ACT 2601 ~$550,000~1~1~Apartment~6.0~N/A~N/A~N/A~
+1204/25 Edinburgh Avenue, City ACT 2601 ~$550,000~1~1~Apartment~6.0~1670~N/A~N/A~
+501/240 Bunda Street, City ACT 2601 ~$570,000~1~1~Unit / Apartment~6.0~4180~N/A~$28,250,000~
+107/77 Northbourne Avenue, Turner ACT 2612 ~$572,500~2~1~Apartment~6.0~6377~N/A~$11,250,000~
+607/39 London Circuit, City ACT 2601 ~  $620,000~2~1~Apartment~6.0~1417~N/A~$17,000,000~
+The Griffin, Parkes - 44 Constitution Avenue, Parkes ACT 2600 ~$629,000~1~1~Other~5.3~N/A~N/A~N/A~
+58/66 Allara Street, City ACT 2601 ~$639,000~2~2~Apartment~6.0~3715~N/A~$11,700,000~
+183/44 Constitution Avenue, Parkes ACT 2600 ~$639,000~1~1~Apartment~6.0~12100.0~N/A~N/A~
+103/39 London Circuit, City ACT 2601 ~$650,000~2~2~Apartment~6.0~1417~N/A~$17,000,000~
+176/264 City Walk, City ACT 2601 ~$650,000~2~1~Apartment~6.0~1664~N/A~$14,350,000~
+118/15 Coranderrk Street, City ACT 2601 ~  $650,000~2~2~Apartment~6.0~10400.0~N/A~$20,000,000~
+607/2 Marcus Clarke Street, City ACT 2601 ~$659,000~2~2~Apartment~6.0~7981~N/A~$23,000,000~
+507/2 Marcus Clarke Street, City ACT 2601 ~  $659,000~2~2~Unit / Apartment~3.5~7981~N/A~$23,000,000~
+133/264 City Walk, City ACT 2601 ~$680,000~2~2~Apartment~6.0~1664~N/A~$14,350,000~
+145/264 City Walk, City ACT 2601 ~$690,000~2~2~Apartment~6.0~1664~N/A~$14,350,000~
+18/20 Allara Street, City ACT 2601 ~$695, 000~2~2~Apartment~6.0~1380~N/A~$14,100,000~
+504/47 Currong Street North, Braddon ACT 2612 ~$699,000~2~2~Apartment~6.0~9706~N/A~$22,500,000~
+22/260 City Walk, City ACT 2601 ~$700000~2~2~Apartment~6.0~1664~N/A~$14,350,000~
+138/264 City Walk, City ACT 2601 ~$710,000~2~2~Apartment~6.0~1664~N/A~$14,350,000~
+109/81 Cooyong Street, Reid ACT 2612 ~  $725,000~2~2~Apartment~6.0~10600.0~N/A~$38,500,000~
+703/240 Bunda Street, City ACT 2601 ~$748,888~2~2~Apartment~6.0~4180~N/A~$28,250,000~
+628/45 Ainslie Avenue, Braddon ACT 2612 ~$748,888~2~2~Apartment~5.0~9706~N/A~$22,500,000~
+71/260 City Walk, City ACT 2601 ~$750,000~2~2~Apartment~6.5~1664~N/A~$14,350,000~
+69/15 Coranderrk Street, City ACT 2601 ~$769,000~2~2~Apartment~6.0~10400.0~N/A~$20,000,000~
+149/264 City Walk, City ACT 2601 ~$780,000~2~2~Apartment~6.0~1664~N/A~$14,350,000~
+60/260 City Walk, Canberra ACT 2601 ~$799,000~2~2~Unit / Apartment~6.0~N/A~N/A~N/A~
+903/2 Marcus Clarke Street, City ACT 2601 ~$799,000~2~2~Apartment~6.0~7981~N/A~$23,000,000~
+60/45 West Row, City ACT 2601 ~$800,000~2~2~Apartment~5.5~245~N/A~N/A~
+302/1 Boolee Street, Reid ACT 2612 ~$849,900~3~2~Unit / Apartment~6.0~10600.0~N/A~$38,500,000~
+705/222 City Walk, City ACT 2601 ~$855,000~2~2~Apartment~6.0~1137~N/A~$10,600,000~
+1517/25 Edinburgh Avenue, City ACT 2601 ~  $950,000~2~2~Apartment~6.0~1670~N/A~N/A~

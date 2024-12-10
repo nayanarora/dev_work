@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+4/17 Higgins Place, Higgins ACT 2615 ~$450000~N/A~N/A~N/A~N/A~807~N/A~$250,000~
+The Henry - 2 Bedroom (2B), Higgins ACT 2615 ~$695,000~N/A~N/A~N/A~N/A~40400.0~N/A~N/A~
+The Henry - 2 Bedroom (2A), Higgins ACT 2615 ~$735,000~N/A~N/A~N/A~N/A~40400.0~N/A~N/A~
+The Henry - 3 bedroom (3B), Higgins ACT 2615 ~$995,000~N/A~N/A~N/A~N/A~40400.0~N/A~N/A~
+The Henry - 3 Bedroom (3A), Higgins ACT 2615 ~$1,195,000~N/A~N/A~N/A~N/A~40400.0~N/A~N/A~

@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+185 MacFarlane Burnet Avenue, MacGregor ACT 2615 ~$650,000~3~1~House~6.0~250~N/A~$259,000~
+48 Hollows Circuit, MacGregor ACT 2615 ~$750,000~3~1~House~6.0~294~97~$246,000~
+12 Ida Birchall Crescent, MacGregor ACT 2615 ~$799,000~3~1~House~6.0~360~106~$254,000~
+24 Hirschfeld Crescent, MacGregor ACT 2615 ~$839,000~3~1~House~2.5~606~N/A~$297,000~
+196 MacFarlane Burnett Avenue, MacGregor ACT 2615 ~$969,000~4~2~House~6.0~454~N/A~N/A~

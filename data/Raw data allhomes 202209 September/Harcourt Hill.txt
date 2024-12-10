@@ -1,0 +1,3 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+66 Temperley Street, Nicholls ACT 2913 ~$1,500,000~4~2~House~4.5~897~N/A~$905,000~
+50 Sue Geh Circuit, Nicholls ACT 2913 ~$2,175,000~5~2~House~4.0~969~442~$830,000~

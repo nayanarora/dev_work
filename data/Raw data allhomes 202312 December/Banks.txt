@@ -1,0 +1,7 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+3 Notting Court, Banks ACT 2906 ~$669,000~3~1~House~2.0~482~96~$361,000~
+3 Bastow Circuit, Banks ACT 2906 ~$749,000~3~1~House~4.5~687~N/A~$442,000~
+23 Perrin Circuit, Banks ACT 2906 ~$800,000~3~2~House~4.0~718~135~$416,000~
+14 Youl Court, Banks ACT 2906 ~$900,000~4~2~House~4.0~810~156~$486,000~
+19 Adcock Place, Banks ACT 2906 ~$1,149,000~5~3~House~2.0~818~179~$451,000~
+1 Wollemi Place, Banks ACT 2906 ~$1,700,000~8~3~House~2.0~966~559~$555,000~

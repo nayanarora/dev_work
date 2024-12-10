@@ -1,0 +1,13 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+11/110-112 Fergus Road, Karabar NSW 2620 ~$230000~N/A~N/A~N/A~N/A~2319~N/A~N/A~
+1/63 Donald Road, Karabar NSW 2620 ~$294000~N/A~N/A~N/A~N/A~1193~N/A~N/A~
+19a Alfred Place, Karabar NSW 2620 ~$525000~N/A~N/A~N/A~N/A~725~N/A~N/A~
+6/16 Hakea Street, Karabar NSW 2620 ~$535000~N/A~N/A~N/A~N/A~1450~N/A~N/A~
+1/37 Southbar Road, Karabar NSW 2620 ~$555,000~N/A~N/A~N/A~N/A~1205~N/A~N/A~
+18 Lochiel Street, Karabar NSW 2620 ~$570,000~N/A~N/A~N/A~N/A~1414~N/A~N/A~
+2 Margaret Street, Karabar NSW 2620 ~$595,000~N/A~N/A~N/A~N/A~583~N/A~N/A~
+115 Donald Road, Karabar NSW 2620 ~$719500~N/A~N/A~N/A~N/A~615~88~N/A~
+129 Cooma Street, Karabar NSW 2620 ~$729000~N/A~N/A~N/A~N/A~440~96~N/A~
+3 Cantle Place, Karabar NSW 2620 ~$880,000~N/A~N/A~N/A~N/A~738~N/A~N/A~
+83 Barracks Flat Drive, Karabar NSW 2620 ~$925000~N/A~N/A~N/A~N/A~650~N/A~N/A~
+23 Hakea Street, Karabar NSW 2620 ~$2025000~N/A~N/A~N/A~N/A~2815~N/A~N/A~

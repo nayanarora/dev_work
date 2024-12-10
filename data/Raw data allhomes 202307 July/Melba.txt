@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+11 Stewart Crescent, Melba ACT 2615 ~$769,000~3~1~House~1.5~747~N/A~$544,000~
+4 Linger Place, Melba ACT 2615 ~$899,000~4~2~House~1.0~855~155~$458,000~
+12 Clifford Crescent, Melba ACT 2615 ~   $949,000~4~2~House~1.5~709~128~$544,000~
+8 Miranda Place, Melba ACT 2615 ~$1,200,000~4~3~House~2.0~866~311~$562,000~

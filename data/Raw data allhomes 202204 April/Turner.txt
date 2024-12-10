@@ -1,0 +1,8 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+Hartley Street, Turner ACT 2612 ~$460000~1~1~Apartment~6.0~N/A~N/A~$781,000~
+9/219a Northbourne Avenue, Turner ACT 2612 ~$469,000~1~1~Apartment~6.0~N/A~84~$8,060,000~
+26/3 Towns Crescent, Turner ACT 2612 ~  $490,000~1~1~Unit / Apartment~6.0~N/A~54~$3,450,000~
+8/52 MacLeay Street, Turner ACT 2612 ~$660,000 - $700,000~2~1~Apartment~6.0~N/A~N/A~$1,710,000~
+8/219A Northbourne Ave, Turner ACT 2612 ~  $688,000~2~2~Unit / Apartment~6.0~N/A~98~$8,060,000~
+150/77 Northbourne Avenue, Turner ACT 2612 ~$690,000~2~2~Apartment~6.0~N/A~N/A~$11,250,000~
+45/217 Northbourne Avenue, Turner ACT 2612 ~$779000~3~3~Apartment~6.0~N/A~N/A~$13,000,000~

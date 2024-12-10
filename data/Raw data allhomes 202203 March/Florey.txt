@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+32/15 John Cleland Crescent, Florey ACT 2615 ~$729,000~3~2~Townhouse~5.5~N/A~107~$16,440,000~

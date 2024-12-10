@@ -1,0 +1,8 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+64/179 Melrose Drive, Lyons ACT 2606 ~$290,000~1~1~Apartment~0.0~12900.0~N/A~$9,513,000~
+51/179 Melrose Drive, Lyons ACT 2606 ~$360,000~2~1~Apartment~3.5~12900.0~N/A~$9,513,000~
+(no street name provided), Lyons ACT 2606 ~$437500~1~1~Apartment~5.0~1626~N/A~$1,560,000~
+89/5 Burnie Street, Lyons ACT 2606 ~$440,000~1~1~Apartment~6.0~10200.0~N/A~$10,500,000~
+71/5 Burnie Street, Lyons ACT 2606 ~$539,000~2~1~Apartment~6.0~10200.0~N/A~$10,500,000~
+31 Tarraleah Crescent, Lyons ACT 2606 ~$1,150,000 ~3~2~House~1.5~812~134~$922,000~
+27 Olympus Way, Lyons ACT 2606 ~$1,425,000~4~2~House~2.0~758~127~$736,000~

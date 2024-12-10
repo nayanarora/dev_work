@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+22 Stephen Street, Ainslie ACT 2602 ~$825,000~3~1~House~1.5~217~116~$550,000~
+7 Sherbrooke Street, Ainslie ACT 2602 ~$1,150,000~3~1~House~4.5~661~103~$1,015,000~
+5 Piper Street, Ainslie ACT 2602 ~$1,275,000~3~1~House~3.5~604~101~$1,028,000~
+119 Hannan Street, Ainslie ACT 2602 ~$1,280,000~3~1~House~1.0~725~N/A~N/A~

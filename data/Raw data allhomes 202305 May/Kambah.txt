@@ -1,0 +1,12 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+21 Snodgrass Crescent, Kambah ACT 2902 ~$595,000~2~1~Retirement Village~N/A~36800.0~N/A~$6,300,000~
+11 Fimister Circuit, Kambah ACT 2902 ~  $700,000~3~1~House~1.0~677~N/A~$438,000~
+88 Livingston Avenue, Kambah ACT 2902 ~$730,000~3~1~House~1.5~N/A~N/A~N/A~
+21 Snodgrass Crescent, Kambah ACT 2902 ~$765,000~3~1~Retirement Village~N/A~36800.0~N/A~$6,300,000~
+1 Hinckley Place, Kambah ACT 2902 ~$805000~3~1~House~1.0~842~N/A~$557,000~
+56 Harrington Circuit, Kambah ACT 2902 ~$799,000~3~1~House~1.5~862~110~$538,000~
+22 McKillop Circuit, Kambah ACT 2902 ~$810,000~4~1~House~1.5~789~N/A~$512,000~
+(no street name provided), Kambah ACT 2902 ~$839,000~4~1~House~6.0~N/A~N/A~N/A~
+27 Mannheim Street, Kambah ACT 2902 ~$1,050,000~4~2~House~4.5~887~145~$510,000~
+1/3 Hiles Place, Kambah ACT 2902 ~$1149000~4~2~House~4.0~488~230~N/A~
+103 Ivo Whitton Circuit, Kambah ACT 2902 ~$1,650,000~4~3~House~4.0~945~266~$763,000~

@@ -1,0 +1,20 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+1C/6 Irvine Street, Watson ACT 2602 ~$250,000~1~1~Unit / Apartment~3.0~N/A~N/A~N/A~
+20/23 Aspinall Street, Watson ACT 2602 ~$387,500~1~1~Apartment~6.0~11700.0~N/A~$6,400,000~
+Norrebro - Norrebro - Final stage - now selling, Watson ACT 2602 ~$389,900~1~1~Apartment~6.0~N/A~N/A~N/A~
+Norrebro - Norrebro - Final Stage - now selling, Watson ACT 2602 ~$389,900~1~1~Apartment~6.0~N/A~N/A~N/A~
+13/20 Federal Highway, Watson ACT 2602 ~$455,000~2~2~Apartment~5.0~20500.0~N/A~$8,400,000~
+10/20 Federal Highway, Watson ACT 2602 ~$470,000~2~2~Apartment~4.0~20500.0~N/A~$8,400,000~
+Norrebro - Norrebro - Final stage - now selling, Watson ACT 2602 ~$479,900~1~1~Apartment~6.0~N/A~N/A~N/A~
+57/21 Aspinall Street, Watson ACT 2602 ~$499,000~2~2~Apartment~5.5~17200.0~N/A~$7,500,000~
+26/25 Aspinall Street, Watson ACT 2602 ~$512,500~2~1~Apartment~5.0~14500.0~N/A~$6,500,000~
+Norrebro - Final stage - now selling, Watson ACT 2602 ~$519,900~1~1~Apartment~6.0~N/A~N/A~N/A~
+Norrebro - Norrebro - Final stage - now selling, Watson ACT 2602 ~$519,900~1~1~Apartment~6.0~N/A~N/A~N/A~
+Norrebro - Norrebro - Final stage - now selling, Watson ACT 2602 ~$519,900~1~1~Apartment~6.0~N/A~N/A~N/A~
+Norrebro - Norrebro - Final stage - now selling, Watson ACT 2602 ~$689,900~2~1~Apartment~6.0~N/A~N/A~N/A~
+Norrebro - Final stage - now selling, Watson ACT 2602 ~$689,900~2~1~Apartment~6.0~N/A~N/A~N/A~
+Norrebro - Norrebro - Final stage - now selling, Watson ACT 2602 ~$689,900~2~1~Apartment~6.0~N/A~N/A~N/A~
+10 Bicheno Mews, Watson ACT 2602 ~  $699,000~2~2~House~4.0~1303~N/A~$1,600,000~
+80/45 Negus Crescent, Watson ACT 2602 ~$820,000~3~2~Townhouse~6.0~122~N/A~N/A~
+59 Ehrlich Circuit, Watson ACT 2602 ~$1,050,000~3~2~House~6.0~157~162~$273,000~
+8 Dodds Place, Watson ACT 2602 ~$1,580,000~4~2~House~4.0~756~N/A~$825,000~

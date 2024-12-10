@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+23 Shumack Street, Weetangera ACT 2614 ~$1,250,000~4~2~House~4.0~644~202~N/A~
+14 Morton Street, Weetangera ACT 2614 ~$1,250,000~4~2~House~2.5~815~N/A~$596,000~
+34 Packer Street, Weetangera ACT 2614 ~$1,400,000~4~2~House~3.0~1124~159~$759,000~
+83 Springvale Drive, Weetangera ACT 2614 ~$1,450,000~5~3~House~1.5~1142~N/A~$806,000~
+15 Belconnen Way, Weetangera ACT 2614 ~Offers over $1,650,000~12~8~House~6.0~1268~N/A~$564,000~

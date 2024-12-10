@@ -1,0 +1,3 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+9 Mersey Place, Kaleen ACT 2617 ~$805000~3~2~House~1.5~768~N/A~$604,000~
+12 Burnett Street, Kaleen ACT 2617 ~$965,000~5~2~House~1.5~914~166~$708,000~

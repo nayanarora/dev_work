@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+32/41 Lawrenson Circuit, Jacka ACT 2914 ~$675000~3~2~Unit / Apartment~6.0~11200.000000000002~111~$129,816~

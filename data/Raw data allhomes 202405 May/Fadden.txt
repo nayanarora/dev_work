@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+12 Riordan Street, Fadden ACT 2904 ~$1,025,000~4~2~House~2.0~960~N/A~$656,000~

@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+30 Faucett Street, Latham ACT 2615 ~$750,000~3~1~House~4.0~703~107~$438,000~
+1/11 Rainbow Place, Latham ACT 2615 ~  $850,000~4~2~Townhouse~4.5~643~N/A~N/A~
+1 Meymott Place, Latham ACT 2615 ~$1,080,000~4~1~House~6.0~416~255~$458,000~

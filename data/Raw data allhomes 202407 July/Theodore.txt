@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+18 Ern Florence Crescent, Theodore ACT 2905 ~$649,000~3~1~House~4.5~388~N/A~$366,000~
+31/41 Ern Florence Crescent, Theodore ACT 2905 ~$690,000 ~3~1~Townhouse~0.0~280~N/A~N/A~
+141 Lawrence Wackett Crescent, Theodore ACT 2905 ~$745,000~3~1~House~2.0~757~N/A~$452,000~
+7 Freda Gibson Circuit, Theodore ACT 2905 ~$780,000~3~1~House~4.5~789~N/A~$444,000~
+14 Callister Crescent, Theodore ACT 2905 ~$899,000~4~2~House~2.5~920~N/A~$525,000~

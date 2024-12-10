@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+6A Wyatt Street, Torrens ACT 2607 ~$985,000~N/A~N/A~N/A~N/A~642~N/A~N/A~
+43 Batchelor Street, Torrens ACT 2607 ~$1,000,000~N/A~N/A~N/A~N/A~1017~N/A~$750,000~
+90 Beasley Street, Torrens ACT 2607 ~$1,565,000~N/A~N/A~N/A~N/A~552~190~N/A~

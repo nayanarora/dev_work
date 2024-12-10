@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+145 Stockman Avenue, Lawson ACT 2617 ~$599,000~2~2~Townhouse~6.0~N/A~N/A~N/A~
+51/55 Jumbuck Crescent, Lawson ACT 2617 ~$710,000~3~1~Townhouse~5.0~N/A~N/A~N/A~
+20 Toorale Terrace, Lawson ACT 2617 ~$2,090,000~5~2~House~4.5~554~399~$445,000~

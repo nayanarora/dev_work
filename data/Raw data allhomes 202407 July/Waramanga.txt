@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+32 Waramanga Place, Waramanga ACT 2611 ~$699,000~3~1~House~0.5~178~135~$378,000~
+23A Damala Street, Waramanga ACT 2611 ~Offers Over $699,000~2~2~House~0.0~382~154~N/A~
+9 Adinda Street, Waramanga ACT 2611 ~$980,000~3~2~House~0.5~733~171~$655,000~
+124 Badimara Street, Waramanga ACT 2611 ~$1,550,000~5~3~Duplex~1.0~968~N/A~$611,000~

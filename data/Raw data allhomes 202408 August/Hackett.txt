@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+16/131 Rivett Street, Hackett ACT 2602 ~$399,900~2~1~Apartment~2.0~N/A~N/A~N/A~
+12 Prell Place, Hackett ACT 2602 ~$1,550,000~4~2~House~2.5~1002~258~$1,001,000~
+5 Verco Street, Hackett ACT 2602 ~$1,575,000~3~2~House~2.5~652~N/A~$842,000~
+3 French Street, Hackett ACT 2602 ~$1,620,000~4~3~House~1.5~926~211~$955,000~

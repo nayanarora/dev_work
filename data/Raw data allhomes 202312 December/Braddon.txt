@@ -1,0 +1,56 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+220/24 Lonsdale Street, Braddon ACT 2612 ~$390,000~N/A~1~Studio~6.0~5011~N/A~$15,675,000~
+44/28 Mort Street, Braddon ACT 2612 ~$425,000~1~1~Apartment~6.0~1533~N/A~$5,750,000~
+506/86 Northbourne Avenue, Braddon ACT 2612 ~$438,000~1~1~Apartment~6.0~4180~N/A~$11,020,000~
+504/42 Mort Street, Braddon ACT 2612 ~$439,000~1~1~Unit / Apartment~6.5~1533~N/A~$5,450,000~
+201/86-88 Northbourne Avenue, Braddon ACT 2612 ~$440,000~1~1~Apartment~6.0~4180~N/A~$11,020,000~
+54/35 Torrens Street, Braddon ACT 2612 ~$440,000~1~1~Apartment~6.0~2299~N/A~$5,700,000~
+507/42 Mort Street, Braddon ACT 2612 ~  $460,000~1~1~Apartment~6.0~1533~N/A~$5,450,000~
+609/1 Elouera Street, Braddon ACT 2612 ~$465,000~1~1~Apartment~6.0~5826~N/A~N/A~
+729/1 Elouera Street, Braddon ACT 2612 ~$465,000~1~1~Unit / Apartment~6.0~5826~N/A~N/A~
+202/24 Girrahween Street, Braddon ACT 2612 ~$475,000~1~1~Unit / Apartment~6.0~2299~N/A~$5,610,000~
+307/74 Northbourne Avenue, Braddon ACT 2612 ~  $489,000~2~2~Apartment~6.0~4171~N/A~$12,075,000~
+117/61 Cooyong Street, Braddon ACT 2612 ~$490,000~1~1~Apartment~6.0~11100.000000000002~N/A~$25,900,000~
+17/18 Batman Street, Braddon ACT 2612 ~$498,000~1~1~Apartment~6.0~4644~N/A~$8,235,000~
+624/45 Ainslie Avenue, Braddon ACT 2612 ~$499,000~1~1~Apartment~6.0~9706~N/A~$22,500,000~
+212/65 Cooyong Street, Braddon ACT 2612 ~$499,000~1~1~Apartment~6.0~11100.000000000002~N/A~$25,900,000~
+12/84 Northbourne Avenue, Braddon ACT 2612 ~$499,000~2~2~Apartment~6.0~2151~N/A~$8,361,000~
+630/61 Cooyong Street, Braddon ACT 2612 ~$500,000 ~1~1~Apartment~6.0~11100.000000000002~N/A~$25,900,000~
+CENTO - Luxurious One Bedroom Apartment, Braddon ACT 2612 ~$510,000~1~1~Other~6.0~4180~N/A~$12,005,000~
+1/40 Mort Street, Braddon ACT 2612 ~  $515,000~1~1~Apartment~6.0~1533~N/A~$5,800,000~
+CENTO - One Bedroom Plus Powder Room, Braddon ACT 2612 ~$516,000~1~1~Other~6.0~4180~N/A~N/A~
+Level 5/33/40 Mort Street, Braddon ACT 2612 ~$520,000~1~1~Apartment~6.0~N/A~N/A~N/A~
+22/30 Lonsdale Street, Braddon ACT 2612 ~$574000~1~1~Apartment~6.0~2508~N/A~$7,600,000~
+201/74 Northbourne Avenue, Braddon ACT 2612 ~$550,000~2~2~Apartment~5.0~4171~N/A~$12,075,000~
+40/30 Lonsdale Street, Braddon ACT 2612 ~$559,000~1~1~Apartment~6.0~2508~N/A~$7,600,000~
+CENTO - North Facing Dual Balcony One Bedroom Apartment, Braddon ACT 2612 ~$560,000~1~1~Other~6.0~4180~N/A~N/A~
+(no street name provided), Braddon ACT 2612 ~$570,000~1~1~Apartment~6.0~5011~N/A~$15,675,000~
+808/17 Dooring Street, Braddon ACT 2612 ~$579,000~2~2~Unit / Apartment~6.0~5898~N/A~$12,750,000~
+304/32 Mort Street, Braddon ACT 2612 ~$580,000~2~1~Unit / Apartment~6.0~1537~N/A~$5,400,000~
+820/1 Elouera Street, Braddon ACT 2612 ~$589,000~2~2~Apartment~6.0~5826~N/A~N/A~
+808/86-88 Northbourne Avenue, Braddon ACT 2612 ~$589,000~2~2~House~5.5~4180~N/A~$11,020,000~
+23/10 Ipima Street, Braddon ACT 2612 ~$590,000~2~2~Apartment~6.0~4623~N/A~$11,300,000~
+101/1 Elouera Street, Braddon ACT 2612 ~$619000~2~2~Apartment~6.0~5826~N/A~N/A~
+CENTO - North Facing One Bedroom Apartment, Braddon ACT 2612 ~$610,000~1~1~Other~6.0~4180~N/A~N/A~
+207/1 Elouera Street, Braddon ACT 2612 ~$630000~2~2~Apartment~6.0~5826~N/A~N/A~
+CENTO - Luxurious Two Bedroom Apartment, Braddon ACT 2612 ~$626,000~2~1~Other~6.0~4180~N/A~$12,005,000~
+705/1 Elouera Street, Braddon ACT 2612 ~  $650,000~2~2~Unit / Apartment~6.0~5826~N/A~N/A~
+801/65 Cooyong Street, Braddon ACT 2612 ~$679,000~2~2~Apartment~6.0~11100.000000000002~N/A~$25,900,000~
+628/45 Ainslie Avenue, Braddon ACT 2612 ~$700,000~2~2~Apartment~5.0~9706~N/A~$22,500,000~
+207/53 Mort Street, Braddon ACT 2612 ~  $700,000~2~2~Apartment~6.0~2090~N/A~$17,250,000~
+413/2 Batman Street, Braddon ACT 2612 ~$719,000~2~2~Apartment~6.0~9706~N/A~$22,500,000~
+CENTO - Spacious East Facing Two Bedroom Apartment, Braddon ACT 2612 ~$728,000~2~1~Other~6.0~4180~N/A~N/A~
+13/18 Batman Street, Braddon ACT 2612 ~$730,000~2~2~Apartment~5.5~4644~N/A~$8,235,000~
+602/32 Mort Street, Braddon ACT 2612 ~$759,900~2~2~Apartment~6.0~1537~N/A~$5,400,000~
+CENTO - Sunset Views Two Bedroom Apartment, Braddon ACT 2612 ~$768,000~2~2~Other~6.0~4180~N/A~N/A~
+802/45 Ainslie Avenue, Braddon ACT 2612 ~$830,000~2~2~Apartment~6.0~9706~N/A~$22,500,000~
+631/45 Ainslie Avenue, Braddon ACT 2612 ~$850,000~3~2~Apartment~6.0~9706~N/A~$22,500,000~
+CENTO - North West Corner Two Bedroom Apartment, Braddon ACT 2612 ~$874,000~2~2~Other~6.0~4180~N/A~N/A~
+CENTO - Premium Oversized North Facing Two Bedroom Apartment, Braddon ACT 2612 ~$985,000~2~2~Other~6.0~4180~N/A~N/A~
+804/1 Elouera Street, Braddon ACT 2612 ~$990,000~3~2~Apartment~6.0~5826~N/A~N/A~
+3/17 Wise Street, Braddon ACT 2612 ~$1,175,000~3~2~Townhouse~6.0~1149~N/A~$1,750,000~
+2/1 Coolac Place, Braddon ACT 2612 ~$1,389,000~3~2~Townhouse~6.0~88~N/A~N/A~
+1/13 Helemon Street, Braddon ACT 2612 ~$1,480,000~4~2~Apartment~4.0~1131~N/A~$1,600,000~
+802/1 Elouera Street, Braddon ACT 2612 ~$1,575,000~3~2~Apartment~6.0~5826~N/A~N/A~
+34A Farrer Street, Braddon ACT 2612 ~$1,795,000~5~2~House~3.5~721~N/A~N/A~
+19A Farrer Street, Braddon ACT 2612 ~$2,595,000~4~3~House~3.0~824~N/A~N/A~

@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+7/39 Thurralilly Street, Queanbeyan East NSW 2620 ~$245,000~2~1~Unit / Apartment~N/A~N/A~59~N/A~
+41/18 Booth Street, Queanbeyan East NSW 2620 ~$305,000~2~1~Apartment~N/A~N/A~N/A~N/A~
+18/13-15 Mowatt Street, Queanbeyan East NSW 2620 ~$350,000~2~1~Unit / Apartment~N/A~N/A~70~N/A~
+6/21 Mowatt Street, Queanbeyan East NSW 2620 ~$547000~2~1~Townhouse~N/A~N/A~N/A~N/A~

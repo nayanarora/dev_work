@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+62 Partridge Street, Fadden ACT 2904 ~$990,000~3~3~House~1.0~766~N/A~$573,000~
+420 Bugden Avenue, Fadden ACT 2904 ~$1,170,000~5~3~House~0.0~729~231~$558,000~
+19 Bertram Street, Fadden ACT 2904 ~$1,190,000~5~3~House~3.5~983~197~$573,000~

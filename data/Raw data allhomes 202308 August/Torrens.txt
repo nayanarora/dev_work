@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+11 Hawker Street, Torrens ACT 2607 ~$1,200,000~4~2~House~0.5~836~172~$829,000~

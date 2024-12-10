@@ -1,0 +1,7 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+4/63 Tinderry Circuit, Palmerston ACT 2913 ~$710,000~3~2~Townhouse~4.5~236~N/A~N/A~
+16/18 Zamia Place, Palmerston ACT 2913 ~$770000~3~2~Townhouse~5.0~230~155~N/A~
+6 Ella Close, Palmerston ACT 2913 ~$799,000~3~1~House~3.0~509~105~$480,000~
+42 Mt Warning Crescent, Palmerston ACT 2913 ~$1,000,000~4~2~House~5.0~639~214~$502,000~
+10 Bendora Crescent, Palmerston ACT 2913 ~$1,100,000~3~2~House~5.0~474~235~$385,000~
+8 Barn Place, Palmerston ACT 2913 ~$1640000~6~3~House~4.0~943~401~$565,000~

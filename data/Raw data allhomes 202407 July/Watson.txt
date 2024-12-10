@@ -1,0 +1,16 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+C5/6 Irvine Street, Watson ACT 2602 ~$230,000~1~1~Apartment~1.5~N/A~N/A~N/A~
+47/23 Aspinall Street, Watson ACT 2602 ~$385,000~1~1~Apartment~6.0~N/A~N/A~$6,400,000~
+45/20 Federal Highway, Watson ACT 2602 ~$450,000~2~2~Apartment~5.5~N/A~N/A~$8,400,000~
+71/20 Federal Highway, Watson ACT 2602 ~$462500~2~2~House~6.0~20500.0~N/A~$8,400,000~
+13/20 Federal Highway, Watson ACT 2602 ~$469,000~2~2~Apartment~5.0~N/A~N/A~$8,400,000~
+28/25 Aspinall Street, Watson ACT 2602 ~$525,000~2~1~Apartment~4.0~N/A~N/A~$6,500,000~
+163/395 Antill Street, Watson ACT 2602 ~$569,000~2~2~Apartment~6.0~N/A~N/A~N/A~
+132/395 Antill Street, Watson ACT 2602 ~$585,000~3~2~Apartment~4.0~N/A~N/A~N/A~
+A20/46 Aspinall Street, Watson ACT 2602 ~$599,000~2~2~Apartment~7.5~N/A~N/A~N/A~
+136/395 Antill Street, Watson ACT 2602 ~$600,000~2~2~Apartment~5.0~N/A~N/A~N/A~
+56 Ian Nicol Street, Watson ACT 2602 ~$712000~2~1~House~6.0~193~N/A~N/A~
+32/14 Federal Highway, Watson ACT 2602 ~$765,000~3~2~Townhouse~6.0~166~N/A~N/A~
+36 Mary Kitson Street, Watson ACT 2602 ~$1,180,000~4~2~House~4.0~457~192~$726,000~
+125 Knox Street, Watson ACT 2602 ~$1,349,000~4~2~House~3.5~726~N/A~$804,000~
+14 Shewcroft Street, Watson ACT 2602 ~$1,499,000~4~3~House~6.0~392~247~$675,000~

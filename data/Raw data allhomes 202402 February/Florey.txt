@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+3/4 Stroud Place, Florey ACT 2615 ~$615,000~N/A~N/A~N/A~N/A~502~N/A~N/A~
+2/15 John Cleland Crescent, Florey ACT 2615 ~$625,000~N/A~N/A~N/A~N/A~42900.0~N/A~$15,554,000~
+87/15 John Cleland Crescent, Florey ACT 2615 ~$695,000~N/A~N/A~N/A~N/A~42900.0~N/A~$15,554,000~
+94 Summerville Crescent, Florey ACT 2615 ~$925,000~N/A~N/A~N/A~N/A~807~N/A~$573,000~
+5 Belfield Crescent, Florey ACT 2615 ~$1,300,000~N/A~N/A~N/A~N/A~764~235~$669,000~

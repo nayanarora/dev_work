@@ -1,0 +1,20 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+39/2 Newchurch Street, Coombs ACT 2611 ~$462,000~2~1~Apartment~6.0~9757~63~$91,960~
+Telfer Street, Coombs ACT 2611 ~$605,000~2~2~Apartment~7.8~808~N/A~$697,000~
+FORM - Light filled, 2 bed, 2 bath, Coombs ACT 2611 ~$609,900~2~1~Other~8.0~N/A~128~N/A~
+203/2 Terry Connolly Street, Coombs ACT 2611 ~$630,000~2~2~Apartment~6.0~4107~98~N/A~
+Molonglo Falls - U4.16/2 Terry Connolly Street, Coombs ACT 2611 ~$640,000~2~2~Other~6.0~N/A~N/A~N/A~
+41/8 Ken Tribe Street, Coombs ACT 2611 ~$675,000~3~2~Townhouse~6.0~124~N/A~N/A~
+G10/2 Terry Connolly Street, Coombs ACT 2611 ~$689,000~2~2~Unit / Apartment~6.0~N/A~88~N/A~
+37/40 Pearlman Street, Coombs ACT 2611 ~$719000~3~2~Townhouse~6.0~6179~108~$109,600~
+(no street name provided), Coombs ACT 2611 ~$700,000~3~2~Townhouse~6.0~200~N/A~$304,000~
+FORM - 3 bedroom 2 bathroom with double car garage, Coombs ACT 2611 ~$709,900~3~1~Townhouse~7.7~N/A~134~N/A~
+35/18 Cornelius Street, Coombs ACT 2611 ~$709,900~3~2~Townhouse~8.0~9303~86~N/A~
+8/1 Taggart Terrace, Coombs ACT 2611 ~$715,000~3~2~Townhouse~6.0~6179~171~$109,600~
+26 John Gorton Drive, Coombs ACT 2611 ~$739,000~3~3~Townhouse~6.0~9800~176~$107,730~
+Telfer Street, Coombs ACT 2611 ~$740,000~2~2~Townhouse~8.1~808~N/A~$697,000~
+5a Cornelius Street, Coombs ACT 2611 ~$740,000~3~1~Townhouse~6.0~9829~N/A~$95,900~
+Molonglo Falls - U1.18/2 Terry Connelly Street, Coombs ACT 2611 ~$750,000~3~2~Other~6.0~N/A~N/A~N/A~
+74/128 John Gorton Drive, Coombs ACT 2611 ~$849,000~4~2~Townhouse~6.0~9283~N/A~$54,282~
+FORM - Huge 3 bedroom townhome, Coombs ACT 2611 ~$849,900~3~1~Other~8.2~N/A~218~N/A~
+42/1 Gifford Street, Coombs ACT 2611 ~$950,000~4~3~Townhouse~N/A~14900.0~N/A~$99,090~

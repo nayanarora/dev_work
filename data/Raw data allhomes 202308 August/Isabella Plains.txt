@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+7/8 Jondol Place, Isabella Plains ACT 2905 ~$625,000~3~1~Townhouse~2.5~276~N/A~N/A~

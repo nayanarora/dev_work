@@ -1,0 +1,21 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+61/39 Jerrabomberra Avenue, Narrabundah ACT 2604 ~$375,000~1~1~Unit / Apartment~6.0~N/A~N/A~$10,500,000~
+55/250 Canberra Avenue, Symonston ACT 2609 ~$399,000~N/A~N/A~Villa~0.0~103100.0~N/A~N/A~
+12/27 Leahy Close, Narrabundah ACT 2604 ~$449,000~2~2~Unit / Apartment~4.0~N/A~N/A~$5,400,000~
+69/39 Jerrabomberra Avenue, Narrabundah ACT 2604 ~$475,000~1~1~Apartment~6.0~N/A~N/A~$10,500,000~
+23/40 Leahy Close, Narrabundah ACT 2604 ~$555000~2~1~Apartment~6.0~N/A~N/A~$7,600,000~
+14/51 Leahy Close, Narrabundah ACT 2604 ~$585,000~2~2~Apartment~6.0~N/A~N/A~$5,200,000~
+70/39 Jerrabomberra Avenue, Narrabundah ACT 2604 ~$629,000~2~2~Townhouse~6.0~8994~N/A~$10,500,000~
+46/44 Jerrabomberra Avenue, Narrabundah ACT 2604 ~$649000~2~2~Apartment~6.0~N/A~N/A~$14,700,000~
+10/50 Leahy Close, Narrabundah ACT 2604 ~$649,000~3~2~Apartment~2.0~N/A~N/A~$2,800,000~
+59/39 McIntyre Street, Narrabundah ACT 2604 ~Offers Over $695,000~2~2~Unit / Apartment~6.0~N/A~N/A~N/A~
+12/25 Jerrabomberra Avenue, Narrabundah ACT 2604 ~$737500~2~2~Townhouse~6.0~7929~N/A~$8,000,000~
+12 Marlee Place, Narrabundah ACT 2604 ~Offers above $875,000~3~1~House~2.5~469~N/A~$650,000~
+11/21 Keira Street, Narrabundah ACT 2604 ~$899,000~2~2~Townhouse~6.0~260~N/A~N/A~
+6/50 Boolimba Crescent, Narrabundah ACT 2604 ~Offers Over $1,180,000~3~2~Townhouse~6.0~333~N/A~N/A~
+3 Lumeah Street, Narrabundah ACT 2604 ~$1,200,000~4~1~House~3.0~679~N/A~$1,000,000~
+4/31 Tallara Parkway, Narrabundah ACT 2604 ~$1,200,000~4~2~Townhouse~6.0~300~N/A~N/A~
+153/39 McIntyre Street, Narrabundah ACT 2604 ~$1,350,000~3~2~Townhouse~6.0~13799.999999999998~N/A~$20,600,000~
+80 Stuart Street, Narrabundah ACT 2604 ~$1,585,000~3~2~House~4.0~431~125~$675,000~
+29 Carnegie Crescent, Narrabundah ACT 2604 ~$1,615,000~4~2~House~0.0~650~N/A~$950,000~
+34 Hamelin Crescent, Narrabundah ACT 2604 ~$1,695,000~4~1~House~2.5~566~N/A~$875,000~

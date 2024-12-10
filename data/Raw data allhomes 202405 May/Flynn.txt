@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+39 Barber Crescent, Flynn ACT 2615 ~$973000~4~2~House~3.0~1014~158~$691,000~
+34 Newland Street, Flynn ACT 2615 ~$960000~4~2~House~1.0~799~156~$540,000~
+20B Wilkinson Street, Flynn ACT 2615 ~$950,000~4~2~House~3.0~421~204~N/A~
+2 Pattinson Crescent, Flynn ACT 2615 ~$999,000~3~1~House~1.5~969~141~$455,000~
+7 Ryle Place, Flynn ACT 2615 ~$1,150,000~4~2~House~3.0~691~N/A~$710,000~

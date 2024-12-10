@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+3 Rowe Place, Phillip ACT 2606 ~Offers above $639,000~2~1~Townhouse~N/A~162~N/A~N/A~

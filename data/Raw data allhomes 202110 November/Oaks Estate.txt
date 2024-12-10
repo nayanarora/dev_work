@@ -1,0 +1,3 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+27a William Street, Oaks Estate ACT 2620 ~$650,000~3~2~House~2.5~N/A~N/A~N/A~
+6A & 6B George Street, Oaks Estate ACT 2620 ~$1,600,000 ~6~3~House~3.0~2024~N/A~N/A~

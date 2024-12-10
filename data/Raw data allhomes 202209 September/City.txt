@@ -1,0 +1,40 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+217/2 Akuna Street, City ACT 2601 ~$260,000~1~1~Apartment~6.0~2306~N/A~$63,450~
+14/28 West Row, City ACT 2601 ~$309,500~1~1~Apartment~6.0~3246~N/A~$78,750~
+605 Edinburgh Avenue, City ACT 2601 ~$405,000~1~1~Apartment~6.0~1670~51~N/A~
+511/222 City Walk, City ACT 2601 ~$425,000~1~1~Apartment~6.0~1137~N/A~$292,878~
+301/16 Moore Street, City ACT 2601 ~$448,500~1~1~Unit / Apartment~6.0~1487~N/A~$116,775~
+86/2 Edinburgh Avenue, Canberra ACT 2601 ~Offers Over $479,000~1~1~Unit / Apartment~6.0~N/A~N/A~N/A~
+315/25 Edinburgh Avenue, City ACT 2601 ~Offers Over $485,000~1~1~Unit / Apartment~6.0~1670~72~N/A~
+27/3 London Circuit, City ACT 2601 ~Offers over $485,000~1~1~Unit / Apartment~6.0~6922~65~$83,160~
+43/20 Allara Street, City ACT 2601 ~$495,000 ~1~1~Apartment~6.0~1380~N/A~$46,530~
+127/45 West Row, City ACT 2601 ~$498,000~1~1~Unit / Apartment~6.0~2462~65~N/A~
+Metropol - 424/81 Cooyong Street, Reid ACT 2612 ~$499,900~1~1~Apartment~5.0~N/A~N/A~N/A~
+414/65 Currong Street North, Braddon ACT 2612 ~$510,000~1~1~Apartment~6.0~2482~64~N/A~
+904/2 Marcus Clarke Street, City ACT 2601 ~$535,000~2~1~Apartment~5.0~7981~N/A~$126,500~
+1504/2 Marcus Clarke Street, City ACT 2601 ~$546,000~2~1~Apartment~6.0~7981~72~$126,500~
+The Griffin, Parkes - 1 bedroom Apartment | 44 Constitution Avenue, Parkes ACT 2600 ~$579,900~1~1~Apartment~5.3~13500.0~N/A~N/A~
+Dawn Founders Lane, Braddon ACT 2612 ~$580,000~2~1~Apartment~6.7~N/A~N/A~N/A~
+505/16 Moore Street, City ACT 2601 ~$585,000~2~2~Apartment~6.0~1487~N/A~$116,775~
+55/66 Allara Street, City ACT 2601 ~Offers Over $599,000~2~2~Unit / Apartment~6.0~3715~115~$79,560~
+The Griffin, Parkes - 44 Constitution Avenue, Parkes ACT 2600 ~$599,900~1~1~Other~5.3~13500.0~N/A~N/A~
+204/44 Constitution Avenue, Parkes ACT 2600 ~$610,000~1~1~Apartment~7.0~13500.0~7~N/A~
+71/45 West Row, City ACT 2601 ~$650,000 ~2~2~Apartment~6.0~2462~N/A~N/A~
+102/45 West Row, City ACT 2601 ~$689,000~2~2~Apartment~6.0~2462~N/A~N/A~
+8/45 West Row, City ACT 2601 ~$695,000~2~2~Apartment~6.0~2462~78~N/A~
+51/260 City Walk, City ACT 2601 ~$699,000~2~2~Apartment~6.0~1664~89~$44,485~
+23/20 Allara Street, City ACT 2601 ~$700,000~2~2~Apartment~5.0~1380~86~$46,530~
+118/45 West Row, City ACT 2601 ~Offers Over $700,000~2~2~Apartment~6.0~2462~78~N/A~
+104/20 Allara Street, City ACT 2601 ~$726,000~2~2~Apartment~6.0~1380~82~$46,530~
+628/45 Ainslie Avenue, Braddon ACT 2612 ~$748,888~2~2~Apartment~5.0~9706~N/A~$71,550~
+214/43 Currong Street, Braddon ACT 2612 ~$750,000~2~2~Apartment~6.0~N/A~N/A~N/A~
+The Griffin, Parkes - 2 Bedroom Apartment | 44 Constitution Avenue, Parkes ACT 2600 ~$800,000~2~2~Apartment~6.3~40500.0~N/A~N/A~
+1607/2 Marcus Clarke Street, City ACT 2601 ~$850,000~2~2~Apartment~6.0~7981~N/A~$126,500~
+1314/39 London Circuit, City ACT 2601 ~$898,000~2~2~Apartment~6.0~5~97~N/A~
+907/19 Marcus Clarke Street, City ACT 2601 ~$970,000~2~2~Apartment~6.0~4069~109~$49,590~
+Metropol - G11/83 Cooyong Street, Reid ACT 2612 ~$1,166,900~3~2~Apartment~5.0~N/A~140~N/A~
+INDUSTRY - Inner-North 3 bedroom terrace home with lift access, Braddon ACT 2612 ~$1,429,000~3~1~Townhouse~N/A~N/A~N/A~N/A~
+INDUSTRY - North Corner 3 bedroom terrace home, Braddon ACT 2612 ~$1,449,000~3~1~Townhouse~N/A~N/A~N/A~N/A~
+The Griffin, Parkes - 3 bedroom apartment, Parkes ACT 2600 ~$1,450,000~3~2~Other~5.3~13500.0~N/A~N/A~
+The Griffin, Parkes - 3 bedroom penthouse, Parkes ACT 2600 ~$2,100,000~3~3~Other~5.3~13500.0~N/A~N/A~
+139/15 Coranderrk Street, City ACT 2601 ~$2,499,000~3~3~Townhouse~5.0~10400.0~N/A~$96,000~

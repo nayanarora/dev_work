@@ -1,0 +1,3 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+51 Turbayne Crescent, Forde ACT 2914 ~$630,000~2~1~House~4.5~334~96~$349,000~
+13 Callus Street, Forde ACT 2914 ~$1,225,000~4~2~House~3.5~467~238~$405,000~

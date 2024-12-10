@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+72 Perry Drive, Chapman ACT 2611 ~$799,000~4~2~House~2.5~725~165~$725,000~
+90 Darwinia Terrace, Chapman ACT 2611 ~$1,030,000~4~2~House~2.0~815~N/A~$627,000~
+30 Rene Street, Chapman ACT 2611 ~$1,140,000~3~2~House~1.5~929~N/A~$673,000~

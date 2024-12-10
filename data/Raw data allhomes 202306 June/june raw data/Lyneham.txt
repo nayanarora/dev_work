@@ -1,0 +1,21 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+7/25 Mackennal Street, Lyneham ACT 2602 ~$360,000~1~1~Unit / Apartment~N/A~N/A~N/A~N/A~
+263/1 Mouat Street, Lyneham ACT 2602 ~$409,000~1~1~Apartment~6.0~11200.000000000002~N/A~$51,870~
+73/1 Mouat Street, Lyneham ACT 2602 ~$420,000~1~1~House~6.0~11200.000000000002~N/A~$51,870~
+35/1 Mouat Street, Lyneham ACT 2602 ~$430,000~1~N/A~Apartment~6.0~11200.000000000002~71~$51,870~
+232/1 Mouat Street, Lyneham ACT 2602 ~$435,000~1~1~Apartment~6.0~11200.000000000002~N/A~$51,870~
+De Burgh at Northbourne Village - Studio, Lyneham ACT 2602 ~$440,640~N/A~1~Studio~6.0~N/A~45~N/A~
+De Burgh at Northbourne Village - Type 3, Lyneham ACT 2602 ~$484,500~1~1~Apartment~6.0~N/A~50~N/A~
+De Burgh at Northbourne Village - North Facing 1 Bed, Lyneham ACT 2602 ~$489,600~1~1~Apartment~6.5~N/A~50~N/A~
+145/1 Mouat Street, Lyneham ACT 2602 ~$520,000~2~1~Apartment~6.0~11200.000000000002~N/A~$51,870~
+19/20 Oliver Street, Lyneham ACT 2602 ~  $545,000~2~1~Townhouse~5.5~3184~64~$201,600~
+De Burgh at Northbourne Village - 1 Bed + Study, Lyneham ACT 2602 ~$612,612~1~1~Apartment~6.0~N/A~66~N/A~
+308/1 Mouat Street, Lyneham ACT 2602 ~$670,000~2~2~Unit / Apartment~6.0~11200.000000000002~N/A~$51,870~
+De Burgh at Northbourne Village - Type 19, Lyneham ACT 2602 ~$685,440~2~1~Apartment~6.0~N/A~70~N/A~
+De Burgh at Northbourne Village - Type 11, Lyneham ACT 2602 ~$726,750~2~2~Apartment~6.0~N/A~75~N/A~
+De Burgh at Northbourne Village - Type 8, Lyneham ACT 2602 ~$744,192~2~2~Apartment~6.0~N/A~76~N/A~
+113/The Sullivan, Lyneham ACT 2602 ~$749,000~2~2~Apartment~6.5~N/A~107~N/A~
+6/20 De Burgh Street, Lyneham ACT 2602 ~$790,000~3~2~Unit / Apartment~6.0~676~104~$142,200~
+36/2 Archibald Street, Lyneham ACT 2602 ~$790,000~2~2~Townhouse~5.0~8656~N/A~$114,300~
+De Burgh at Northbourne Village - Two Level 3 Bed, Lyneham ACT 2602 ~$945,000~3~2~Apartment~6.3~N/A~105~N/A~
+2/9 Oliver Street, Lyneham ACT 2602 ~$1,150,000~3~2~Townhouse~6.0~2155~N/A~$247,500~

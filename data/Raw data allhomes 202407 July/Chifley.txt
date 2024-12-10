@@ -1,0 +1,7 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+12/6 MacLaurin Crescent, Chifley ACT 2606 ~$439,950~2~1~Unit / Apartment~4.0~N/A~N/A~$7,000,000~
+3B Anderson Street, Chifley ACT 2606 ~$899,000~3~2~House~6.0~297~133~N/A~
+40 Gledden Street, Chifley ACT 2606 ~$975,000~3~1~House~1.0~678~96~$842,000~
+7 Coghlan Street, Chifley ACT 2606 ~Offers over $1,275,000~3~2~House~5.0~424~258~N/A~
+19 Charteris Crescent, Chifley ACT 2606 ~$1,450,000~4~1~Townhouse~6.0~350~N/A~$942,000~
+40 Wilsmore Crescent, Chifley ACT 2606 ~$1,599,000~5~3~House~0.5~1846~342~$1,242,000~

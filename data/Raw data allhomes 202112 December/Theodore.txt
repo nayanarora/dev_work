@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+19 Conlon Crescent, Theodore ACT 2905 ~$980,000~4~2~House~3.0~895~223~$400,000~

@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+14 Bird Place, Flynn ACT 2615 ~$1,395,000~4~2~House~3.5~1304~286~$675,000~

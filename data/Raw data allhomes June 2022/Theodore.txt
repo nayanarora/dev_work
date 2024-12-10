@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+28 Goldfinch Circuit, Theodore ACT 2905 ~$929,000~4~2~House~1.0~774~146~$380,000~

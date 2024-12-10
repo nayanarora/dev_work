@@ -1,0 +1,10 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+13/5 Harry Hopman Circuit, Gordon ACT 2906 ~$599,000~3~2~Townhouse~3.0~156~N/A~N/A~
+9/167 Knoke Avenue, Gordon ACT 2906 ~$625,000~3~1~Townhouse~3.5~221~N/A~N/A~
+11/11 Togo Place, Gordon ACT 2906 ~$680,000~3~1~Townhouse~3.5~217~N/A~N/A~
+2 Sherwood Circuit, Gordon ACT 2906 ~Offer over $730,000~4~1~House~1.0~514~106~$507,000~
+4 Violet Grover Place, Gordon ACT 2906 ~$749,000~3~1~House~2.0~858~121~$480,000~
+8 McGrowdie Place, Gordon ACT 2906 ~$790,000~3~2~House~1.5~428~N/A~$380,000~
+4 Wootton Crescent, Gordon ACT 2906 ~  $859,000~3~2~House~1.0~742~N/A~$487,000~
+3 Rollins Place, Gordon ACT 2906 ~$939,900~3~1~House~4.5~530~218~$523,000~
+8 Rollins Place, Gordon ACT 2906 ~$975,000~4~2~House~5.0~561~N/A~$547,000~

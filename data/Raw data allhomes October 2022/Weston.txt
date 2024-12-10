@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+15/22 Namatjira Drive, Weston ACT 2611 ~Offers Over $815,000~4~2~Townhouse~1.5~386~154~N/A~
+30 Fullwood Street, Weston ACT 2611 ~$1,095,000~5~3~House~4.0~870~N/A~$705,000~
+6 Meldrum Street, Weston ACT 2611 ~$1,150,000~4~2~House~0.5~767~181~$728,000~
+6 Geoff Bardon Street, Weston ACT 2611 ~$1,450,000~4~3~House~5.0~605~295~$766,000~

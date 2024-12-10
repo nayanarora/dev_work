@@ -1,0 +1,10 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+5C/111 Knox Street, Watson ACT 2602 ~Offers Over $220,000~1~1~Apartment~6.0~N/A~34~$5,110,000~
+Norrebro - Final stage - now selling, Watson ACT 2602 ~$339,900~1~1~Apartment~6.0~N/A~N/A~N/A~
+Norrebro - Final stage - now selling, Watson ACT 2602 ~$409,900~1~1~Other~6.0~N/A~N/A~N/A~
+Norrebro - Final stage - now selling, Watson ACT 2602 ~$545,000~2~2~Apartment~6.0~N/A~N/A~N/A~
+57/20 Federal Highway, Watson ACT 2602 ~$575,000~2~2~Apartment~6.0~20500.0~N/A~$7,200,000~
+Norrebro - Final stage - now selling, Watson ACT 2602 ~$639,000~3~2~Apartment~6.0~N/A~N/A~N/A~
+4 Cullen Street, Watson ACT 2602 ~$1,100,000~3~1~House~1.0~715~93~$630,000~
+233 Antill Street, Watson ACT 2602 ~$1,150,000~3~2~House~2.0~N/A~N/A~$517,000~
+39 Wade Street, Watson ACT 2602 ~$1,200,000~3~1~House~N/A~760~N/A~$697,000~

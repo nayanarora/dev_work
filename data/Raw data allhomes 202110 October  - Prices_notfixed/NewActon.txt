@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+23/3 Gordon Street, City ACT 2601 ~$429,000~1~1~Apartment~4.0~6923~80~N/A~
+315/25 Edinburgh Avenue, City ACT 2601 ~Offers Over $485,000~1~1~Unit / Apartment~6.0~N/A~72~N/A~
+1306/19 Marcus Clarke Street, City ACT 2601 ~$1,795,000~3~3~Apartment~6.0~N/A~N/A~N/A~
+1602/19 Marcus Clarke Street, City ACT 2601 ~$2,900,000~3~3~Apartment~4.0~N/A~N/A~N/A~

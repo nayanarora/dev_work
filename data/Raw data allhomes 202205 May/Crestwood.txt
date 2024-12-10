@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+19/122 Henderson Road, Crestwood NSW 2620 ~$220000~1~1~Unit / Apartment~N/A~N/A~34~N/A~
+Unit 24/15 Crest Rd, Crestwood NSW 2620 ~$379,000~2~1~Unit / Apartment~N/A~N/A~75~N/A~
+3/136 Morton Street, Crestwood NSW 2620 ~$719500~3~2~Townhouse~N/A~N/A~N/A~N/A~

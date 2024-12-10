@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+13 Dyett Circuit, Theodore ACT 2905 ~$890,000~4~2~House~2.5~821~N/A~$307,000~
+44 Vonwiller Crescent, Theodore ACT 2905 ~$935,000~4~1~House~2.0~749~216~$316,000~
+3 Mackerras Crescent, Theodore ACT 2905 ~$970,000~4~2~House~0.5~1152~191~$354,000~

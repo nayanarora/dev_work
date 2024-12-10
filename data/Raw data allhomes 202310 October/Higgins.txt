@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+44A Edwards Street, Higgins ACT 2615 ~$759,000~4~2~House~1.5~540~130~N/A~

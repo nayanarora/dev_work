@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+314 Antill Street, Hackett ACT 2602 ~$1,050,000~3~1~House~1.0~711~129~$886,000~
+32 Newton Street, Hackett ACT 2602 ~$1,100,000~3~1~House~2.0~770~N/A~$900,000~
+139 Mackenzie Street, Hackett ACT 2602 ~$1,150,000~3~1~House~2.0~691~113~$870,000~
+11 Mackenzie Street, Hackett ACT 2602 ~$1,299,000~3~1~House~3.0~654~N/A~$875,000~

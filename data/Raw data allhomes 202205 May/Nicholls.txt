@@ -1,0 +1,3 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+6 Monaghan Place, Nicholls ACT 2913 ~$1,256,000~4~1~House~6.0~734~214~$393,000~
+180 Temperley Street, Nicholls ACT 2913 ~$1850000~4~2~House~5.0~918~287~$551,000~

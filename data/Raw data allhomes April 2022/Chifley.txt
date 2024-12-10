@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+1/45 Eggleston Crescent, Chifley ACT 2606 ~$215,000~1~1~Studio~N/A~N/A~29~$2,400,000~
+2/110 Eggleston Crescent, Chifley ACT 2606 ~$1,075,000~3~2~Townhouse~6.0~N/A~160~N/A~
+5 Lamb Place, Chifley ACT 2606 ~$1,150,000~3~1~House~1.0~696~94~$500,000~

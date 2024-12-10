@@ -1,0 +1,1 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~

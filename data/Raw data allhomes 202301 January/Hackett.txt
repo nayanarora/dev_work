@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+6/127 Rivett Street, Hackett ACT 2602 ~$365,000~2~1~Unit / Apartment~N/A~2416~N/A~$146,286~

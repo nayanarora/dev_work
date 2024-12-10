@@ -1,0 +1,11 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+13/64 Hardwick Crescent, Holt ACT 2615 ~$398,000~1~1~Apartment~5.5~789~N/A~$349,000~
+5/80 Britten Jones Drive, Holt ACT 2615 ~$680,000~3~1~Townhouse~5.0~255~N/A~N/A~
+3/73 Lorraway Street, Holt ACT 2615 ~$690,000~3~1~Townhouse~6.0~224~N/A~N/A~
+14 Watchorn Close, Holt ACT 2615 ~$750,000~3~2~House~6.0~382~N/A~$395,000~
+3/11 Chester Close, Holt ACT 2615 ~Offers above $829,000~4~2~Townhouse~5.0~353~N/A~N/A~
+68 Lionel Rose Street, Holt ACT 2615 ~Offers Above $840,000~3~2~House~6.0~250~N/A~$371,000~
+7 Trickett Street, Holt ACT 2615 ~$910000~4~2~House~2.5~807~179~$474,000~
+107 Lionel Rose Street, Holt ACT 2615 ~$900,000 ~4~2~House~5.5~313~N/A~$416,000~
+2 Galvin Place, Holt ACT 2615 ~$945000~4~2~House~2.0~861~168~$520,000~
+4 Beaurepaire Crescent, Holt ACT 2615 ~Offers Over $939,000~4~2~House~4.5~987~175~$474,000~

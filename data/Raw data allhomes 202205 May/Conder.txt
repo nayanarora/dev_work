@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+1/1 Templestowe Avenue, Conder ACT 2906 ~$899,000~4~3~Townhouse~5.0~353~186~N/A~
+(no street name provided), Conder ACT 2906 ~$949,000~4~2~House~4.0~797~192~$394,000~
+19 Darebin Place, Conder ACT 2906 ~$950,000~5~2~House~2.5~742~N/A~$306,000~
+27 Mentone View, Conder ACT 2906 ~$979,000~4~2~House~5.0~693~167~$324,000~

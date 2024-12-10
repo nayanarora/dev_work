@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+22 Blancoa Place, Rivett ACT 2611 ~$675,000~3~1~House~3.0~317~107~$475,000~
+28 Goodenia Street, Rivett ACT 2611 ~$749,000~3~2~House~1.0~739~N/A~$666,000~
+231 Hindmarsh Drive, Rivett ACT 2611 ~$870,000~3~1~House~5.0~745~107~$596,000~
+11 Geebung Place, Rivett ACT 2611 ~$1,150,000~4~2~House~2.0~782~225~$687,000~
+123 Darwinia Terrace, Rivett ACT 2611 ~$1445000~4~2~House~2.0~1130~N/A~$696,000~

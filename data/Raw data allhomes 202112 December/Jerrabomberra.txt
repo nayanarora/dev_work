@@ -1,0 +1,10 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+28-42 Tassel Terrace, Jerrabomberra NSW 2619 ~$767000~4~2~Other~6.0~N/A~N/A~N/A~
+4 Palm Court, Jerrabomberra NSW 2619 ~$822500~3~2~Duplex~N/A~N/A~N/A~N/A~
+10 Freestone Crescent, Jerrabomberra NSW 2619 ~$1025000~4~2~House~N/A~800~227~N/A~
+8 Kowen Place, Jerrabomberra NSW 2619 ~$1150000~4~2~House~N/A~778~205~N/A~
+8 Terrara Close, Jerrabomberra NSW 2619 ~$1210000~5~2~House~N/A~793~N/A~N/A~
+32 Ironbark Circuit, Jerrabomberra NSW 2619 ~$1450000~4~2~House~N/A~846~334~N/A~
+2 Bellbush Close, Jerrabomberra NSW 2619 ~$1745000~6~3~House~N/A~1378~400~N/A~
+18 Aspen Rise, Jerrabomberra NSW 2619 ~$1850000~6~4~House~N/A~981~478~N/A~
+30 Carolyn Jackson Drive, Jerrabomberra NSW 2619 ~$2,200,000~4~2~House~N/A~3769~430~N/A~

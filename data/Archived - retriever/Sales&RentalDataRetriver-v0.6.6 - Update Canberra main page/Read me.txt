@@ -1,0 +1,41 @@
+To Execuate SalesData Retriver on Windows:
+
+1. Double Click "Executable.bat" (Open in Adim Mode if you wish to output files in disc that requires admin privilege.
+2. In the File Chooser, select the directory in which you wish to take all output files.
+3. Click "Save".
+
+To Execuate SalesData Retriver on Mac (source: https://stackoverflow.com/questions/10125639/how-to-create-a-jar-file-using-the-terminal):
+1. Commandline run: "jar cfm SalesAndRental.jar Manifest.txt salesAndRental/*.class salesAndRental/gui/*.class" - This will generate a SalesAndRental.jar file
+2. "java -jar SalesAndRental.jar"
+
+
+Debug:
+1. Java.lang.UnsupportedClassVersionError: update your Java environment to 11.
+2. Connection Timeout exception: you can stop the program and restart, select "skip" to continue or select "retry".
+
+
+Default Setups (Please note that all those setups are not modifiable, if you wish to modify, please contact "talent.
+deng@exemplary.com.au"):
+
+1. Column separator: "@".
+2. Entry Page:  - Sales: "http://www.allhomes.com.au/ah/act/sale-residential".
+		- Rental: "http://www.allhomes.com.au/ah/act/rent-residential".
+		- Agent: "http://www.allhomes.com.au/ah/act/agents".
+3. Suburbs: Suburbs of Entry Page, exclude "Nearby Districts".
+4. If suburbs of same name occured, the latter one replaces the formar one.
+5. If Agents of same name occured, the information is attached to the existing one.
+
+* Sales Table Filter Rules (implemented in order):
+	 * 1. Address contains no "(SOLD)"
+	 * 2. Price must have "$"
+	 * 3. Price contains "+" must remove "+"
+	 * 4. Price contains "-" must get the average price
+	 * 5. Property Type contains no "Land" exclusive
+
+* Rental and Agent Table Filter Rules (implemented in order):
+	 * 1. Address contains no "(RENTED)"
+	 * 2. Price must have "$"
+	 * 3. Price contains "per week" must remove "per week"
+	 * 4. Price contains "p/w" must remove "p/w"
+	 * 6. Price contains "..." must remove "..."
+	 * 7. Price contains "-" must get the average price

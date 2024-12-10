@@ -1,0 +1,18 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+9/15 Bill Ferguson Circuit, Bonner ACT 2914 ~$535,000 to $550,000~2~2~Apartment~3.0~3749~N/A~$2,650,000~
+2/15 Bill Ferguson Circuit, Bonner ACT 2914 ~$645,000~3~2~Apartment~5.5~3749~N/A~$2,650,000~
+30 Bill Ferguson Circuit, Bonner ACT 2914 ~Offers Over $659,000~3~1~Townhouse~5.5~148~N/A~$285,000~
+76 Bill Ferguson Circuit, Bonner ACT 2914 ~$660,000~3~1~House~5.0~144~N/A~$285,000~
+5 Neidjie Close, Bonner ACT 2914 ~$695000~3~1~House~6.0~148~126~$276,000~
+75 Mobourne Street, Bonner ACT 2914 ~$689,000~3~1~House~6.0~218~N/A~$293,000~
+3 Syddall Street, Bonner ACT 2914 ~$699,000~3~2~House~5.5~148~112~$276,000~
+6 Bill Ferguson Circuit, Bonner ACT 2914 ~$715000~3~1~House~5.5~228~N/A~$306,000~
+5 Dinah Street, Bonner ACT 2914 ~$899,000~3~2~House~6.0~450~183~$492,000~
+7 Lamilami Place, Bonner ACT 2914 ~$899,000~4~2~House~6.0~691~N/A~$611,000~
+38 Muriel Stewart Circuit, Bonner ACT 2914 ~$949,900~4~2~House~5.0~375~N/A~$438,000~
+50 Louisa Briggs Cct, Bonner ACT 2914 ~$1,029,000~4~2~House~4.5~636~N/A~$613,000~
+13 Deucem Smith Street, Bonner ACT 2914 ~$1,030,000~4~2~House~5.0~532~N/A~$540,000~
+6 Neidjie Close, Bonner ACT 2914 ~$1,075,000~4~2~House~5.0~535~280~$540,000~
+162 Ida West Street, Bonner ACT 2914 ~$1,090,000~4~2~House~5.0~540~N/A~$540,000~
+121 Rob Riley Circuit, Bonner ACT 2914 ~$1,149,000~4~2~House~6.0~560~223~$540,000~
+119 Ida West Street, Bonner ACT 2914 ~$1,269,000~5~3~House~6.0~452~313~$475,000~

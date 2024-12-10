@@ -1,0 +1,26 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+177/41 Philip Hodgins Street, Wright ACT 2611 ~$375,000~1~1~Apartment~6.0~17900.0~N/A~$7,200,000~
+102/41 Philip Hodgins Street, Wright ACT 2611 ~  $390,000~1~1~Unit / Apartment~6.0~17900.0~N/A~$7,200,000~
+Debut - 1 Bedroom Apartments and Studios, Wright ACT 2611 ~$399,900~1~1~Apartment~N/A~N/A~N/A~N/A~
+36/60 Tishler Street, Wright ACT 2611 ~$415,000~1~1~House~6.0~8514~54~$3,800,000~
+56/25 John Gorton Drive, Wright ACT 2611 ~  $439,000~1~1~Unit / Apartment~6.0~11299.999999999998~N/A~$5,500,000~
+(no street name provided), Wright ACT 2611 ~$459,900~1~1~Apartment~6.0~N/A~N/A~N/A~
+136/61 John Gorton Drive, Wright ACT 2611 ~$495,000~2~2~Apartment~6.0~17600.0~N/A~$7,480,000~
+69/2 Peter Cullen Way, Wright ACT 2611 ~  $499,000~2~2~Apartment~6.0~17600.0~N/A~$7,480,000~
+44/2 Serventy Street, Wright ACT 2611 ~  $499,000~2~2~Apartment~6.0~11299.999999999998~N/A~$5,500,000~
+164/41 Philip Hodges Street, Wright ACT 2611 ~$505,555~2~2~Apartment~6.0~N/A~N/A~N/A~
+123/61 John Gorton Drive, Wright ACT 2611 ~$520,000 ~2~2~Unit / Apartment~6.0~17600.0~N/A~$7,480,000~
+87/2 Peter Cullen Way, Wright ACT 2611 ~$530,000~2~1~Apartment~N/A~17600.0~N/A~$7,480,000~
+38/2 Serventy Street, Wright ACT 2611 ~$585,000~2~2~Apartment~6.0~11299.999999999998~N/A~$5,500,000~
+85/2 Peter Cullen Way, Wright ACT 2611 ~$612000~3~2~Apartment~6.0~17600.0~N/A~$7,480,000~
+Debut - 2 Bedroom Apartment, Wright ACT 2611 ~$599,900~2~1~Apartment~N/A~N/A~N/A~N/A~
+67/25 John Gorton Drive, Wright ACT 2611 ~  $645,000~2~2~Apartment~4.0~11299.999999999998~N/A~$5,500,000~
+8 Max Jacobs Avenue, Wright ACT 2611 ~$660,000~2~2~Townhouse~6.0~1551~N/A~$1,200,000~
+Debut - Large 2 Bedroom townhome with 2 car garage, Wright ACT 2611 ~$699,900~2~1~Townhouse~N/A~N/A~N/A~N/A~
+26/11 Clingan Street, Wright ACT 2611 ~$725,000~3~1~Townhouse~3.5~8514~N/A~$3,800,000~
+Debut - 3 bedroom with single car garage, Wright ACT 2611 ~$749,900~3~1~Townhouse~7.8~N/A~N/A~N/A~
+(no street name provided), Wright ACT 2611 ~$779,900~3~2~Townhouse~6.0~N/A~N/A~N/A~
+Debut - 3 Bedroom townhome with north-facing park views, Wright ACT 2611 ~$799,900~3~1~Townhouse~N/A~N/A~N/A~N/A~
+Debut - 3 bedroom with double garage, Wright ACT 2611 ~$799,900~3~1~Other~7.8~N/A~N/A~N/A~
+241 John Gorton Drive, Wright ACT 2611 ~$899,000~4~3~Townhouse~5.5~3167~N/A~$2,400,000~
+Debut - 4 Bedroom with rumpus, Wright ACT 2611 ~$1,199,900~4~1~Townhouse~N/A~N/A~N/A~N/A~

@@ -1,0 +1,3 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+20 Sparkes Close, Fadden ACT 2904 ~$1,249,000~4~3~House~3.0~938~261~$679,000~
+12 Aland Place, Fadden ACT 2904 ~$1,250,000~4~3~House~0.5~795~235~$600,000~

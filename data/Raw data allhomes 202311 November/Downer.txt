@@ -1,0 +1,9 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+8/28 Frencham Street, Downer ACT 2602 ~$390,000~2~1~Apartment~2.0~1304~N/A~$1,750,000~
+13/16 Bradfield Street, Downer ACT 2602 ~$649,000~2~2~Apartment~6.0~9759~N/A~$4,920,000~
+28 Atherton Street, Downer ACT 2602 ~$1,000,000~3~1~House~0.5~792~N/A~$837,000~
+145 Antill Street, Downer ACT 2602 ~  $1,029,000~3~1~House~1.0~752~98~$763,000~
+5/88 Blacket Street, Downer ACT 2602 ~$1,225,000~4~2~Townhouse~4.5~235~N/A~N/A~
+14 Padbury Street, Downer ACT 2602 ~$1,300,000~3~2~House~1.0~763~N/A~$849,000~
+103 Atherton Street, Downer ACT 2602 ~$1,620,000~4~2~House~3.0~775~N/A~$849,000~
+522 Northbourne Avenue, Downer ACT 2602 ~$2,900,000~7~7~House~N/A~832~N/A~$595,000~

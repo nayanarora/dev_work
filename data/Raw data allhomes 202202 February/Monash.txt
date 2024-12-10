@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+5/38 Kenyon Circuit, Monash ACT 2904 ~$595,000~3~1~Townhouse~2.0~8538~101~N/A~
+21 Upton Street, Monash ACT 2904 ~$780,000~3~1~House~0.5~725~125~$357,000~
+5 Whitfeld Street, Monash ACT 2904 ~$835,000~3~1~House~1.5~782~N/A~$357,000~
+21 Sturdee Crescent, Monash ACT 2904 ~$1,400,000~4~2~House~2.0~745~N/A~$345,000~

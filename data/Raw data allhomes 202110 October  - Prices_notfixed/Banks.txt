@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+2 Wilson Crescent, Banks ACT 2906 ~$630,000~3~1~House~3.5~639~N/A~$249,000~

@@ -1,0 +1,3 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+(no street name provided), Canberra Airport ACT 2609 ~$169,500~N/A~N/A~Other~N/A~N/A~N/A~N/A~
+1/146 Scollay, Canberra Airport ACT 2609 ~$650,000~N/A~N/A~Other~N/A~N/A~N/A~N/A~

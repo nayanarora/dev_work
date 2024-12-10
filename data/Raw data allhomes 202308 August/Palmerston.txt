@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+115 Mainwaring Rich Circuit, Palmerston ACT 2913 ~$580,000~2~1~Townhouse~3.0~289~N/A~N/A~
+6 Gudgenby Close, Palmerston ACT 2913 ~$1,075,000~4~2~House~3.5~682~206~$516,000~
+56 Bimberi Crescent, Palmerston ACT 2913 ~$1,100,000~4~2~House~3.0~732~N/A~$550,000~
+18 & 18a Sentry Crescent, Palmerston ACT 2913 ~$1,200,000~4~3~Duplex~4.0~819~N/A~N/A~

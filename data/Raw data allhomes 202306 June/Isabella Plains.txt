@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+40/146 Ellerston Avenue, Isabella Plains ACT 2905 ~$599,000~3~1~Townhouse~4.0~272~N/A~N/A~
+21/27 Cromwell Circuit, Isabella Plains ACT 2905 ~$660,000 to $700,000~3~1~Townhouse~6.0~339~N/A~N/A~
+53 Ellerston Avenue, Isabella Plains ACT 2905 ~  $719,000~4~1~House~N/A~683~112~$467,000~
+76 Keverstone Circuit, Isabella Plains ACT 2905 ~ $839,000~4~2~House~2.0~775~136~$487,000~
+153 Ellerston Avenue, Isabella Plains ACT 2905 ~$890,000~4~1~House~3.5~835~N/A~$423,000~

@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+3/9 Telopea Place, Queanbeyan West NSW 2620 ~$700000~4~2~Townhouse~N/A~N/A~N/A~N/A~
+10/5 Weir Place, Queanbeyan West NSW 2620 ~$707500~3~2~Townhouse~N/A~N/A~N/A~N/A~
+(no street name provided), Queanbeyan West NSW 2620 ~$695,000~4~2~House~N/A~N/A~N/A~N/A~
+2 Furlong Road, Queanbeyan West NSW 2620 ~$709,000~4~2~Townhouse~N/A~575~150~N/A~
+65 Crest Park Parade, Queanbeyan West NSW 2620 ~$920000~3~2~House~N/A~765~N/A~N/A~

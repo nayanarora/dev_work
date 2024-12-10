@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+22/145 Carruthers Street, Curtin ACT 2605 ~$345,000~2~1~Unit / Apartment~1.5~N/A~71~$5,000,000~
+81A Theodore Street, Curtin ACT 2605 ~$1,000,000 ~4~1~Townhouse~2.0~429~116~$499,000~
+18 Rason Place, Curtin ACT 2605 ~$1,600,000~5~3~House~1.5~727~175~$547,000~
+12 Cockburn Street, Curtin ACT 2605 ~$1,650,000~4~2~House~2.5~745~182~$745,000~

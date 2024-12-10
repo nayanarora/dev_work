@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+25 Dalziel Street, Gowrie ACT 2904 ~$920,000~4~2~House~1.5~707~167~$456,000~

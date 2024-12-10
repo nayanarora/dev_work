@@ -1,0 +1,7 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+17/3 Peron Place, Banks ACT 2906 ~$565,000~3~1~Townhouse~3.5~201~N/A~N/A~
+1/11-15 Troughton Street, Banks ACT 2906 ~  $640,000~3~1~Townhouse~4.5~N/A~N/A~N/A~
+56 House Circuit, Banks ACT 2906 ~$770,000~3~1~House~4.5~467~N/A~$400,000~
+3/35 Brockway Circuit, Banks ACT 2906 ~$779,000~4~2~Townhouse~5.5~352~N/A~N/A~
+12 Osborn Place, Banks ACT 2906 ~$799,000~3~2~House~4.5~703~121~N/A~
+19 Kettlewell Crescent, Banks ACT 2906 ~$1,160,000~5~2~House~4.0~889~N/A~$566,000~

@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+56 Downard Street, Calwell ACT 2905 ~$799,000~3~2~House~3.5~751~N/A~$446,000~
+67 Downard Street, Calwell ACT 2905 ~$840,000~3~1~House~2.0~792~138~$431,000~
+72 Costello Circuit, Calwell ACT 2905 ~$900,000~5~2~House~1.0~774~181~$430,000~
+50 Mountain Circuit, Calwell ACT 2905 ~$949,000~4~2~House~1.5~715~N/A~$422,000~
+15 Denovan Circuit, Calwell ACT 2905 ~$1,050,000~4~2~House~1.5~1019~166~$536,000~

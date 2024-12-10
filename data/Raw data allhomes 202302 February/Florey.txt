@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+3/83 Ratcliffe Crescent, Florey ACT 2615 ~Offers over $669,000~3~1~Townhouse~N/A~472~137~N/A~
+35/15 John Cleland Crescent, Florey ACT 2615 ~$675,000~3~2~Townhouse~3.0~42900.0~100~$119,875~
+77/15 John Cleland Crescent, Florey ACT 2615 ~$699,000~3~2~Townhouse~5.0~42900.0~112~$119,875~
+7 Priestley Place, Florey ACT 2615 ~$1,180,000~4~2~House~N/A~785~207~$656,000~

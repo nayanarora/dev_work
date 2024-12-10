@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+(no street name provided), Pearce ACT 2607 ~$950,000~3~1~House~N/A~718~N/A~$567,000~
+2/16 Leighton Street, Pearce ACT 2607 ~$1,425,000~4~2~House~6.0~N/A~165~N/A~
+56 Hodgson Crescent, Pearce ACT 2607 ~Offers over $1,550,000~4~2~House~3.5~840~194~$508,000~
+6 Anstey Street, Pearce ACT 2607 ~$1,790,000~4~3~House~0.5~874~N/A~$754,000~

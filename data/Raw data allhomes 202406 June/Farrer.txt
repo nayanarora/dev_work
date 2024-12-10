@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+9-11 Drevermann Street, Farrer ACT 2607 ~$549,950~2~2~Unit / Apartment~6.0~N/A~N/A~N/A~
+30 Moodie Street, Farrer ACT 2607 ~$1,649,000~4~2~House~5.5~1301~233~$954,000~
+3 Watt Place, Farrer ACT 2607 ~$1,699,000~4~3~House~1.0~1078~230~$886,000~

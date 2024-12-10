@@ -1,0 +1,7 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+11/29 Anne Clarke Street, Nicholls ACT 2913 ~$659,000~3~2~Townhouse~4.5~N/A~N/A~N/A~
+11 Cottam Place, Nicholls ACT 2913 ~ $899,000~4~2~House~3.0~662~N/A~$592,000~
+22/25 Temperley Street, Nicholls ACT 2913 ~$920,000~3~2~House~4.5~293~205~N/A~
+13 Cockatoo Close, Nicholls ACT 2913 ~$950,000~4~2~House~3.0~419~180~$561,000~
+4 Viner Place, Nicholls ACT 2913 ~$1,995,000~4~3~House~3.0~952~352~$964,000~
+6 Kuhn Place, Nicholls ACT 2913 ~$2,390,000~5~3~House~3.0~922~531~$792,000~

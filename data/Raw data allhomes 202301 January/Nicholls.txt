@@ -1,0 +1,3 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+24/23 Temperley Street, Nicholls ACT 2913 ~$860000~3~2~Townhouse~6.0~378~188~N/A~
+32 McClelland Avenue, Nicholls ACT 2913 ~$1,250,000~4~2~House~3.0~770~244~$582,000~

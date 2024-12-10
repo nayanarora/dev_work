@@ -1,0 +1,10 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+86/179 Melrose Drive, Lyons ACT 2606 ~$349,000~2~1~Apartment~6.0~12900.0~N/A~$103,596~
+(no street name provided), Lyons ACT 2606 ~$437500~1~1~House~5.0~1626~N/A~$140,400~
+12/5 Burnie Street, Lyons ACT 2606 ~   $479,000~2~1~Unit / Apartment~6.0~10200.0~N/A~$63,000~
+2/10 Tasman Place, Lyons ACT 2606 ~$549,000~2~1~Unit / Apartment~6.0~2332~84~$138,880~
+15 Burnie Street, Lyons ACT 2606 ~$570,000~1~1~Retirement Village~N/A~N/A~N/A~N/A~
+8 Tooms Place, Lyons ACT 2606 ~$895,000~3~1~House~3.5~723~N/A~$830,000~
+6 Esk Place, Lyons ACT 2606 ~$899,000~4~1~House~1.5~854~127~N/A~
+22C Lutana Street, Lyons ACT 2606 ~$1,349,000~3~2~Townhouse~6.0~N/A~173~N/A~
+4b Olympus Way, Lyons ACT 2606 ~$1,450,000 ~4~2~House~6.0~379~206~N/A~

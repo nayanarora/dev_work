@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+42 Coningham Street, Gowrie ACT 2904 ~$900,000~4~2~House~3.5~853~N/A~$558,000~
+13 Wray Place, Gowrie ACT 2904 ~$990,000~4~2~House~1.0~809~N/A~$460,000~
+63 Bugden Avenue, Gowrie ACT 2904 ~$1,150,000~5~3~House~1.5~1115~182~$490,000~

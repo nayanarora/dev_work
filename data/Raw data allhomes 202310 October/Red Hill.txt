@@ -1,0 +1,15 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+2/22 Discovery Street, Red Hill ACT 2603 ~$475,000~2~1~Apartment~4.5~1389~N/A~$2,500,000~
+2/182 La Perouse Street, Red Hill ACT 2603 ~$750,000~2~1~Townhouse~5.5~987~N/A~$1,500,000~
+The Parks - 1/6 Lady Nelson Place, Red Hill ACT 2603, Red Hill ACT 2603 ~$829,900~1~1~Apartment~6.0~14700.0~N/A~$3,727,000~
+15/9 Lady Nelson Place, Red Hill ACT 2603 ~$1,000,000~2~2~Apartment~6.0~N/A~N/A~N/A~
+6/5 Lady Nelson Place, Red Hill ACT 2603 ~$1,399,000~3~2~Apartment~7.0~N/A~N/A~N/A~
+2/215 La Perouse Street, Red Hill ACT 2603 ~$1,550,000~3~2~Townhouse~6.0~422~N/A~$2,016,000~
+204 Monaro Crescent, Red Hill ACT 2603 ~$1,749,000~3~2~House~N/A~1083~143~$1,379,000~
+72 Hicks Street, Red Hill ACT 2603 ~$1,749,000~4~2~House~N/A~845~N/A~$1,550,000~
+201 La Perouse Street, Red Hill ACT 2603 ~$1,750,000~3~3~House~7.0~N/A~212~N/A~
+29 Cygnet Crescent, Red Hill ACT 2603 ~$2,100,000~4~2~House~6.0~393~N/A~$1,132,000~
+200 Monaro Crescent, Red Hill ACT 2603 ~$2,485,000~6~3~House~2.5~835~N/A~$1,340,000~
+22 Hicks Street, Red Hill ACT 2603 ~$2,500,000~5~3~House~1.5~916~N/A~$1,600,000~
+3 Tamar Street, Red Hill ACT 2603 ~$3,850,000~6~3~House~3.0~880~N/A~$1,408,000~
+1 Reliance Street, Red Hill ACT 2603 ~$4,000,000~4~3~House~1.5~1462~N/A~$1,651,000~

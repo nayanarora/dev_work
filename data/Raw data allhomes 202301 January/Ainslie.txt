@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+21 Shortland Crescent, Ainslie ACT 2602 ~$1,400,000~4~2~House~0.5~724~N/A~$995,000~
+14 McColl Street, Ainslie ACT 2602 ~$1,400,000~3~2~House~1.0~954~N/A~$1,019,000~
+40 Raymond Street, Ainslie ACT 2602 ~$1,475,000~3~1~House~2.0~641~124~$1,239,000~
+70 Paterson Street, Ainslie ACT 2602 ~$1,785,000~4~2~House~2.5~838~171~$1,175,000~

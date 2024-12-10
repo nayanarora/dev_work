@@ -1,0 +1,15 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+21 Snodgrass Crescent, Kambah ACT 2902 ~$580,000~2~1~Retirement Village~N/A~N/A~N/A~$6,300,000~
+4B Everard Place, Kambah ACT 2902 ~$599,000~2~1~Townhouse~6.0~N/A~N/A~$1,200,000~
+19 Stanfield Close, Kambah ACT 2902 ~  $670,000~2~1~House~1.0~303~78~$251,000~
+21 Snodgrass Crescent, Kambah ACT 2902 ~$735,000~3~1~Retirement Village~N/A~N/A~N/A~$6,300,000~
+49 Bosworth Circuit, Kambah ACT 2902 ~$765,000~3~1~House~0.5~402~101~$253,000~
+3/8 Bateman Street, Kambah ACT 2902 ~$0~3~2~Townhouse~5.0~N/A~N/A~N/A~
+5 Tong Place, Kambah ACT 2902 ~$780,000~3~1~House~2.5~692~N/A~$345,000~
+12 Hallett Place, Kambah ACT 2902 ~$795,000~3~1~House~0.5~586~N/A~$323,000~
+2 Darlot Place, Kambah ACT 2902 ~$815,000~3~2~House~6.0~N/A~N/A~$420,000~
+19 Battersby Circuit, Kambah ACT 2902 ~$825,000~3~1~House~2.0~N/A~N/A~$431,000~
+12 Gleeson Place, Kambah ACT 2902 ~$900,000~4~2~House~N/A~725~174~$367,000~
+47 Sinclair Street, Kambah ACT 2902 ~$940,000~3~1~House~2.0~822~N/A~$414,000~
+3 Uren Place, Kambah ACT 2902 ~$980,000~4~2~House~2.0~685~154~$348,000~
+24 Mt Vernon Drive, Kambah ACT 2902 ~$1,390,000~4~2~House~3.0~1047~236~$493,000~

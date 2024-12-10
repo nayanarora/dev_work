@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+12 Mack Street, Richardson ACT 2905 ~$710,000~3~1~House~4.0~510~85~$439,000~
+23 Vidal Street, Richardson ACT 2905 ~$799,000~3~2~House~2.5~781~N/A~$469,000~
+10 Vidal Place, Richardson ACT 2905 ~$850,000~3~1~House~5.0~926~105~$460,000~
+5 Bale Place, Richardson ACT 2905 ~Offers over $850,000~3~2~House~3.5~1401~N/A~$522,000~

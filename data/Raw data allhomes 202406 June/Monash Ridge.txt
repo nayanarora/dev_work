@@ -1,0 +1,8 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+The Gardens at Monash - Type F - Age Qualified Single Level Villas, Monash ACT 2904 ~$759,000~3~1~Townhouse~7.0~10500.0~N/A~N/A~
+The Gardens at Monash - Type G - Age Qualified Single Level Villas, Monash ACT 2904 ~$759,000~3~1~Townhouse~7.0~10500.0~N/A~N/A~
+54 Wheadon Street, Monash ACT 2904 ~$799,000~4~1~House~2.5~559~197~N/A~
+The Gardens at Monash - Type D - Age Qualified Single Level Villas, Monash ACT 2904 ~$809,000~3~2~Townhouse~7.0~10500.0~N/A~N/A~
+The Gardens at Monash - Type A - Age Qualified Single Level Villas, Monash ACT 2904 ~$860,000~3~2~Townhouse~7.0~10500.0~N/A~N/A~
+The Gardens at Monash - Type C - Age Qualified Single Level Villas, Monash ACT 2904 ~$895,000~3~2~Townhouse~7.0~10500.0~N/A~N/A~
+The Gardens at Monash - Type B - Age Qualified Single Level Villas, Monash ACT 2904 ~$899,000~3~2~Townhouse~7.0~10500.0~N/A~N/A~

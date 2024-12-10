@@ -1,0 +1,16 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+61/39 Jerrabomberra Avenue, Narrabundah ACT 2604 ~$395,000~1~1~Unit / Apartment~6.0~N/A~N/A~$10,500,000~
+50/39 Jerrabomberra Avenue, Narrabundah ACT 2604 ~$460,000~1~1~Apartment~6.0~N/A~N/A~$10,500,000~
+21/51 Leahy Close, Narrabundah ACT 2604 ~$607000~3~2~Apartment~6.0~N/A~N/A~$5,200,000~
+31/42 Jerrabomberra Avenue, Narrabundah ACT 2604 ~$599,000~2~1~Townhouse~6.0~10100.0~N/A~$10,800,000~
+70/39 Jerrabomberra Avenue, Narrabundah ACT 2604 ~$629,000~2~2~Townhouse~6.0~8994~N/A~$10,500,000~
+10/50 Leahy Close, Narrabundah ACT 2604 ~$649,000~3~2~Apartment~2.0~N/A~N/A~$2,800,000~
+16/25 Jerrabomberra Avenue, Narrabundah ACT 2604 ~ $680,000~2~2~Townhouse~6.0~7929~N/A~$8,000,000~
+127/39 McIntyre Street, Narrabundah ACT 2604 ~$699,000~2~2~Apartment~6.0~N/A~N/A~$20,600,000~
+18/49 Leahy Close, Narrabundah ACT 2604 ~$720,000~3~2~Townhouse~4.0~2889~N/A~$4,700,000~
+96/39 McIntyre Street, Narrabundah ACT 2604 ~$735,000~2~2~Apartment~6.0~N/A~N/A~$20,600,000~
+6/50 Boolimba Crescent, Narrabundah ACT 2604 ~ $1,180,000~3~2~Townhouse~6.0~333~N/A~N/A~
+3 Lumeah Street, Narrabundah ACT 2604 ~$1,320,000~4~1~House~3.0~679~N/A~$1,000,000~
+80 Stuart Street, Narrabundah ACT 2604 ~$1,650,000~3~2~House~4.0~431~125~$675,000~
+68 Stuart Street, Narrabundah ACT 2604 ~$1,975,000~4~2~House~1.5~947~179~$1,331,000~
+37 Sprent Street, Narrabundah ACT 2604 ~$3,375,000~5~5~House~6.0~656~N/A~$974,000~

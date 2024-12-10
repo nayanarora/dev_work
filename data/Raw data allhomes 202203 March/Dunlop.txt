@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+7 Kilburn Close, Dunlop ACT 2615 ~$660,000~3~1~Duplex~3.6~368~N/A~$290,000~
+12 Alarmon Crescent, Dunlop ACT 2615 ~$720,000~3~1~House~4.0~420~104~$298,000~
+5 Leggo Place, Dunlop ACT 2615 ~$820000~3~1~House~4.0~573~97~$327,000~
+2 Percy Begg Circuit, Dunlop ACT 2615 ~$1,195,000~7~3~House~5.0~713~285~$364,000~

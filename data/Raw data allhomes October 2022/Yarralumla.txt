@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+19/43 Hampton Circuit, Yarralumla ACT 2600 ~$1,150,000~2~2~Townhouse~5.0~1936~136~$105,600~
+14/43 Hampton, Yarralumla ACT 2600 ~$1,495,000~2~2~Apartment~6.0~N/A~182~N/A~
+10/49 Hampton Circuit, Yarralumla ACT 2600 ~$1,665,000~3~3~Apartment~6.0~1607~198~$258,000~
+78 Novar Street, Yarralumla ACT 2600 ~$2325000~3~2~House~5.0~794~202~$1,750,000~

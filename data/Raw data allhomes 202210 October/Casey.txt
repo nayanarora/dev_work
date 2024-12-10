@@ -1,0 +1,10 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+31 McGovern Street, Casey ACT 2913 ~$549,000~2~1~House~6.0~60~N/A~N/A~
+102 Greg Urwin Circuit, Casey ACT 2913 ~$679,000~2~1~House~6.0~279~140~$386,000~
+28 Salisbury Street, Casey ACT 2913 ~$759,000~3~2~House~5.0~234~136~$404,000~
+18 Swinney Street, Casey ACT 2913 ~$799,000~3~2~House~6.0~325~156~$421,000~
+79 Plimsoll Drive, Casey ACT 2913 ~$849,000~4~2~Townhouse~5.0~210~N/A~$360,000~
+74 Overall Avenue, Casey ACT 2913 ~Offers Over $849,000~3~2~House~4.5~430~126~$504,000~
+17 Walter Crocker Crescent, Casey ACT 2913 ~$1,079,000~4~2~House~5.5~454~N/A~$508,000~
+5 Kimmorley Street, Casey ACT 2913 ~Offers Over $1,299,000~5~3~House~5.0~465~273~$529,000~
+68 Wighton Terrace, Casey ACT 2913 ~Offers above $1,349,000~4~2~House~5.0~552~314~$552,000~

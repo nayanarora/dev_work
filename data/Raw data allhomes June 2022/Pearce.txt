@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+5 McNamara Street, Pearce ACT 2607 ~$1,125,000~3~1~House~1.0~776~N/A~$564,000~
+2 Collings Street, Pearce ACT 2607 ~Offers over $1,200,000~4~1~House~1.0~870~141~$585,000~
+2/16 Leighton Street, Pearce ACT 2607 ~$1,425,000~4~2~House~6.0~N/A~165~$800,000~

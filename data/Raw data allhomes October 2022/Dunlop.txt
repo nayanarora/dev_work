@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+4 Thornhill Crescent, Dunlop ACT 2615 ~$759,000~3~1~House~3.5~379~N/A~$391,000~
+76 Archdall Street, Dunlop ACT 2615 ~$799,000~3~2~House~5.0~405~N/A~$391,000~
+6 Kelpie Place, Dunlop ACT 2615 ~$840,000~3~2~House~6.0~600~N/A~$454,000~
+8 Westall Place, Dunlop ACT 2615 ~$0~4~2~House~4.0~499~143~$382,000~
+8 Ikara Close, Dunlop ACT 2615 ~$1,149,000~4~2~House~4.5~571~313~$456,000~

@@ -1,0 +1,8 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+5 Rowland Street, MacGregor ACT 2615 ~$699,000~3~1~House~6.0~250~N/A~$323,000~
+5 Ida Birchall Crescent, MacGregor ACT 2615 ~$699,000~3~1~House~5.0~298~109~$342,000~
+11 Pulleine Crescent, MacGregor ACT 2615 ~$787,000~3~2~House~4.0~1051~121~$405,000~
+89 Carman Loop, MacGregor ACT 2615 ~$788,000~3~2~House~5.5~394~139~$398,000~
+19 Hilda Kincaid Crescent, MacGregor ACT 2615 ~$909,000~4~2~House~5.5~357~183~$414,000~
+16 Eccles Circuit, MacGregor ACT 2615 ~$979,000~4~2~House~5.5~450~178~$405,000~
+15 Cumpston Place, MacGregor ACT 2615 ~$1,100,000~4~2~House~0.5~1049~N/A~$449,000~

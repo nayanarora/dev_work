@@ -1,0 +1,3 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+7 Craig Place, Florey ACT 2615 ~$795,000~3~1~House~4.5~844~N/A~$573,000~
+70 Barnard Circuit, Florey ACT 2615 ~$799,000~3~2~House~4.0~676~N/A~$502,000~

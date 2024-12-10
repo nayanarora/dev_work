@@ -1,0 +1,11 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+10/15 Stace Place, Gordon ACT 2906 ~  $625,000~N/A~N/A~N/A~N/A~321~N/A~N/A~
+5 Scarfe Close, Gordon ACT 2906 ~  $660,000~N/A~N/A~N/A~N/A~235~N/A~N/A~
+17 Stan Ray Street, Gordon ACT 2906 ~$700,000~N/A~N/A~N/A~N/A~913~N/A~$630,000~
+5 Wootton Crescent, Gordon ACT 2906 ~$769,000~N/A~N/A~N/A~N/A~694~121~$450,000~
+42 Charlton Crescent, Gordon ACT 2906 ~$769,000~N/A~N/A~N/A~N/A~560~175~$398,000~
+103 Jim Pike Avenue, Gordon ACT 2906 ~$779,000~N/A~N/A~N/A~N/A~765~123~$472,000~
+8 McGrowdie Place, Gordon ACT 2906 ~$790,000~N/A~N/A~N/A~N/A~428~N/A~$380,000~
+3 Rollins Place, Gordon ACT 2906 ~$939,900~N/A~N/A~N/A~N/A~530~218~$523,000~
+1 Hazlitt Glade, Gordon ACT 2906 ~$1075000~N/A~N/A~N/A~N/A~1021~254~$577,000~
+5 Kanga Place, Gordon ACT 2906 ~$1,190,000 ~N/A~N/A~N/A~N/A~910~N/A~$630,000~

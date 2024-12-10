@@ -1,0 +1,24 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+121/14 Boolee Street, Reid ACT 2612 ~$389,000~1~1~Apartment~0.5~10500.0~N/A~$11,815,000~
+55/14 Boolee Street, Reid ACT 2612 ~$399,000~1~1~Unit / Apartment~6.0~10500.0~N/A~$11,815,000~
+24/14 Boolee Street, Reid ACT 2612 ~$400,000~1~1~Apartment~4.0~10500.0~N/A~$11,815,000~
+112/14 Boolee Street, Reid ACT 2612 ~$400,000~1~1~Apartment~6.0~10500.0~N/A~$11,815,000~
+115/14 Boolee Street, Reid ACT 2612 ~$420,000~1~1~Apartment~6.0~10500.0~N/A~$11,815,000~
+Level 6/628/81 Cooyong Street, Reid ACT 2612 ~$475,000~1~1~Apartment~6.0~N/A~N/A~N/A~
+2/43 Constitution Avenue Avenue, Reid ACT 2612 ~$490,000~1~1~Apartment~6.0~N/A~N/A~N/A~
+65/43 Constitution Avenue, Reid ACT 2612 ~  $520,000~1~1~Unit / Apartment~6.0~2225~N/A~$6,675,000~
+303/81 Cooyong Street, Reid ACT 2612 ~$529,000~2~2~Apartment~5.0~10600.0~N/A~$38,500,000~
+703/81 Cooyong Street, Reid ACT 2612 ~$539,000~2~2~Unit / Apartment~7.0~10600.0~N/A~$38,500,000~
+56/14 Boolee St, Reid ACT 2612 ~$580000~2~1~Apartment~N/A~10500.0~N/A~$11,815,000~
+604/83 Cooyong Street, Reid ACT 2612 ~$585000~2~2~Apartment~6.0~10600.0~N/A~$38,500,000~
+56/43 Constitution Avenue, Reid ACT 2612 ~  $580,000~2~1~Unit / Apartment~6.0~2225~N/A~$6,675,000~
+226/81 Cooyong Street, Reid ACT 2612 ~$600,000~2~2~Apartment~6.0~10600.0~N/A~$38,500,000~
+33 Currong Street South, Reid ACT 2612 ~$620000~2~1~Apartment~6.0~2497~N/A~$4,080,000~
+24/3 Allambee Street, Reid ACT 2612 ~$655000~2~1~Unit / Apartment~6.0~5276~N/A~$7,000,000~
+416/83 Cooyong Street, Reid ACT 2612 ~$650,000~2~2~Apartment~6.0~10600.0~N/A~$38,500,000~
+724/81 Cooyong St, Reid ACT 2612 ~$699,000~2~2~Apartment~6.0~10600.0~N/A~$38,500,000~
+109/81 Cooyong Street, Reid ACT 2612 ~$725,000~2~2~Apartment~6.0~10600.0~N/A~$38,500,000~
+302/1 Boolee Street, Reid ACT 2612 ~  $820,000~3~2~Unit / Apartment~6.0~10600.0~N/A~$38,500,000~
+235/81 Cooyong Street, Reid ACT 2612 ~$1,149,000~3~2~Apartment~6.0~10600.0~N/A~$38,500,000~
+56 Euree Street, Reid ACT 2612 ~$2,925,000~4~2~House~2.0~1247~250~$1,744,000~
+4 Dirrawan Gardens, Reid ACT 2612 ~$3,100,000~3~2~House~3.0~1361~N/A~$1,924,000~

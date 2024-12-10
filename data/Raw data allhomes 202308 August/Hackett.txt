@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+11/11 Tryon Street, Hackett ACT 2602 ~$365,000~2~1~Apartment~5.5~2225~N/A~$3,150,000~

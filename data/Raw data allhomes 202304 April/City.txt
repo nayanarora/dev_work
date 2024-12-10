@@ -1,0 +1,25 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+43/20 Allara Street, City ACT 2601 ~$470,000~1~1~Apartment~6.0~1380~N/A~$46,530~
+719 61 Cooyong Street, Braddon ACT 2612 ~$495,000~1~1~Apartment~6.0~N/A~60~N/A~
+1006/25 Edinburgh Avenue, City ACT 2601 ~$495,000~1~1~Apartment~6.0~1670~56~N/A~
+1504/2 Marcus Clarke Street, City ACT 2601 ~$498,000~2~1~Apartment~6.0~7981~72~$126,500~
+1408/240 Bunda Street, City ACT 2601 ~$529000~1~1~Apartment~6.0~4180~N/A~$192,100~
+G13/83 Cooyong Street, Reid ACT 2612 ~$519,000~1~1~Apartment~6.0~10600.0~75~$46,970~
+608/39 London Circuit, City ACT 2601 ~  $520,000~1~1~Apartment~6.0~820~72~N/A~
+713/240 Bunda Street, Canberra ACT 2601 ~$539,000~1~1~Apartment~6.0~N/A~73~N/A~
+611/25 Edinburgh Avenue, City ACT 2601 ~$549,000~1~1~Apartment~6.0~1670~59~N/A~
+410/16 Moore Street, City ACT 2601 ~  $560,000~2~2~Apartment~6.0~1487~N/A~$116,775~
+Level 10/1014/240 Bunda Street, City ACT 2601 ~$565,000~1~1~Unit / Apartment~6.0~N/A~60~N/A~
+708/74-76 Northbourne Avenue, Braddon ACT 2612 ~$569,000~2~2~Apartment~6.0~4171~82~$15,576~
+1112/240 Bunda Street, City ACT 2601 ~$584500~1~1~Unit / Apartment~6.0~74~N/A~$192,100~
+607/39 London Circuit, City ACT 2601 ~  $620,000~2~1~Apartment~6.0~5~77~N/A~
+The Griffin, Parkes - 44 Constitution Avenue, Parkes ACT 2600 ~$629,000~1~1~Other~5.3~N/A~N/A~N/A~
+8/45 West Row, City ACT 2601 ~$675000~2~2~Apartment~6.0~2462~78~N/A~
+103/39 London Circuit, City ACT 2601 ~$0~2~2~Apartment~6.0~820~N/A~N/A~
+145/264 City Walk, City ACT 2601 ~$699,000~2~2~Apartment~6.0~1664~N/A~$44,485~
+18/260 City Walk, City ACT 2601 ~$699,000~2~2~Apartment~6.0~1664~N/A~$44,485~
+628/45 Ainslie Avenue, Braddon ACT 2612 ~$748,888~2~2~Apartment~5.0~9706~N/A~$71,550~
+149/264 City Walk, City ACT 2601 ~$799,000~2~2~Apartment~6.0~1664~N/A~$44,485~
+710/240 Bunda Street, City ACT 2601 ~  $799,000~2~2~Apartment~6.0~4180~N/A~$192,100~
+156/15 Coranderrk Street, City ACT 2601 ~$824995~2~2~Apartment~5.0~10400.0~121~$96,000~
+13/70 Henty Street, Braddon ACT 2612 ~$1,199,000~3~2~Townhouse~6.0~2626~126~$145,920~

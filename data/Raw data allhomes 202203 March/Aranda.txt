@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+68 Banambila Street, Aranda ACT 2614 ~$1,600,000 ~4~2~House~0.5~N/A~N/A~$657,000~

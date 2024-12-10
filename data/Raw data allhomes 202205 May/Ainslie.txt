@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+22B Fairbridge Crescent, Ainslie ACT 2602 ~$920,000~2~1~House~5.0~N/A~100~N/A~
+6 Lalor Street, Ainslie ACT 2602 ~$1,375,000~3~1~House~0.5~604~120~$738,000~
+119 Hannan Street, Ainslie ACT 2602 ~$1,430,000~3~1~House~1.0~725~N/A~N/A~
+17 Piper Street, Ainslie ACT 2602 ~$1,560,000~4~1~House~3.0~556~135~$629,000~

@@ -1,0 +1,20 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+Debut - 1 BEDROOM APARTMENT, Wright ACT 2611 ~$319,900~1~1~Other~6.2~N/A~N/A~N/A~
+73/1 John Gorton Drive, Wright ACT 2611 ~$319,900~1~1~House~6.0~N/A~52~N/A~
+117/61 John Gorton Drive, Wright ACT 2611 ~Offers Over $350,000~1~1~Unit / Apartment~6.0~N/A~55~N/A~
+Debut - 2 BEDROOM APARTMENT, Wright ACT 2611 ~$489,900~2~1~Other~6.2~N/A~N/A~N/A~
+(no street name provided), Wright ACT 2611 ~$510,000~2~2~Apartment~6.0~N/A~18~$2,730,000~
+510/566 Cotter Road, Wright ACT 2611 ~$525,000~2~2~Apartment~5.5~2032~89~N/A~
+566 Cotter Road, Wright ACT 2611 ~$540,000~2~2~Apartment~5.5~N/A~98~$2,730,000~
+52/40 Philip Hodgins Street, Wright ACT 2611 ~Offers over $545,000~2~2~Apartment~6.0~N/A~N/A~N/A~
+566 Cotter Road, Wright ACT 2611 ~$545,000~2~2~Apartment~5.5~N/A~96~$2,730,000~
+(no street name provided), Wright ACT 2611 ~$565,000~5~1~House and Land Package~6.0~540~248~$455,000~
+566 Cotter Road, Wright ACT 2611 ~$665,000~3~3~Apartment~5.5~N/A~123~$2,730,000~
+Debut - 3 bed townhome with north-facing park views, Wright ACT 2611 ~$799,900~3~2~Other~7.2~N/A~N/A~N/A~
+Debut - 3 bed single garage with car space, Wright ACT 2611 ~$799,900~3~2~Townhouse~6.2~N/A~N/A~N/A~
+41/1 John Gorton Drive, Wright ACT 2611 ~$799,900~3~2~House~6.0~N/A~114~N/A~
+Debut - 3 bed double garage, Wright ACT 2611 ~$849,900~3~2~Townhouse~6.2~N/A~N/A~N/A~
+(no street name provided), Wright ACT 2611 ~$987500~4~2~House~6.5~206~184~N/A~
+Debut - 4 bed townhome with extra-large living areas, Wright ACT 2611 ~$999,900~4~2~Other~7.2~N/A~N/A~N/A~
+Debut - Best Value, best designed 4 bedroom townhome in Molongolo, Wright ACT 2611 ~$999,900~4~2~Other~7.7~N/A~N/A~N/A~
+Debut - 4 bed, 2.5 bath townhome with rumpus, Wright ACT 2611 ~$999,900~4~2~Other~7.2~N/A~N/A~N/A~

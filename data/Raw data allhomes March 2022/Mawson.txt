@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+13/6 Heard Street, Mawson ACT 2607 ~$340,000~2~1~Unit / Apartment~1.5~N/A~58~$6,500,000~
+1/93 Ainsworth Street, Mawson ACT 2607 ~$1,288,000~3~3~Townhouse~6.0~966~178~N/A~
+16 Bage Place, Mawson ACT 2607 ~$1,600,000~3~1~House~1.5~1239~N/A~$622,000~

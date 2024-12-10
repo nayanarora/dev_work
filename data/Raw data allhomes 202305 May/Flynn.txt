@@ -1,0 +1,3 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+52 Companion Crescent, Flynn ACT 2615 ~$825,000 ~4~2~House~3.0~1037~124~$505,000~
+6 Joyner Crescent, Flynn ACT 2615 ~$1,150,000~6~3~House~3.5~800~283~$505,000~

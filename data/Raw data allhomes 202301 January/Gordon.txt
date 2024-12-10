@@ -1,0 +1,12 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+9/48 Sid Barnes Crescent, Gordon ACT 2906 ~$649,000~3~1~Townhouse~2.5~426~140~N/A~
+10 Leahy Place, Gordon ACT 2906 ~$680,000~3~1~House~2.5~423~N/A~$380,000~
+8 Schofield Place, Gordon ACT 2906 ~Offers Over $699,000~3~1~House~2.5~410~117~$380,000~
+25 Fred Lane Crescent, Gordon ACT 2906 ~$859,000~4~2~House~4.0~723~138~$459,000~
+7 Darby Munro Close, Gordon ACT 2906 ~$970,000 to $1,050,000~4~2~House~1.0~728~212~$459,000~
+6 Akhurst Grove, Gordon ACT 2906 ~$995,000~4~1~House~3.0~902~183~$675,000~
+41 Callaway Crescent, Gordon ACT 2906 ~$1047500~4~1~House~2.0~873~N/A~$538,000~
+4 Churchill Way, Gordon ACT 2906 ~$1,070,000~4~2~House~3.0~1047~N/A~$592,000~
+32 Clem Hill Street, Gordon ACT 2906 ~$1,350,000~5~2~House~4.0~848~N/A~$509,000~
+9 Stan Ray Street, Gordon ACT 2906 ~$1,400,000~5~3~House~4.0~964~241~$685,000~
+39 Clem Hill Street, Gordon ACT 2906 ~$2,500,000~5~3~House~4.5~1549~450~$704,000~

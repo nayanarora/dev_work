@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+The Parks - 2 Bedroom Apartment, Red Hill ACT 2603 ~$770,900~2~2~Apartment~6.4~N/A~N/A~N/A~
+The Parks - 2 Bedroom Premium Apartment, Red Hill ACT 2603 ~$945,900~2~2~Apartment~6.1~N/A~N/A~N/A~
+The Parks - 3 Bedroom apartment with Lady Nelson Park View, Red Hill ACT 2603 ~$1,030,900~3~1~Apartment~6.5~N/A~N/A~N/A~
+The Parks - 3 Bedroom Apartment, Red Hill ACT 2603 ~$1,399,900~3~2~Apartment~7.3~N/A~N/A~N/A~
+Mugga Way, Red Hill ACT 2603 ~$4,500,000~5~5~House~2.0~N/A~N/A~$1,627,000~

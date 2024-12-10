@@ -1,0 +1,38 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+ZHURI TERRACES - 21 Maidenhair Road, Tralee NSW 2620 ~$599,500~2~1~House and Land Package~N/A~184~120~N/A~
+ZHURI TERRACES - 23 Madenhair Road, Tralee NSW 2620 ~$599,500~2~1~House and Land Package~N/A~184~120~N/A~
+20 Violet Terrace, South Jerrabomberra NSW 2620 ~$650,000~4~1~House~N/A~492~259~N/A~
+Lot 309 Section Am, Tralee NSW 2620 ~$790,000~3~2~House~N/A~N/A~N/A~N/A~
+56 Oxalis Crescent, Tralee NSW 2620 ~$790,000 to $820,000~3~2~House~N/A~302~N/A~N/A~
+28 Saltbush Parade, Tralee NSW 2620 ~$809000~3~2~House~N/A~325~147~N/A~
+23 Saltbush Parade, Tralee NSW 2620 ~$799,000~3~2~House~N/A~171~N/A~N/A~
+(no street name provided), South Jerrabomberra NSW 2620 ~$800,900~3~1~House and Land Package~N/A~348~161~N/A~
+VIVA - 26 Storksbill Terrace, South Jerrabomberra NSW 2620 ~$820,000~4~2~Townhouse~N/A~N/A~174~N/A~
+VIVA - Storksbill Terrace, South Jerrabomberra NSW 2620 ~$820,000~3~2~Townhouse~N/A~N/A~174~N/A~
+15 Saltbush Parade, Tralee NSW 2620 ~$825,000~3~2~House~N/A~247~149~N/A~
+8 Oxalis Crescent, Tralee NSW 2620 ~$913500~4~3~House and Land Package~N/A~330~250~N/A~
+South Jerrabomberra Homes by The Village Building Co - Lot 922, Tralee NSW 2620 ~$829,900~3~2~House and Land Package~N/A~N/A~164~N/A~
+South Jerrabomberra Homes by The Village Building Co - Lot 920, Tralee NSW 2620 ~$834,900~3~2~House and Land Package~N/A~N/A~N/A~N/A~
+(no street name provided), South Jerrabomberra NSW 2620 ~$849,000~4~1~House and Land Package~N/A~350~190~N/A~
+22 Saltbush Parade, Tralee NSW 2620 ~$850,000~4~2~House~N/A~180~230~N/A~
+(no street name provided), South Jerrabomberra NSW 2620 ~$855,000~4~1~House and Land Package~N/A~350~189~N/A~
+South Jerrabomberra Homes by The Village Building Co - Lot 918, Tralee NSW 2620 ~$864,900~4~2~House and Land Package~N/A~N/A~N/A~N/A~
+South Jerrabomberra Homes by The Village Building Co - Lot 914, Tralee NSW 2620 ~$869,900~4~2~House and Land Package~N/A~N/A~N/A~N/A~
+VIVA - 18 Storksbill Terrace, South Jerrabomberra NSW 2620 ~$875,000~4~2~Townhouse~N/A~N/A~182~N/A~
+(no street name provided), South Jerrabomberra NSW 2620 ~$889,000~4~1~House and Land Package~N/A~348~210~N/A~
+78 Oxalis Crescent, Tralee NSW 2620 ~$907000~4~2~House~N/A~448~126~N/A~
+VIVA - 32 Storksbill Terrace, South Jerrabomberra NSW 2620 ~$900,000~3~2~Townhouse~N/A~N/A~182~N/A~
+(no street name provided), South Jerrabomberra NSW 2620 ~$923350~4~1~House and Land Package~N/A~417~211~N/A~
+693 Oxalis Crescent, Tralee NSW 2620 ~From $ 951,668*~4~2~House~N/A~N/A~N/A~N/A~
+South Jerrabomberra Homes by The Village Building Co - Lot 929, Tralee NSW 2620 ~$952,900~5~2~House and Land Package~N/A~N/A~N/A~N/A~
+58 Alpine Ash Way, Tralee NSW 2620 ~$977500~4~2~House~N/A~477~209~N/A~
+60 Alpine Ash Way, Tralee NSW 2620 ~$995000~4~2~House~N/A~461~191~N/A~
+98 Oxalis Crescent, Tralee NSW 2620 ~$1015000~4~1~House~N/A~420~N/A~N/A~
+(no street name provided), South Jerrabomberra NSW 2620 ~$985,000~4~1~House and Land Package~N/A~350~207~N/A~
+28 Speargrass Road, Tralee NSW 2620 ~$998,000~4~2~House and Land Package~N/A~361~211~N/A~
+(no street name provided), South Jerrabomberra NSW 2620 ~$999,000~5~1~House and Land Package~N/A~616~216~N/A~
+25 Wiry Dock Road, Tralee NSW 2620 ~$1,029,000~4~1~House and Land Package~N/A~600~212~N/A~
+(no street name provided), South Jerrabomberra NSW 2620 ~$1,061,500~4~1~House and Land Package~N/A~630~221~N/A~
+15 Maidenhair Road, Tralee NSW 2620 ~$1,090,000~4~2~House~N/A~294~240~N/A~
+50 Speargrass Road, South Jerrabomberra NSW 2620 ~$1,180,000~4~1~House and Land Package~N/A~602~237~N/A~
+12 Alpine Ash Way, Tralee NSW 2620 ~$1,400,000~4~2~House~N/A~510~282~N/A~

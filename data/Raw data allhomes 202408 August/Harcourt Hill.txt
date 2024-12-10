@@ -1,0 +1,3 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+5 Fitzsimmons Street, Nicholls ACT 2913 ~$1,295,000~5~3~House~4.0~931~249~$673,000~
+68 Sue Geh Circuit, Nicholls ACT 2913 ~$1473000~4~2~House~4.0~802~289~$727,000~

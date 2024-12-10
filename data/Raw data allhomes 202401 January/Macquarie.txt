@@ -1,0 +1,8 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+21/21 Wiseman Street, Macquarie ACT 2614 ~$310000~1~1~Apartment~6.0~2286~N/A~$2,420,000~
+25/21 Wiseman Street, Macquarie ACT 2614 ~$320,000~1~1~Apartment~6.0~2286~N/A~$2,420,000~
+56/15 Bowman Street, Macquarie ACT 2614 ~$390,000 ~1~1~Apartment~6.0~3759~N/A~$5,250,000~
+61/20 Bindubi Street, Macquarie ACT 2614 ~$520,000 ~2~2~Apartment~6.0~3412~N/A~$2,772,000~
+6/15 Bowman Street, Macquarie ACT 2614 ~$645,000~2~2~Apartment~4.5~3759~N/A~$5,250,000~
+19 Elizabeth Crescent, Macquarie ACT 2614 ~$879,000~3~1~House~2.5~825~N/A~$728,000~
+62B Blackman Crescent, Macquarie ACT 2614 ~  $960,000~3~2~House~6.0~338~N/A~$456,000~

@@ -1,0 +1,18 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+(no street name provided), Whitlam ACT 2611 ~$400000~4~1~House~6.0~N/A~N/A~N/A~
+(no street name provided), Whitlam ACT 2611 ~$357,000~4~2~House~6.0~N/A~N/A~N/A~
+22 Keith Bain Crescent, Whitlam ACT 2611 ~$775000~3~2~House~5.0~150~165~N/A~
+(no street name provided), Whitlam ACT 2611 ~$778,000~N/A~N/A~House and Land Package~N/A~N/A~N/A~N/A~
+77 Keith Bain Crescent, Whitlam ACT 2611 ~$785,000~3~2~House~6.0~192~155~N/A~
+5 Duchesne Street, Whitlam ACT 2611 ~$795,000~4~2~House and Land Package~6.0~250~160~N/A~
+Sculthorpe Avenue, Whitlam ACT 2611 ~$900000~3~2~House~6.0~205~160~N/A~
+(no street name provided), Whitlam ACT 2611 ~$899,000~4~2~House and Land Package~6.0~322~180~N/A~
+241 Sculthorpe Avenue, Whitlam ACT 2611 ~$1112500~4~2~House~5.0~327~200~N/A~
+(no street name provided), Whitlam ACT 2611 ~$1125000~5~3~House and Land Package~6.0~396~245~N/A~
+(no street name provided), Whitlam ACT 2611 ~$1,125,000~4~1~House and Land Package~6.0~480~260~N/A~
+24 Churcher Crescent, Whitlam ACT 2611 ~$1,149,000~4~2~House and Land Package~6.0~540~251~N/A~
+13 Niland Street, Whitlam ACT 2611 ~$1,189,000~4~2~House~6.0~N/A~N/A~N/A~
+(no street name provided), Whitlam ACT 2611 ~$1,200,000~4~2~House and Land Package~6.0~N/A~N/A~N/A~
+(no street name provided), Whitlam ACT 2611 ~$1,265,000~4~1~House and Land Package~6.0~382~250~N/A~
+(no street name provided), Whitlam ACT 2611 ~$1,300,000~4~2~House~6.0~510~300~N/A~
+(no street name provided), Whitlam ACT 2611 ~$1,450,000~4~1~House and Land Package~6.0~460~260~N/A~

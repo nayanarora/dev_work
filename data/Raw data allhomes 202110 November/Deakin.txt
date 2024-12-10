@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+19/29-31 State Circle, Deakin ACT 2600 ~$600,000 ~1~1~Apartment~6.0~N/A~N/A~N/A~
+107/2 Grose Street, Deakin ACT 2600 ~$1,195,000~2~2~Apartment~6.0~N/A~N/A~N/A~
+10 Fergusson Crescent, Deakin ACT 2600 ~$1940000~4~2~House~4.0~N/A~N/A~$1,236,000~
+71 Kent Street, Deakin ACT 2600 ~$0~4~2~House~1.5~N/A~N/A~$750,000~
+11 Brassey Street, Deakin ACT 2600 ~$2,490,000~5~3~House~3.0~836~N/A~$1,050,000~

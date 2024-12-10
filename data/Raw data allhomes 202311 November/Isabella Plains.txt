@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+1/91 Keverstone Circuit, Isabella Plains ACT 2905 ~$659,000~3~1~Townhouse~2.0~444~N/A~N/A~
+9 Babinda Place, Isabella Plains ACT 2905 ~$750,000~3~1~House~3.5~797~122~$411,000~
+78 Hadleigh Circuit, Isabella Plains ACT 2905 ~$850,000~4~2~House~5.0~770~123~$492,000~
+6 Sassafras Place, Isabella Plains ACT 2905 ~$950,000~5~3~House~1.5~842~N/A~$512,000~

@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+65 MacFarland Crescent, Pearce ACT 2607 ~$1,399,000~3~2~House~N/A~802~115~$606,000~
+2/16 Leighton Street, Pearce ACT 2607 ~$1,425,000~4~2~House~6.0~N/A~165~$800,000~
+8 McLaren Crescent, Pearce ACT 2607 ~$1,840,000~4~2~House~3.5~1639~188~$836,000~

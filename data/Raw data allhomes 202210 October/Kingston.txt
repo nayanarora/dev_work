@@ -1,0 +1,35 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+13/77 Leichhardt Street, Kingston ACT 2604 ~$410,000 ~1~1~Apartment~6.0~1262~N/A~$7,980~
+UG15/17 The Causeway, Kingston ACT 2604 ~$489,000~1~1~Apartment~6.0~1799~N/A~$72,452~
+84/43 Eastlake Parade, Kingston ACT 2604 ~$495,000~1~1~Apartment~6.0~4938~50~$118,080~
+204/50 Eastlake Parade, Kingston ACT 2604 ~$499,000~1~1~Apartment~6.0~4388~66~$81,750~
+7/39 Eastlake Parade, Kingston ACT 2604 ~$510,000~1~1~Apartment~6.0~4938~52~$118,080~
+326/50 Eastlake Parade, Kingston ACT 2604 ~$520,000~1~1~Apartment~6.0~4388~N/A~$81,750~
+506/2 Kerridge Street, Kingston ACT 2604 ~$549,000~1~1~Unit / Apartment~6.0~59~N/A~$83,520~
+58/71 Giles Street, Kingston ACT 2604 ~$549,500~1~1~Unit / Apartment~6.0~2912~N/A~$61,200~
+6/12 Howitt Street, Kingston ACT 2604 ~$579,000~2~1~Apartment~6.0~3957~N/A~$150,000~
+28/47 Eyre Street, Kingston ACT 2604 ~$589,000~2~1~Apartment~4.5~875~76~N/A~
+102/29 Dawes Street, Kingston ACT 2604 ~$595,000~2~1~Apartment~6.0~2699~68~$58,400~
+174/15 Tench Street, Kingston ACT 2604 ~$624000~2~1~Apartment~6.0~N/A~N/A~N/A~
+11a/43-51 Giles Street, Kingston ACT 2604 ~$600,000~2~1~Apartment~3.0~854~N/A~N/A~
+42/29 Dawes Street, Kingston ACT 2604 ~$649,000~2~2~Apartment~6.0~2699~81~$58,400~
+11/3 Tench Street, Kingston ACT 2604 ~$649,000~1~1~Apartment~6.0~1560~N/A~$150,000~
+7/67 Giles Street, Kingston ACT 2604 ~$649,000~2~2~Apartment~6.0~2734~N/A~$226,980~
+10/10 Trevillian Quay, Kingston ACT 2604 ~$650,000~1~1~Apartment~6.0~6515~67~$155,610~
+319/50 Eastlake Parade, Kingston ACT 2604 ~$665,000~1~1~Apartment~6.0~4388~80~$81,750~
+112/11 Trevillian Quay, Kingston ACT 2604 ~$699,000~2~2~Unit / Apartment~6.0~5216~77~$180,000~
+19/5 Kerridge Street, Kingston ACT 2604 ~$738,888~2~2~Apartment~6.0~2413~76~$72,800~
+115/100 Giles Street, Kingston ACT 2604 ~$739,000~2~2~Apartment~5.0~10900.0~95~$159,140~
+6/29 Cunningham Street, Kingston ACT 2604 ~$785,000~2~2~Unit / Apartment~6.0~1022~103~$156,183~
+19/34 Gosse Street, Kingston ACT 2604 ~$840,000 Plus~3~2~Apartment~6.0~6088~104~$200,375~
+(no street name provided), Kingston ACT 2604 ~$865,000~2~2~Unit / Apartment~6.0~1022~117~$156,183~
+11/27 Cunningham Street, Kingston ACT 2604 ~$869,990~2~2~Apartment~6.0~2012~146~$154,125~
+1/58 Wentworth Avenue, Kingston ACT 2604 ~Offers Over $899,000~3~2~Apartment~4.5~2204~N/A~$193,500~
+104/55 The Causeway, Kingston ACT 2604 ~$899,000~2~2~Apartment~6.0~2715~122~$168,720~
+207/10 Parbery Street, Kingston ACT 2604 ~$929,000~3~2~Apartment~6.0~N/A~133~N/A~
+43/29 Dawes Street, Kingston ACT 2604 ~$985,000~3~2~Apartment~6.0~2699~N/A~$58,400~
+82W - 603/82 Wentworth Avenue, Kingston ACT 2604 ~$1,199,950~3~2~Other~6.0~2795~139~$586,000~
+82W - Ap121 - 3 bed 2 bath 2 car, with a 67m2 balcony, Kingston ACT 2604 ~$1,299,950~3~2~Other~6.0~2795~191~$586,000~
+13/36 Gosse Street, Kingston ACT 2604 ~$1,390,000~3~1~Townhouse~2.5~158~N/A~N/A~
+3/37 Printers Way, Kingston ACT 2604 ~$1,550,000 ~3~2~Unit / Apartment~6.0~3444~153~$218,400~
+101/45 Honeysett View, Kingston ACT 2604 ~$2,275,000~3~3~Apartment~6.0~N/A~172~$240,240~

@@ -1,0 +1,12 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+1/4 Jeff Snell Crescent, Dunlop ACT 2615 ~Offers Over $499,000 ~2~1~Townhouse~6.0~1554~73~$105,600~
+10 Kilburn Close, Dunlop ACT 2615 ~$680,000~3~1~House~4.5~389~97~$391,000~
+4 Thornhill Crescent, Dunlop ACT 2615 ~$759,000~3~1~House~3.5~379~N/A~$391,000~
+76 Archdall Street, Dunlop ACT 2615 ~$780,000~3~2~House~5.0~405~N/A~$391,000~
+29 Shoobridge Circuit, Dunlop ACT 2615 ~$799,000~3~2~House~4.5~605~N/A~$481,000~
+6 Kelpie Place, Dunlop ACT 2615 ~$799,900~3~2~House~6.0~600~N/A~$454,000~
+35 Quinlivan Crescent, Dunlop ACT 2615 ~$800,000~3~2~House~4.5~561~146~$410,000~
+43 Hanrahan Crescent, Dunlop ACT 2615 ~$860,000~4~2~House~5.5~462~211~$372,000~
+41 Gouldsmith Street, Dunlop ACT 2615 ~$915,000~4~2~House~4.0~490~223~$382,000~
+48 Branson Street, Dunlop ACT 2615 ~$979,000~5~2~House~6.0~535~N/A~$410,000~
+8 Ikara Close, Dunlop ACT 2615 ~$1,149,000~4~2~House~4.5~571~313~$456,000~

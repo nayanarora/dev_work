@@ -1,0 +1,83 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+4/2 McMichael Terrace, Denman Prospect ACT 2611 ~$425,000~1~1~Apartment~6.0~N/A~N/A~$6,675,000~
+41/5 Skuta Place, Denman Prospect ACT 2611 ~$429,000~1~1~Apartment~6.0~N/A~N/A~$3,200,000~
+Boulevard - Take a Walk Down the Boulevard, Denman Prospect ACT 2611 ~$429,900~1~1~Apartment~5.1~N/A~N/A~N/A~
+46/9 Felstead Vista, Denman Prospect ACT 2611 ~$440000~1~1~Unit / Apartment~6.0~N/A~N/A~$4,000,000~
+49/5 Skuta Place, Denman Prospect ACT 2611 ~$449,000~1~1~Unit / Apartment~6.0~N/A~N/A~$3,200,000~
+Solai - Open plan living, just 2 mins stroll to Denman Shops - Type J, Denman Prospect ACT 2611 ~$459,900~1~1~Apartment~7.6~N/A~N/A~N/A~
+Boulevard - Take a Walk Down the Boulevard, Denman Prospect ACT 2611 ~$459,900~1~1~Apartment~5.1~N/A~N/A~N/A~
+28/11 Felstead Vista, Denman Prospect ACT 2611 ~$499,000~1~1~Townhouse~6.0~6906~N/A~$4,000,000~
+Solai - Ground-floor courtyard apartment with open-plan living - Type J1, Denman Prospect ACT 2611 ~$499,900~1~1~Apartment~7.7~N/A~N/A~N/A~
+Solai - Clever living to suit your budget - Type H, Denman Prospect ACT 2611 ~$499,900~2~1~Apartment~8.5~N/A~N/A~N/A~
+44/14 Hoolihan Street, Denman Prospect ACT 2611 ~Offers Over $539,000~2~2~Unit / Apartment~6.0~N/A~N/A~$4,200,000~
+33/112 McMichael Terrace, Denman Prospect ACT 2611 ~$549,000~2~2~Apartment~6.0~N/A~N/A~$4,700,000~
+5/14 Hoolihan Street, Denman Prospect ACT 2611 ~$549,000~2~2~Apartment~6.0~N/A~N/A~$4,200,000~
+The Borough - J-G19 - Junction, Denman Prospect ACT 2611 ~$564,000~1~1~Apartment~7.0~N/A~N/A~N/A~
+The Borough - J-G24 Junction, Denman Prospect ACT 2611 ~$565,000~1~1~Apartment~7.0~N/A~N/A~N/A~
+Solai - Large elevated apartment with views towards Mount Stromlo - G, Denman Prospect ACT 2611 ~$569,900~2~2~Apartment~8.1~N/A~N/A~N/A~
+The Borough - J-120 - Junction, Denman Prospect ACT 2611 ~$573,000~1~1~Apartment~8.0~N/A~N/A~N/A~
+70/26 Marie Little Crescent, Denman Prospect ACT 2611 ~Offers Over $575,000~2~2~Apartment~6.0~N/A~N/A~$7,300,000~
+The Borough - B-G13 - Brixton, Denman Prospect ACT 2611 ~$575,000~1~1~Apartment~8.0~N/A~N/A~N/A~
+Solai - Functional floor plan with north-easterly aspect - Type F, Denman Prospect ACT 2611 ~$589,900~2~2~Apartment~8.6~N/A~N/A~N/A~
+Natura - 81/7 Summerfield Close, Denman Prospect ACT 2611 ~$599,000~2~2~Apartment~6.0~N/A~N/A~N/A~
+Natura - 78/7 Summerfield Close, Denman Prospect ACT 2611 ~$599,000~2~2~Apartment~6.0~N/A~N/A~N/A~
+Natura - 84/7 Summerfield Close, Denman Prospect ACT 2611 ~$609,000~2~2~Apartment~6.0~N/A~N/A~N/A~
+Boulevard - Take a Walk Down the Boulevard, Denman Prospect ACT 2611 ~$609,900~2~2~Apartment~5.1~N/A~N/A~N/A~
+Solai - Spacious courtyard apartment with premium views - Type F1, Denman Prospect ACT 2611 ~$609,900~2~2~Apartment~7.8~N/A~N/A~N/A~
+Natura - 93/7 Summerfield Close, Denman Prospect ACT 2611 ~$619,000~2~2~Apartment~6.0~N/A~N/A~N/A~
+Natura - 75/7 Summerfield Close, Denman Prospect ACT 2611 ~$649,000~2~2~Apartment~6.0~N/A~N/A~N/A~
+Solai - Corner home with high 3.2m ceilings to living + dining - Type E1, Denman Prospect ACT 2611 ~$679,900~2~2~Townhouse~7.3~N/A~N/A~N/A~
+The Borough - J-130 - Junction, Denman Prospect ACT 2611 ~$687,000~2~1~Apartment~8.0~N/A~N/A~N/A~
+Boulevard - Take a Walk Down the Boulevard, Denman Prospect ACT 2611 ~$689,900~2~2~Apartment~5.1~N/A~N/A~N/A~
+53/5 Skuta Place, Denman Prospect ACT 2611 ~$695,000~3~2~Unit / Apartment~6.0~N/A~N/A~$3,200,000~
+74/3 Martel Street, Denman Prospect ACT 2611 ~$699,000~2~2~Townhouse~6.0~106~N/A~N/A~
+Natura - 65/7 Summerfield Close, Denman Prospect ACT 2611 ~$719,000~2~2~Townhouse~6.0~N/A~N/A~N/A~
+Natura - 69/7 Summerfield Close, Denman Prospect ACT 2611 ~$729,000~2~2~Townhouse~6.0~N/A~N/A~N/A~
+Natura - 62/7 Summerfield Close, Denman Prospect ACT 2611 ~$729,000~2~2~Townhouse~6.0~N/A~N/A~N/A~
+Solai - Grand top-floor apartment - Last remaining of this popular plan, Denman Prospect ACT 2611 ~$739,900~3~2~Apartment~7.2~N/A~N/A~N/A~
+19/9 Felstead Vista, Denman Prospect ACT 2611 ~$761500~3~2~Townhouse~6.0~185~N/A~$4,000,000~
+77/14 Hoolihan Street Street, Denman Prospect ACT 2611 ~$755,000~3~3~Townhouse~6.0~N/A~N/A~N/A~
+The Borough - B-402 Brixton, Denman Prospect ACT 2611 ~$766,000~2~1~Apartment~6.0~N/A~N/A~N/A~
+5/42 Freebury Street, Denman Prospect ACT 2611 ~Offers over $770,000~3~2~Townhouse~6.0~96~N/A~N/A~
+42/2 Foulkes Street, Denman Prospect ACT 2611 ~$795000~3~2~Townhouse~6.0~97~N/A~N/A~
+1/56 McMichael Terrace, Denman Prospect ACT 2611 ~$825,000~3~2~Townhouse~6.0~9362~N/A~$6,300,000~
+The Borough - J-G16 - Junction, Denman Prospect ACT 2611 ~$837,000~3~2~Apartment~8.0~N/A~N/A~N/A~
+Hakea - 20 Fong Lim Way, Denman Prospect ACT 2611 ~$845,000~3~2~Townhouse~6.3~N/A~N/A~N/A~
+The Borough - B-LG07 - Brixton, Denman Prospect ACT 2611 ~$864,000~2~2~Apartment~8.0~N/A~N/A~N/A~
+Denman Prospect - 69 Stella Young Way, Denman Prospect, Denman Prospect ACT 2611 ~$895,000~N/A~N/A~Other~N/A~662~N/A~N/A~
+Solai - Luxury 3 bedroom townhome now free from stamp duty* - Type D, Denman Prospect ACT 2611 ~$959,900~3~2~Townhouse~7.1~N/A~N/A~N/A~
+Boulevard - Take a Walk Down the Boulevard, Denman Prospect ACT 2611 ~$989,900~3~3~Apartment~5.1~N/A~N/A~N/A~
+43 Trebilco Crescent, Denman Prospect ACT 2611 ~$1,049,000~4~3~House~7.0~200~N/A~N/A~
+18 Hartshorn Crescent, Denman Prospect ACT 2611 ~$1,090,000~4~3~House~7.0~187~226~N/A~
+Denman Terraces - 30 Seekamp Street, Denman Prospect ACT 2611 ~$1,090,000~4~2~Townhouse~N/A~N/A~N/A~N/A~
+Denman Terraces - 32 Seekamp Street, Denman Prospect ACT 2611 ~$1,090,000~4~2~Townhouse~N/A~N/A~N/A~N/A~
+Denman Terraces - 16 Seekamp Street, Denman Prospect ACT 2611 ~$1,090,000~4~2~Townhouse~N/A~N/A~N/A~N/A~
+Denman Terraces - 24 Seekamp Street, Denman Prospect ACT 2611 ~$1,090,000~4~2~Townhouse~N/A~N/A~N/A~N/A~
+Denman Terraces - 28 Seekamp Street, Denman Prospect ACT 2611 ~$1,090,000~4~2~Townhouse~N/A~N/A~N/A~N/A~
+Denman Terraces - 20 Seekamp Street, Denman Prospect ACT 2611 ~$1,090,000~4~2~Townhouse~N/A~N/A~N/A~N/A~
+Denman Terraces - 12 Seekamp Street, Denman Prospect ACT 2611 ~$1,090,000~4~2~Townhouse~N/A~N/A~N/A~N/A~
+Denman Terraces - 22 Seekamp Street, Denman Prospect ACT 2611 ~$1,090,000~4~2~Townhouse~N/A~N/A~N/A~N/A~
+Denman Terraces - 18 Seekamp Street, Denman Prospect ACT 2611 ~$1,090,000~4~2~Townhouse~N/A~N/A~N/A~N/A~
+14 Sphere Lane, Denman Prospect ACT 2611 ~$1,130,000~4~3~House~7.0~187~233~N/A~
+Denman Peninsula - 3 or 4 Beds - 192m Living, Denman Prospect ACT 2611 ~$1,279,000~3~2~Other~6.1~N/A~N/A~N/A~
+BORA Residences - 3/15 Romano Street, Denman Prospect ACT 2611 ~$1,299,000~4~3~Townhouse~7.1~N/A~N/A~N/A~
+BORA Residences - 6/15 Romano Street, Denman Prospect ACT 2611 ~$1,325,000~4~3~Townhouse~7.1~N/A~N/A~N/A~
+BORA Residences - 2/15 Romano Street, Denman Prospect ACT 2611 ~$1,350,000~4~3~Townhouse~7.1~N/A~N/A~N/A~
+BORA Residences - 5/15 Romano Street, Denman Prospect ACT 2611 ~$1,375,000~4~3~Townhouse~7.1~N/A~N/A~N/A~
+Denman Peninsula - 3 or 4 Beds - 200m Living, Denman Prospect ACT 2611 ~$1,399,000~3~2~Other~6.1~N/A~N/A~N/A~
+Karinya - Residence/1, Denman Prospect ACT 2611 ~$1,400,000~4~3~Other~6.0~N/A~N/A~N/A~
+Karinya - Premium Four Bedroom with Water Views, Denman Prospect ACT 2611 ~$1,425,000~4~3~Other~6.0~N/A~N/A~N/A~
+Karinya - Stunning Four Bedroom, Four Bathroom Townhouse, Denman Prospect ACT 2611 ~$1,450,000~4~4~Other~6.0~N/A~N/A~N/A~
+Karinya - Residence/2, Denman Prospect ACT 2611 ~$1,450,000~4~4~Other~6.0~N/A~N/A~N/A~
+44 Kondelea Way, Denman Prospect ACT 2611 ~$1,485,000 ~4~3~House~5.0~464~N/A~$645,000~
+Denman Peninsula - 4 Beds - 212m Living, Denman Prospect ACT 2611 ~$1,499,000~4~2~Other~6.1~N/A~N/A~N/A~
+Denman Peninsula - 3 or 4 Beds - 192m Living, Denman Prospect ACT 2611 ~$1,599,000~3~2~Other~6.1~N/A~N/A~N/A~
+50 Coaldrake Avenue, Denman Prospect ACT 2611 ~$1,599,000~4~2~House~6.0~617~240~$765,000~
+6 Dewhurst Terrace, Denman Prospect ACT 2611 ~$1,600,000~5~4~House~5.5~466~283~$645,000~
+3/1 Wishart Crescent, Denman Prospect ACT 2611 ~Price Guide: $1.65m~4~2~Townhouse~7.0~N/A~N/A~N/A~
+Denman Peninsula - 3 Beds - Parkland Views, Denman Prospect ACT 2611 ~$1,650,000~3~2~Other~6.1~N/A~N/A~N/A~
+28 Quong Tart Avenue, Denman Prospect ACT 2611 ~$1,655,000~4~3~House~6.0~423~312~$600,000~
+Denman Peninsula - Peninsula - 3 Beds + Studio/Rumpus - River Views, Denman Prospect ACT 2611 ~$1,899,000~3~3~Other~6.1~N/A~N/A~N/A~
+8 Ada Norris Avenue, Denman Prospect ACT 2611 ~$2,050,000~3~2~House~6.0~538~310~$720,000~
+14 Temple Terrace, Denman Prospect ACT 2611 ~$2,200,000~5~3~House~4.5~787~323~$840,000~
+8 Stella Young Way, Denman Prospect ACT 2611 ~$ 1,649,000~5~3~House~7.5~624~330~N/A~

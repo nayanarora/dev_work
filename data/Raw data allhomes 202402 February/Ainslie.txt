@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+54 Majura Avenue, Ainslie ACT 2602 ~$1,150,000~N/A~N/A~N/A~N/A~514~N/A~$778,000~
+7 Lalor Street, Ainslie ACT 2602 ~$1,300,000~N/A~N/A~N/A~N/A~561~N/A~$863,000~
+18 Canning Street, Ainslie ACT 2602 ~$2,100,000~N/A~N/A~N/A~N/A~900~295~$1,349,000~
+56 Tyson Street, Ainslie ACT 2602 ~$2,550,000~N/A~N/A~N/A~N/A~969~N/A~$1,200,000~

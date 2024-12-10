@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+11/27 Coxen Street, Hughes ACT 2605 ~Offers Above $220,000~1~1~Studio~2.5~15700.0~N/A~$143,550~
+54 Groom Street, Hughes ACT 2605 ~$1,200,000 to $1,300,000~4~2~House~1.0~801~N/A~$937,000~
+73A Birdwood Street, Hughes ACT 2605 ~$1,775,000~4~3~Duplex~6.0~445~202~N/A~

@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+7/51 Freda Bennett Circuit, Nicholls ACT 2913 ~  $540,000~2~1~Townhouse~5.0~N/A~74~N/A~
+9/77 Freda Bennett Circuit, Nicholls ACT 2913 ~$769,000~3~2~Townhouse~5.5~116~N/A~N/A~
+180 Temperley Street, Nicholls ACT 2913 ~$1850000~4~2~House~5.0~918~287~$551,000~

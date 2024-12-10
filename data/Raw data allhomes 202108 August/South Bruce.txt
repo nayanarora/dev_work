@@ -1,0 +1,15 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+The Brooke - 1 Bedroom, Bruce ACT 2617 ~$319,900~1~1~Apartment~6.0~N/A~N/A~$950,000~
+The Brooke - 105/39 Braybrooke Street, Bruce ACT 2617 ~$420,000~2~1~Apartment~6.9~N/A~N/A~$950,000~
+The Brooke - 2 Bedroom, Bruce ACT 2617 ~$435,000~2~1~Apartment~6.0~N/A~N/A~$950,000~
+The Brooke - 211/39 Braybrooke Street, Bruce ACT 2617 ~$460,000~2~2~Apartment~6.9~N/A~N/A~$950,000~
+IVES - Unit 2B-2, Bruce ACT 2617 ~$669,950~2~2~Townhouse~6.2~N/A~N/A~N/A~
+IVES - Unit 2B-3, Bruce ACT 2617 ~$689,950~2~2~Other~6.0~N/A~N/A~N/A~
+IVES - Unit 3B-1, Bruce ACT 2617 ~$775,950~3~3~Other~6.6~N/A~N/A~N/A~
+RISE - Three bedrooms townhouse 3A, Bruce ACT 2617 ~$787,447~3~1~Townhouse~6.8~N/A~200~N/A~
+RISE - Three bedrooms townhouse executive living, Bruce ACT 2617 ~$871,450~3~2~Townhouse~6.6~N/A~177~N/A~
+RISE - Three bedrooms townhouse 2C, Bruce ACT 2617 ~$897,750~3~2~Townhouse~6.8~N/A~190~N/A~
+IVES - Unit 4B-1, Bruce ACT 2617 ~$1,050,000~4~3~Townhouse~6.4~N/A~N/A~N/A~
+IVES - Unit 4B-3, Bruce ACT 2617 ~$1,080,000~4~3~Other~6.1~N/A~N/A~N/A~
+IVES - Unit 4B-2, Bruce ACT 2617 ~$1,080,000~4~3~Townhouse~6.1~N/A~N/A~N/A~
+RISE - Four bedrooms townhouse 4A (With private lift), Bruce ACT 2617 ~$1,125,000~4~2~Townhouse~6.1~N/A~251~N/A~

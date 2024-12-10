@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+94 Darwinia Terrace, Chapman ACT 2611 ~$990,000~3~2~House~1.0~930~139~$743,000~
+9 Lincoln Close, Chapman ACT 2611 ~$1,700,000~4~2~House~1.5~1538~198~$1,006,000~
+26 Bertel Crescent, Chapman ACT 2611 ~$2,850,000~4~3~House~3.0~1145~550~$851,000~

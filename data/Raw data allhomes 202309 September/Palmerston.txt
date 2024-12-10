@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+2 / 60 Mainwaring Rich Circuit, Palmerston ACT 2913 ~$750,000~3~1~Duplex~2.0~471~N/A~N/A~
+15 Lambell Close, Palmerston ACT 2913 ~$1,299,000~4~3~House~4.0~802~N/A~$598,000~
+31 Weddin Circuit, Palmerston ACT 2913 ~$1,400,000~5~3~House~2.5~698~394~$550,000~

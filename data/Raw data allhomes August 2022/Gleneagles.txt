@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+6 Clark Place, Kambah ACT 2902 ~$1,890,000~5~3~House~1.5~1089~316~$795,000~

@@ -1,0 +1,17 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+21/41 Leahy Close, Narrabundah ACT 2604 ~$299,000~1~1~Apartment~5.0~5009~N/A~$6,400,000~
+18/201 Goyder Street, Narrabundah ACT 2604 ~$534000~2~1~Apartment~5.0~10100.0~N/A~$10,800,000~
+3/27 Leahy Close, Narrabundah ACT 2604 ~$575,000~2~2~Apartment~6.0~4865~N/A~$5,400,000~
+28/34 Leahy Close, Narrabundah ACT 2604 ~$595,000~2~2~Apartment~6.0~12200.0~N/A~$12,400,000~
+54/34 Leahy Close, Narrabundah ACT 2604 ~$598,000~2~2~Apartment~6.0~12200.0~N/A~$12,400,000~
+28/41 Leahy Close, Narrabundah ACT 2604 ~$699,000~3~2~Townhouse~5.0~5009~N/A~$6,400,000~
+127/39 McIntyre Street, Narrabundah ACT 2604 ~$749,000~2~2~Apartment~6.0~13799.999999999998~N/A~$20,600,000~
+114/39 McIntyre Street, Narrabundah ACT 2604 ~$765,000~2~2~Unit / Apartment~6.0~13799.999999999998~N/A~$20,600,000~
+1/45 Leahy Close, Narrabundah ACT 2604 ~  $795,000~3~2~House~5.0~5349~123~$4,900,000~
+10/49 Leahy Close, Narrabundah ACT 2604 ~$799,000~3~2~Townhouse~2.0~2889~N/A~$4,700,000~
+17 Arinya Street, Narrabundah ACT 2604 ~$930,000~2~2~Duplex~1.5~584~N/A~$925,000~
+50 Anembo Street, Narrabundah ACT 2604 ~$990,000~2~1~House~4.5~465~121~$650,000~
+74 Tallara Parkway, Narrabundah ACT 2604 ~$1,150,000~4~1~House~3.0~852~N/A~$870,000~
+4B Lumeah Street, Narrabundah ACT 2604 ~$1,450,000~4~3~Townhouse~5.5~N/A~N/A~N/A~
+54 Tallara Parkway, Narrabundah ACT 2604 ~$1,650,000~4~2~House~4.0~799~N/A~$870,000~
+48 Finniss Crescent, Narrabundah ACT 2604 ~$2,850,000~4~3~House~6.0~600~301~$1,020,000~

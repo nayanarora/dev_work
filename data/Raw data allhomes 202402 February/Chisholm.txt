@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+3 Lahey Place, Chisholm ACT 2905 ~$690,000~N/A~N/A~N/A~N/A~473~N/A~$416,000~
+4 Mofflin Street, Chisholm ACT 2905 ~  $789,000~N/A~N/A~N/A~N/A~900~143~$479,000~
+1 Muscio Place, Chisholm ACT 2905 ~$789,950~N/A~N/A~N/A~N/A~1133~111~$530,000~
+9 Pidgeon Place, Chisholm ACT 2905 ~$950,000~N/A~N/A~N/A~N/A~1334~N/A~$460,000~
+30 Bainbridge Close, Chisholm ACT 2905 ~  $950,000~N/A~N/A~N/A~N/A~1141~167~$450,000~

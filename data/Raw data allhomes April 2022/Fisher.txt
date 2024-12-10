@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+227 Namatjira Drive, Fisher ACT 2611 ~ $1,350,000~6~2~House~1.5~955~222~$449,000~

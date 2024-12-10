@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+1 Broadby Close, Spence ACT 2615 ~$990,000~5~2~House~0.5~877~220~$544,000~

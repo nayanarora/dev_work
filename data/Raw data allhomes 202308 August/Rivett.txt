@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+22 Blancoa Place, Rivett ACT 2611 ~$649,000~3~1~House~3.0~317~107~$438,000~
+1 Cedrela Place, Rivett ACT 2611 ~$1,100,000~4~2~House~1.0~769~N/A~$575,000~
+11 Geebung Place, Rivett ACT 2611 ~$1,150,000~4~2~House~2.0~782~225~$634,000~

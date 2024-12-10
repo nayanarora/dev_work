@@ -1,0 +1,10 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+3 Heighway Street, MacGregor ACT 2615 ~$670,000~2~1~House~4.5~375~110~$378,000~
+17 Audrey Cahn Street, MacGregor ACT 2615 ~$699,000~3~1~House~6.0~298~126~$342,000~
+12 Sisely Street, MacGregor ACT 2615 ~$699,000~3~1~House~6.0~226~N/A~$375,000~
+27 Jean Macnamara Street, MacGregor ACT 2615 ~$750,000~3~1~House~5.5~300~N/A~$341,000~
+72 Wunderly Circuit, MacGregor ACT 2615 ~$799,000~3~1~House~6.0~361~N/A~$375,000~
+6 Isbister Street, MacGregor ACT 2615 ~$810,000~3~2~House~5.1~360~N/A~$356,000~
+234 MacFarlane Burnet Avenue, MacGregor ACT 2615 ~$810,000~3~2~House~5.5~359~N/A~$367,000~
+13 John James Loop, MacGregor ACT 2615 ~$975,000~4~2~House~5.0~668~N/A~$491,000~
+14 Archdall Street, MacGregor ACT 2615 ~$1,350,000~4~4~House~1.5~1090~351~$613,000~

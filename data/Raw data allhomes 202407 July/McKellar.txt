@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+3 Bancks Crescent, McKellar ACT 2617 ~$1,195,000~5~3~House~2.0~980~N/A~$605,000~

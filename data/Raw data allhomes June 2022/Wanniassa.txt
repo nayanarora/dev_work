@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+6/181 McBryde Crescent, Wanniassa ACT 2903 ~$430,000~2~1~Apartment~3.5~N/A~67~$7,020,000~
+9/41 Comrie Street, Wanniassa ACT 2903 ~$540,000~2~1~Townhouse~2.0~167~104~N/A~
+156 Wheeler Crescent, Wanniassa ACT 2903 ~$820,000~3~1~House~1.5~N/A~N/A~$412,000~
+20 Maltby Circuit, Wanniassa ACT 2903 ~$900,000~4~2~House~1.0~817~158~$378,000~

@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+2/18 Glenmaggie Street, Duffy ACT 2611 ~$375,000~2~1~Apartment~5.0~8004~N/A~$4,375,000~
+3/93 Burrinjuck Crescent, Duffy ACT 2611 ~$490,000~2~1~Apartment~6.0~1544~N/A~$1,920,000~
+51 Serpentine Street, Duffy ACT 2611 ~$750,000~3~1~House~4.5~683~95~$599,000~
+16 Eungella Street, Duffy ACT 2611 ~$880,000~4~1~House~N/A~663~N/A~$667,000~

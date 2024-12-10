@@ -1,0 +1,25 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+31/2 Hoffmann Street, Moncrieff ACT 2914 ~$525,000~2~1~Townhouse~6.0~6470~N/A~$4,186,000~
+25/363 Mirrabei Drive, Moncrieff ACT 2914 ~$529,000~2~1~Townhouse~6.0~12600.0~N/A~N/A~
+13/2 Hoffmann Street, Moncrieff ACT 2914 ~$599,000~2~1~Townhouse~5.0~6470~N/A~$4,186,000~
+36/75 Bellhouse Cres, Moncrieff ACT 2914 ~$599,000~2~2~Townhouse~6.0~99~N/A~N/A~
+14/1 Hoffmann Street, Moncrieff ACT 2914 ~$599,000~2~2~Townhouse~6.0~102~N/A~N/A~
+83 Limb Circuit, Moncrieff ACT 2914 ~$685,000~3~1~House~5.5~240~112~$353,000~
+13/6 Bon Scott Crescent, Moncrieff ACT 2914 ~$695,000~3~2~Townhouse~6.0~198~N/A~N/A~
+SALUS - 21, Moncrieff ACT 2914 ~$699,000~3~2~Townhouse~7.1~N/A~N/A~N/A~
+26 Ketterer Street, Moncrieff ACT 2914 ~$699,000~3~2~House~6.0~153~147~$265,000~
+41/351 Mirrabei Drive, Moncrieff ACT 2914 ~$719,000~4~2~Townhouse~6.0~6859~N/A~$4,680,000~
+SALUS - 2, Moncrieff ACT 2914 ~$719,000~3~2~Townhouse~6.1~N/A~N/A~N/A~
+81 Limb Circuit, Moncrieff ACT 2914 ~$735000~3~2~Townhouse~6.0~240~N/A~$353,000~
+6/101 O'Keefe Avenue, Moncrieff ACT 2914 ~$770,000~4~2~Townhouse~6.0~3352~N/A~$2,200,000~
+SALUS - 13, Moncrieff ACT 2914 ~$779,000~3~2~Townhouse~6.9~N/A~N/A~N/A~
+(no street name provided), Moncrieff ACT 2914 ~$850,000~3~2~House and Land Package~6.0~382~N/A~$547,000~
+SALUS - 35, Moncrieff ACT 2914 ~$919,000~4~2~Townhouse~7.8~N/A~N/A~N/A~
+27 Bandstand Street, Moncrieff ACT 2914 ~$1,030,000~4~2~House~6.0~486~212~$504,000~
+81 Slim Dusty Circuit, Moncrieff ACT 2914 ~$1,049,000~4~2~House~6.0~502~172~$513,000~
+59 Crackajack Way, Moncrieff ACT 2914 ~$1,140,000~4~2~House~6.0~499~257~$514,000~
+28 Gussey Street, Moncrieff ACT 2914 ~$1,150,000~5~2~House~6.0~543~189~$532,000~
+12 Gaston Way, Moncrieff ACT 2914 ~$1,169,000~4~2~House~6.0~578~N/A~$537,000~
+9 Dengate Crescent, Moncrieff ACT 2914 ~$1,199,000~4~3~House~5.0~455~271~$495,000~
+8 Helmrich Street, Moncrieff ACT 2914 ~$1,400,000~4~3~House~6.0~469~N/A~$498,000~
+90 O'Keefe Avenue, Moncrieff ACT 2914 ~$1,749,000~6~4~House~5.5~599~320~$544,000~

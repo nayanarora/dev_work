@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+17 Hyndes Crescent, Holder ACT 2611 ~$790,000~2~1~Townhouse~3.7~304~N/A~N/A~
+9/51 Blackwood Terrace, Holder ACT 2611 ~$799,000~3~2~Townhouse~6.0~1966~129~$215,673~
+108 Dixon Drive, Holder ACT 2611 ~$920,000~4~1~House~1.0~737~143~$608,000~

@@ -1,0 +1,33 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+42 Ilma Stone Way, Macnamara ACT 2615 ~$394,500~4~2~House~7.0~420~N/A~N/A~
+9A Yeomans Street, Strathnairn ACT 2615 ~Offers Over $569,000~2~1~Townhouse~6.0~116~N/A~N/A~
+The Lazenby - Townhouse 11, Strathnairn ACT 2615 ~$580,000~2~2~Townhouse~6.0~N/A~N/A~N/A~
+The Lazenby - Townhouse 3, Strathnairn ACT 2615 ~$735,000~3~1~Townhouse~6.0~N/A~N/A~N/A~
+11 Tranter Street, Strathnairn ACT 2615 ~$739,000~3~3~House~6.0~126~132~N/A~
+ASHTON - Unit 16, Strathnairn ACT 2615 ~$750,000~3~1~Townhouse~6.0~N/A~N/A~N/A~
+12/48 Speldewinde Street, Strathnairn ACT 2615 ~$750,000~3~2~Townhouse~6.0~136~N/A~N/A~
+ASHTON - Unit 8, Strathnairn ACT 2615 ~$765,000~3~1~Townhouse~6.0~N/A~N/A~N/A~
+The Lazenby - Townhouse 1, Strathnairn ACT 2615 ~$769,000~3~1~Townhouse~6.0~N/A~N/A~N/A~
+2/48 Speldewinde Street, Strathnairn ACT 2615 ~$775,000~3~2~Townhouse~6.0~196~N/A~N/A~
+The Lazenby - Townhouse 10, Strathnairn ACT 2615 ~$819,000~3~1~Townhouse~6.0~N/A~N/A~N/A~
+33 Speldewinde Street, Strathnairn ACT 2615 ~$849,000~4~1~House and Land Package~6.0~250~N/A~N/A~
+(no street name provided), Strathnairn ACT 2615 ~$855,000~3~2~House~N/A~325~162~N/A~
+(no street name provided), Strathnairn ACT 2615 ~$925,000~4~2~House~6.0~336~190~N/A~
+61 Jill Landsberg Terrace, Strathnairn ACT 2615 ~$925,000~4~2~House~6.0~336~190~N/A~
+(no street name provided), Strathnairn ACT 2615 ~$925,000~3~2~House and Land Package~6.0~335~N/A~N/A~
+34 Ilma Stone Way, Macnamara ACT 2615 ~$940,000~4~2~House~7.0~350~210~N/A~
+72 Pro Hart Avenue, Strathnairn ACT 2615 ~$945,000 ~4~2~House~5.0~466~181~N/A~
+22 Grace Munro Crescent, Strathnairn ACT 2615 ~$949,000~4~2~House~6.0~350~190~N/A~
+15 Chris Walton Way, Strathnairn ACT 2615 ~$949,000~4~2~House~6.0~423~N/A~N/A~
+7 Blue Folk Lane, Strathnairn ACT 2615 ~$950,000~4~2~House~6.0~412~210~N/A~
+Horizon Hill - Lot 47, Strathnairn ACT 2615 ~$960,000~4~2~House and Land Package~N/A~200~N/A~N/A~
+Block M Section Bj, Strathnairn ACT 2615 ~$990,000~N/A~N/A~House and Land Package~N/A~N/A~N/A~N/A~
+Horizon Hill - Lot 57, Strathnairn ACT 2615 ~$1,030,000~3~2~House~N/A~N/A~191~N/A~
+Horizon Hill - Lot 50, Strathnairn ACT 2615 ~$1,030,000~4~2~House and Land Package~N/A~249~N/A~N/A~
+Horizon Hill - Lot 52, Strathnairn ACT 2615 ~$1,030,000~4~2~House and Land Package~N/A~248~N/A~N/A~
+(no street name provided), Strathnairn ACT 2615 ~$1,050,000~4~2~House~6.0~465~194~N/A~
+(no street name provided), Macnamara ACT 2615 ~$1,075,000~4~2~House and Land Package~6.0~439~N/A~N/A~
+Horizon Hill - Lot 55, Strathnairn ACT 2615 ~$1,180,000~4~3~House and Land Package~N/A~N/A~N/A~N/A~
+(no street name provided), Macnamara ACT 2615 ~$1,199,000~4~1~House and Land Package~7.0~439~N/A~N/A~
+Horizon Hill - Lot 43, Strathnairn ACT 2615 ~$1,244,600~4~2~Other~N/A~N/A~N/A~N/A~
+Bonthrone Street, Strathnairn ACT 2615 ~$1,250,000~4~3~House~7.0~385~202~N/A~

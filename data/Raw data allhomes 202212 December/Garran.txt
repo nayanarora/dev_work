@@ -1,0 +1,8 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+23 Boothby Place, Garran ACT 2605 ~$950,000~4~2~Townhouse~3.0~284~120~N/A~
+8 Esson Place, Garran ACT 2605 ~$1,300,000 ~4~2~House~5.5~481~187~N/A~
+29B Tompson Street, Garran ACT 2605 ~$1,350,000~3~2~Townhouse~6.0~N/A~112~N/A~
+23 Palmer Street, Garran ACT 2605 ~$1,395,000~3~2~House~3.5~873~N/A~$771,000~
+27 Ingamells Street, Garran ACT 2605 ~$1,500,000~5~3~House~2.0~694~232~$1,212,000~
+3 Couvreur Street, Garran ACT 2605 ~Offers above $1,695,000~4~3~House~0.5~892~256~$1,125,000~
+27 Fitchett Street, Garran ACT 2605 ~$2,200,000~5~3~House~4.5~730~235~$793,000~

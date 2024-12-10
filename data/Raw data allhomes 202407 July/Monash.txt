@@ -1,0 +1,3 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+10/18 Kenyon Circuit, Monash ACT 2904 ~Offers Over $749,000~4~2~Townhouse~1.5~365~N/A~N/A~
+2/12 Kenyon Circuit - 'Kenyon Court', Monash ACT 2904 ~Offers above $799,000~3~2~Townhouse~2.5~311~N/A~N/A~

@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+3 Denny Street, Latham ACT 2615 ~$799,000~3~2~House~2.0~707~153~$440,000~
+30 Herron Crescent, Latham ACT 2615 ~$855000~4~1~House~3.5~448~192~$458,000~
+1 Meymott Place, Latham ACT 2615 ~$1,150,000~4~1~House~6.0~416~255~$458,000~

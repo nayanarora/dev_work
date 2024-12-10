@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+8 Warby Place, Charnwood ACT 2615 ~$595,000~3~1~House~2.0~537~110~$266,000~

@@ -1,0 +1,3 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+14 The Pines Avenue, Symonston ACT 2609 ~$195,000~2~1~Relocatable Home~N/A~N/A~N/A~N/A~
+30/250 Canberra Avenue, Symonston ACT 2609 ~Offers Over $380,000~2~1~Villa~5.0~N/A~88~N/A~

@@ -1,0 +1,28 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+20/75 Elizabeth Jolley Crescent, Franklin ACT 2913 ~$359,000~1~1~Apartment~6.0~N/A~N/A~$2,650,000~
+52/303 Flemington Road, Franklin ACT 2913 ~$360,000~1~1~Apartment~6.0~N/A~N/A~$6,480,000~
+41/311 Flemington Road, Franklin ACT 2913 ~$369,000~1~1~Apartment~6.0~N/A~N/A~$7,800,000~
+26/75 Elizabeth Jolley Crescent, Franklin ACT 2913 ~$385000~1~1~Apartment~6.0~N/A~N/A~$2,650,000~
+100/311 Flemington Road, Franklin ACT 2913 ~$379,000~1~1~House~6.0~12000.0~N/A~$7,800,000~
+95/227 Flemington Road, Franklin ACT 2913 ~$379,000~1~1~Apartment~6.0~N/A~N/A~$5,313,000~
+103/241 Flemington Road, Franklin ACT 2913 ~$380,000~1~1~Apartment~6.0~N/A~N/A~N/A~
+27/75 Elizabeth Jolley Crescent, Franklin ACT 2913 ~$389,000~1~1~Unit / Apartment~6.0~N/A~N/A~$2,650,000~
+43/41 Clare Burton Crescent, Franklin ACT 2913 ~$390,000~1~1~Apartment~5.0~N/A~N/A~$4,375,000~
+42/235 Flemington Road, Franklin ACT 2913 ~Offers Over $425,000~1~1~Unit / Apartment~6.0~N/A~N/A~$4,500,000~
+58/311 Flemington Road, Franklin ACT 2913 ~$434,000~2~1~Apartment~6.0~N/A~N/A~$7,800,000~
+41 Clare Burton Crescent, Franklin ACT 2913 ~$465,000~2~2~Apartment~6.0~N/A~N/A~$4,375,000~
+92/75 Elizabeth Jolley Crescent, Franklin ACT 2913 ~$467,000~2~2~Apartment~4.5~N/A~N/A~$2,650,000~
+25/311 Flemington Road, Franklin ACT 2913 ~$499,000~2~2~Apartment~6.0~N/A~N/A~$7,800,000~
+92/104 Henry Kendall Street, Franklin ACT 2913 ~$540,000~2~2~Apartment~6.0~N/A~N/A~$6,480,000~
+57/235 Flemington Road, Franklin ACT 2913 ~$549,999~3~2~Apartment~6.0~N/A~N/A~$4,500,000~
+23/233 Flemington Road, Franklin ACT 2913 ~$559,000~2~2~Townhouse~5.5~7611~N/A~$4,500,000~
+16/96 Henry Kendall Street, Franklin ACT 2913 ~Offers over $569,000~2~2~Townhouse~6.0~9621~N/A~$5,875,000~
+25/1 Christina Stead Street, Franklin ACT 2913 ~$575,000~3~2~Townhouse~4.5~7611~N/A~$4,500,000~
+87/235 Flemington Road, Franklin ACT 2913 ~$599,000 ~3~2~Townhouse~6.0~7611~N/A~$4,500,000~
+12/3 Trist Street, Franklin ACT 2913 ~$620,000 to $650,000~2~2~Townhouse~6.0~N/A~N/A~N/A~
+3/2 Pape Street, Franklin ACT 2913 ~$0~3~2~Townhouse~6.0~9621~N/A~$5,875,000~
+36/8 Henry Kendall Street, Franklin ACT 2913 ~$710,000~3~2~Townhouse~5.0~99~N/A~N/A~
+88 Oodgeroo Avenue, Franklin ACT 2913 ~$735,000~3~1~House~6.0~282~123~$482,000~
+76 Oodgeroo Avenue, Franklin ACT 2913 ~$749,000~3~1~House~6.0~229~124~N/A~
+45 Donald Horne Circuit, Franklin ACT 2913 ~$759,000~3~1~House~6.0~240~N/A~$319,000~
+30 Kylie Tennant Street, Franklin ACT 2913 ~$1,379,000~6~3~House~5.5~538~N/A~$636,000~

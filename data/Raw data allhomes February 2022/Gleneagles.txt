@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+25 Apperly Close, Kambah ACT 2902 ~$1,725,000~4~3~House~3.0~1379~306~$613,000~

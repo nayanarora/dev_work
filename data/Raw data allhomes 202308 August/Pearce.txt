@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+56 Pethebridge Street, Pearce ACT 2607 ~$1,100,000~6~1~House~1.0~916~N/A~$760,000~
+116 Hodgson Crescent, Pearce ACT 2607 ~$1,149,000~3~1~House~2.5~1141~140~$900,000~
+24 Beasley Street, Pearce ACT 2607 ~  $1,195,000~4~2~House~0.5~936~209~$702,000~

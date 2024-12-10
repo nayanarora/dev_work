@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+306/2 Grose Street, Deakin ACT 2600 ~$1,149,000~2~2~Apartment~4.0~8789~127~$128,380~
+22 Hopetoun Circuit, Deakin ACT 2600 ~$1624000~5~2~House~2.5~648~N/A~$1,070,000~
+71 Kent Street, Deakin ACT 2600 ~$0~4~2~House~1.5~831~N/A~$1,200,000~
+39 Norman Street, Deakin ACT 2600 ~$2,599,000~5~2~House~3.5~814~N/A~$1,270,000~

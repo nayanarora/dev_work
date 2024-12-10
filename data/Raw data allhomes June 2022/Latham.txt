@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+3 O'Loghlen Street, Latham ACT 2615 ~Offers over $775,000~3~1~House~1.0~890~110~$327,000~
+4 Shand Place, Latham ACT 2615 ~$785,000~3~1~House~N/A~756~N/A~$332,000~
+19 Chubb Street, Latham ACT 2615 ~$840,000~3~1~House~1.5~801~103~$369,000~

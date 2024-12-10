@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+103/68 Hardwick Crescent, Holt ACT 2615 ~  $320,000~1~1~Apartment~6.0~10200.0~N/A~$3,690,000~
+5 McIlwraith Close, Holt ACT 2615 ~$725000~3~1~House~4.0~339~95~$368,000~
+5 De Mestre Place, Holt ACT 2615 ~Welcome  $730,000~3~1~House~4.0~488~152~$335,000~
+22/47 Lorraway Street, Holt ACT 2615 ~$739,000~3~2~Townhouse~6.0~219~N/A~N/A~
+3/11 Chester Close, Holt ACT 2615 ~$850,000 ~4~2~Townhouse~5.0~250~N/A~N/A~

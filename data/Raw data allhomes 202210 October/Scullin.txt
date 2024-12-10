@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+6/7 Keith Street, Scullin ACT 2614 ~$275,000~1~1~Unit / Apartment~2.0~1878~N/A~$133,900~
+8A/2 Keith St, Scullin ACT 2614 ~Offers over $299,000~2~1~Unit / Apartment~0.5~4413~N/A~$108,000~
+33 Follett Street, Scullin ACT 2614 ~$800,000~3~1~House~1.0~899~N/A~$509,000~
+144 Belconnen Way, Scullin ACT 2614 ~$845,000~3~2~House~1.0~1111~119~$464,000~

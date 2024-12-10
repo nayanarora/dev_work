@@ -1,0 +1,3 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+90 Dumas Street, McKellar ACT 2617 ~$975,000~4~2~House~2.5~711~150~$617,000~
+44 Hetherington Circuit, McKellar ACT 2617 ~$1,300,000~5~2~House~2.5~702~N/A~$589,000~

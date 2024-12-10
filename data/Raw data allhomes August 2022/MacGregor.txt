@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+14/18 Constance Stone Street, MacGregor ACT 2615 ~$660,000~3~1~Townhouse~6.0~N/A~100~N/A~
+5 Thomas Place, MacGregor ACT 2615 ~$780,000~3~1~House~2.0~836~98~$405,000~
+15 Cumpston Place, MacGregor ACT 2615 ~$1,100,000~4~2~House~0.5~1049~N/A~$449,000~

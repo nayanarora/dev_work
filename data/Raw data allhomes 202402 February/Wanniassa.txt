@@ -1,0 +1,7 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+3 Greeves Street, Wanniassa ACT 2903 ~$650,000~N/A~N/A~N/A~N/A~891~N/A~$526,000~
+19 Harwood Court, Wanniassa ACT 2903 ~  $780,000~N/A~N/A~N/A~N/A~565~N/A~$419,000~
+10 Annand Place, Wanniassa ACT 2903 ~$810,000~N/A~N/A~N/A~N/A~702~N/A~$470,000~
+19 Michie Street, Wanniassa ACT 2903 ~$839,000~N/A~N/A~N/A~N/A~697~222~$434,000~
+43 Degraves Crescent, Wanniassa ACT 2903 ~$949,000~N/A~N/A~N/A~N/A~961~180~$521,000~
+83 Sternberg Crescent, Wanniassa ACT 2903 ~$1,100,000 ~N/A~N/A~N/A~N/A~712~N/A~$496,000~

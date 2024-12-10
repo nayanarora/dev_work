@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+130 Pennefather Street, Higgins ACT 2615 ~$790,000~4~2~House~3.0~760~133~$575,000~
+33 Findlay Street, Higgins ACT 2615 ~$799,000~3~1~House~1.0~755~93~$550,000~
+48 Castieau Street, Higgins ACT 2615 ~$838,000~3~1~House~1.0~704~N/A~$509,000~
+20 Fullagar Crescent, Higgins ACT 2615 ~$849,000~3~1~House~2.0~921~109~$550,000~

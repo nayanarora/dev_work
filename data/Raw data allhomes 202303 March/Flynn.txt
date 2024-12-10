@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+3 Seddon Place, Flynn ACT 2615 ~$699,000 ~3~2~House~N/A~737~118~$526,000~
+90 Tillyard Drive, Flynn ACT 2615 ~$830,000~4~1~House~1.0~784~N/A~$526,000~
+12 Rossell Place, Flynn ACT 2615 ~$870,000~4~2~House~0.5~960~N/A~$476,000~
+6 Joyner Crescent, Flynn ACT 2615 ~$1,150,000~6~3~House~3.5~800~283~$505,000~
+8 Inlander Crescent, Flynn ACT 2615 ~$1,400,000~4~2~House~5.5~810~265~$570,000~

@@ -1,0 +1,11 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+179/41 Philip Hodgins Street, Wright ACT 2611 ~$410,000~1~1~Unit / Apartment~6.0~17900.0~62~$40,320~
+133/41 Philip Hodgins Street, Wright ACT 2611 ~$440,000~2~2~Apartment~6.0~17900.0~N/A~$40,320~
+91/2 Peter Cullen Way, Wright ACT 2611 ~Offers Over $530,000~2~2~Unit / Apartment~6.0~17600.0~78~$62,832~
+98/51 Catalano Street, Wright ACT 2611 ~$535,000~2~2~Apartment~6.0~21200.0~N/A~$32,300~
+35/40 Philip Hodgins Street, Wright ACT 2611 ~$550,000~2~1~Apartment~6.0~21200.0~N/A~$32,300~
+213/24 Philip Hodgins Street, Wright ACT 2611 ~$565,000~2~2~Unit / Apartment~6.0~21200.0~N/A~$32,300~
+2 Max Jacobs Avenue, Wright ACT 2611 ~$625,000 plus~2~2~Townhouse~6.0~1551~106~$130,800~
+231 John Gorton Drive, Wright ACT 2611 ~$899,000~4~3~Townhouse~6.0~3167~N/A~$117,120~
+(no street name provided), Wright ACT 2611 ~$1037500~4~2~House~6.5~206~184~N/A~
+(no street name provided), Wright ACT 2611 ~$1375000~4~3~House and Land Package~6.0~580~300~$632,000~

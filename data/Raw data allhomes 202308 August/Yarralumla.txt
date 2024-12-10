@@ -1,0 +1,10 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+12/43 Hampton Circuit, Yarralumla ACT 2600 ~$799,000~2~2~Apartment~6.0~1936~N/A~$3,300,000~
+11/43 Hampton Circuit, Yarralumla ACT 2600 ~$825,000~2~2~Apartment~6.0~1936~N/A~$3,300,000~
+21/3 Lane Poole Place, Yarralumla ACT 2600 ~$920,000~2~1~House~2.5~139~84~N/A~
+2/49 Hampton Circuit, Yarralumla ACT 2600 ~$1,100,000~2~2~Townhouse~5.0~1607~N/A~$3,000,000~
+10/49 Hampton Circuit, Yarralumla ACT 2600 ~$1,665,000~3~3~Apartment~6.0~1607~N/A~$3,000,000~
+22 Rodway Street, Yarralumla ACT 2600 ~$1,888,000~3~2~House~N/A~780~N/A~$1,681,000~
+7 Musgrave Street, Yarralumla ACT 2600 ~$2,500,000~4~2~House~4.0~907~N/A~$1,696,000~
+12 Hill Corner, Yarralumla ACT 2600 ~$3,700,000~4~3~House~3.0~1033~N/A~$2,045,000~
+36 Bentham Street, Yarralumla ACT 2600 ~  $4,000,000~5~2~House~6.0~755~401~$1,819,000~

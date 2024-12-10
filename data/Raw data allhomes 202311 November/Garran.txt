@@ -1,0 +1,8 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+1/2 Eldridge Crescent, Garran ACT 2605 ~$635000~2~2~Apartment~4.0~10800.0~N/A~$8,225,000~
+24/15 Eldridge Crescent, Garran ACT 2605 ~  $650,000~2~2~Apartment~6.0~8393~N/A~$7,500,000~
+33/17 Eldridge Crescent, Garran ACT 2605 ~$790,000~3~2~Unit / Apartment~6.0~8393~N/A~$7,500,000~
+4/2 Eldridge Crescent, Garran ACT 2605 ~$790,000~3~2~Apartment~6.0~10800.0~N/A~$8,225,000~
+5 Rusden Street, Garran ACT 2605 ~$1,599,000 ~5~3~House~5.0~957~220~$1,112,000~
+19A Brereton Street, Garran ACT 2605 ~$1,699,000~4~2~House~5.0~498~209~N/A~
+112 Kitchener Street, Garran ACT 2605 ~$3,200,000~5~4~House~5.0~774~N/A~$782,000~

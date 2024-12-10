@@ -1,0 +1,23 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+22/47 McMillan Crescent, Griffith ACT 2603 ~Offers Over $245,000~1~1~Unit / Apartment~1.0~N/A~40~N/A~
+47 McMillan Crescent, Griffith ACT 2603 ~$300,000~2~1~Apartment~2.0~N/A~N/A~$2,934,000~
+47 McMillan Crescent, Griffith ACT 2603 ~$330,000~1~1~Apartment~1.0~N/A~40~$2,934,000~
+47 McMillan Crescent, Griffith ACT 2603 ~$330,000~1~1~Apartment~1.0~N/A~40~$2,934,000~
+90/10 Eyre Street, Griffith ACT 2603 ~$395,000~1~1~Apartment~N/A~N/A~74~N/A~
+29/9 Dawes Street, Griffith ACT 2603 ~$499,000~2~1~Apartment~5.0~N/A~N/A~N/A~
+104/18 Austin Street, Griffith ACT 2603 ~$550,000~1~1~Apartment~6.0~N/A~N/A~N/A~
+Illume - Unit 6 | 1 Bedroom + Study Apartment, Griffith ACT 2603 ~$580,900~1~1~Apartment~6.0~N/A~79~N/A~
+115/18 Austin Street, Griffith ACT 2603 ~$590,000~1~1~Unit / Apartment~6.0~N/A~93~N/A~
+Illume - Unit 17 | 1 Bedroom + Multipurpose Room Apartment, Griffith ACT 2603 ~$590,900~1~N/A~Apartment~6.0~N/A~79~N/A~
+112/10 Currie Crescent, Griffith ACT 2603 ~$599,000~2~1~Unit / Apartment~5.0~59~N/A~N/A~
+Illume - Unit 28 | 1 Bedroom Apartment, Griffith ACT 2603 ~$599,900~1~1~Apartment~6.0~N/A~79~N/A~
+Illume - Unit 58 | 1 Bedroom Apartment, Griffith ACT 2603 ~$635,900~1~1~Apartment~6.0~N/A~79~N/A~
+312/107 Canberra Ave, Griffith ACT 2603 ~Offers Over $649,000~2~2~Apartment~6.0~N/A~N/A~N/A~
+Illume - Unit 20 | 2 Bedroom Apartment, Griffith ACT 2603 ~$815,900~2~1~Apartment~6.0~N/A~102~N/A~
+Illume - Unit 7 | Ground Floor 2 Bedroom Apartment, Griffith ACT 2603 ~$864,900~2~1~Apartment~6.0~N/A~N/A~N/A~
+8/6 Cunningham Street, Griffith ACT 2603 ~Offers Over $880,000~3~2~Apartment~6.0~N/A~N/A~N/A~
+Illume - Unit 18 | 2 Bedroom Apartment, Griffith ACT 2603 ~$884,900~2~1~Apartment~6.0~N/A~108~N/A~
+Illume - Unit 29 | 2 Bedroom Apartment, Griffith ACT 2603 ~$914,900~2~1~Apartment~6.0~N/A~108~N/A~
+Renaissance - Apartment 22- 3 Bedroom | 2 car garage, Griffith ACT 2603 ~$1,299,900~3~1~Apartment~6.4~N/A~129~N/A~
+LIFE - Residence 6, Griffith ACT 2603 ~$1,689,000~3~3~Other~6.4~N/A~N/A~$2,200,000~
+19 Austin Street, Griffith ACT 2603 ~$2,195,000~4~1~House~4.0~600~273~$1,161,000~

@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+29 Willoughby Crescent, Gilmore ACT 2905 ~$1,250,000~4~3~House~2.5~881~187~$397,000~

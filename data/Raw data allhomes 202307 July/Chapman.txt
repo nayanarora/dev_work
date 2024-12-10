@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+156 Namatjira Drive, Chapman ACT 2611 ~$1,125,000~6~2~House~1.0~825~N/A~$693,000~
+26 Bertel Crescent, Chapman ACT 2611 ~$2,850,000~4~3~House~3.0~1145~550~$851,000~
+63 Doyle Terrace, Chapman ACT 2611 ~$2,850,000~5~4~House~5.0~1389~N/A~$913,000~

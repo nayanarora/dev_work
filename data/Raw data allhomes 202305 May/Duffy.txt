@@ -1,0 +1,8 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+1/26 Eungella Street, Duffy ACT 2611 ~$795,000~3~1~Townhouse~4.5~290~N/A~N/A~
+20 Burdekin Street, Duffy ACT 2611 ~$799,000~3~1~House~1.0~844~N/A~$674,000~
+86 Somerset Street, Duffy ACT 2611 ~$845,000~3~1~House~0.5~842~N/A~$664,000~
+52 Jemalong Street, Duffy ACT 2611 ~$990,000~3~2~House~1.0~814~N/A~$713,000~
+8 Rocklands Street, Duffy ACT 2611 ~$990,000~4~2~House~N/A~694~N/A~$669,000~
+1/5 Mokoan Place, Duffy ACT 2611 ~$1,265,000~4~2~Townhouse~7.0~416~209~N/A~
+3 Cargelligo Street, Duffy ACT 2611 ~$1,400,000~4~2~House~4.5~704~175~$699,000~

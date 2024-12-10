@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+217 Hindmarsh Drive, Rivett ACT 2611 ~$765,000~3~1~House~0.5~815~109~$615,000~
+23 Marlock Street, Rivett ACT 2611 ~$900,000 ~3~1~House~4.0~672~120~$648,000~
+43 Pavonia Street, Rivett ACT 2611 ~$915,000 ~3~1~House~2.0~873~N/A~$611,000~
+3 Wirilda Street, Rivett ACT 2611 ~$935,000~3~1~House~1.0~N/A~N/A~N/A~
+331 Hindmarsh Drive, Rivett ACT 2611 ~Offers over $975,000~4~2~House~2.5~952~N/A~$668,000~

@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+2/16 Leighton Street, Pearce ACT 2607 ~$1,425,000~4~2~House~6.0~N/A~165~N/A~

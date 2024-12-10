@@ -1,0 +1,3 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+16 Steele Street, Hackett ACT 2602 ~$1,650,000~4~3~House~2.0~712~N/A~$825,000~
+12 Verco Street, Hackett ACT 2602 ~$2,750,000~5~3~House~3.5~1221~360~$1,131,000~

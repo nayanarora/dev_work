@@ -1,0 +1,7 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+37 Riordan Street, Fadden ACT 2904 ~  $939,000~4~2~House~3.5~722~157~$589,000~
+15 Richter Close, Fadden ACT 2904 ~$1,095,000~4~2~House~2.0~864~218~$674,000~
+57 Mullan Street, Fadden ACT 2904 ~$1,100,000~5~3~House~3.0~722~217~$686,000~
+12 Ogden Close, Fadden ACT 2904 ~$1,100,000 ~5~2~House~3.5~825~179~$520,000~
+6 Bouchard Place, Fadden ACT 2904 ~$1,165,000~4~2~House~2.0~718~177~$524,000~
+37 Richter Close, Fadden ACT 2904 ~$1,349,000~5~3~House~3.0~848~285~$713,000~

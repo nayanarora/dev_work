@@ -1,0 +1,8 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+9 Moloney Close, Calwell ACT 2905 ~$519,000~3~2~House~2.0~387~108~$401,000~
+33/36 Fink Crescent, Calwell ACT 2905 ~$598,000~3~1~Townhouse~1.5~284~126~N/A~
+5 Benson Crescent, Calwell ACT 2905 ~$730,000~3~1~House~3.0~722~N/A~$397,000~
+11 Martley Circuit, Calwell ACT 2905 ~$740,000~3~1~House~0.5~771~117~$396,000~
+22/92 Casey Crescent, Calwell ACT 2905 ~$780,000~3~2~Townhouse~5.0~218~128~N/A~
+76 Outtrim Avenue, Calwell ACT 2905 ~$799,000~4~2~House~3.0~815~181~$444,000~
+31 Martley Circuit, Calwell ACT 2905 ~$1,050,000~5~2~House~1.0~903~244~$527,000~

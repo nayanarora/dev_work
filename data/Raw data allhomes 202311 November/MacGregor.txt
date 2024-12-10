@@ -1,0 +1,12 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+11 Hilda Kincaid Crescent, MacGregor ACT 2615 ~$679,000~3~1~House~5.5~249~90~$384,000~
+14 Stang Place, MacGregor ACT 2615 ~$680,000~3~1~House~6.0~230~92~$291,000~
+56 Refshauge Crescent, MacGregor ACT 2615 ~$699,000~3~1~House~6.0~226~113~$291,000~
+18 Bryan Hudson Street, MacGregor ACT 2615 ~$720,000~3~1~House~6.0~329~N/A~$364,000~
+78 Hollows Circuit, MacGregor ACT 2615 ~$750,000~3~1~House~5.0~350~105~$361,000~
+16 Herring Place, MacGregor ACT 2615 ~$769,000~3~2~House~5.0~363~120~$376,000~
+52 John Holt Street, MacGregor ACT 2615 ~$779,000~3~1~House~6.0~374~151~$376,000~
+7 Stang Place, MacGregor ACT 2615 ~$790,000~3~2~House~5.0~391~186~$384,000~
+6 Bennie Street, MacGregor ACT 2615 ~$795,000~3~2~House~2.5~737~N/A~$325,000~
+7 Constance Stone Street, MacGregor ACT 2615 ~$825,000~3~2~House~5.5~462~160~$416,000~
+133 Eccles Circuit, MacGregor ACT 2615 ~$1,075,000~4~2~House~5.0~676~N/A~$518,000~

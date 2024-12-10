@@ -1,0 +1,10 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+20 Wedgwood Close, Chisholm ACT 2905 ~$799000~3~1~House~1.0~661~N/A~$460,000~
+1/31 McLorinan Street, Chisholm ACT 2905 ~$799,000~4~2~Townhouse~2.5~418~N/A~N/A~
+1 Muscio Place, Chisholm ACT 2905 ~$800,000~3~1~House~2.0~1133~111~$530,000~
+7 Wedgwood Close, Chisholm ACT 2905 ~$895,000~4~2~House~2.5~712~157~$474,000~
+3/31 McLorinan Street, Chisholm ACT 2905 ~$899,000~4~2~House~4.5~400~167~N/A~
+2/1 Ogg Place, Chisholm ACT 2905 ~  $899,900~3~2~Townhouse~6.0~N/A~N/A~N/A~
+9 Pidgeon Place, Chisholm ACT 2905 ~$950,000~4~1~House~1.0~1334~N/A~$460,000~
+17 Purbrick Street, Chisholm ACT 2905 ~$1,035,000~4~2~House~1.0~1116~206~$527,000~
+30 Bainbridge Close, Chisholm ACT 2905 ~$1,050,000~4~2~House~4.0~1141~167~$450,000~

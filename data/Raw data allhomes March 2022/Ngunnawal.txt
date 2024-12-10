@@ -1,0 +1,10 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+5/33 Yarrawonga Street, Ngunnawal ACT 2913 ~Offers Over $575k~3~1~Townhouse~5.0~N/A~122~N/A~
+2/25 Attunga Street, Ngunnawal ACT 2913 ~$600,000~2~1~Townhouse~5.0~4019~91~N/A~
+77 Bargang Crescent, Ngunnawal ACT 2913 ~$650,000~3~1~House~6.0~334~102~$237,000~
+32 Jabanungga Avenue, Ngunnawal ACT 2913 ~Offers over $675,000~3~1~House~5.5~N/A~N/A~$284,000~
+1 Samuels Crescent, Ngunnawal ACT 2913 ~$685,000~3~1~Duplex~6.0~N/A~N/A~$277,000~
+1 Lanley Square, Ngunnawal ACT 2913 ~$0~3~1~House~5.5~282~135~$294,000~
+10 Bamir Square, Ngunnawal ACT 2913 ~$760,000~3~1~House~4.0~369~222~$294,000~
+9 Munni Street, Ngunnawal ACT 2913 ~$870,000~3~2~House~4.5~N/A~N/A~$333,000~
+32 Warrumbul Street, Ngunnawal ACT 2913 ~$1,399,000~4~2~House~4.0~715~211~$530,000~

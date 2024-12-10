@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+8/28 Frencham Street, Downer ACT 2602 ~$390,000~2~1~Apartment~2.0~1304~N/A~$1,750,000~
+145 Antill Street, Downer ACT 2602 ~  $1,029,000~3~1~House~1.0~752~98~$763,000~
+522 Northbourne Avenue, Downer ACT 2602 ~$2,900,000~7~7~House~N/A~832~N/A~$595,000~

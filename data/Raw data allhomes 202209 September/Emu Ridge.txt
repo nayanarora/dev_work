@@ -1,0 +1,54 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+301/2 Grazier Lane, Belconnen ACT 2617 ~$359,900~1~1~Apartment~6.0~58~N/A~N/A~
+7c/21 Beissel Street, Belconnen ACT 2617 ~$368,500~1~1~Apartment~6.0~21000.0~N/A~$48,106~
+514/120 Eastern Valley Way, Belconnen ACT 2617 ~$379,999~1~1~Apartment~6.0~2224~53~N/A~
+164/60 College Street, Belconnen ACT 2617 ~Offers Over $380,000~1~1~Apartment~6.0~21900.0~65~$22,932~
+4/2 Buik Place, Belconnen ACT 2617 ~Offers over $390,000~2~1~Unit / Apartment~4.5~3202~66~$185,000~
+2410/1 Grazier Lane, Belconnen ACT 2617 ~$395,000~1~1~Apartment~6.0~1~48~N/A~
+2311/120 Eastern Valley Way, Belconnen ACT 2617 ~$399,000~1~1~Apartment~6.0~454~64~N/A~
+1206/4 Grazier Lane, Belconnen ACT 2617 ~Offers over $399,900~1~1~Apartment~6.0~1011~53~N/A~
+35/50 Chandler Street, Belconnen ACT 2617 ~Offers over $400,000~1~1~Unit / Apartment~6.0~N/A~59~N/A~
+The Markets Residences - Coming soon, Belconnen ACT 2617 ~$417,050~1~1~Apartment~6.0~6077~53~$5,130,000~
+1102/4 Grazier Lane, Belconnen ACT 2617 ~Offers Over $419,000~1~1~Apartment~6.0~4622~N/A~N/A~
+1510/2 Grazier Lane, Belconnen ACT 2617 ~$419,900~1~1~Apartment~5.9~3276~63~N/A~
+901/6 Grazier Lane, Belconnen ACT 2617 ~$420,000~1~1~Apartment~4.0~4367~66~N/A~
+187/41 Chandler Street, Belconnen ACT 2617 ~$428,000~1~1~Unit / Apartment~6.0~7708~N/A~$24,182~
+209/4 Grazier Lane, Belconnen ACT 2617 ~$450,000~1~1~Apartment~5.5~4367~N/A~N/A~
+1/97 Eastern Valley Way, Belconnen ACT 2617 ~$480000~1~1~Apartment~6.0~7621~62~$23,032~
+10/20 Beissel Street, Belconnen ACT 2617 ~$469,000~1~1~Apartment~6.0~8103~N/A~$114,080~
+The Chandler - Everything You Need, Nothing You Don't, Belconnen ACT 2617 ~$474,900~1~1~Other~6.0~N/A~N/A~N/A~
+909/1 Grazier Lane, Belconnen ACT 2617 ~$475K (OFFERS WELCOME!)~2~1~Apartment~6.0~3998~N/A~N/A~
+The Markets Residences - DA approved, Belconnen ACT 2617 ~$485,625~2~1~Apartment~6.0~6077~70~$5,130,000~
+The Chandler - Everything You Need, Nothing You Don't, Belconnen ACT 2617 ~$494,900~1~1~Other~6.0~N/A~N/A~N/A~
+104/41 Chandler Street, Belconnen ACT 2617 ~Offers over $499,000~1~1~Unit / Apartment~6.0~7708~73~$24,182~
+305/3 Grazier Lane, Belconnen ACT 2617 ~$515,000~2~2~Apartment~3.5~N/A~N/A~N/A~
+The Markets Residences - Coming soon, Belconnen ACT 2617 ~$515,375~2~1~Apartment~6.0~6077~70~$5,130,000~
+Nightfall - 909/2 Grazier Lane, Belconnen ACT 2617 ~$516,843~2~2~Apartment~5.0~3276~N/A~N/A~
+Nightfall - 803/2 Grazier Lane, Belconnen ACT 2617 ~$534,900~2~1~Apartment~5.0~3276~N/A~N/A~
+Nightfall - 408/2 Grazier Lane, Belconnen ACT 2617 ~$541,900~2~2~Apartment~5.0~3276~N/A~N/A~
+18A/21 Beissel Street, Belconnen ACT 2617 ~$549,000~2~2~Apartment~4.5~21000.0~96~$48,106~
+511/1 Grazier Lane, Belconnen ACT 2617 ~$550,000 ~2~2~Apartment~6.0~355~87~N/A~
+(no street name provided), Belconnen ACT 2617 ~$565,000~2~2~Apartment~6.0~N/A~78~N/A~
+51/41 Chandler Street, Belconnen ACT 2617 ~Offers over $565,000~2~2~Unit / Apartment~6.0~7708~99~$24,182~
+52/57 Benjamin Way, Belconnen ACT 2617 ~$565,000~2~2~Apartment~6.0~7653~95~$31,345~
+Nightfall - 612/2 Grazier Lane, Belconnen ACT 2617 ~$577,900~2~2~Apartment~5.0~3276~N/A~N/A~
+1011/4 Grazier Lane, Belconnen ACT 2617 ~$579,000~2~2~Apartment~6.0~1038~83~N/A~
+Nightfall - Door 904, north facing 2-bed apartment, Belconnen ACT 2617 ~$585,900~2~2~Apartment~N/A~3276~75~N/A~
+The Markets Residences - Coming soon, Belconnen ACT 2617 ~$594,125~2~2~Apartment~6.0~6077~80~$5,130,000~
+Nightfall - 202/2 Grazier Lane, Belconnen ACT 2617 ~$608,900~2~1~Apartment~5.0~3276~N/A~N/A~
+40/35 Chandler Street, Belconnen ACT 2617 ~$615,000~2~2~Unit / Apartment~6.0~7708~87~$24,182~
+208/6 Grazier Lane, Belconnen ACT 2617 ~$619,000~2~2~Apartment~6.0~4367~109~N/A~
+The Markets Residences - Coming soon, Belconnen ACT 2617 ~$645,050~2~2~Apartment~6.0~6077~85~$5,130,000~
+10/8 Ranken Place, Belconnen ACT 2617 ~$649,000~3~2~Townhouse~2.5~167~N/A~N/A~
+The Markets Residences - Coming soon, Belconnen ACT 2617 ~$654,550~2~2~Apartment~6.0~6077~88~$5,130,000~
+The Chandler - Everything You Need, Nothing You Don't, Belconnen ACT 2617 ~$669,900~2~2~Other~6.0~N/A~N/A~N/A~
+59/17 Chandler Street, Belconnen ACT 2617 ~$675,000~3~2~Apartment~5.0~5997~94~$86,250~
+186/39 Benjamin Way, Belconnen ACT 2617 ~$685,000~3~2~Apartment~7.5~3756~108~$21,824~
+Cirrus - 2 Bedroom, Belconnen ACT 2617 ~$775,000~2~2~Apartment~6.5~N/A~N/A~N/A~
+161 Emu Bank, Belconnen ACT 2617 ~$800,000~2~2~Apartment~6.5~2690~N/A~$41,025~
+Cirrus - 2 Bedroom - 2C, Belconnen ACT 2617 ~$800,000~2~1~Apartment~6.5~N/A~N/A~N/A~
+813/6 Grazier Lane, Belconnen ACT 2617 ~$869,900~3~2~Apartment~6.0~4367~125~N/A~
+The Markets Residences - DA approved, Belconnen ACT 2617 ~$882,550~3~2~Apartment~6.0~6077~105~$5,130,000~
+The Markets Residences - DA approved, Belconnen ACT 2617 ~$882,550~3~2~Apartment~6.0~6077~105~$5,130,000~
+The Markets Residences - DA approved, Belconnen ACT 2617 ~$949,050~4~2~Apartment~6.0~6077~120~$5,130,000~
+The Chandler - Everything You Need, Nothing You Don't, Belconnen ACT 2617 ~$990,900~3~2~Other~6.0~N/A~N/A~N/A~

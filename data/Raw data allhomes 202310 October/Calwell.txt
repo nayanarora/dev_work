@@ -1,0 +1,7 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+2/12 Duggan Street, Calwell ACT 2905 ~$630,000~3~1~Townhouse~2.0~388~N/A~N/A~
+20/92 Casey Crescent, Calwell ACT 2905 ~$790,000~3~2~House~4.0~320~N/A~N/A~
+31 Must Circuit, Calwell ACT 2905 ~  $825,000~4~2~House~1.5~964~151~$498,000~
+14 Bourchier Close, Calwell ACT 2905 ~$899,000 ~5~2~House~1.0~970~204~$538,000~
+40 Tatchell Street, Calwell ACT 2905 ~$900,000~4~2~House~1.0~799~N/A~$498,000~
+50 Costello Circuit, Calwell ACT 2905 ~$995,000~4~2~House~1.0~847~213~$460,000~

@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+2/10 Pollock Street, Chifley ACT 2606 ~$1,000,000~4~3~Townhouse~5.5~203~N/A~N/A~
+19 Charteris Crescent, Chifley ACT 2606 ~$1387500~4~1~Townhouse~6.0~330~N/A~$942,000~
+31A MacLaurin Crescent, Chifley ACT 2606 ~$1,325,000~4~2~Townhouse~7.0~350~N/A~N/A~

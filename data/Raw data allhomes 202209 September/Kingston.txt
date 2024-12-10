@@ -1,0 +1,27 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+13/77 Leichhardt Street, Kingston ACT 2604 ~$425,000 ~1~1~Apartment~6.0~1262~N/A~$7,980~
+206/17 The Causeway, Kingston ACT 2604 ~$460,000~1~1~Apartment~6.0~1799~50~$72,452~
+UG14/17 The Causeway, Kingston ACT 2604 ~$489,000~1~1~Apartment~6.0~1799~N/A~$72,452~
+510/85 Eyre Street, Kingston ACT 2604 ~$500,000~1~1~Apartment~6.0~4859~56~$83,520~
+84/43 Eastlake Parade, Kingston ACT 2604 ~$510,000~1~1~Apartment~6.0~4938~5~$118,080~
+29/29 Dawes Street, Kingston ACT 2604 ~$549,000~2~1~Apartment~6.0~2699~68~$58,400~
+58/71 Giles Street, Kingston ACT 2604 ~$549,500~1~1~Unit / Apartment~6.0~2912~N/A~$61,200~
+28/47 Eyre Street, Kingston ACT 2604 ~Offers over $565,000~2~1~Apartment~4.5~875~76~N/A~
+78/72 Wentworth Avenue, Kingston ACT 2604 ~$569,000~2~2~Apartment~6.0~13200.0~100~$105,000~
+5/47 Kennedy Street, Kingston ACT 2604 ~$580,000~2~1~Unit / Apartment~4.5~5016~N/A~$150,660~
+102/29 Dawes Street, Kingston ACT 2604 ~$595,000~2~1~Apartment~6.0~2699~68~$58,400~
+30/47 Kennedy Street, Kingston ACT 2604 ~$610,000~2~1~Apartment~6.0~5016~87~$150,660~
+112/11 Trevillian Quay, Kingston ACT 2604 ~$729,000~2~2~Unit / Apartment~6.0~5216~77~$180,000~
+(no street name provided), Kingston ACT 2604 ~$865,000~2~2~Unit / Apartment~6.0~1022~117~$156,183~
+11/27 Cunningham Street, Kingston ACT 2604 ~$890,000~2~2~Apartment~6.0~2012~146~$154,125~
+4/11 Kerridge Street, Kingston ACT 2604 ~$910000~2~2~Unit / Apartment~6.0~2474~77~$95,200~
+1/58 Wentworth Avenue, Kingston ACT 2604 ~Offers Over $899,000~3~2~Apartment~4.5~2204~N/A~$193,500~
+207/10 Parbery Street, Kingston ACT 2604 ~$929,000~3~2~Apartment~6.0~N/A~133~N/A~
+104/55 The Causeway, Kingston ACT 2604 ~$975,000~2~2~Apartment~6.0~2715~122~$168,720~
+68/41 Eastlake Parade, Kingston ACT 2604 ~$1,150,000~3~2~Apartment~5.5~4937~N/A~$118,080~
+82W - 603/82 Wentworth Avenue, Kingston ACT 2604 ~$1,199,950~3~2~Other~6.0~2795~139~$586,000~
+82W - 508/82 Wentworth Avenue, Kingston ACT 2604 ~$1,289,950~3~3~Other~6.0~2795~198~$586,000~
+82W - Ap121 - 3 bed 2 bath 2 car, with a 67m2 balcony, Kingston ACT 2604 ~$1,299,950~3~2~Other~6.0~2795~191~$586,000~
+45/11 Trevillian Quay, Kingston ACT 2604 ~$1,620,000~3~2~Apartment~3.5~5216~N/A~$180,000~
+101/45 Honeysett View, Kingston ACT 2604 ~$2,275,000~3~3~Apartment~6.0~N/A~172~$240,240~
+402/85 Eyre Street, Kingston ACT 2604 ~$2,500,000~3~2~Unit / Apartment~6.0~4859~N/A~$83,520~

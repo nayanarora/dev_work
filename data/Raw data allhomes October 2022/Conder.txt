@@ -1,0 +1,7 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+11/23 Heidelberg Street, Conder ACT 2906 ~Offers Over $629,000~3~1~Unit / Apartment~1.5~245~98~N/A~
+8 Sturgeon Street, Conder ACT 2906 ~Offers Over $719,000~3~1~House~2.5~752~112~$421,000~
+44 James Smith Circuit, Conder ACT 2906 ~$775,000~3~2~House~4.0~416~130~$388,000~
+9 Veal Place, Conder ACT 2906 ~$919,000~4~2~House~2.0~828~N/A~$469,000~
+(no street name provided), Conder ACT 2906 ~$949,000~4~2~House~4.0~797~192~$518,000~
+6 Aldor Green, Conder ACT 2906 ~$1207500~5~2~House~4.5~900~239~$543,000~

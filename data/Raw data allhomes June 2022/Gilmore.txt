@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+11 Emily Bulcock Crescent, Gilmore ACT 2905 ~$1,100,000~5~2~House~3.0~843~181~$398,000~

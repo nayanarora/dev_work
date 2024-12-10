@@ -1,0 +1,13 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+3/16 David Miller Crescent, Casey ACT 2913 ~$425,000~2~1~Apartment~5.0~5282~N/A~$3,094,000~
+35/16 David Miller Crescent, Casey ACT 2913 ~$445,000~2~1~Apartment~5.5~5282~N/A~$3,094,000~
+22 Salisbury Street, Casey ACT 2913 ~Offers Over $729,000~3~2~House~5.0~234~94~$404,000~
+10/17 Pickup Close, Casey ACT 2913 ~$738,000~3~2~Townhouse~5.5~145~N/A~N/A~
+1/1 Alan Watt Crescent, Casey ACT 2913 ~$749,000~3~2~Townhouse~6.0~184~N/A~N/A~
+77 Rockwood Street, Casey ACT 2913 ~$769,000~3~2~House~5.5~240~121~$424,000~
+11/12 Maris King Street, Casey ACT 2913 ~$770,000~3~1~Townhouse~5.0~192~N/A~$2,319,000~
+17/138 Plimsoll Drive, Casey ACT 2913 ~$785,000~3~2~Townhouse~6.0~N/A~N/A~N/A~
+24/60 Kingsland Parade, Casey ACT 2913 ~$789,000~3~3~Townhouse~6.0~93~N/A~N/A~
+6 Critchley Street, Casey ACT 2913 ~$990,000~4~2~House~4.0~465~250~$529,000~
+14 Gourgaud Street, Casey ACT 2913 ~$999,900~4~2~House~5.5~465~232~$529,000~
+26 Bott Crescent, Casey ACT 2913 ~$1,190,000~4~2~House~4.5~620~230~N/A~

@@ -1,0 +1,8 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+35 Zakharov Avenue, Forde ACT 2914 ~$869,000~3~2~House~5.5~319~N/A~$438,000~
+9 Denoon Street, Forde ACT 2914 ~$959,000~4~2~House~4.5~387~N/A~$530,000~
+56 Turbayne Crescent, Forde ACT 2914 ~  $999,000~4~2~House~5.0~387~208~$536,000~
+125 Amy Ackman Street, Forde ACT 2914 ~$1,195,000~4~3~House~4.0~382~233~$536,000~
+1 Jessie Street, Forde ACT 2914 ~$1375000~4~3~House~5.0~563~316~$618,000~
+35 Justice Kelly Street, Forde ACT 2914 ~$1,500,000~5~2~House~5.0~685~319~$703,000~
+21 Jack Ryan Street, Forde ACT 2914 ~$1,650,000~4~2~House~5.5~711~353~$592,000~

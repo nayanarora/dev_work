@@ -1,0 +1,45 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+59/13-15 Sturt Avenue, Griffith ACT 2603 ~$425,000~1~1~Apartment~6.0~10600.0~N/A~$18,300,000~
+37/109 Canberra Avenue, Griffith ACT 2603 ~$435,000~1~1~Apartment~6.0~2351~N/A~$5,800,000~
+29/16 Eyre Street, Griffith ACT 2603 ~Inviting offers over $440,000~1~1~Apartment~6.0~7714~N/A~$16,600,000~
+24/115 Canberra Avenue, Griffith ACT 2603 ~$459000~1~1~Apartment~6.0~2275~N/A~$4,900,000~
+19/6 Cunningham Street, Griffith ACT 2603 ~$480,000~1~1~Apartment~6.0~2829~N/A~$7,000,000~
+10/103 Canberra Avenue, Griffith ACT 2603 ~$495,000~2~2~Apartment~5.0~2213~N/A~$4,500,000~
+91/5 Hely Street, Griffith ACT 2603 ~$499,000~1~1~Apartment~6.0~3420~N/A~$7,700,000~
+15/18 Captain Cook Crescent, Griffith ACT 2603 ~Offers Over $499,000~1~1~Apartment~6.0~8580~N/A~$8,227,000~
+10/18 Captain Cook Crescent, Griffith ACT 2603 ~$529,000~1~1~Apartment~5.5~8580~N/A~$8,227,000~
+Renaissance - R3 - 1 Bed, Garden Views 1C, Griffith ACT 2603 ~$539,900~1~1~Apartment~6.4~2641~N/A~N/A~
+Renaissance - Functional 1-Bedroom | East aspect, Griffith ACT 2603 ~$539,900~1~1~Apartment~6.5~2641~N/A~N/A~
+32/1 Oxley Street, Griffith ACT 2603 ~$579,000~2~1~Apartment~3.5~3634~N/A~$9,400,000~
+39/5 Hely Street, Griffith ACT 2603 ~$595,000~2~2~Apartment~6.0~3420~N/A~$7,700,000~
+17/5 Hely Street, Griffith ACT 2603 ~$625,000~2~2~Apartment~6.0~3420~N/A~$7,700,000~
+(no street name provided), Griffith ACT 2603 ~$639,000~2~2~Apartment~6.0~2351~N/A~N/A~
+17/115 Canberra Avenue, Griffith ACT 2603 ~$649,000~2~2~Apartment~6.0~2275~N/A~$4,900,000~
+Renaissance - East aspect overlooking Resident's courtyard | Split Bedroom, Griffith ACT 2603 ~$649,900~2~1~Apartment~6.5~2641~N/A~N/A~
+33/17 Captain Cook Crescent, Griffith ACT 2603 ~$659,000~2~1~Apartment~6.0~N/A~N/A~N/A~
+46/5 Hely Street, Griffith ACT 2603 ~$675,000~2~2~Apartment~6.0~3420~N/A~$7,700,000~
+8/10 Ovens Street, Griffith ACT 2603 ~$730000~2~2~Apartment~4.0~3913~N/A~$9,000,000~
+100/5 Light Street, Griffith ACT 2603 ~$730,000~2~1~Apartment~6.5~N/A~N/A~N/A~
+Renaissance - R3 | North-West Facing, Griffith ACT 2603 ~$789,900~2~2~Apartment~6.5~2641~N/A~N/A~
+Renaissance - Split Bedroom with Generous Living Space, Griffith ACT 2603 ~$789,900~2~2~Apartment~6.5~2641~N/A~N/A~
+Renaissance - Functional Ground Floor Apartment | West Aspect, Griffith ACT 2603 ~$799,900~2~2~Apartment~6.5~2641~N/A~N/A~
+12/56 Stuart Street, Griffith ACT 2603 ~$835,000 ~2~2~Townhouse~5.5~4648~N/A~$6,200,000~
+52/18 Leichhardt Street, Griffith ACT 2603 ~$860000~3~2~Apartment~5.0~7714~N/A~$16,600,000~
+50/111 Canberra Avenue, Griffith ACT 2603 ~$875,000 and vacant ready to move into.~2~2~Apartment~6.0~2042~N/A~$4,500,000~
+Illume - Unit 7 - Meticulously designed 2 Bedroom Apartment, Griffith ACT 2603 ~$879,900~2~1~Apartment~6.0~N/A~N/A~N/A~
+23/2 Light Street, Griffith ACT 2603 ~$922500~2~2~Apartment~6.0~2163~N/A~$4,800,000~
+16/111 Canberra Avenue, Griffith ACT 2603 ~$940,000~3~2~Apartment~6.0~2042~N/A~$4,500,000~
+62/7 Light Street, Griffith ACT 2603 ~$940,000~2~2~Apartment~6.0~4514~N/A~$12,500,000~
+Renaissance - R3 | Split Bedroom, North-West Aspect, Griffith ACT 2603 ~$1,049,900~2~2~Apartment~6.5~2641~N/A~N/A~
+Renaissance - R3 | North West with Oversized Balcony, Griffith ACT 2603 ~$1,199,900~2~2~Other~6.5~2641~N/A~N/A~
+Renaissance - R3 | Large 3 Bed | Park Side with Easterly Sun, Griffith ACT 2603 ~$1,299,900~2~1~Other~6.5~2641~N/A~N/A~
+19/2 Light Street, Griffith ACT 2603 ~$1,300,000~3~2~Apartment~6.0~2163~N/A~$4,800,000~
+Renaissance - R3 | Unparalleled Inner-South Living, Griffith ACT 2603 ~$1,499,900~3~2~Apartment~6.5~2641~N/A~N/A~
+Renaissance - R3 | Functional 3-bedroom, 2-bathroom, Griffith ACT 2603 ~$1,499,900~3~2~Apartment~6.5~2641~N/A~N/A~
+10/58 Leichhardt Street, Griffith ACT 2603 ~$1,995,000~3~2~Apartment~6.5~N/A~N/A~N/A~
+25 Barrallier Street, Griffith ACT 2603 ~$2,000,000~3~1~House~N/A~1333~N/A~$1,890,000~
+4 Bannister Gardens, Griffith ACT 2603 ~$2445000~3~2~House~3.0~1116~198~$1,700,000~
+30 La Perouse Street, Griffith ACT 2603 ~$2,850,000~4~2~House~2.5~895~N/A~$2,050,000~
+63 Flinders Way, Griffith ACT 2603 ~$2,950,000 ~4~2~House~2.5~1111~N/A~$2,200,000~
+19 Barrallier Street, Griffith ACT 2603 ~$3,000,000~4~2~House~6.0~1277~N/A~$1,850,000~
+15 Landsborough Street, Griffith ACT 2603 ~$6,000,000~5~3~House~4.0~1073~N/A~$1,830,000~

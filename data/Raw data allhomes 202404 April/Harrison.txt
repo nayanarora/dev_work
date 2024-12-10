@@ -1,0 +1,17 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+15/11 Wimmera Street, Harrison ACT 2914 ~$373,000~1~1~Unit / Apartment~6.0~7075~N/A~$4,800,000~
+116/148 Flemington Road, Harrison ACT 2914 ~Offers over $390,000~1~1~Unit / Apartment~6.0~13600.000000000002~N/A~$6,550,000~
+44 Otway Street, Harrison ACT 2914 ~$400,000~1~1~Townhouse~4.0~3529~N/A~$2,240,000~
+24/4 Sapling Street, Harrison ACT 2914 ~$425,000~2~1~Apartment~0.0~19700.0~N/A~$8,800,000~
+19/128 Flemington Road, Harrison ACT 2914 ~$440,000~2~1~Apartment~6.0~11100.000000000002~N/A~$5,250,000~
+41/236 Flemington Road, Harrison ACT 2914 ~$479,999~2~2~Apartment~6.0~19700.0~N/A~$8,800,000~
+128/230 Flemington Road, Harrison ACT 2914 ~$489,000~2~2~Apartment~6.0~19700.0~N/A~$8,800,000~
+86/11 Wimmera Street, Harrison ACT 2914 ~$509,000~2~2~Apartment~5.0~7075~N/A~$4,800,000~
+83/11 Wimmera Street, Harrison ACT 2914 ~$509,000~2~2~Apartment~6.0~7075~N/A~$4,800,000~
+76/1 Windjana Street, Harrison ACT 2914 ~$549,000~2~2~Apartment~5.5~6318~N/A~$4,675,000~
+22/11 Wimmera Street, Harrison ACT 2914 ~$599,000~3~2~Apartment~6.0~7075~N/A~$4,800,000~
+25/138 Flemington Road, Harrison ACT 2914 ~$699,000~4~2~Townhouse~5.0~12800.0~N/A~$6,300,000~
+4 Eldorado Street, Harrison ACT 2914 ~$1,050,000~4~2~House~4.5~445~229~$490,000~
+21 Turtle Rock Street, Harrison ACT 2914 ~$1130000~4~2~House~5.0~540~246~$581,000~
+45 Osprey Street, Harrison ACT 2914 ~$1,155,000~4~2~House~4.0~511~240~$606,000~
+(no street name provided), Harrison ACT 2914 ~$1,157,000~5~2~House~4.0~460~251~$533,000~

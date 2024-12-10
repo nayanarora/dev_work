@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+60/17 Medley Street, Chifley ACT 2606 ~$350000~1~1~Apartment~N/A~10700.0~65~$160,875~
+15/17 Medley Street, Chifley ACT 2606 ~$385,000~1~1~Unit / Apartment~1.0~10700.0~N/A~$160,875~
+3 Carslaw Street, Chifley ACT 2606 ~Offers over $995,000~3~1~House~3.0~748~96~$753,000~
+10 Lyle Place, Chifley ACT 2606 ~$1,295,000~4~3~House~1.0~761~197~$725,000~

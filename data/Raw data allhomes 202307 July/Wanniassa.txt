@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+1/47 Comrie Street, Wanniassa ACT 2903 ~$419,000~1~1~Unit / Apartment~4.0~1200~68~$89,250~
+1 Sullivan Crescent, Wanniassa ACT 2903 ~$785,000~3~2~House~1.5~712~152~N/A~
+10 Carr Crescent, Wanniassa ACT 2903 ~$925,000~3~2~House~2.5~940~N/A~$521,000~
+3 & 3a Ashley Drive, Wanniassa ACT 2903 ~$1,100,000~5~4~House~5.0~1011~N/A~$524,000~

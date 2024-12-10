@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+120 Grayson Street, Hackett ACT 2602 ~$850,000~2~1~Townhouse~3.5~128~N/A~N/A~
+33 Stanley Street, Hackett ACT 2602 ~ $1,175,000~4~2~House~4.0~716~N/A~$825,000~
+31 Russell Street, Hackett ACT 2602 ~$1,250,000~4~2~House~1.5~879~N/A~$960,000~
+14 Bragg Street, Hackett ACT 2602 ~$1,950,000~4~2~House~2.0~855~N/A~$960,000~

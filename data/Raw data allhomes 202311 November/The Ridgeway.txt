@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+90 Ridgeway Road, The Ridgeway NSW 2620 ~$2,125,000~5~2~House~N/A~51800.0~N/A~N/A~

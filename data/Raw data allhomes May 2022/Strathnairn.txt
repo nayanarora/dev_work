@@ -1,0 +1,16 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+10 Aubrey Lane, Strathnairn ACT 2615 ~Offers Over $599,000~2~1~Townhouse~6.0~N/A~84~N/A~
+(no street name provided), Strathnairn ACT 2615 ~$635,000~3~2~Unit / Apartment~6.4~N/A~124~N/A~
+The Brosnan - Townhouse 2, Strathnairn ACT 2615 ~$734,900~3~2~Other~6.9~N/A~N/A~N/A~
+The Brosnan - Townhouse 3, Strathnairn ACT 2615 ~$734,900~3~2~Townhouse~6.9~N/A~N/A~N/A~
+The Brosnan - Townhouse 4, Strathnairn ACT 2615 ~$754,900~3~2~Townhouse~6.9~N/A~N/A~N/A~
+33 Speldewinde Street, Strathnairn ACT 2615 ~$809,000~4~1~House and Land Package~6.0~250~163~N/A~
+(no street name provided), Strathnairn ACT 2615 ~$825,000~4~2~House and Land Package~6.0~252~170~N/A~
+(no street name provided), Strathnairn ACT 2615 ~$950,000~4~2~House~6.0~250~215~N/A~
+5 Ryko Street, Strathnairn ACT 2615 ~$1,075,000~4~2~House~6.0~388~N/A~N/A~
+98 Tredwell Street, Strathnairn ACT 2615 ~$1,099,000~4~3~House~6.0~231~177~N/A~
+(no street name provided), Strathnairn ACT 2615 ~$1275000~4~2~House~6.0~447~227~N/A~
+41 Cameleer Lane, Strathnairn ACT 2615 ~$1,200,000~7~1~House~7.0~N/A~N/A~N/A~
+(no street name provided), Strathnairn ACT 2615 ~$1225000~4~2~House~6.0~447~227~N/A~
+(no street name provided), Strathnairn ACT 2615 ~$1275000~5~2~House~6.0~604~251~N/A~
+(no street name provided), Strathnairn ACT 2615 ~$1,300,000~5~3~House~6.0~604~240~N/A~

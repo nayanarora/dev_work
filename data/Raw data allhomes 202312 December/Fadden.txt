@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+38 Garrick Street, Fadden ACT 2904 ~$1,050,000~4~2~House~3.0~795~N/A~$498,000~

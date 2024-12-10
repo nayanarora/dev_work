@@ -1,0 +1,12 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+32/29_31 State Circle, Deakin ACT 2600 ~$470,000~1~1~Apartment~6.0~N/A~N/A~N/A~
+8/67 Jervois Street, Deakin ACT 2600 ~$595,000~1~1~Apartment~1.0~N/A~N/A~$2,400,000~
+8/29 State Circle, Deakin ACT 2600 ~$790,000~2~2~Apartment~6.0~N/A~N/A~$6,100,000~
+1/25 MacGregor Street, Deakin ACT 2600 ~$1220000~3~1~House~0.0~N/A~N/A~N/A~
+7 MacGregor Street, Deakin ACT 2600 ~$1,500,000~3~1~House~0.5~719~N/A~N/A~
+21/6 Grose Street, Deakin ACT 2600 ~$1,895,000~4~2~Townhouse~6.0~219~N/A~N/A~
+3 Galway Place, Deakin ACT 2600 ~$2350000~4~3~House~4.0~774~N/A~$1,241,000~
+93 Strickland Crescent, Deakin ACT 2600 ~$2,395,000~4~4~House~3.5~868~N/A~$1,310,000~
+11 Hotham Crescent, Deakin ACT 2600 ~$3,950,000~5~2~House~2.5~1403~238~$2,690,000~
+3 Grey Street, Deakin ACT 2600 ~  $4,990,000~5~4~House~3.5~2060~397~$3,300,000~
+84 Empire Circuit, Deakin ACT 2600 ~$5,995,000~5~3~House~3.0~2411~N/A~$3,300,000~

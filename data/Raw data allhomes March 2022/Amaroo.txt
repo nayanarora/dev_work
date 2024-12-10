@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+3 Clara Close, Amaroo ACT 2914 ~Offers over $775,000~3~1~House~4.0~442~110~$339,000~
+3/39 Mornington Street, Amaroo ACT 2914 ~$798,000~3~1~Townhouse~5.0~374~181~N/A~
+7 Rollston Street, Amaroo ACT 2914 ~Offers Over $899,000~3~2~House~6.0~545~135~$433,000~

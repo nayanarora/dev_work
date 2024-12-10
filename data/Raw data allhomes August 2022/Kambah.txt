@@ -1,0 +1,23 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+33/25 Pinkerton Circuit, Kambah ACT 2902 ~$559,000~2~1~Townhouse~3.0~28000.0~88~N/A~
+21 Snodgrass Crescent, Kambah ACT 2902 ~$580,000~2~1~Retirement Village~N/A~36800.0~N/A~$6,300,000~
+31/25 Pinkerton Circuit, Kambah ACT 2902 ~$590,000~2~1~Townhouse~3.5~163~89~N/A~
+103 O'Halloran Circuit, Kambah ACT 2902 ~$699,000~4~2~House~1.0~816~N/A~$485,000~
+74 Tepper Circuit, Kambah ACT 2902 ~$720,000~3~1~House~1.5~604~102~$487,000~
+12/49 Pinkerton Circuit, Kambah ACT 2902 ~Offers over $720,000~3~2~Townhouse~2.5~187~N/A~N/A~
+21 Snodgrass Crescent, Kambah ACT 2902 ~$735,000~3~1~Retirement Village~N/A~36800.0~N/A~$6,300,000~
+10 Broad Place, Kambah ACT 2902 ~$750,000~3~1~House~1.0~766~102~$512,000~
+66 Tepper Circuit, Kambah ACT 2902 ~$750,000~3~1~House~1.5~621~N/A~$485,000~
+7A Aitken Street, Kambah ACT 2902 ~$795,000~3~2~Townhouse~6.0~N/A~N/A~N/A~
+9 Hair Place, Kambah ACT 2902 ~$800,000~3~2~House~N/A~1097~154~$476,000~
+15 Buckley Circuit, Kambah ACT 2902 ~$810,000~3~2~House~N/A~762~150~$522,000~
+4 Doolette Place, Kambah ACT 2902 ~$850,000~3~2~House~1.5~751~140~$489,000~
+81 Summerland Circuit, Kambah ACT 2902 ~$870,000~3~1~House~1.0~764~114~$399,000~
+1 Ind Place, Kambah ACT 2902 ~$875,000~4~2~House~1.5~722~N/A~$512,000~
+5 Bower Place, Kambah ACT 2902 ~Offers Over $879,000~3~1~House~2.0~844~126~$562,000~
+152 Boddington Crescent, Kambah ACT 2902 ~$895,000~4~3~House~0.5~678~N/A~$411,000~
+33/79-87 Crozier Circtui, Kambah ACT 2902 ~$900,000~4~2~House~3.5~N/A~127~N/A~
+13 Coglin Place, Kambah ACT 2902 ~$950,000~3~2~House~1.0~1289~149~$537,000~
+46 Maxworthy Street, Kambah ACT 2902 ~$1,000,000~4~1~House~2.0~779~N/A~$500,000~
+4 Jens Place, Kambah ACT 2902 ~$1,575,000~4~2~House~5.0~749~270~$610,000~
+6 Clark Place, Kambah ACT 2902 ~$1,890,000~5~3~House~1.5~1089~316~$795,000~

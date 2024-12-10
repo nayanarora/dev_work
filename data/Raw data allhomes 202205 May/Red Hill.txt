@@ -1,0 +1,10 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+8/14-16 Discovery Street, Red Hill ACT 2603 ~$485,000~2~1~Apartment~5.0~N/A~N/A~N/A~
+The Parks - 1 Bedroom Apartment, Red Hill ACT 2603 ~$699,900~1~1~Apartment~N/A~N/A~76~$3,727,000~
+The Parks - 1 Bedroom Apartment, Red Hill ACT 2603 ~$870,900~1~1~Apartment~N/A~N/A~111~$3,727,000~
+The Parks - 2 Bedroom Premium Apartment, Red Hill ACT 2603 ~$1,120,900~2~2~Apartment~6.1~N/A~N/A~$3,727,000~
+The Parks - 2 Bedroom Apartment, Red Hill ACT 2603 ~$1,129,900~2~2~Apartment~6.4~N/A~N/A~$3,727,000~
+2/9 Borrowdale Street, Red Hill ACT 2603 ~$1,450,000~4~2~Townhouse~5.0~N/A~137~N/A~
+The Parks - 3 Bedroom apartment with Lady Nelson Park View, Red Hill ACT 2603 ~$1,454,900~3~1~Apartment~6.5~N/A~N/A~$3,727,000~
+4 Cimba Lane, Red Hill ACT 2603 ~$1,600,000~3~2~House~7.4~N/A~N/A~N/A~
+65 Mugga Way, Red Hill ACT 2603 ~$4,950,000~5~2~House~3.5~N/A~N/A~$2,287,000~

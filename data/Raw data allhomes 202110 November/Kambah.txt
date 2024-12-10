@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+21 Snodgrass Crescent, Kambah ACT 2902 ~$665,000~3~1~Retirement Village~N/A~N/A~N/A~$6,200,000~
+122 Mt Vernon Drive, Kambah ACT 2902 ~$1,200,000~4~2~House~4.5~N/A~N/A~$470,000~
+1 MacNeil Place, Kambah ACT 2902 ~Offers over $1.2m~4~2~House~2.5~1183~196~$470,000~
+49 Learmonth Drive, Kambah ACT 2902 ~$1,500,000~4~3~House~N/A~2815~358~$500,000~

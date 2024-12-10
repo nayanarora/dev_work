@@ -1,0 +1,14 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+25/16 David Miller Crescent, Casey ACT 2913 ~$425,000~N/A~N/A~N/A~N/A~5282~N/A~$3,094,000~
+3/16 David Miller Crescent, Casey ACT 2913 ~$445,000~N/A~N/A~N/A~N/A~5282~N/A~$3,094,000~
+58/60 Kingsland Parade, Casey ACT 2913 ~$449,000~N/A~N/A~N/A~N/A~81~N/A~N/A~
+69 McGovern Street, Casey ACT 2913 ~$460,000~N/A~N/A~N/A~N/A~339~N/A~$440,000~
+40/16 David Miller Crescent, Casey ACT 2913 ~$479,000~N/A~N/A~N/A~N/A~5282~N/A~$3,094,000~
+34 John Crawford Cres, Casey ACT 2913 ~$739,000 ~N/A~N/A~N/A~N/A~210~N/A~$399,000~
+23/60 Kingsland Parade, Casey ACT 2913 ~  $765,000~N/A~N/A~N/A~N/A~93~N/A~N/A~
+24/60 Kingsland Parade, Casey ACT 2913 ~$789,000~N/A~N/A~N/A~N/A~93~N/A~N/A~
+6 Critchley Street, Casey ACT 2913 ~$990,000~N/A~N/A~N/A~N/A~465~250~$529,000~
+19 Walter Crocker Crescent, Casey ACT 2913 ~$1,000,000~N/A~N/A~N/A~N/A~542~N/A~$543,000~
+228 Plimsoll Drive, Casey ACT 2913 ~$1,050,000~N/A~N/A~N/A~N/A~451~213~$529,000~
+22 Alan Watt Crescent, Casey ACT 2913 ~$1,150,000~N/A~N/A~N/A~N/A~387~272~$500,000~
+2 Gauci Street, Casey ACT 2913 ~  $1,200,000~N/A~N/A~N/A~N/A~635~N/A~$600,000~

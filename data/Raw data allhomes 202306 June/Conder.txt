@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+10 Montefiore Crescent, Conder ACT 2906 ~$789,000~4~2~House~1.5~756~130~$403,000~

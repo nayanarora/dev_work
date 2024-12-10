@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+7 Eugenia Street, Rivett ACT 2611 ~$949000~N/A~N/A~N/A~N/A~708~N/A~$659,000~
+16 Bangalay Crescent, Rivett ACT 2611 ~$975,000~N/A~N/A~N/A~N/A~743~N/A~$545,000~
+123 Darwinia Terrace, Rivett ACT 2611 ~$1,325,000 ~N/A~N/A~N/A~N/A~1130~150~$650,000~

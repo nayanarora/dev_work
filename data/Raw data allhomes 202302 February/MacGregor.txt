@@ -1,0 +1,8 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+3 Heighway Street, MacGregor ACT 2615 ~$670,000~2~1~House~4.5~375~110~$378,000~
+17 Audrey Cahn Street, MacGregor ACT 2615 ~$699,000~3~1~House~6.0~298~126~$342,000~
+12 Sisely Street, MacGregor ACT 2615 ~$699,000~3~1~House~6.0~226~N/A~$375,000~
+27 Jean Macnamara Street, MacGregor ACT 2615 ~$750,000~3~1~House~5.5~300~N/A~$341,000~
+6 Isbister Street, MacGregor ACT 2615 ~$810,000~3~2~House~5.1~360~N/A~$356,000~
+23 Florey Drive, MacGregor ACT 2615 ~$890,000~4~2~House~1.0~785~146~$449,000~
+43 Jean Macnamara Street, MacGregor ACT 2615 ~$949,000~4~2~House~6.0~441~223~$397,000~

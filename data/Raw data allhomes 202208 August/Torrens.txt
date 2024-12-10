@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+23 Beasley Street, Torrens ACT 2607 ~$1,450,000~4~3~House~1.5~1010~N/A~$755,000~

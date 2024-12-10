@@ -1,0 +1,23 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+213/2 Terry Connolly Street, Coombs ACT 2611 ~$415,000~1~1~Apartment~6.0~4107~59~N/A~
+20/60 John Gorton Drive, Coombs ACT 2611 ~  $419,000~2~1~Apartment~6.0~8044~70~$43,200~
+11/60 John Gorton Drive, Coombs ACT 2611 ~$434000~2~1~Apartment~6.0~8044~87~$43,200~
+Del-Rey - 310/43 Arthur Blakeley Way, Coombs ACT 2611 ~$489,500~2~1~Apartment~7.1~N/A~N/A~N/A~
+15/43 Arthur Blakeley Way, Coombs ACT 2611 ~$495,000 to $510,000~2~1~Apartment~7.0~3583~77~N/A~
+Telfer Street, Coombs ACT 2611 ~$605,000~2~2~Apartment~7.8~808~N/A~$697,000~
+FORM - Light filled, 2 bed, 2 bath, Coombs ACT 2611 ~$629,900~2~1~Other~8.0~N/A~128~N/A~
+6/2 Telfer Street, Coombs ACT 2611 ~$684000~3~2~Townhouse~6.0~2446~99~$150,100~
+FORM - 3 bedroom 2 bathroom with single car garage, Coombs ACT 2611 ~$679,900~3~1~Other~7.9~N/A~118~N/A~
+23/18 Cornelius Street, Coombs ACT 2611 ~$679,900~3~2~Townhouse~6.0~142~99~N/A~
+G10/2 Terry Connolly Street, Coombs ACT 2611 ~$689,000~2~2~Unit / Apartment~6.0~N/A~88~N/A~
+41/8 Ken Tribe Street, Coombs ACT 2611 ~$699,000~3~2~House~6.0~124~N/A~N/A~
+34/40 Pearlman Street, Coombs ACT 2611 ~$725,000~3~2~Townhouse~6.0~6179~N/A~$109,600~
+FORM - 3 bedroom 2 bathroom with double car garage, Coombs ACT 2611 ~$729,900~3~1~Townhouse~7.7~N/A~134~N/A~
+11A Cornelius Street, Coombs ACT 2611 ~$735,000~3~1~Townhouse~6.0~9829~N/A~$95,900~
+442/2 Terry Connolly Street, Coombs ACT 2611 ~$736,000~2~2~Unit / Apartment~6.0~N/A~100~N/A~
+29/11 Castan Street, Coombs ACT 2611 ~  $799,000~4~3~Townhouse~6.0~11600.0~130~N/A~
+5A Woodberry Avenue, Coombs ACT 2611 ~$879,900~3~1~Townhouse~8.2~9303~224~N/A~
+FORM - Huge 3 bedroom townhome, Coombs ACT 2611 ~$879,900~3~1~Other~8.2~N/A~218~N/A~
+42/1 Gifford Street, Coombs ACT 2611 ~$950,000~4~3~Townhouse~N/A~14900.0~N/A~$99,090~
+33 Castan Street, Coombs ACT 2611 ~$1,185,000~4~3~House~5.5~450~224~$572,000~
+8 Brownbill Street, Coombs ACT 2611 ~$1,499,000~4~3~House~4.5~573~N/A~$597,000~

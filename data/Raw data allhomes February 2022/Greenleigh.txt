@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+25 Taylor Place, Greenleigh NSW 2620 ~$2,295,000~6~3~House~N/A~4369~450~N/A~

@@ -1,0 +1,3 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+15 Wheatley Street, Gowrie ACT 2904 ~$865,000~3~1~House~2.0~864~N/A~$559,000~
+7 Ingram Street, Gowrie ACT 2904 ~$1,060,000~5~2~House~4.0~894~164~$515,000~

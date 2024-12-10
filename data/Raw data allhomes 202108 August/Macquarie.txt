@@ -1,0 +1,8 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+25/21 Wiseman Street, Macquarie ACT 2614 ~$270,000~1~1~Apartment~6.0~N/A~N/A~N/A~
+29/58 Bennelong Crescent, Macquarie ACT 2614 ~$285,000~1~1~Apartment~3.5~N/A~N/A~N/A~
+26/119 Redfern Street, Macquarie ACT 2614 ~$340,000~1~1~Unit / Apartment~6.0~N/A~N/A~N/A~
+Banksii - Ground Floor 2 Bedroom Apartment With Huge 108m2 Terrace, Macquarie ACT 2614 ~$645,000~2~2~Other~8.4~N/A~N/A~$5,250,000~
+Banksii - Stunning Top Floor Apartment with Views, Macquarie ACT 2614 ~$655,000~2~1~Other~8.0~N/A~N/A~$5,250,000~
+Banksii - 2 Bedroom Apartment With Two Balconies, Macquarie ACT 2614 ~$659,000~2~2~Other~8.4~N/A~126~$5,250,000~
+6B Arndell Street, Macquarie ACT 2614 ~$899,000~3~2~Duplex~5.0~N/A~N/A~$540,000~

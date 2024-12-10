@@ -1,0 +1,36 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+36/18 Captain Cook Crescent, Griffith ACT 2603 ~$430,000~1~1~Apartment~N/A~8579~N/A~$29,617~
+Level 6/76/109 Canberra Avenue, Griffith ACT 2603 ~$468,000~1~1~Apartment~6.0~N/A~54~N/A~
+9/115 Canberra Avenue, Griffith ACT 2603 ~$480,000~1~1~Apartment~6.0~2275~60~$74,480~
+91/5 Hely Street, Griffith ACT 2603 ~$499,000~1~1~Apartment~6.0~3418~N/A~$54,670~
+Renaissance - R3 - 1 Bed, Garden Views 1C, Griffith ACT 2603 ~$539,900~1~1~Apartment~6.4~2641~65~N/A~
+128/11 Giles Street, Griffith ACT 2603 ~$549,000~2~1~Apartment~6.0~4148~N/A~$192,504~
+Renaissance - R3 - 1 Bed, East facing, large courtyard, Griffith ACT 2603 ~$549,900~1~1~Apartment~6.4~2641~80~N/A~
+32/1 Oxley Street, Griffith ACT 2603 ~$579,000~2~1~Apartment~3.5~3634~N/A~$195,520~
+14/5 Hely Street, Griffith ACT 2603 ~  $599,900~2~2~Unit / Apartment~6.0~3418~N/A~$54,670~
+513/107 Canberra Avenue, Griffith ACT 2603 ~$610,000 Plus~2~1~Apartment~6.0~3549~N/A~$66,440~
+Renaissance - R3 Unit 112- Garden Views | 2 Bed, 1 Bath, Griffith ACT 2603 ~$619,900~2~1~Other~6.5~2641~N/A~N/A~
+Illume - Unit 17 - 1 bedroom + Study Premium Apartment, Griffith ACT 2603 ~$665,900~1~1~Other~N/A~N/A~79~N/A~
+Renaissance - R3 Unit 113- Tree lined View with Afternoon Sun, Griffith ACT 2603 ~$689,900~2~2~Apartment~6.5~2641~N/A~N/A~
+33/16 Eyre Street, Griffith ACT 2603 ~$699,000~2~2~Apartment~5.5~7714~N/A~$215,800~
+30/115 Canberra Avenue, Griffith ACT 2603 ~$710,000~2~2~Apartment~6.0~2275~N/A~$74,480~
+412/107 Canberra Avenue, Griffith ACT 2603 ~$719,000~2~2~Apartment~6.0~3549~N/A~$66,440~
+Renaissance - R3 Unit 162- Generous 2 Bed with Leafy Outlook, Griffith ACT 2603 ~$769,900~2~2~Other~6.5~2641~N/A~N/A~
+Renaissance - R3 - 2 Bed, Garden Views, Griffith ACT 2603 ~$799,900~2~2~Apartment~6.4~2641~90~N/A~
+67/18 Leichhardt Street, Griffith ACT 2603 ~  $810,000~3~2~Unit / Apartment~5.5~7714~122~$215,800~
+8/5 Hely Street, Griffith ACT 2603 ~$845,000~3~2~Apartment~6.0~3418~97~$54,670~
+Renaissance - R3 -2 Bed, North West, Griffith ACT 2603 ~$849,900~2~2~Other~6.4~2641~105~N/A~
+Renaissance - R3 Unit 149- Elevated Views to Mount Mugga Mugga, Griffith ACT 2603 ~$849,900~2~2~Other~6.5~2641~N/A~N/A~
+Illume - Unit 7 - Meticulously designed 2 Bedroom Apartment, Griffith ACT 2603 ~$899,900~2~1~Other~6.0~N/A~108~N/A~
+4/5 Hely Street, Griffith ACT 2603 ~$949,000~3~2~Apartment~6.0~3418~N/A~$54,670~
+Renaissance - R3 - 2 Bed, East Facing Spacious Balcony, Griffith ACT 2603 ~$949,900~2~2~Apartment~6.4~2641~147~N/A~
+10/2 Light Street, Griffith ACT 2603 ~$1150000~2~2~Apartment~6.0~2163~163~N/A~
+Renaissance - R3 Unit 182- North West with Oversized Balcony, Griffith ACT 2603 ~$1,199,900~2~2~Other~6.5~2641~N/A~N/A~
+Renaissance - R3 Unit 168- Large 3 Bed | Park Side with Easterly Sun, Griffith ACT 2603 ~$1,299,900~3~2~Other~6.5~2641~N/A~N/A~
+Renaissance - R3 - 3 Bed, North Facing, Griffith ACT 2603 ~$1,399,900~3~2~Apartment~6.4~2641~130~N/A~
+Renaissance - R3 - 3 Bed, Panoramic Views, North Facing, Griffith ACT 2603 ~$1,449,900~3~2~Apartment~6.4~2641~116~N/A~
+66 Captain Cook Crescent, Griffith ACT 2603 ~$1,850,000~3~1~House~5.0~833~136~$1,450,000~
+47 La Perouse Street, Griffith ACT 2603 ~$1,850,000~3~1~House~3.5~600~N/A~N/A~
+10/58 Leichhardt Street, Griffith ACT 2603 ~$1,995,000~3~2~Apartment~6.5~N/A~244~N/A~
+96 Jansz Crescent, Griffith ACT 2603 ~$2,900,000~4~2~House~5.0~787~352~$1,730,000~
+4 Stokes Street, Griffith ACT 2603 ~  $3,350,000~4~2~House~2.5~1330~270~$2,150,000~

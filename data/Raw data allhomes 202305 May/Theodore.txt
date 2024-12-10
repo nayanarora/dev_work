@@ -1,0 +1,3 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+33 Scantlebury Crescent, Theodore ACT 2905 ~$765,000~3~1~House~2.0~934~N/A~$467,000~
+26 Weavers Crescent, Theodore ACT 2905 ~$995,000 ~4~2~House~4.0~1110~165~$547,000~

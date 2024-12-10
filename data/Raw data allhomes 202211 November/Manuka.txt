@@ -1,0 +1,30 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+47 McMillan Crescent, Griffith ACT 2603 ~$279,000~1~1~Apartment~2.0~5713~N/A~N/A~
+23/16 Eyre Street, Griffith ACT 2603 ~$430,000~1~1~Apartment~3.5~7714~60~$215,800~
+70/10 Eyre Street, Griffith ACT 2603 ~$435,000~1~1~Apartment~6.0~5009~60~$119,040~
+22/17-19 Oxley Street, Griffith ACT 2603 ~$449,000~1~1~Apartment~6.0~5009~N/A~$119,040~
+Level 6/76/109 Canberra Avenue, Griffith ACT 2603 ~$495,000~1~1~Apartment~6.0~2351~54~$75,980~
+24/53 McMillan Crescent, Griffith ACT 2603 ~$499,000~2~1~Unit / Apartment~6.0~4972~74~$158,760~
+Renaissance - R3, The Final Stage- Type 1B, Griffith ACT 2603 ~$539,900~1~1~Apartment~N/A~N/A~65~N/A~
+32/1 Oxley Street, Griffith ACT 2603 ~$590,000~2~1~Apartment~3.5~3634~N/A~$195,520~
+40/109 Canberra Avenue, Griffith ACT 2603 ~$599,000~2~1~Apartment~6.0~2351~82~$75,980~
+307/10 Currie Crescent, Griffith ACT 2603 ~$649,000~2~1~Apartment~4.5~3585~70~$194,360~
+6/7 Light Street, Griffith ACT 2603 ~$655,000~2~1~Apartment~6.0~4513~64~$133,750~
+109/10 Currie Crescent, Griffith ACT 2603 ~$659,000~2~1~Apartment~3.5~3585~N/A~$194,360~
+Renaissance - R3,The Final Stage - Type 2X, Griffith ACT 2603 ~$669,900~2~1~Apartment~6.4~N/A~72~N/A~
+28/10 Ovens Street, Griffith ACT 2603 ~$715,000~2~2~Apartment~6.0~3913~113~$216,000~
+88/5 Hely Street, Griffith ACT 2603 ~Offers Over $725,000~2~2~Apartment~6.0~3418~N/A~$54,670~
+6/55 Stuart Street, Griffith ACT 2603 ~$749,000~2~2~Apartment~6.0~1203~N/A~$129,000~
+Renaissance - R3, The Final Stage - Type 2C, Griffith ACT 2603 ~$765,900~2~1~Apartment~N/A~N/A~93~N/A~
+B3/2 Currie Crescent, Griffith ACT 2603 ~$939,000~2~2~Unit / Apartment~5.5~6327~N/A~$232,900~
+Renaissance - R3, The Final Stage- Type 2D, Griffith ACT 2603 ~$949,900~2~1~Apartment~6.0~N/A~105~N/A~
+Renaissance - R3, The Final Stage - Type 2K, Griffith ACT 2603 ~$1,069,900~2~1~Other~N/A~N/A~105~N/A~
+52/18 Austin Street, Griffith ACT 2603 ~$1,149,000~2~2~Apartment~6.0~16800.0~95~$125,760~
+Renaissance - R3, The Final Stage - Type 3A, Griffith ACT 2603 ~$1,199,900~3~2~Other~6.4~N/A~185~N/A~
+Renaissance - R3, The Final Stage - Type 3B, Griffith ACT 2603 ~$1,499,900~3~1~Apartment~7.0~N/A~179~N/A~
+144 La Perouse Street, Griffith ACT 2603 ~$1,750,000~3~1~House~1.0~766~151~$1,420,000~
+120 Carnegie Crescent, Griffith ACT 2603 ~$1,995,000~4~2~House~5.0~823~N/A~$1,600,000~
+5/2 Light Street, Griffith ACT 2603 ~$2,295,000~3~1~Townhouse~6.4~N/A~264~N/A~
+17 Murray Crescent, Griffith ACT 2603 ~$2,895,000~7~2~Duplex~0.5~619~N/A~$679,000~
+96 Jansz Crescent, Griffith ACT 2603 ~$3095000~4~2~House~5.0~787~351~$1,730,000~
+22 La Perouse Street, Griffith ACT 2603 ~$3,890,000~5~3~House~N/A~967~N/A~$2,100,000~

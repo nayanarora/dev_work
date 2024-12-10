@@ -1,0 +1,11 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+15/93 Burrinjuck Crescent, Duffy ACT 2611 ~$475,000~2~2~Unit / Apartment~6.0~1544~67~$119,040~
+1/26 Eungella Street, Duffy ACT 2611 ~$795,000~3~1~Townhouse~4.5~290~N/A~N/A~
+8 Tantangara Street, Duffy ACT 2611 ~$850,000~3~1~House~1.0~692~120~$752,000~
+9 Moogerah Street, Duffy ACT 2611 ~$895,000~4~2~House~1.5~781~161~$687,000~
+13 Somerset Street, Duffy ACT 2611 ~$1,000,000~3~2~House~1.0~707~165~$699,000~
+52 Jemalong Street, Duffy ACT 2611 ~$1,080,000~3~2~House~1.0~814~N/A~$713,000~
+9 Cordeaux Street, Duffy ACT 2611 ~$1,190,000~4~2~House~2.0~691~N/A~$752,000~
+2/30 Kallara Close, Duffy ACT 2611 ~$1,290,000~4~3~House~5.5~N/A~186~N/A~
+1/5 Mokoan Place, Duffy ACT 2611 ~$1,300,000~4~2~House~7.0~N/A~209~N/A~
+49 Somerset Street, Duffy ACT 2611 ~$1,980,000~6~4~House~4.5~801~353~$865,000~

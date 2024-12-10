@@ -1,0 +1,11 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+3/5 Taronga Place, O'Malley ACT 2606 ~$1,350,000~4~2~Townhouse~3.5~571~N/A~N/A~
+9/3 Cabarita Terrace, O'Malley ACT 2606 ~$1,550,000~4~1~Townhouse~1.5~631~N/A~N/A~
+4/51 Akame Circuit, O'Malley ACT 2606 ~$2,090,000~4~2~Townhouse~5.0~758~N/A~N/A~
+7 Callemonda Rise, O'Malley ACT 2606 ~$2,750,000~6~3~House~2.0~2548~484~$1,409,000~
+3/15 Dalman Crescent, O'Malley ACT 2606 ~Offers over $3,000,000~4~4~House~4.5~1312~372~N/A~
+25 Dalman Crescent, O'Malley ACT 2606 ~$3,150,000~7~5~House~5.0~2097~688~$1,810,000~
+11 Gerogery Place, O'Malley ACT 2606 ~$3,195,000~7~4~House~1.5~1576~748~$1,741,000~
+19 Timbarra Crescent, O'Malley ACT 2606 ~$3,800,000~5~3~House~4.0~1907~N/A~$1,783,000~
+15 Timbarra Crescent, O'Malley ACT 2606 ~$4,500,000~7~6~House~5.0~2044~N/A~$1,749,000~
+7 Timbarra Crescent, O'Malley ACT 2606 ~$4,750,000~5~4~House~4.5~2627~N/A~$1,776,000~

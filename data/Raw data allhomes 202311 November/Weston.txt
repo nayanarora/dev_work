@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+50 McInnes Street, Weston ACT 2611 ~  $790,000~3~1~House~1.0~701~97~$651,000~
+90 McInnes Street, Weston ACT 2611 ~$830,000~3~1~House~1.5~708~N/A~$650,000~
+8 Sellbach Street, Weston ACT 2611 ~$1,975,000~5~3~House~5.0~598~N/A~$745,000~

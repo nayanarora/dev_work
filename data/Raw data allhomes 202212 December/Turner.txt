@@ -1,0 +1,9 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+2/29 Forbes Street, Turner ACT 2612 ~$449,000~1~1~Apartment~6.0~2867~52~$125,860~
+17/217 Northbourne Avenue, Turner ACT 2612 ~$475,000~1~1~Apartment~6.0~5045~N/A~$62,400~
+16/54 Forbes Street, Turner ACT 2612 ~$530,000~2~1~Unit / Apartment~4.0~6786~62~$154,560~
+37A/52 Forbes Street, Turner ACT 2612 ~$550,000~2~1~Apartment~5.5~6786~N/A~$161,280~
+10/12 Towns Crescent, Turner ACT 2612 ~$630,000 ~2~1~Apartment~6.0~1725~N/A~$153,000~
+204/2 Masson Street, Turner ACT 2612 ~$645,000~2~2~Apartment~6.0~1389~103~$120,000~
+G03/155 Northbourne Avenue, Turner ACT 2612 ~$1,070,000~3~1~Apartment~6.0~N/A~222~N/A~
+2/49 Boldrewood Street, Turner ACT 2612 ~$1,250,000~2~2~Duplex~1.5~586~N/A~N/A~

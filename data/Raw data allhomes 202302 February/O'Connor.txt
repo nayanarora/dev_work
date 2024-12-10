@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+9/41 David Street, O'Connor ACT 2602 ~$380,000~2~1~Apartment~4.0~4433~62~$179,010~
+23/77 Macarthur Avenue, O'Connor ACT 2602 ~$495,000~1~1~Apartment~4.0~2106~63~$222,390~
+85 Miller Street, O'Connor ACT 2602 ~$2,480,000~6~3~House~2.0~780~N/A~$1,050,000~
+9 Yarrow Place, O'Connor ACT 2602 ~$2,590,000~6~2~House~0.5~1535~201~$1,760,000~

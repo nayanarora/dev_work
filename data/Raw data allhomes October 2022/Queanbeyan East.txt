@@ -1,0 +1,8 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+26/25 Macquoid Street, Queanbeyan East NSW 2620 ~$166250~N/A~1~Studio~N/A~3069~N/A~N/A~
+10/22 Mowatt Street, Queanbeyan East NSW 2620 ~$210000~1~1~Unit / Apartment~N/A~5318~N/A~N/A~
+Unit 9/3 Mowatt St, Queanbeyan East NSW 2620 ~$245,000~1~1~Unit / Apartment~N/A~1462~54~N/A~
+1/5 Yass Road, Queanbeyan East NSW 2620 ~$360,000 to $390,000~2~1~Apartment~N/A~890~N/A~N/A~
+6/63 Macquoid Street, Queanbeyan East NSW 2620 ~$414000~2~1~Townhouse~N/A~2999~N/A~N/A~
+1/43-45 Booth Street, Queanbeyan East NSW 2620 ~$445000~2~1~Townhouse~N/A~2023~N/A~N/A~
+36/47 Mowatt Street, Queanbeyan East NSW 2620 ~$539000~2~2~Unit / Apartment~N/A~17000.0~N/A~N/A~

@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+11 Brand Street, Hughes ACT 2605 ~$1,450,000 ~4~3~House~1.0~883~206~$919,000~

@@ -1,0 +1,16 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+54/12 Hawksbill Street, Throsby ACT 2914 ~$652500~3~2~Townhouse~5.5~112~N/A~N/A~
+22 Mulgara Loop, Throsby ACT 2914 ~$699,900~3~2~Townhouse~7.5~9408~N/A~N/A~
+Allegro - 3 bed with single car garage plus car space, Throsby ACT 2914 ~$699,900~3~1~Other~7.9~N/A~N/A~N/A~
+22 Mulgara Loop, Throsby ACT 2914 ~$739,900~3~2~Townhouse~7.5~9408~N/A~N/A~
+56 Kunapalari Street, Throsby ACT 2914 ~$769,000~3~3~Townhouse~5.5~4544~N/A~$4,400,000~
+Allegro - Large 3 bedroom townhome with oversized 2 car garage + storage, Throsby ACT 2914 ~$779,900~3~1~Other~7.3~N/A~N/A~N/A~
+23/25 Seahorse Street, Throsby ACT 2914 ~$799,900~3~2~Townhouse~6.0~N/A~N/A~N/A~
+90 Bettong Avenue, Throsby ACT 2914 ~$829,000~4~2~Townhouse~6.0~96~N/A~N/A~
+16 A Rosenberg Street, Throsby ACT 2914 ~$829,900~3~1~Townhouse~6.0~205~N/A~N/A~
+19 Pademelon Street, Throsby ACT 2914 ~$830,000~4~3~Townhouse~6.0~179~N/A~N/A~
+(no street name provided), Throsby ACT 2914 ~$899,000~3~2~Townhouse~4.5~201~N/A~$363,000~
+21 Yellowfin Street, Throsby ACT 2914 ~$899,000~4~3~House~4.5~250~142~$399,000~
+70/12 Hawksbill Street, Throsby ACT 2914 ~$899,900~4~3~Townhouse~6.0~171~N/A~N/A~
+6 Marron Way, Throsby ACT 2914 ~$1,180,000~4~2~House~5.0~448~195~$618,000~
+70 Mulgara Loop, Throsby ACT 2914 ~$1,599,000~4~4~House~6.0~540~335~$764,000~

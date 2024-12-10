@@ -1,0 +1,43 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+(no street name provided), Taylor ACT 2913 ~$395,000 ~N/A~N/A~House~N/A~N/A~N/A~N/A~
+(no street name provided), Taylor ACT 2913 ~$874500~4~2~House and Land Package~6.5~N/A~225~N/A~
+SkyHaus - Construction commenced, Taylor ACT 2913 ~$459,000~2~1~Apartment~6.0~N/A~69~N/A~
+SkyHaus - Construction commenced, Taylor ACT 2913 ~$459,900~2~1~Apartment~6.0~N/A~69~N/A~
+SkyHaus - Construction commenced, Taylor ACT 2913 ~$539,900~2~2~Apartment~6.0~N/A~90~N/A~
+SkyHaus - Construction commenced, Taylor ACT 2913 ~$570,000~2~2~Apartment~6.0~N/A~90~N/A~
+Elia - Apartment Living, Taylor ACT 2913 ~$599,900~2~2~Apartment~7.7~N/A~N/A~N/A~
+SkyHaus - Construction commenced, Taylor ACT 2913 ~$652,500~2~2~Apartment~6.0~N/A~109~N/A~
+SkyHaus - Construction commenced, Taylor ACT 2913 ~$652,500~2~2~Apartment~6.0~N/A~111~N/A~
+Elia - G Type Town Home, Taylor ACT 2913 ~$699,900~2~2~Townhouse~8.4~N/A~N/A~N/A~
+Elia - D Type Town Home, Taylor ACT 2913 ~$729,900~2~2~Townhouse~8.2~N/A~N/A~N/A~
+(no street name provided), Taylor ACT 2913 ~$739,000~4~2~House~6.0~540~N/A~N/A~
+SHINE - 3 bed 2 bath 2 car, Taylor ACT 2913 ~$799,000~3~2~Townhouse~6.0~N/A~216~N/A~
+44 Everist Street, Taylor ACT 2913 ~$850,000~4~2~Townhouse~6.5~180~192~N/A~
+Elia - Unit 23, Taylor ACT 2913 ~$879,900~3~2~Other~N/A~N/A~155~N/A~
+8 Bayne Street Street, Taylor ACT 2913 ~$880,000~4~2~House~6.0~250~160~N/A~
+(no street name provided), Taylor ACT 2913 ~$882,000~3~1~House and Land Package~6.0~331~172~N/A~
+61 Corkery Crescent, Taylor ACT 2913 ~$885,000~3~2~House~6.0~232~201~$224,000~
+Briger Street, Taylor ACT 2913 ~$889,000~4~2~House~6.0~250~N/A~N/A~
+45 Devenish Street, Taylor ACT 2913 ~$895,000~4~2~House~6.0~250~N/A~N/A~
+(no street name provided), Taylor ACT 2913 ~$1097500~3~2~House~6.0~250~148~N/A~
+Janice Seto Street, Taylor ACT 2913 ~$898,000~4~3~House and Land Package~6.0~250~171~$278,000~
+47 Whitman Cresent, Taylor ACT 2913 ~$899,000~8~4~Duplex~6.0~846~N/A~N/A~
+SHINE - 4 bed 3 bath 2 car, Taylor ACT 2913 ~$899,000~4~3~Other~6.0~N/A~232~N/A~
+Seidler & Seto - 32 Janice Seto Street - 3 bedroom separate title town home, Taylor ACT 2913 ~$905,000~3~1~Other~7.6~N/A~193~N/A~
+2 Bloomfield Crescent, Taylor ACT 2913 ~$929,000~4~2~House~6.0~362~N/A~N/A~
+SkyHaus - Construction commenced, Taylor ACT 2913 ~$949,900~3~2~Apartment~6.0~N/A~155~N/A~
+(no street name provided), Taylor ACT 2913 ~$1,089,000~4~2~House~6.0~473~206~N/A~
+39 Devenish Street, Taylor ACT 2913 ~$1,090,000~4~3~House~N/A~250~N/A~$247,000~
+Seidler & Seto - 112 Harry Seidler Crescent - 3 bedroom separate title town home, Taylor ACT 2913 ~$1,125,000~3~1~Other~7.6~N/A~273~N/A~
+19 Bloomfield Crescent, Taylor ACT 2913 ~$1,135,000~4~2~House~6.0~484~N/A~N/A~
+Seidler & Seto - 24 Janice Seto Street - 4 bedroom separate title town home, Taylor ACT 2913 ~$1,170,000~4~1~Other~7.6~N/A~270~N/A~
+22 George Seddon Crescent, Taylor ACT 2913 ~$1,200,000~4~3~House~6.0~572~N/A~$471,000~
+(no street name provided), Taylor ACT 2913 ~$1,200,000~4~3~House~6.0~450~N/A~$470,000~
+52 Ken Herde Crescent, Taylor ACT 2913 ~$1,225,000~4~1~House and Land Package~6.0~411~230~$366,000~
+(no street name provided), Taylor ACT 2913 ~$1,260,000~4~3~House and Land Package~6.0~540~250~$440,000~
+45 McGlashan Street, Taylor ACT 2913 ~$1,279,000 ~4~3~House~6.0~571~N/A~$438,000~
+(no street name provided), Taylor ACT 2913 ~$1320000~4~2~House~6.0~540~230~$454,000~
+6 Bea Hutton Close, Taylor ACT 2913 ~$1,349,000~4~1~House and Land Package~6.0~540~264~N/A~
+23 Nell Edeson Street, Taylor ACT 2913 ~$1,380,000~4~3~House~6.0~501~284~N/A~
+38 Crone Terrace, Taylor ACT 2913 ~$1,800,000~5~3~House~N/A~599~328~N/A~
+(no street name provided), Taylor ACT 2913 ~$1,830,000~5~1~House and Land Package~6.5~782~308~$386,000~

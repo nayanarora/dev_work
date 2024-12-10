@@ -1,0 +1,7 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+8/15 Berrigan Street, O'Connor ACT 2602 ~$595,000~2~1~Apartment~5.0~N/A~80~N/A~
+13/10 MacPherson Street, O'Connor ACT 2602 ~$608,000~2~2~Apartment~6.0~N/A~N/A~$4,640,000~
+13/18 MacPherson Street, O'Connor ACT 2602 ~$625,000~2~N/A~Apartment~4.0~N/A~N/A~$4,275,000~
+3/3-5 Banjine Street, O'Connor ACT 2602 ~$750,000~2~2~Townhouse~5.5~N/A~N/A~$2,140,000~
+38 Boobialla Street, O'Connor ACT 2602 ~$1,650,000~3~1~House~N/A~751~N/A~$821,000~
+35 Brigalow Street, O'Connor ACT 2602 ~$1,800,000~6~2~House~N/A~874~N/A~$745,000~

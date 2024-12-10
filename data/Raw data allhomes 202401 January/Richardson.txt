@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+30 Twamley Crescent, Richardson ACT 2905 ~$759,000~3~1~House~3.0~814~N/A~$484,000~
+11 Morduant Place, Richardson ACT 2905 ~$835,000~4~2~House~2.0~1175~150~$507,000~
+78 Fullerton Crescent, Richardson ACT 2905 ~$929,000~6~2~House~1.0~785~212~$489,000~

@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+55/250 Canberra Avenue, Symonston ACT 2609 ~$349,000~2~1~Villa~0.0~103100.0~N/A~N/A~
+93/205 Narrabundah Avenue, Symonston ACT 2609 ~$455,000~2~1~Townhouse~4.0~N/A~N/A~N/A~
+60 Banksia Drive, Symonston ACT 2609 ~$500,000~3~1~Villa~0.0~92899.99999999999~N/A~N/A~

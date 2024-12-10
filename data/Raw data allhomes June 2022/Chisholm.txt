@@ -1,0 +1,7 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+7/97 Clift Crescent, Chisholm ACT 2905 ~Offers Over $595,000~3~2~Townhouse~2.0~530~103~N/A~
+22 Wolstenholme Street, Chisholm ACT 2905 ~$750,000~3~1~House~3.0~459~N/A~$321,000~
+3 Kaberry Place, Chisholm ACT 2905 ~$820,000~3~1~House~3.0~N/A~N/A~$310,000~
+9 Rose Scott Circuit, Chisholm ACT 2905 ~$850,000~3~1~House~1.5~744~N/A~$302,000~
+54 Heagney Crescent, Chisholm ACT 2905 ~$879,000~4~1~House~2.5~944~127~$363,000~
+1 MacLean Street, Chisholm ACT 2905 ~$895,000~3~2~House~N/A~1008~138~$369,000~

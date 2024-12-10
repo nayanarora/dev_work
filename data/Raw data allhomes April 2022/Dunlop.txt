@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+7 Kilburn Close, Dunlop ACT 2615 ~$660,000~3~1~Duplex~3.6~368~N/A~$290,000~
+5 Leggo Place, Dunlop ACT 2615 ~$820000~3~1~House~4.0~573~97~$327,000~
+3 Dexion Place, Dunlop ACT 2615 ~$1,050,000~4~1~House~4.0~620~194~$348,000~
+26 Pomeroy Street, Dunlop ACT 2615 ~  $1,079,000~4~2~House~4.5~1005~287~$435,000~

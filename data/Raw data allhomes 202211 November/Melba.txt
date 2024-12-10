@@ -1,0 +1,3 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+53 Alfred Hill Drive, Melba ACT 2615 ~Offers Over $1,100,000~6~4~House~2.5~848~N/A~$416,000~
+1 Chinner Crescent, Melba ACT 2615 ~$1,350,000~5~3~House~2.0~807~360~$447,000~

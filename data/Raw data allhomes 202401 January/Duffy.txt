@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+49 Somerset Street, Duffy ACT 2611 ~$1,849,000~6~4~House~4.5~801~N/A~$792,000~

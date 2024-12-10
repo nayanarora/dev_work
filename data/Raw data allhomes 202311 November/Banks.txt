@@ -1,0 +1,8 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+3 Bastow Circuit, Banks ACT 2906 ~$749,000~3~1~House~4.5~687~N/A~$442,000~
+11 Wilhelmi Crescent, Banks ACT 2906 ~$870,000~3~2~House~4.5~498~120~$353,000~
+17 Adcock Place, Banks ACT 2906 ~$890,000~4~2~House~2.0~976~N/A~$488,000~
+14 Youl Court, Banks ACT 2906 ~$900,000~4~2~House~4.0~810~156~$486,000~
+15 Smeaton Circuit, Banks ACT 2906 ~$939,000~4~3~House~4.0~753~N/A~$425,000~
+19 Adcock Place, Banks ACT 2906 ~$1,149,000~5~3~House~2.0~818~179~$451,000~
+1 Wollemi Place, Banks ACT 2906 ~$1,700,000~8~3~House~2.0~966~559~$555,000~

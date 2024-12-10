@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+182 Majura Avenue, Ainslie ACT 2602 ~$1,380,000~3~1~House~1.0~664~N/A~$858,000~
+25 Agnew Street, Ainslie ACT 2602 ~$1,550,000~4~2~House~1.0~764~144~$1,121,000~
+6A Chisholm Street, Ainslie ACT 2602 ~$1,699,000~3~2~House~3.0~582~155~N/A~
+10 Calvert Street, Ainslie ACT 2602 ~$2900000~5~3~House~4.5~867~332~$1,164,000~

@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+2/215 Kosciuszko Avenue, Palmerston ACT 2913 ~$530,000~2~1~Townhouse~3.0~185~80~N/A~
+8/93 Bimberi Crescent, Palmerston ACT 2913 ~  $580,000~2~2~Townhouse~3.5~257~105~N/A~
+9/105 Bimberi Crescent, Palmerston ACT 2913 ~$620,000~3~2~Townhouse~3.0~302~107~N/A~
+13 Brinkley Circuit, Palmerston ACT 2913 ~$1,099,000~4~2~House~1.0~839~269~$655,000~
+8 Barn Place, Palmerston ACT 2913 ~$1640000~6~3~House~4.0~943~401~$565,000~

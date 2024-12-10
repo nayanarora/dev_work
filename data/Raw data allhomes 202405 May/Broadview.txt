@@ -1,0 +1,9 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+31/60 Paul Coe Crescent, Ngunnawal ACT 2913 ~$550,000~2~1~Townhouse~6.0~134~N/A~N/A~
+13 Burin Street, Ngunnawal ACT 2913 ~$620,000~2~1~House~3.0~182~121~$319,000~
+4/49 Jandamarra Street, Ngunnawal ACT 2913 ~$659,000~3~1~Townhouse~3.5~304~N/A~N/A~
+90/36 Paul Coe Crescent, Ngunnawal ACT 2913 ~$660,000~3~2~Unit / Apartment~5.0~N/A~N/A~N/A~
+6 Yarrawonga Street, Ngunnawal ACT 2913 ~$674,000~3~1~House~3.5~322~171~$400,000~
+20 Saunders Street, Ngunnawal ACT 2913 ~$759,000~3~1~House~5.5~439~154~$421,000~
+2 Milari Street, Ngunnawal ACT 2913 ~$1,100,000~4~2~House~5.0~847~252~$660,000~
+4 Galmarra Street, Ngunnawal ACT 2913 ~$1,195,000~4~2~House~4.5~902~298~$811,000~

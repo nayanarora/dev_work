@@ -1,0 +1,12 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+The Parks - 1/6 Lady Nelson Place, Red Hill ACT 2603, Red Hill ACT 2603 ~$799,900~1~1~Apartment~6.0~14700.0~N/A~$3,727,000~
+39 Esperance Street, Red Hill ACT 2603 ~$1,699,000~4~2~House~4.5~778~182~N/A~
+59 Investigator Street, Red Hill ACT 2603 ~$1799000~3~2~House~1.5~754~N/A~$1,408,000~
+72 Hicks Street, Red Hill ACT 2603 ~$1,749,000~4~2~House~N/A~845~N/A~$1,550,000~
+201 La Perouse Street, Red Hill ACT 2603 ~$1,750,000~3~3~House~7.0~N/A~212~N/A~
+10 Norfolk Street, Red Hill ACT 2603 ~$1849000~4~3~House~N/A~933~N/A~$1,379,000~
+12 Cygnet Crescent, Red Hill ACT 2603 ~$1,950,000~3~2~Townhouse~6.0~161~N/A~$614,000~
+24 Astrolabe Street, Red Hill ACT 2603 ~$2,000,000~4~2~House~0.5~714~146~$1,270,000~
+29 Cygnet Crescent, Red Hill ACT 2603 ~$2,100,000~4~2~House~6.0~393~N/A~$1,132,000~
+200 Monaro Crescent, Red Hill ACT 2603 ~$2390000~6~3~House~2.5~836~N/A~$1,340,000~
+1 Reliance Street, Red Hill ACT 2603 ~$3,800,000~4~3~House~1.5~1462~N/A~$1,651,000~

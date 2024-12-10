@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+1/40 Callabonna Street, Kaleen ACT 2617 ~$680,000~3~2~Townhouse~5.5~166~N/A~N/A~
+46 Daintree Cres, Kaleen ACT 2617 ~$1,100,000~4~2~House~3.5~727~N/A~$619,000~
+162 Maribyrnong Avenue, Kaleen ACT 2617 ~$1,250,000~3~1~House~0.5~1091~N/A~$674,000~

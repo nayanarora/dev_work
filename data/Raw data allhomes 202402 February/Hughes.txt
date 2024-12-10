@@ -1,0 +1,8 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+37/27 Coxen Street, Hughes ACT 2605 ~$210,000~N/A~N/A~N/A~N/A~15700.0~N/A~$14,500,000~
+84/27 Coxen Street, Hughes ACT 2605 ~$340,000~N/A~N/A~N/A~N/A~15700.0~N/A~$14,500,000~
+63 Carroll Street, Hughes ACT 2605 ~$929,000~N/A~N/A~N/A~N/A~343~N/A~$542,000~
+75 Carroll Street, Hughes ACT 2605 ~$1,049,000~N/A~N/A~N/A~N/A~612~N/A~$665,000~
+94 Groom Street, Hughes ACT 2605 ~$1,400,000~N/A~N/A~N/A~N/A~1121~187~$1,045,000~
+9 Jensen Street, Hughes ACT 2605 ~$1,749,000~N/A~N/A~N/A~N/A~937~214~$930,000~
+24 Bamford Street, Hughes ACT 2605 ~$2,200,000~N/A~N/A~N/A~N/A~744~314~$998,000~

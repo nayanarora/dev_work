@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+14/2 Berrigan Crescent, O'Connor ACT 2602 ~$895,000~3~2~Townhouse~5.0~N/A~N/A~N/A~
+27 Brigalow Street, O'Connor ACT 2602 ~$1,925,000~5~3~House~3.0~754~219~$672,000~
+4 Finn Street, O'Connor ACT 2602 ~$2,000,000~4~2~House~5.0~780~152~$800,000~

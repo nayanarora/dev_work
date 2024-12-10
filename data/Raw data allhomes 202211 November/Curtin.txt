@@ -1,0 +1,12 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+13/3 Waddell Place, Curtin ACT 2605 ~$350,000 ~2~1~Unit / Apartment~4.0~13100.0~53~$188,480~
+30B Parker Street, Curtin ACT 2605 ~$1,199,000~3~2~House~4.0~408~130~N/A~
+127 Theodore Street, Curtin ACT 2605 ~$1,295,000~4~2~House~1.0~781~N/A~$785,000~
+53 Carruthers Street, Curtin ACT 2605 ~$1,338,000~3~1~House~0.5~1267~N/A~$865,000~
+111 Theodore Street, Curtin ACT 2605 ~$1,385,000 ~5~3~House~2.0~743~245~$813,000~
+49 Jennings Street, Curtin ACT 2605 ~$1,495,000 ~4~2~House~1.5~799~178~$1,204,000~
+52 Throssell Street, Curtin ACT 2605 ~$1,550,000~4~2~House~3.0~734~167~$871,000~
+46 Kidston Crescent, Curtin ACT 2605 ~$1,580,000~4~1~House~1.0~753~142~$1,087,000~
+3 Parker Street, Curtin ACT 2605 ~$1,600,000 ~4~2~House~3.5~699~174~$901,000~
+25 Wilson Street, Curtin ACT 2605 ~$1,799,000 ~5~2~House~1.0~768~240~$1,027,000~
+76 Morgan Crescent, Curtin ACT 2605 ~$1,850,000~5~2~House~3.5~831~N/A~$905,000~

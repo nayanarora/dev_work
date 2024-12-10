@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+11/24 Railway Street, Oaks Estate ACT 2620 ~$680,000~N/A~N/A~N/A~N/A~161~N/A~N/A~
+7/24 Railway Street, Oaks Estate ACT 2620 ~$690,000~N/A~N/A~N/A~N/A~160~N/A~N/A~
+28/24 Railway Street, Oaks Estate ACT 2620 ~$850,000~N/A~N/A~N/A~N/A~166~N/A~N/A~

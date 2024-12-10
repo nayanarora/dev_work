@@ -1,0 +1,12 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+4/146 Ellerston Avenue, Isabella Plains ACT 2905 ~$589,000~3~1~Townhouse~2.5~220~N/A~N/A~
+23/18 Cromwell Circuit, Isabella Plains ACT 2905 ~$669,000~3~1~Townhouse~3.5~348~105~N/A~
+152 Ellerston Avenue, Isabella Plains ACT 2905 ~Offers Over $729,000~3~1~Townhouse~5.5~595~114~N/A~
+30 Leibnitz Place, Isabella Plains ACT 2905 ~$770,000~3~1~House~3.5~765~104~$443,000~
+17/23 Jondol Place, Isabella Plains ACT 2905 ~$845,000~3~2~Townhouse~1.5~391~136~N/A~
+7 Sassafras Place, Isabella Plains ACT 2905 ~$849,000~4~2~House~N/A~733~192~$512,000~
+14 Rushbrook Circuit, Isabella Plains ACT 2905 ~$850,000~3~1~House~1.0~808~137~$479,000~
+36 Maharatta Circuit, Isabella Plains ACT 2905 ~$870,000~3~2~House~2.0~768~N/A~$446,000~
+16 Maharatta Circuit, Isabella Plains ACT 2905 ~$899,000~4~2~House~4.0~969~168~$467,000~
+15 Muir Close, Isabella Plains ACT 2905 ~$999,000~5~2~House~1.5~875~196~$466,000~
+86 Galloway Street, Isabella Plains ACT 2905 ~$1,025,000 ~3~2~House~3.5~1062~139~$467,000~

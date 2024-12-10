@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+5 De Mestre Place, Holt ACT 2615 ~Welcome  $730,000~3~1~House~4.0~488~152~$335,000~
+7/4 Lorraway Street, Holt ACT 2615 ~$815,000~3~2~Townhouse~5.0~451~N/A~N/A~
+3/11 Chester Close, Holt ACT 2615 ~$819,000 ~4~2~Townhouse~5.0~250~N/A~N/A~
+1 Pickworth Street, Holt ACT 2615 ~$850,000~3~1~House~2.0~945~110~$474,000~
+3 Mullagh Place, Holt ACT 2615 ~$890,000~4~2~House~1.5~700~232~$520,000~

@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+327 Widgiewa Road, Carwoola NSW 2620 ~$1650000~N/A~N/A~N/A~N/A~120000.0~N/A~N/A~
+141 Powell Drive, Carwoola NSW 2620 ~$1700000~N/A~N/A~N/A~N/A~93100.0~N/A~N/A~
+38 Watson Place, Carwoola NSW 2620 ~$1,800,000~N/A~N/A~N/A~N/A~20000.0~N/A~N/A~
+29 Woodland Avenue, Carwoola NSW 2620 ~$2100000~N/A~N/A~N/A~N/A~13000.0~N/A~N/A~
+26 Sugarloaf Ridge Road, Primrose Valley NSW 2621 ~$5,250,000~N/A~N/A~N/A~N/A~2865299.9999999995~N/A~N/A~

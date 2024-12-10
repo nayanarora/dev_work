@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+48 Redfern Street, Cook ACT 2614 ~$1,200,000~N/A~N/A~N/A~N/A~797~N/A~$693,000~
+25 Mackellar Crescent, Cook ACT 2614 ~$1,395,000 ~N/A~N/A~N/A~N/A~905~194~$793,000~
+1 Bussell Crescent, Cook ACT 2614 ~$1,485,000~N/A~N/A~N/A~N/A~790~N/A~N/A~

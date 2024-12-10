@@ -1,0 +1,7 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+25/71 Mina Wylie Crescent, Gordon ACT 2906 ~  $515,000~3~1~Townhouse~N/A~N/A~94~N/A~
+1/11 Charlton Crescent, Gordon ACT 2906 ~  $590,000~3~1~Townhouse~2.5~106~N/A~N/A~
+8/3 Riddle Place, Gordon ACT 2906 ~$650,000~3~1~Townhouse~1.5~187~129~N/A~
+22 Saggers Close, Gordon ACT 2906 ~$780,000~3~1~House~3.5~N/A~N/A~$294,000~
+6 Kanga Place, Gordon ACT 2906 ~   $1,295,000~4~3~House~5.0~1126~197~$513,000~
+6 Dempsey Place, Gordon ACT 2906 ~  $1,320,000~4~2~House~3.5~1053~206~$447,000~

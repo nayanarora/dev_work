@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+14A Nungara Street, Aranda ACT 2614 ~$1,150,000~3~2~Duplex~5.0~410~N/A~N/A~
+18 Bindaga Place, Aranda ACT 2614 ~  $1,199,000~3~2~House~0.0~740~N/A~$818,000~
+26 - 28 Bindaga Place, Aranda ACT 2614 ~$1,598,000~4~2~Townhouse~6.0~1416~N/A~N/A~

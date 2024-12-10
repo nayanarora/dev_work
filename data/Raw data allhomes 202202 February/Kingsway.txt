@@ -1,0 +1,49 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+21/5 Crest Road, Queanbeyan NSW 2620 ~$209000~1~1~Unit / Apartment~N/A~N/A~N/A~N/A~
+16/5 Mowatt Street, Queanbeyan NSW 2620 ~$214500~1~1~Unit / Apartment~N/A~N/A~N/A~N/A~
+22/10 Macquoid Street, Queanbeyan NSW 2620 ~$215000~1~1~Apartment~N/A~N/A~N/A~N/A~
+17/22 Mowatt Street, Queanbeyan NSW 2620 ~$219000~1~1~House~N/A~N/A~N/A~N/A~
+10/122 Henderson Road, Queanbeyan NSW 2620 ~$240000~1~1~Unit / Apartment~N/A~N/A~N/A~N/A~
+3/39 Thurralilly Street, Queanbeyan NSW 2620 ~$244000~2~1~Unit / Apartment~N/A~54~N/A~N/A~
+27/39 Thurralilly Street, Queanbeyan NSW 2620 ~$259000~2~1~Unit / Apartment~N/A~N/A~6~N/A~
+7/6 Stornaway Road, Crestwood NSW 2620 ~$280000~2~1~Unit / Apartment~N/A~N/A~N/A~N/A~
+15/67 Derrima Road, Queanbeyan NSW 2620 ~$295000~2~1~Unit / Apartment~N/A~N/A~N/A~N/A~
+17/67 Derrima Road, Queanbeyan NSW 2620 ~$295,000~2~1~Unit / Apartment~N/A~N/A~N/A~N/A~
+37/86 Derrima Road, Crestwood NSW 2620 ~$310000~2~1~Unit / Apartment~N/A~N/A~63~N/A~
+10/86 Derrima Road, Queanbeyan NSW 2620 ~$307500~2~1~Unit / Apartment~N/A~N/A~N/A~N/A~
+B9/17 Uriarra Road, Queanbeyan NSW 2620 ~$325,000~1~1~Apartment~N/A~N/A~N/A~N/A~
+9/3a Stornaway Road, Queanbeyan NSW 2620 ~$335000~1~1~Apartment~N/A~N/A~N/A~N/A~
+3C/17 Uriarra Road, Queanbeyan NSW 2620 ~$330000~1~1~House~N/A~N/A~N/A~N/A~
+15/161 Uriarra Road, Crestwood NSW 2620 ~$349000~1~1~Unit / Apartment~N/A~N/A~N/A~N/A~
+9/161 Uriarra Road, Crestwood NSW 2620 ~$349000~1~1~Apartment~N/A~N/A~N/A~N/A~
+28/43 Antill Street, Queanbeyan NSW 2620 ~$380,000~1~1~Apartment~N/A~N/A~86~N/A~
+68/17 Uriarra Road, Queanbeyan NSW 2620 ~$412500~2~2~Apartment~N/A~N/A~99~N/A~
+7/13-15 Mowatt Street, Queanbeyan NSW 2620 ~$400,000~2~1~Unit / Apartment~N/A~N/A~83~N/A~
+44/161 Uriarra Road, Queanbeyan NSW 2620 ~$450000~2~1~Townhouse~N/A~N/A~96~N/A~
+C7/17 Uriarra Road, Queanbeyan NSW 2620 ~$449,500~2~2~House~N/A~N/A~N/A~N/A~
+3/6 High Street, Queanbeyan NSW 2620 ~$465000~1~1~Unit / Apartment~N/A~N/A~91~N/A~
+63/39-43 Crawford Street, Queanbeyan NSW 2620 ~$469000~2~2~Unit / Apartment~N/A~N/A~N/A~N/A~
+2/34 Ross Road, Queanbeyan NSW 2620 ~$500000~2~1~Townhouse~N/A~N/A~73~N/A~
+10/78 Derrima Road, Crestwood NSW 2620 ~$523500~2~1~Apartment~N/A~N/A~108~N/A~
+4/16 Hakea Street, Queanbeyan NSW 2620 ~$505000~2~1~Townhouse~N/A~N/A~N/A~N/A~
+8/15 Charles Street, Queanbeyan NSW 2620 ~$554500~2~1~Townhouse~N/A~N/A~200~N/A~
+6/26 Carrington Street, Queanbeyan NSW 2620 ~$565000~2~2~Townhouse~N/A~N/A~91~N/A~
+29/13 Morisset Street, Queanbeyan NSW 2620 ~$595,000~2~2~Unit / Apartment~N/A~N/A~84~N/A~
+16 Eugenia Street, Karabar NSW 2620 ~$620000~3~1~House~N/A~617~N/A~N/A~
+3/38 Buttle Street, Queanbeyan NSW 2620 ~$650,000~3~2~Townhouse~N/A~186~120~N/A~
+4/29 Morton Street, Queanbeyan NSW 2620 ~$650,000~3~2~Townhouse~N/A~176~102~N/A~
+10 Cassidy Street, Queanbeyan NSW 2620 ~$725000~2~1~House~N/A~923~82~N/A~
+21/44 Carrington Street, Queanbeyan NSW 2620 ~$700,000~3~2~Townhouse~N/A~330~102~N/A~
+2/9 Parr Place, Queanbeyan NSW 2620 ~$750,000~3~2~Townhouse~N/A~290~191~N/A~
+3 Linaria Place, Crestwood NSW 2620 ~$850000~4~1~House~N/A~N/A~N/A~N/A~
+74 Stornaway Road, Queanbeyan NSW 2620 ~$905000~3~1~House~N/A~N/A~N/A~N/A~
+31 Hayley Crescent, Karabar NSW 2620 ~$950,000~3~1~House~N/A~700~104~N/A~
+32 McCrae Street, Queanbeyan NSW 2620 ~$975000~4~2~House~N/A~643~150~N/A~
+10 Crest Park Parade, Queanbeyan NSW 2620 ~$1150000~4~2~House~N/A~844~316~N/A~
+12 Camellia Place, Queanbeyan NSW 2620 ~$1150000~5~3~House~N/A~696~281~N/A~
+3 Marril Street, Queanbeyan NSW 2620 ~$1240000~5~3~House~N/A~653~N/A~N/A~
+21 Kathleen St, Queanbeyan NSW 2620 ~$1,200,000~4~2~House~N/A~626~N/A~N/A~
+7 Morrison Place, Karabar NSW 2620 ~$1310000~5~3~House~N/A~809~389~N/A~
+(no street name provided), Jumping Creek NSW 2620 ~$1440000~4~2~House and Land Package~N/A~716~293~N/A~
+(no street name provided), Jumping Creek NSW 2620 ~$1562500~5~3~House and Land Package~N/A~827~460~N/A~
+(no street name provided), Jumping Creek NSW 2620 ~$1577500~5~3~House and Land Package~N/A~716~460~N/A~

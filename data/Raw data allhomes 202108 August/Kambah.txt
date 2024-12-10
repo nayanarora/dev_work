@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+2D Everard Place, Kambah ACT 2902 ~$600,000~2~2~Townhouse~6.0~N/A~79~$1,200,000~
+97 O'Halloran Circuit, Kambah ACT 2902 ~$910,000~4~2~House~0.5~825~N/A~$364,000~
+40 Bacchus Circuit, Kambah ACT 2902 ~$990,000~5~2~House~1.5~706~N/A~$358,000~

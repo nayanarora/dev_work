@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+6 Lamble Place, Oxley ACT 2903 ~$849,000~4~2~House~2.0~797~181~$500,000~

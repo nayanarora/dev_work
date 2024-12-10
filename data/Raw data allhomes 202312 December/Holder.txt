@@ -1,0 +1,3 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+1 Sharland Place, Holder ACT 2611 ~$790,000 ~3~1~House~3.5~694~108~$591,000~
+77 Sheaffe Street, Holder ACT 2611 ~$1,079,000~4~2~House~1.0~733~176~$550,000~

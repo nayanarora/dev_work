@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+21/18 Burdett Crescent, Theodore ACT 2905 ~$589,000~3~1~Townhouse~N/A~498~101~N/A~
+18/67 Ern Florence Crescent, Theodore ACT 2905 ~$675,000~3~1~Townhouse~3.0~334~96~N/A~
+9 Conlon Crescent, Theodore ACT 2905 ~$995,000~4~1~House~2.5~946~N/A~$616,000~

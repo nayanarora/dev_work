@@ -1,0 +1,8 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+19/58 Bennelong Crescent, Macquarie ACT 2614 ~$240,000 ~1~1~Studio~3.0~N/A~N/A~$5,681,000~
+64/27 Wiseman Street, Macquarie ACT 2614 ~$360,000~1~1~Unit / Apartment~6.0~N/A~65~$2,650,000~
+2/117 Redfern Street, Macquarie ACT 2614 ~Offers Over $399,000 ~2~1~House~6.0~N/A~60~$2,650,000~
+8/2 Henshall Way, Macquarie ACT 2614 ~$659,000~2~2~Apartment~6.0~N/A~100~$9,120,000~
+21/15 Bowman Street, Macquarie ACT 2614 ~$680,000~3~2~Apartment~6.0~3759~N/A~$5,250,000~
+2/60 Arndell Street, Macquarie ACT 2614 ~$1144000~4~2~House~6.0~N/A~N/A~N/A~
+8 Castlereagh Crescent, Macquarie ACT 2614 ~$1,189,000~5~3~House~2.5~724~248~$544,000~

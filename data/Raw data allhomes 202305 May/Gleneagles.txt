@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+103 Ivo Whitton Circuit, Kambah ACT 2902 ~$1,650,000~4~3~House~4.0~945~266~$763,000~

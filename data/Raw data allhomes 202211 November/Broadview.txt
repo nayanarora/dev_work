@@ -1,0 +1,12 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+5/3 Gurubun Close, Ngunnawal ACT 2913 ~$600,000~3~1~Townhouse~5.0~144~N/A~N/A~
+5/8 Unaipon Avenue, Ngunnawal ACT 2913 ~$645,000~3~1~Townhouse~4.5~227~N/A~N/A~
+13/60 Paul Coe Crescent, Ngunnawal ACT 2913 ~$675,000~3~1~Townhouse~5.5~141~N/A~N/A~
+2 Bural Court, Ngunnawal ACT 2913 ~$705,000~3~1~House~4.0~316~94~$400,000~
+117 Kavangal Circuit, Ngunnawal ACT 2913 ~$759,000~3~2~House~6.0~239~128~$349,000~
+55 Taylor Street, Ngunnawal ACT 2913 ~$760,000~3~1~House~4.0~331~N/A~$400,000~
+34 Lanley Square, Ngunnawal ACT 2913 ~$795,000~3~2~House~3.0~355~N/A~$398,000~
+53 Bunduluk Crescent, Ngunnawal ACT 2913 ~$849,000~3~2~House~2.0~422~121~$447,000~
+57 Gurrang Avenue, Ngunnawal ACT 2913 ~$899,000~4~1~House~3.0~650~144~$462,000~
+16 Mandurah Place, Ngunnawal ACT 2913 ~$1,550,000~5~3~House~3.0~844~282~$607,000~
+56 Marungul Avenue, Ngunnawal ACT 2913 ~$1698000~6~4~House~3.0~924~N/A~$743,000~

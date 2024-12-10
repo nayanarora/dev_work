@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+4B Hansen Circuit, Isaacs ACT 2607 ~$1,065,000~4~2~House~4.0~1143~142~$910,000~
+35 Rowntree Crescent, Isaacs ACT 2607 ~$1,290,000~5~3~House~4.0~1019~268~$880,000~
+49 Julia Flynn Avenue, Isaacs ACT 2607 ~$1,290,000~4~3~House~0.5~944~175~$908,000~
+12 Whitty Crescent, Isaacs ACT 2607 ~$1,549,000~5~2~House~1.0~776~N/A~$1,030,000~

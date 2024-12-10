@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+97 Pockett Avenue, Banks ACT 2906 ~Offers Over $689,000~3~1~House~3.0~480~102~$324,000~
+23 McLuckie Crescent, Banks ACT 2906 ~Offers Over $719,000~3~1~House~0.5~525~101~$369,000~
+12/35 Brockway Circuit, Banks ACT 2906 ~Offers Over $759,000~4~2~Townhouse~5.5~344~N/A~N/A~
+21 Tregellas Crescent, Banks ACT 2906 ~Offers Over $839,000~3~2~House~4.0~689~122~$442,000~
+24 Olive Pink Crescent, Banks ACT 2906 ~$1,100,000~4~1~House~4.5~627~N/A~$493,000~

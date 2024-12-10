@@ -1,0 +1,9 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+2/88A Fergus Road, Karabar NSW 2620 ~$330000~2~1~Townhouse~N/A~N/A~N/A~N/A~
+4/88a Fergus Road, Karabar NSW 2620 ~$329,000~2~1~Unit / Apartment~N/A~64~49~N/A~
+7 Queenbar Road, Karabar NSW 2620 ~$704500~3~1~House~N/A~613~N/A~N/A~
+59 Pindari Crescent, Karabar NSW 2620 ~$872500~4~1~House~N/A~664~N/A~N/A~
+28 Rusten Street, Karabar NSW 2620 ~$904000~4~2~House~N/A~654~N/A~N/A~
+25 Kinsela Street, Karabar NSW 2620 ~$945000~4~2~House~N/A~1313~N/A~N/A~
+14 Kinsela Street, Karabar NSW 2620 ~$924000~3~2~House~N/A~997~N/A~N/A~
+75 Barracks Flat Drive, Karabar NSW 2620 ~$ 1100000~4~2~House~N/A~N/A~N/A~N/A~

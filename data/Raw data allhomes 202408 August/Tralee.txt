@@ -1,0 +1,36 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+24 Alpine Ash Way, Tralee NSW 2620 ~$540000~N/A~N/A~House~0.0~430~N/A~N/A~
+85 Tassel Terrace, Tralee NSW 2620 ~$707500~3~2~Townhouse~N/A~160~N/A~N/A~
+(no street name provided), Tralee NSW 2620 ~$759,000~3~2~House~N/A~150~N/A~N/A~
+(no street name provided), South Jerrabomberra NSW 2620 ~$808,000~3~1~House and Land Package~N/A~369~N/A~N/A~
+VIVA - 12 Storksbill Terrace, South Jerrabomberra NSW 2620 ~$820,000~4~2~Townhouse~N/A~N/A~N/A~N/A~
+VIVA - 14 Storksbill Terrace, South Jerrabomberra NSW 2620 ~$820,000~4~2~Townhouse~N/A~N/A~N/A~N/A~
+VIVA - 10 Storksbill Terrace, South Jerrabomberra NSW 2620 ~$820,000~3~2~Townhouse~N/A~N/A~N/A~N/A~
+(no street name provided), South Jerrabomberra NSW 2620 ~$832,000~3~1~House and Land Package~N/A~369~N/A~N/A~
+28 Tassel Terrace, Tralee NSW 2620 ~$835,000~4~3~House~6.0~163~N/A~N/A~
+(no street name provided), South Jerrabomberra NSW 2620 ~$845,000~3~1~House and Land Package~N/A~369~N/A~N/A~
+13 Storksbill Terrace, South Jerrabomberra NSW 2620 ~$849,000~3~1~House~N/A~270~163~N/A~
+Blossom Grove - 3 Storey 4 Bedroom Townhouses, Tralee NSW 2620 ~$875000~4~1~Other~N/A~3910~N/A~N/A~
+(no street name provided), Tralee NSW 2620 ~$859,000~4~2~House~N/A~257~180~N/A~
+Blossom Grove - Single Level 4 Bedroom Townhouses, Tralee NSW 2620 ~$865,000~4~1~Other~N/A~3910~N/A~N/A~
+34 Tassel Terrace, Tralee NSW 2620 ~$879,000~4~2~House~N/A~171~N/A~N/A~
+(no street name provided), South Jerrabomberra NSW 2620 ~$898,600~3~2~House~N/A~370~N/A~N/A~
+VIVA - 16 Storksbill Terrace, South Jerrabomberra NSW 2620 ~$900,000~3~2~Townhouse~N/A~N/A~N/A~N/A~
+22 Saltbush Parade, Tralee NSW 2620 ~$925000~4~2~House~N/A~180~230~N/A~
+(no street name provided), South Jerrabomberra NSW 2620 ~$902,900~5~1~House and Land Package~N/A~369~N/A~N/A~
+20 Melicope St, South Jerrabomberra NSW 2620 ~$905,900~4~1~House and Land Package~N/A~350~N/A~N/A~
+(no street name provided), Tralee NSW 2620 ~$909,000~4~1~House and Land Package~N/A~369~N/A~N/A~
+(no street name provided), South Jerrabomberra NSW 2620 ~$909,900~4~1~House and Land Package~N/A~357~N/A~N/A~
+(no street name provided), South Jerrabomberra NSW 2620 ~$915,000~4~1~House and Land Package~N/A~369~N/A~N/A~
+14 Speargrass Road, Tralee NSW 2620 ~$949,000~3~1~House~N/A~421~196~N/A~
+South Jerrabomberra Homes by The Village Building Co - Stage 2A, Tralee NSW 2620 ~$967,900~3~2~House and Land Package~N/A~N/A~N/A~N/A~
+(no street name provided), South Jerrabomberra NSW 2620 ~$985,000~4~1~House and Land Package~N/A~350~N/A~N/A~
+South Jerrabomberra Homes by The Village Building Co - Stage 2A, Tralee NSW 2620 ~$992,900~4~2~House and Land Package~N/A~N/A~N/A~N/A~
+South Jerrabomberra Homes by The Village Building Co - Lot 22, Tralee NSW 2620 ~$994,900~4~2~House and Land Package~N/A~N/A~N/A~N/A~
+16 Sunray Street, Tralee NSW 2620 ~$1015000~4~3~House~N/A~365~176~N/A~
+8 Appleberry Road, Tralee NSW 2620 ~$1,025,750~4~2~House~N/A~417~215~N/A~
+Lot 702 Appleberry Road, Tralee, Tralee NSW 2620 ~$1,030,000~5~3~House~N/A~369~235~N/A~
+15 Maidenhair Road, Tralee NSW 2620 ~$1,040,000~4~2~House~N/A~295~N/A~N/A~
+4 Appleberry Road, Tralee NSW 2620 ~$1,050,000~4~2~House~N/A~438~225~N/A~
+50 Speargrass Road, South Jerrabomberra NSW 2620 ~$1,190,000~4~1~House~N/A~602~237~N/A~
+25 Wiry Dock Road, Tralee NSW 2620 ~$1,295,000~5~1~House and Land Package~N/A~600~N/A~N/A~

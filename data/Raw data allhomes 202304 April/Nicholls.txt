@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+18/35 Edie Payne Close, Nicholls ACT 2913 ~$1,075,000~3~2~Townhouse~5.0~399~178~N/A~
+7 Eve Place, Nicholls ACT 2913 ~$1,450,000~5~2~House~4.0~897~N/A~$711,000~
+10 Kleinig Street, Nicholls ACT 2913 ~$1,850,000~5~2~House~5.0~866~382~$671,000~

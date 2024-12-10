@@ -1,0 +1,22 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+(no street name provided), Throsby ACT 2914 ~$699,900~3~2~Townhouse~7.5~N/A~N/A~N/A~
+Allegro - 3 bed with single car garage plus car space, Throsby ACT 2914 ~$699,900~3~1~Other~7.9~N/A~N/A~N/A~
+8A Freshwater Street, Throsby ACT 2914 ~$745,000 ~3~2~Townhouse~6.0~114~N/A~N/A~
+Vivace - North facing 3 bed townhome with 2.5 bath and 2 car, Throsby ACT 2914 ~$759,900~3~2~Other~6.2~N/A~N/A~N/A~
+6B Freshwater Street, Throsby ACT 2914 ~$779,900~3~2~Townhouse~8.7~114~N/A~N/A~
+Allegro - 3 bedroom with single garage plus car space, Throsby ACT 2914 ~$779,900~3~1~Other~7.6~N/A~N/A~N/A~
+27/29 Seahorse Street, Throsby ACT 2914 ~$799,900~3~2~Townhouse~6.0~N/A~N/A~N/A~
+Allegro - 3 Bed, 2,5 bath with oversized double garage, Throsby ACT 2914 ~$799,900~3~1~Other~7.7~N/A~N/A~N/A~
+Allegro - 3 bedroom with double side by side garage, Throsby ACT 2914 ~$799,900~3~1~Other~7.7~N/A~N/A~N/A~
+Vivace - 3 bedroom with 2.5 bathrooms and oversized tandem garage, Throsby ACT 2914 ~$799,900~3~1~Other~7.8~N/A~N/A~N/A~
+1/56 Kunapalari Street, Throsby ACT 2914 ~$839,000~3~2~Townhouse~5.5~161~N/A~N/A~
+61/12 Hawksbill Street, Throsby ACT 2914 ~$849,900~4~2~Townhouse~8.0~96~N/A~N/A~
+Vivace - 4 bedroom with 2 master bedrooms, Throsby ACT 2914 ~$859,900~4~2~Other~8.1~N/A~N/A~N/A~
+18 Yellowfin Street, Throsby ACT 2914 ~$895,000~4~2~House~4.0~250~145~$399,000~
+33 Melomys Circuit, Throsby ACT 2914 ~$ 899,000~3~2~House~6.0~315~172~$494,000~
+19 Cricket Street, Throsby ACT 2914 ~$899,000~4~2~House~5.0~250~129~$399,000~
+Allegro - Oversized 3 bedroom with double garage, Throsby ACT 2914 ~$899,900~3~1~Other~7.9~N/A~N/A~N/A~
+Vivace - Large 4 bedroom 2 storey townhome with double garage, Throsby ACT 2914 ~$949,900~4~1~Other~7.4~N/A~N/A~N/A~
+Vivace - Oversized 3 bedroom with rumpus room, Throsby ACT 2914 ~$949,900~3~1~Other~7.6~N/A~N/A~N/A~
+Allegro - Large 3 bedroom townhome with oversized 2 car garage + storage, Throsby ACT 2914 ~$949,900~3~1~Other~7.3~N/A~N/A~N/A~
+Vivace - One of a kind - 4 Bedroom with Rumpus corner townhome, Throsby ACT 2914 ~$1,100,000~4~1~Other~8.1~N/A~N/A~N/A~

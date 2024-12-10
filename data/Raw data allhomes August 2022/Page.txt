@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+20 Burkitt Street, Page ACT 2614 ~$850,000~3~1~House~0.5~792~N/A~$473,000~
+10 Knaggs Crescent, Page ACT 2614 ~$959,000~4~2~House~1.5~829~145~$704,000~
+12 Bavay Place, Page ACT 2614 ~$1,049,900~5~2~House~1.0~743~N/A~$704,000~

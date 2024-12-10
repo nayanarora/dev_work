@@ -1,0 +1,12 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+(no street name provided), Franklin ACT 2913 ~$365,000~1~1~House~6.0~12000.0~N/A~$79,560~
+25/297 Flemington Road, Franklin ACT 2913 ~$395,000~1~1~Apartment~6.0~9629~50~$51,112~
+79/311 Flemington Road, Franklin ACT 2913 ~Offers over $410,000~2~1~Apartment~6.0~12000.0~N/A~$79,560~
+94/75 Elizabeth Jolley Crescent, Franklin ACT 2913 ~Offers above $499,000~2~2~Unit / Apartment~6.0~9025~72~$2,650,000~
+92/75 Elizabeth Jolley Crescent, Franklin ACT 2913 ~$500,000~2~2~Apartment~4.5~9025~86~$2,650,000~
+16/2 Manning Clark Crescent, Franklin ACT 2913 ~$565,000~2~2~Apartment~6.0~6220~120~$62,370~
+108/49 Nullabor Avenue, Franklin ACT 2913 ~$565,000~2~2~Apartment~6.0~N/A~N/A~N/A~
+(no street name provided), Franklin ACT 2913 ~$755,000~3~1~Townhouse~5.5~103~N/A~N/A~
+7 Joan Long Street, Franklin ACT 2913 ~$889,000~4~2~House~4.5~330~160~$458,000~
+6 Joan Long Street, Franklin ACT 2913 ~$1,049,000~4~2~House~4.0~405~174~$510,000~
+10 Joan Bradley Street, Franklin ACT 2913 ~$1,149,000~4~2~House~6.0~495~N/A~$588,000~

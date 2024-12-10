@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+8 Sulman Place, Phillip ACT 2606 ~$895,000~3~2~Townhouse~3.0~202~N/A~$589,000~

@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+10 Annand Place, Wanniassa ACT 2903 ~$810,000~3~1~House~1.0~702~N/A~$470,000~
+43 Degraves Crescent, Wanniassa ACT 2903 ~$949,000~5~2~House~1.5~961~180~$521,000~
+83 Sternberg Crescent, Wanniassa ACT 2903 ~$1,145,000 ~4~2~House~1.0~712~N/A~$496,000~
+14 Adamson Crescent, Wanniassa ACT 2903 ~$1,200,000~4~2~House~1.0~931~N/A~$551,000~

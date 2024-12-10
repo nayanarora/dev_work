@@ -1,0 +1,7 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+21/18 Christmas Street, Theodore ACT 2905 ~$640,000~3~1~Townhouse~4.0~586~N/A~N/A~
+41 Latchford Street, Theodore ACT 2905 ~$725,000~3~1~House~4.0~844~N/A~$468,000~
+23 Tregear Close, Theodore ACT 2905 ~$779,000~3~1~House~3.5~635~118~$485,000~
+4 Mighell Place, Theodore ACT 2905 ~$890,000~4~2~House~3.0~878~N/A~$531,000~
+68 Chippindall Circuit, Theodore ACT 2905 ~$1,000,000~6~2~House~4.5~783~N/A~$452,000~
+44 Louis Loder Street, Theodore ACT 2905 ~$1,120,000~4~2~House~2.0~1226~N/A~$550,000~

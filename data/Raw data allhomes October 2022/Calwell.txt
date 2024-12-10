@@ -1,0 +1,9 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+21 Carpenter Close, Calwell ACT 2905 ~$700,000~3~1~House~2.0~375~94~$401,000~
+61 Downard Street, Calwell ACT 2905 ~$799,000~3~2~House~1.0~682~114~$392,000~
+4/10 Minehan Place, Calwell ACT 2905 ~$835,000~3~2~Villa~1.5~390~N/A~N/A~
+9/7 Purnell Place, Calwell ACT 2905 ~$868,000~4~2~Townhouse~2.5~417~N/A~N/A~
+36 Martley Circuit, Calwell ACT 2905 ~$895,000~4~2~House~3.0~796~147~$397,000~
+80 O'Connor Circuit, Calwell ACT 2905 ~Offers Over $920,000~3~2~House~2.5~939~178~$620,000~
+73 O'Connor Circuit, Calwell ACT 2905 ~$925,000~4~3~House~N/A~906~187~$438,000~
+8 Tuthill Place, Calwell ACT 2905 ~Offers Over $1,290,000~5~3~House~1.5~977~N/A~$519,000~

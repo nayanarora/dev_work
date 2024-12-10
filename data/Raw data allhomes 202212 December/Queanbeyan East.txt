@@ -1,0 +1,9 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+10/22 Mowatt Street, Queanbeyan East NSW 2620 ~$210000~1~1~Unit / Apartment~N/A~5318~N/A~N/A~
+2/48 Trinculo Place, Queanbeyan East NSW 2620 ~$350000~2~1~Unit / Apartment~N/A~83~64~N/A~
+2/4 Waterloo Street, Queanbeyan East NSW 2620 ~$360,000~1~1~Townhouse~N/A~N/A~46~N/A~
+6/18 Yarrow Street, Queanbeyan East NSW 2620 ~$379000~2~1~Townhouse~N/A~1573~N/A~N/A~
+36/47 Mowatt Street, Queanbeyan East NSW 2620 ~$539000~2~2~Unit / Apartment~N/A~17000.0~N/A~N/A~
+81/47 Mowatt Street, Queanbeyan East NSW 2620 ~$639,000~2~2~Townhouse~N/A~17000.0~170~N/A~
+5 Tennyson Drive, Queanbeyan East NSW 2620 ~$839000~3~2~House~N/A~529~N/A~N/A~
+27a & 27b Elizabeth Cresent, Queanbeyan East NSW 2620 ~$925000~4~2~House~N/A~1068~N/A~N/A~

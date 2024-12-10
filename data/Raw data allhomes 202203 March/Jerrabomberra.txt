@@ -1,0 +1,14 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+6/9-15 Torpy Place, Jerrabomberra NSW 2619 ~$710000~3~1~Townhouse~N/A~N/A~N/A~N/A~
+29/9 Coral Drive, Jerrabomberra NSW 2619 ~$939500~3~1~Townhouse~N/A~N/A~N/A~N/A~
+153 Waterfall Drive, Jerrabomberra NSW 2619 ~$1050000~4~2~House~N/A~863~N/A~N/A~
+(no street name provided), Jerrabomberra NSW 2619 ~$1060000~4~2~House~N/A~732~185~N/A~
+184B Halloran Drive, Jerrabomberra NSW 2619 ~$1105000~4~2~House~N/A~504~N/A~N/A~
+31 Ironbark Circuit, Jerrabomberra NSW 2619 ~$1150000~4~2~House~N/A~777~214~N/A~
+15 Elm Way, Jerrabomberra NSW 2619 ~$1150000~6~2~House~N/A~933~247~N/A~
+17 Unwin Avenue, Jerrabomberra NSW 2619 ~$1,100,000~4~2~House~N/A~513~254~N/A~
+44 Brudenell Drive, Jerrabomberra NSW 2619 ~$1305000~4~2~House~N/A~849~212~N/A~
+2 Copperfield Place, Jerrabomberra NSW 2619 ~$1349000~4~2~House~N/A~845~N/A~N/A~
+7 May Gibbs Place, Jerrabomberra NSW 2619 ~$1,350,000~4~2~House~N/A~894~384~N/A~
+11 Coachwood Avenue, Jerrabomberra NSW 2619 ~$1525000~5~2~House~N/A~1256~N/A~N/A~
+7 Laurence Close, Jerrabomberra NSW 2619 ~$1,950,000~4~3~House~N/A~1657~400~N/A~

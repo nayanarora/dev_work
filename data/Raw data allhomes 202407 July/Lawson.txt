@@ -1,0 +1,10 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+22/11 Wanderlight Avenue, Lawson ACT 2617 ~$585,000~2~2~Townhouse~6.0~5693~N/A~$4,600,000~
+39/2 Pipeclay Street, Lawson ACT 2617 ~$589,000~2~2~Townhouse~6.0~6676~N/A~$5,060,000~
+36/11 Wanderlight Avenue, Lawson ACT 2617 ~$595,000~2~1~Townhouse~6.0~5693~N/A~$4,600,000~
+38/11 Wanderlight Avenue, Lawson ACT 2617 ~$629,000~2~2~Townhouse~6.0~5693~N/A~$4,600,000~
+85 Jumbuck Crescent, Lawson ACT 2617 ~$719,000~3~2~Townhouse~4.5~7579~N/A~$7,319,000~
+11/5 Nevertire Street, Lawson ACT 2617 ~$720,000~3~2~House~5.5~9231~111~$5,250,000~
+36/1 Nevertire Street, Lawson ACT 2617 ~$750,000~3~2~Townhouse~6.0~9231~N/A~$5,250,000~
+13 Bellbird Loop, Lawson ACT 2617 ~$1,550,000 ~5~3~House~5.5~570~286~$697,000~
+18 Swagman Street, Lawson ACT 2617 ~Offers Over $1,889,000~5~3~House~5.5~450~376~$642,000~

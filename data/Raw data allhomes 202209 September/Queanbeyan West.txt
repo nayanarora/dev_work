@@ -1,0 +1,2 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+3/9 Telopea Place, Queanbeyan West NSW 2620 ~$700000~4~2~Townhouse~N/A~1503~N/A~N/A~

@@ -1,0 +1,7 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+36 Isbister Street, MacGregor ACT 2615 ~$0~3~1~House~6.0~N/A~N/A~$210,000~
+14 Hilda Kincaid Crescent, MacGregor ACT 2615 ~$690,000~3~1~House~5.5~250~N/A~$277,000~
+19 Harper Street, MacGregor ACT 2615 ~$975,000~4~2~House~3.0~843~193~$361,000~
+12 Fiaschi St, MacGregor ACT 2615 ~$1,020,000~4~1~House~1.0~N/A~N/A~N/A~
+34 MacFarlane Burnet Avenue, MacGregor ACT 2615 ~$1,200,000~4~2~House~5.0~600~195~$356,000~
+2 Clubbe Crescent, MacGregor ACT 2615 ~$1,300,000~7~2~House~1.5~N/A~N/A~$360,000~

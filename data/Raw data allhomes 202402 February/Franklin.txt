@@ -1,0 +1,22 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+26/329 Flemington Road, Franklin ACT 2913 ~$395,000~N/A~N/A~N/A~N/A~11600.0~59~$3,312,000~
+47/41 Clare Burton Crescent, Franklin ACT 2913 ~$415,000~N/A~N/A~N/A~N/A~5932~N/A~$4,375,000~
+46/235 Flemington Road Road, Franklin ACT 2913 ~$449,000~N/A~N/A~N/A~N/A~N/A~N/A~N/A~
+61/75 Elizabeth Jolley Crescent, Franklin ACT 2913 ~$479,900~N/A~N/A~N/A~N/A~9024~N/A~$2,650,000~
+94/235 Flemington Road, Franklin ACT 2913 ~$480,000~N/A~N/A~N/A~N/A~7611~N/A~$4,500,000~
+65/75 Elizabeth Jolley Crescent, Franklin ACT 2913 ~$489,000~N/A~N/A~N/A~N/A~9024~N/A~$2,650,000~
+59/75 Elizabeth Jolley Crescent, Franklin ACT 2913 ~$499,000~N/A~N/A~N/A~N/A~9024~N/A~$2,650,000~
+59/301 Flemington Road, Franklin ACT 2913 ~$499,990~N/A~N/A~N/A~N/A~9621~N/A~$5,875,000~
+92/75 Elizabeth Jolley Crescent, Franklin ACT 2913 ~$509,000~N/A~N/A~N/A~N/A~9024~N/A~$2,650,000~
+24/2 Trist Street, Franklin ACT 2913 ~$509,000~N/A~N/A~N/A~N/A~5047~N/A~$3,875,000~
+92/104 Henry Kendall Street, Franklin ACT 2913 ~$525,000~N/A~N/A~N/A~N/A~10400.0~N/A~$6,480,000~
+38/21 Christina Stead Street, Franklin ACT 2913 ~$529,000~N/A~N/A~N/A~N/A~7982~N/A~$5,313,000~
+3/329 Flemington Road, Franklin ACT 2913 ~$529,000~N/A~N/A~N/A~N/A~11600.0~N/A~$3,312,000~
+26/21 Christina Stead Street, Franklin ACT 2913 ~$559,000~N/A~N/A~N/A~N/A~7982~N/A~$5,313,000~
+87/235 Flemington Road, Franklin ACT 2913 ~$629,000~N/A~N/A~N/A~N/A~7611~N/A~$4,500,000~
+12/3 Trist Street, Franklin ACT 2913 ~$639,000~N/A~N/A~N/A~N/A~N/A~N/A~N/A~
+1/74 Henry Kendall Street, Franklin ACT 2913 ~$719,000~N/A~N/A~N/A~N/A~N/A~N/A~N/A~
+17/2 Clare Burton Cres, Franklin ACT 2913 ~$750,000~N/A~N/A~N/A~N/A~100~N/A~N/A~
+6 Judith Wright Street, Franklin ACT 2913 ~$1,099,999~N/A~N/A~N/A~N/A~480~220~$580,000~
+44 Marie Pitt Street, Franklin ACT 2913 ~$1,150,000~N/A~N/A~N/A~N/A~490~197~N/A~
+7 Pownall Street, Franklin ACT 2913 ~$1,580,000~N/A~N/A~N/A~N/A~450~313~$576,000~

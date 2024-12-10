@@ -1,0 +1,13 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+7/180 Monaro Crescent, Red Hill ACT 2603 ~$565,000~1~1~Unit / Apartment~6.0~N/A~N/A~N/A~
+The Parks - 1 Bedroom Apartment, Red Hill ACT 2603 ~$699,900~1~1~Apartment~N/A~14700.0~76~$3,727,000~
+The Parks - 1 Bedroom Apartment, Red Hill ACT 2603 ~$870,900~1~1~Apartment~N/A~14700.0~111~$3,727,000~
+Discovery Street, Red Hill ACT 2603 ~$1,300,000~3~2~Apartment~7.4~14700.0~N/A~$3,727,000~
+4 Cimba Lane, Red Hill ACT 2603 ~$1,600,000~3~2~House~7.4~150~N/A~$540,000~
+82 Monaro Crescent, Red Hill ACT 2603 ~$1,625,000~3~1~House~5.0~650~124~$1,290,000~
+3 Aviemore Lane, Red Hill ACT 2603 ~$1,650,000~4~3~House~6.0~168~254~$590,000~
+201 La Perouse Street, Red Hill ACT 2603 ~$1,750,000~3~3~House~7.0~N/A~212~N/A~
+72 Hicks Street, Red Hill ACT 2603 ~$1,799,000~4~2~House~N/A~845~N/A~$1,550,000~
+204 Monaro Crescent, Red Hill ACT 2603 ~$1,949,000 ~3~2~House~N/A~1082~143~$1,420,000~
+23 Cygnet Crescent, Red Hill ACT 2603 ~$1,975,000 ~3~3~House~6.0~297~180~$870,000~
+24 Astrolabe Street, Red Hill ACT 2603 ~$2,099,000~4~2~House~0.5~714~146~$1,270,000~

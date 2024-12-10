@@ -1,0 +1,6 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+6/123 Kelleway Avenue, Nicholls ACT 2913 ~$790,000~3~2~Townhouse~2.5~380~N/A~N/A~
+5 Fitzsimmons Street, Nicholls ACT 2913 ~$1,295,000~5~3~House~4.0~931~249~$673,000~
+20 Hattersley Court, Nicholls ACT 2913 ~$1,300,000~4~2~House~4.5~806~N/A~$833,000~
+19 Fleetwood Smith Street, Nicholls ACT 2913 ~$1,590,000~5~3~House~1.5~1115~N/A~$944,000~
+12 Kleinig Street, Nicholls ACT 2913 ~$1,895,000 ~5~2~House~5.0~915~373~$685,000~

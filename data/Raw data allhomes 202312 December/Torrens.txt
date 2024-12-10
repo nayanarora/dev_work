@@ -1,0 +1,4 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+45 Batchelor Street, Torrens ACT 2607 ~$950,000~3~1~House~N/A~1114~127~$782,000~
+43 Batchelor Street, Torrens ACT 2607 ~$1,100,000~3~1~House~1.0~1017~147~$750,000~
+90 Beasley Street, Torrens ACT 2607 ~$1,595,000~4~2~House~6.0~552~190~N/A~

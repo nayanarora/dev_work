@@ -1,0 +1,5 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+11/131-133 Rivett Street, Hackett ACT 2602 ~$295,000~1~1~Apartment~3.0~2416~N/A~$146,317~
+6/127 Rivett Street, Hackett ACT 2602 ~$365,000~2~1~Unit / Apartment~N/A~2416~N/A~$146,286~
+11/11 Tryon Street, Hackett ACT 2602 ~$365,000~2~1~Apartment~5.5~2225~52~$188,212~
+31 Caldwell Street, Hackett ACT 2602 ~$1,250,000~3~1~House~1.0~746~104~$943,000~

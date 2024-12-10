@@ -1,0 +1,10 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+1/2 Avoca Place, Fisher ACT 2611 ~$525,000~3~2~Unit / Apartment~2.0~N/A~N/A~$1,120,000~
+71/177 Badimara Street, Fisher ACT 2611 ~$550,000~2~1~Townhouse~3.5~171~N/A~N/A~
+48A Kalgoorie Crescent, Fisher ACT 2611 ~$850,000~3~2~House~3.0~N/A~N/A~N/A~
+3 Maranboy Street, Fisher ACT 2611 ~Offers above $860,000~3~1~House~3.0~755~97~$593,000~
+8 Nannine Place, Fisher ACT 2611 ~$899,000~4~2~House~0.5~686~177~$625,000~
+30 Nullagine Street, Fisher ACT 2611 ~$924500~3~1~House~1.5~753~N/A~$650,000~
+87B Kalgoorlie Crescent, Fisher ACT 2611 ~$999,000~3~2~House~5.0~382~N/A~N/A~
+16 & 16A Pilbara Place, Fisher ACT 2611 ~$1,100,000~4~2~House~0.5~724~169~N/A~
+41 Rosebery Street, Fisher ACT 2611 ~$1,299,000~4~2~House~2.0~964~184~$696,000~

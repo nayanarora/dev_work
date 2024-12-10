@@ -1,0 +1,12 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+45/6 Wilkins Street, Mawson ACT 2607 ~  $299,000~1~1~Unit / Apartment~4.0~N/A~N/A~$6,720,000~
+6/4 Heard Street, Mawson ACT 2607 ~$459,000~2~1~Apartment~4.5~N/A~N/A~$4,800,000~
+10/37 Ainsworth Street, Mawson ACT 2607 ~$474,000~2~1~Apartment~6.0~N/A~N/A~$3,060,000~
+15/37 Ainsworth Street, Mawson ACT 2607 ~$609,900~3~2~Apartment~4.5~N/A~N/A~$3,060,000~
+22b Aurora Close, Mawson ACT 2607 ~$725000~2~1~House~N/A~307~88~N/A~
+50/50 Wilkins Street - 'Belmont', Mawson ACT 2607 ~ $719,000~3~2~Townhouse~6.0~230~N/A~N/A~
+21 Rymill Place, Mawson ACT 2607 ~  $900,000~3~2~House~1.5~447~153~$599,000~
+25A Wilkins Street, Mawson ACT 2607 ~$1,175,000~4~2~House~4.0~799~190~N/A~
+3/8 Aurora Close, Mawson ACT 2607 ~$1,380,000~3~2~Townhouse~6.0~N/A~N/A~N/A~
+4/153 Shackleton Circuit, Mawson ACT 2607 ~$1,465,000~4~2~Townhouse~6.0~N/A~N/A~N/A~
+1/153 Shackleton Circuit, Mawson ACT 2607 ~$1,469,000~4~2~Townhouse~6.0~N/A~N/A~N/A~

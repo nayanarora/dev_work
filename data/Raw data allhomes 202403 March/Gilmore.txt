@@ -1,0 +1,7 @@
+address~price~bedrooms~bathrooms~propertyType~EER~block size~other size~unimproved value~
+1/8 Edmond Close, Gilmore ACT 2905 ~Offers Over $739,000~3~2~Townhouse~6.0~274~N/A~N/A~
+8 Donald Place, Gilmore ACT 2905 ~$800,000~3~1~House~3.0~1103~203~$445,000~
+192 Heagney Crescent, Gilmore ACT 2905 ~$810,000~3~1~House~2.0~801~N/A~$449,000~
+11 Doughty Place, Gilmore ACT 2905 ~$850,000~4~2~House~1.0~794~145~$429,000~
+5 Luffman Crescent, Gilmore ACT 2905 ~$855,000~4~2~House~3.5~665~N/A~$540,000~
+3 Alice Jackson Crescent, Gilmore ACT 2905 ~$960,000~3~2~House~2.0~763~130~$449,000~
