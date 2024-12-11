@@ -26,35 +26,42 @@ public class XmlNavigator : DynamicObject
     public override bool TryGetMember(GetMemberBinder binder, out object result)
     {
         result = null;
+
         if (xml == null)
             return false;
 
+        // If "Text" is requested, return the inner XML of the current node.
         if (binder.Name.Equals("Text", StringComparison.OrdinalIgnoreCase))
         {
-            result = xml.OuterXml;
+            result = xml.InnerXml;
             return true;
         }
 
-        var childNode = xml.SelectSingleNode(binder.Name);
+        // Try to get the child node by the requested name.
+        var childNode = xml[binder.Name];
         if (childNode == null)
             return false;
 
-        bool hasElementChild = false;
+        // Check if this child node has any element children.
+        bool hasElementChildren = false;
         foreach (XmlNode n in childNode.ChildNodes)
         {
             if (n.NodeType == XmlNodeType.Element)
             {
-                hasElementChild = true;
+                hasElementChildren = true;
                 break;
             }
         }
 
-        if (hasElementChild)
+        // If the child node has element children, return a new XmlNavigator so we can navigate into it.
+        if (hasElementChildren)
         {
             result = new XmlNavigator(childNode);
         }
         else
         {
+            // If it doesn't have element children, it's a leaf node with text content or inner markup.
+            // Return the inner text for a leaf node (no child elements).
             result = childNode.InnerText;
         }
 
