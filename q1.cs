@@ -10,9 +10,9 @@ public class XmlNavigator : DynamicObject
     {
         var document = new XmlDocument();
         document.LoadXml(doc);
-        this.xml = document.DocumentElement;
+        this.xml = document.DocumentElement; 
     }
-
+    
     private XmlNavigator(XmlNode xml)
     {
         this.xml = xml;
@@ -26,23 +26,41 @@ public class XmlNavigator : DynamicObject
     public override bool TryGetMember(GetMemberBinder binder, out object result)
     {
         result = null;
-
         if (xml == null)
             return false;
 
-        var childNode = xml.SelectSingleNode(binder.Name);
-        if (childNode != null)
+        if (binder.Name.Equals("Text", StringComparison.OrdinalIgnoreCase))
         {
-            result = childNode.HasChildNodes && childNode.FirstChild.NodeType == XmlNodeType.Element
-                ? new XmlNavigator(childNode)
-                : (object)childNode.InnerText;
+            result = xml.OuterXml;
             return true;
         }
 
-        return false;
+        var childNode = xml.SelectSingleNode(binder.Name);
+        if (childNode == null)
+            return false;
+
+        bool hasElementChild = false;
+        foreach (XmlNode n in childNode.ChildNodes)
+        {
+            if (n.NodeType == XmlNodeType.Element)
+            {
+                hasElementChild = true;
+                break;
+            }
+        }
+
+        if (hasElementChild)
+        {
+            result = new XmlNavigator(childNode);
+        }
+        else
+        {
+            result = childNode.InnerText;
+        }
+
+        return true;
     }
 
-    public string Text => xml?.OuterXml;
     static void Main(string[] args)
     {
         string xml =
@@ -52,9 +70,11 @@ public class XmlNavigator : DynamicObject
             "</State>";
 
         dynamic xmlObj = new XmlNavigator(xml);
-
+        
         Console.WriteLine(xmlObj.Text ?? string.Empty);
+
         Console.WriteLine(xmlObj.State?.Text ?? string.Empty);
-        Console.WriteLine(xmlObj.State?.City ?? string.Empty);
+
+        Console.WriteLine(xmlObj.State?.City?.Text ?? string.Empty);
     }
 }
